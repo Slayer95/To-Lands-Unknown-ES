@@ -433,7 +433,7 @@ msgstr "<i>Atónita</i>"
 
 #. [message]: speaker=Rashti
 msgid "*freezes in place*"
-msgstr "<i>$1<\/i>e congela en su lugar</i>"
+msgstr "<i>Se congela en su lugar</i>"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -452,7 +452,7 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:371
 msgid "*gestures to the two Ho'rhami bodyguards, and whispers something*"
-msgstr "<i>Gesticula a las dos guardias Jo'rami y susurra inaudiblemente.</i>"
+msgstr "<i>Gesticula a las dos guardias jo'rami y susurra inaudiblemente.</i>"
 
 #. [message]: speaker=Guru
 msgid ""
@@ -537,7 +537,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "*impales herself with her spear*"
-msgstr "<i>$1<\/i>e empala con su lanza</i>"
+msgstr "<i>Se empala con su lanza.</i>"
 
 #. [message]: speaker=Rashti
 msgid "*impressed*"
@@ -597,7 +597,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "*puts on sunglasses* Yes."
-msgstr "<i>$1<\/i>e pone gafas de sol</i> Sí."
+msgstr "<i>Se pone gafas de sol</i> Sí."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -654,7 +654,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "*sigh* Fine, I will eat this... crab of yours..."
-msgstr "<i>$1<\/i>uspiro</i> bien, comeré esto... cangrejo tuyo..."
+msgstr "<i>Suspiro</i> bien, comeré esto... cangrejo tuyo..."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -677,19 +677,19 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*sigh* Fine, let's pretend we never saw this."
-msgstr "<i>$1<\/i>uspiro</i> bien, fingamos que nunca vimos esto."
+msgstr "<i>Suspiro</i> bien, fingamos que nunca vimos esto."
 
 #. [message]: speaker=Bakha
 msgid "*sigh* Fine..."
-msgstr "<i>$1<\/i>uspiro</i> bien..."
+msgstr "<i>Suspiro</i> bien..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I guess we have no choice..."
-msgstr "<i>$1<\/i>uspiro</i> Supongo que no tenemos otra opción..."
+msgstr "<i>Suspiro</i> Supongo que no tenemos otra opción..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I hate my job... This can't possibly get any worse..."
-msgstr "<i>$1<\/i>uspiro</i> Odio mi trabajo... esto no puede empeorar..."
+msgstr "<i>Suspiro</i> Odio mi trabajo... esto no puede empeorar..."
 
 #. [event]
 msgid "*sigh* I have failed..."
@@ -697,7 +697,7 @@ msgstr "Os lo advertí..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I told you, this is not a co..."
-msgstr "<i>$1<\/i>uspiro</i> Te dije que esto no es un co..."
+msgstr "<i>Suspiro</i> Te dije que esto no es un co..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -711,7 +711,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*sigh* Maybe choosing you as my master wasn't such a good idea..."
-msgstr "<i>$1<\/i>uspiro</i> tal vez elegirte como mi maestro no era una buena idea..."
+msgstr "<i>Suspiro</i> tal vez elegirte como mi maestro no era una buena idea..."
 
 #. [message]: speaker=Jaffar
 msgid ""
@@ -741,7 +741,7 @@ msgstr ""
 
 #. [message]: speaker=Elder2
 msgid "*sigh* You do have a point, but..."
-msgstr "<i>$1<\/i>uspiro</i> tienes un punto, pero..."
+msgstr "<i>Suspiro</i> tienes un punto, pero..."
 
 #. [message]: speaker=Banisher
 msgid ""
@@ -753,15 +753,15 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "*sigh* fine."
-msgstr "<i>$1<\/i>uspiro</i> bien."
+msgstr "<i>Suspiro</i> bien."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* fine..."
-msgstr "<i>$1<\/i>uspiro</i> bien..."
+msgstr "<i>Suspiro</i> bien..."
 
 #. [message]: speaker=Mehir
 msgid "*sighs with relief*"
-msgstr "<i>$1<\/i>uspira con alivio</i>"
+msgstr "<i>Suspira con alivio</i>"
 
 #. [message]: speaker=guardian1
 msgid "*silently nods*"
@@ -784,7 +784,7 @@ msgid ""
 "*smirks* Beaten at my own game... Seems like Guru was right to invest so "
 "heavily in getting you here. Anyway, my time here is over, so I better go."
 msgstr ""
-"<i>Smirks</i> golpeado en mi propio juego ... parece que Guru tenía razón al "
+"<i>Mueca.</i> golpeado en mi propio juego ... parece que Guru tenía razón al "
 "invertir tanto en conseguirte aquí. De todos modos, mi tiempo aquí ha "
 "terminado, así que es mejor que me vaya."
 
@@ -882,7 +882,7 @@ msgstr ""
 
 #. [message]: speaker=Um_Mu
 msgid "*turns to Mehir* Ah, you're back! Want more books?"
-msgstr "<i>$1<\/i>e vuelve hacia Mejir</i> ¡Ah, estás de vuelta! ¿Quieres más libros?"
+msgstr "<i>Se vuelve hacia Mejir</i> ¡Ah, estás de vuelta! ¿Quieres más libros?"
 
 #. [message]: speaker=Um_Mu
 msgid ""
@@ -918,13 +918,13 @@ msgid ""
 "complaint to the High Council!', to which I responded with 'Ha, good luck "
 "with that!'"
 msgstr ""
-"<i>Visiblemente se desvaneció</i> ... ¡así que tomé su alfombra! Y él dijo: "
+"*<i>Visiblemente se desvaneció</i> ... ¡así que tomé su alfombra! Y él dijo: "
 "\"¡Voy a escribir una queja al Consejo Superior!\", A lo que respondí con "
 "\"¡Ja, buena suerte con eso!\""
 
 #. [event]
 msgid "*whistles*"
-msgstr "<i>$1<\/i>ilbatos</i>"
+msgstr "<i>Silbatos</i>"
 
 #. [message]: speaker=Mehir
 #. [event]
@@ -8879,16 +8879,6 @@ msgstr ""
 "Tal vez tal vez no. Volveré al reino e informaré al gurú. En cuanto a "
 "ustedes dos, siga el invocador y asegúrese de que realmente llegue al "
 "destino."
-
-#. [message]: speaker=Um_Mu
-#: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:464
-msgid ""
-"Me have... First, 'Heaven's Kitchen' - a cookbook from Kharos. Second, 'That "
-"Time I Got Reincarnated As A Mu' - I like it, it has a lot of pictures, "
-"other books have a lot of complex words. Thirdly, uhhh... 'Fifty Shades of "
-"Tharis' the story of a Kharosian girl who marries a wealthy Tharis sorcerer. "
-"I don't think I'm old enough for that one yet. Which one do you want mister?"
-msgstr ""
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -17244,16 +17234,13 @@ msgstr ""
 "¿estás? ¡Te aplastaré directamente a través de tus dientes! ¡Puedes empujar "
 "ese cangrejo por el culo!"
 
-#. [message]: speaker=Rashti
-msgid "*gestures to the two ho'rhami bodyguards, and whispers something*"
-msgstr "<i>Gesticula a las dos jo'rami guardaespaldas y susurra algo</i>"
-
 #. [message]: speaker=Um_Mu
+#: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:464
 msgid ""
 "Me have... First, 'Heaven's Kitchen' - a cookbook from Kharos. Second, 'That "
 "Time I Got Reincarnated As A Mu' - I like it, it has a lot of pictures, "
 "other books have a lot of complex words. Thirdly, uhhh... 'Fifty Shades of "
-"Tharis' the story of a Carosian girl who marries a wealthy Tharis sorcerer. "
+"Tharis' the story of a Kharosian girl who marries a wealthy Tharis sorcerer. "
 "I don't think I'm old enough for that one yet. Which one do you want mister?"
 msgstr ""
 "Yo tengo... En primer lugar, 'Cocina del Cielo', un libro de cocina de "
@@ -17262,9 +17249,3 @@ msgstr ""
 "tercer lugar, Uhhh... 'Cincuenta sombras de Taris' la historia de una niña "
 "carosiana que se casa con un acaudalado hechicero de Taris. No creo que "
 "tenga la edad mínima para eso todavía. ¿Cuál desea, señor?"
-
-#. [message]: speaker=narrator
-msgid ""
-"Since this scenario has no villages, you'll have to rely on water elementals "
-"and regeneration for healings."
-msgstr ""
