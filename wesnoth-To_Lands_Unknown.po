@@ -443,11 +443,11 @@ msgid ""
 "genius magi implemented a cooling system for my new circle for such "
 "situations..."
 msgstr ""
-"<i>Jadeos.</i> Apenas puedo respirar... un elemental de fuego más y nos "
+"<i>Jadeando.</i> Apenas puedo respirar... Un elemental de fuego más y nos "
 "asfixiaremos aquí. El calor que proviene de estas piscinas de lava ya es "
-"insoportable. ¡Se está volviendo aún más cálido que en un desierto abierto! "
-"Pensé que esos genios Magi implementaron un sistema de enfriamiento para mi "
-"nuevo círculo para tales situaciones ..."
+"insoportable. ¡Está haciendo más calor que en el desierto llano! Pensaría que "
+"estos magos genios habrían implementado un sistema de enfriamiento en mi nuevo círculo "
+"para tales situaciones..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:371
@@ -462,19 +462,19 @@ msgid ""
 "Thankfully their invasion has been stopped, but their remnants still haunt "
 "some desolate parts of the world..."
 msgstr ""
-"<i>Le da a Mejir una mirada nerviosa.</i> Esas cosas no son meros mitos, "
-"invocador. ¡Analizaron no menos de cinco civilizaciones, incluidos los "
-"Runemasters! Esos engendros de la oscuridad pueden reanimar a los muertos "
-"como sus títeres. Afortunadamente, su invasión se ha detenido, pero sus "
-"restos aún persiguen algunas partes desoladas del mundo ..."
+"<i>Le da a Mejir una mirada nerviosa.</i> Esas cosas no son simples mitos, "
+"invocador. ¡Exterminaron no menos de cinco civilizaciones, los maestros "
+"rúnicos incluidos! Esos engendros de la oscuridad pueden reanimar a los muertos "
+"como sus títeres. Afortunadamente, su invasión fue detenida, pero sus "
+"remanentes aún acechan en algunas partes desoladas del mundo..."
 
 #. [message]: speaker=Keeper
 msgid ""
 "*gives an evil stare* You should hurry. I cannot guarantee thisss branch "
 "will withssstand the weight of your deliciousss friend for long."
 msgstr ""
-"<i>Da una mirada malvada.</i> Deberías darte prisa. No puedo garantizar que esta "
-"sucursal de STSSS quisque el peso de su amigo delicioso por mucho tiempo."
+"<i>Mira maléficamente.</i> Deberías darte prisssa. No puedo garantizar que esssta "
+"rama resssissstirá el peso de tu deliciossso amigo por mucho tiempo."
 
 #. [message]: speaker=Rashti
 msgid "*gives him a cold stare*"
@@ -489,10 +489,10 @@ msgid ""
 "Understood?"
 msgstr ""
 "<i>Coge una cimitarra de manera profesional y se dirige a los soldados.</i> "
-"Por otro lado, el menú de la cena incluirá lagartija tostada mediano frito con "
-"especias adicionales. ¿Suena apetitoso? En caso afirmativo, tome una "
-"cimitarra y les cargue. Si no, aún tienes que pelear, ¡de lo contrario te "
-"encargaré de traición! ¿Comprendido?"
+"Por otro lado, el menú para la cena de hoy incluirá lagartija medio rara, frita en "
+"abundante aceite y con especias extra. ¿Suena apetitoso?"
+"En ese caso, ¡sostened una cimitarra y a la carga! Sino, igualmente tendréis que pelear, "
+"¡de lo contrario seréis acusados de traición! ¿Comprendido?"
 
 #. [message]: speaker=Mehir
 #. [message]: speaker=Dedylos
@@ -502,15 +502,15 @@ msgstr "<i>Glup.</i>"
 
 #. [message]: speaker=Unknown
 msgid "*heavy breathing* ...I...finally...found...you..."
-msgstr "... Por fin os encuentro... vos..."
+msgstr "<i>Resollando...</i> Sí..., los..., encontré..."
 
 #. [message]: speaker=Bakha
 msgid ""
 "*heavy breathing* My liege, we're under attack! All of the men got killed! "
 "Alert the guards, fast!"
 msgstr ""
-"<i>Respiración pesada.</i> ¡Mi mentira, estamos bajo ataque! ¡Todos los hombres "
-"fueron asesinados! ¡Alerta a los guardias, rápido!"
+"<i>Resollando.</i> ¡Mi señor, estamos bajo ataque! ¡Todos los hombres "
+"fueron asesinados! ¡Hay que alertar a los guardias, rápido!"
 
 #. [message]: speaker=Keeper
 msgid ""
@@ -2527,7 +2527,7 @@ msgid ""
 msgstr ""
 "Además, no use entidades rojas en absoluto, porque son rebeldes por "
 "naturaleza y cerca de este ifrit, seguramente se rebelan contra nosotros. "
-"Por supuesto, este es solo consejo. Puedes hacer lo que quieras, mi mentira, "
+"Por supuesto, este es solo consejo. Puedes hacer lo que quieras, mi señor, "
 "siempre y cuando tengas en cuenta las consecuencias."
 
 #. [message]: speaker=Guru
@@ -2900,7 +2900,7 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 msgid "Anything else, my liege?"
-msgstr "¿Algo más, mi mentira?"
+msgstr "¿Algo más, mi señor?"
 
 #. [message]: speaker=Rashti
 msgid ""
@@ -3282,7 +3282,7 @@ msgid ""
 "powerful, and telling you to cast it indoors wasn't exactly my brightest "
 "idea. My sincere apologies."
 msgstr ""
-"Como has presenciado, mi mentira, el 'encantamiento del poder' es bastante "
+"Como has presenciado, mi señor, el 'encantamiento del poder' es bastante "
 "poderoso, y decirte que lo lanzaras en el interior no era exactamente mi "
 "idea más brillante. Mis sinceras disculpas."
 
@@ -4227,7 +4227,7 @@ msgid ""
 "mention that we can just as easily sacrifice a magical being for the same "
 "effect."
 msgstr ""
-"Querida Nomolas! ¡No hay necesidad de recurrir a tal barbarie, mi mentira! "
+"Querida Nomolas! ¡No hay necesidad de recurrir a tal barbarie, mi señor! "
 "Olvidé mencionar que podemos sacrificar fácilmente un ser mágico por el "
 "mismo efecto."
 
@@ -4562,7 +4562,7 @@ msgid ""
 "exceptionally useful here as they can advance directly to Great Jinn as I "
 "said earlier!"
 msgstr ""
-"No olvides mi mentira de que la gran cantidad de Rogue Efreet es una "
+"No olvides, mi señor, que la gran cantidad de Rogue Efreet es una "
 "excelente oportunidad para abastecerse de puertas dimensionales. ¡Los "
 "amarillos pueden ser excepcionalmente útiles aquí, ya que pueden avanzar "
 "directamente a Great Jinn como dije antes!"
@@ -7505,7 +7505,7 @@ msgid ""
 "Rashti'rhami under surveillance. After all, there might be a 17.314% chance "
 "of her murdering you in your sleep after this incident."
 msgstr ""
-"Si no le importa, mi mentira, el Gremio de destierro le gustaría colocar a "
+"Si no le importa, mi señor, el Gremio de los desterradores le gustaría colocar a "
 "Rashti'rhami bajo vigilancia. Después de todo, puede haber una probabilidad "
 "del 17.314% de que ella lo asesine mientras duerma después de este incidente."
 
@@ -7725,7 +7725,7 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 msgid "Indeed, my liege."
-msgstr "De hecho, mi mentira."
+msgstr "Efectivamente, mi señor."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -7788,7 +7788,7 @@ msgid ""
 "one jinni or a rhami in front of this Great Efreeti - he could easily turn "
 "them against us."
 msgstr ""
-"En efecto. Sin embargo, tenga en cuenta, mi mentira: no transforme la puerta "
+"En efecto. Sin embargo, tenga en cuenta, mi señor: no transforme la puerta "
 "en un genio o rhami de nivel uno en frente de este gran ifrit: podría "
 "convertirse fácilmente contra nosotros."
 
@@ -7918,7 +7918,7 @@ msgid ""
 "inability of banishment. Thus it will most likely remain as a mystery for "
 "now as to how those gates look."
 msgstr ""
-"Ciertamente no lo es, mi mentira. El Maestro de los Desterradores tiene una "
+"Ciertamente no lo es, mi señor. El Maestro de los Desterradores tiene una "
 "colección completa de tales puertas dimensionales en su mansión, aunque no "
 "se los muestra a nadie, siendo paranoico sobre su irremplazabilidad, debido "
 "a su... incapacidad de destierro. Por lo tanto, lo más probable es que "
@@ -8873,7 +8873,7 @@ msgid ""
 "Maybe you're right, my liege, but for now all we can do is cross our fingers "
 "and hope the lizards don't have ill intent towards us..."
 msgstr ""
-"Tal vez tienes razón, mi mentira, pero por ahora todo lo que podemos hacer "
+"Tal vez tienes razón, mi señor, pero por ahora todo lo que podemos hacer "
 "es cruzar los dedos y esperar que las lagartijas no tengan mal intención "
 "hacia nosotros ..."
 
@@ -9240,7 +9240,7 @@ msgstr ""
 
 #. [message]: speaker=Bakha
 msgid "My liege!"
-msgstr "¡Mi mentira!"
+msgstr "¡Mi señor!"
 
 #. [message]: speaker=Banisher
 msgid "My liege! <b>What have I told you?!!</b>"
@@ -9248,27 +9248,27 @@ msgstr "¡Mi señor! ¿Qué os había dicho?"
 
 #. [message]: speaker=Mehir
 msgid "My liege! I am seeing this too!"
-msgstr "¡Mi mentira! ¡Yo también estoy viendo esto!"
+msgstr "¡Mi señor! ¡Yo también estoy viendo esto!"
 
 #. [message]: speaker=Bakha
 msgid ""
 "My liege! There are too many of them - we must inform the city of Sud-Affar! "
 "We need reinforcements!"
 msgstr ""
-"¡Mi mentira! Hay demasiados de ellos, ¡debemos informar a la ciudad de Sud -"
+"¡Mi señor! Hay demasiados de ellos, ¡debemos informar a la ciudad de Sud -"
 "Affar! ¡Necesitamos refuerzos!"
 
 #. [message]
 msgid "My liege, I’ve found a chest full of gold!"
-msgstr "¡He encontrado un cofre lleno de oro!"
+msgstr "Mi señor, ¡he encontrado un cofre lleno de oro!"
 
 #. [message]: speaker=Instructor
 msgid "My liege, are you leaving?"
-msgstr "Mi mentira, ¿te vas?"
+msgstr "Mi señor, ¿te vas?"
 
 #. [message]: speaker=Mehir
 msgid "My liege, the enemy reinforcements arrived!"
-msgstr "¡Mi mentira, los refuerzos enemigos llegaron!"
+msgstr "¡Mi señor, los refuerzos enemigos llegaron!"
 
 #. [message]: speaker=Banisher
 msgid ""
@@ -9287,7 +9287,7 @@ msgstr ""
 
 #. [message]: race=eoma_summoner
 msgid "My liege, you're doing well! One more shot!"
-msgstr "¡Mi mentira, lo estás haciendo bien! ¡Un tiro más!"
+msgstr "¡Mi señor, lo estás haciendo bien! ¡Un tiro más!"
 
 #. [message]: speaker=Ghost
 msgid ""
@@ -14109,7 +14109,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Trust me, my liege, I know what I'm doing..."
-msgstr "Confía en mí, mi mentira, sé lo que estoy haciendo..."
+msgstr "Confiad en mí, mi señor, sé lo que estoy haciendo..."
 
 msgid "Turn into air"
 msgstr "Transformar en aire"
@@ -14234,7 +14234,7 @@ msgid ""
 "Uhh... my liege, I am not entirely sure this is the best time for messing "
 "around with dimensional gates."
 msgstr ""
-"Uhh... mi mentira, no estoy completamente seguro de que este sea el mejor "
+"Uhh... Mi señor, no estoy completamente seguro de que este sea el mejor "
 "momento para jugar con puertas dimensionales."
 
 #. [message]: speaker=Mehir
@@ -14836,9 +14836,9 @@ msgid ""
 "about the personal megacirle, the procedure of banishing magical beings, and "
 "explain some details about Dimensional Gates. Shall I begin?"
 msgstr ""
-"Bienvenido, mi mentira. Soy el líder de la rama de Tar-Tabar de The "
-"Banishers 'Guild y su nuevo instructor. Como solicitó, le voy a enseñar "
-"sobre el megacirle personal, el procedimiento de desterrar a los seres "
+"Bienvenido, mi señor. Soy el líder de la rama en Tar-Tabar del Gremio de "
+"desterradores, así como su nuevo instructor. Como solicitó, le voy a enseñar "
+"sobre el megacírculo personal, el procedimiento de desterrar a los seres "
 "mágicos y explicar algunos detalles sobre las puertas dimensionales. ¿Debo "
 "empezar?"
 
@@ -15586,7 +15586,7 @@ msgid ""
 "here and protect the construction site, my liege. This is not our war."
 msgstr ""
 "Quienquiera que sean, prefiero no meterse con ellos. Sería más sabio "
-"quedarse aquí y proteger el sitio de construcción, My Liege. Esta no es "
+"quedarse aquí y proteger el sitio de construcción, mi señor. Esta no es "
 "nuestra guerra."
 
 #. [message]: speaker=Mehir
@@ -16634,7 +16634,7 @@ msgid ""
 "left, my liege?"
 msgstr ""
 "De nada. Después de todo, me pagan por esto. ¿Te queda alguna pregunta, mi "
-"mentira?"
+"señor?"
 
 #. [message]: speaker=BLeader
 msgid "You're with the Darkblooded?!"
