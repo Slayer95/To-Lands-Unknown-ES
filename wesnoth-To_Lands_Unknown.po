@@ -25,7 +25,7 @@ msgid ""
 "This is the story of Mehir, the Summoner, and his journey to lands unknown."
 msgstr ""
 "\n"
-"Esta es la historia de Megir, el invocador, y de su viaje a tierras ignotas."
+"Esta es la historia de Mejir, el invocador, y de su viaje a tierras ignotas."
 
 #. [option]
 msgid " for later use (on recruit/recall of a unit)"
@@ -63,7 +63,7 @@ msgstr ""
 
 #. [message]: speaker=Rhaxiz
 msgid "(gestures Mehir and Jaffar to follow him)"
-msgstr "(Gestes Megir y Yafar para seguirlo)"
+msgstr "(Gestes Mejir y Yafar para seguirlo)"
 
 #. [message]: speaker=Keeper
 msgid "(gestures him to leave)"
@@ -76,7 +76,7 @@ msgstr "(Manos por encima de la licencia) Uhh, claro, aquí vas."
 #. [message]: speaker=Rhaxiz
 msgid "(hisses in a furious manner and pushes Mehir and Jaffar up the stairs)"
 msgstr ""
-"(Sisea de una manera furiosa y empuja a Megir y Jaffar por las escaleras)"
+"(Sisea de una manera furiosa y empuja a Mejir y Jaffar por las escaleras)"
 
 #. [message]: type=EoMa_Jungle_Guardian
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "(looks at Mehir) Finally, somebody actually bothered to send reinforcements! "
 "What took them so long?"
 msgstr ""
-"(Mira a Megir) Finalmente, ¡alguien realmente se molestó en enviar "
+"(Mira a Mejir) Finalmente, ¡alguien realmente se molestó en enviar "
 "refuerzos! ¿Qué les tomó tanto tiempo?"
 
 #. [message]: speaker=Glomin
@@ -129,7 +129,7 @@ msgid ""
 "Though in your defense, it was a good idea to bring her, and the spear is "
 "still safe with her. Just don't pull more such tricks next time."
 msgstr ""
-"(en silencio a Megir) Puedes ser inteligente, pero no me engañarás. Ambos "
+"(en silencio a Mejir) Puedes ser inteligente, pero no me engañarás. Ambos "
 "sabemos muy bien, en realidad no he aliviado al Spear Guardian de su "
 "publicación. Aunque en tu defensa, fue una buena idea traerla, y la lanza "
 "todavía está a salvo con ella. Simplemente no tome más trucos de esos la "
@@ -162,7 +162,7 @@ msgid ""
 "anything)"
 msgstr ""
 "(ese saurio está diciendo algo, pero se encuentra demasiado lejos para que "
-"Megir pueda oír nada)"
+"Mejir pueda oír nada)"
 
 #. [message]: speaker=Void
 msgid ""
@@ -174,7 +174,7 @@ msgstr ""
 
 #. [message]: speaker=Keeper
 msgid "(to Mehir) Do we have an agreement?"
-msgstr "(a Megir) ¿Tenemos un acuerdo?"
+msgstr "(a Mejir) ¿Tenemos un acuerdo?"
 
 #. [message]: speaker=second_unit
 msgid ""
@@ -182,7 +182,7 @@ msgid ""
 "blue half-red girlfriend and I'll let you be my slave instead of killing "
 "you. We can do unspeakable things together every day!"
 msgstr ""
-"(a Megir) Ho ho ho, te ves bastante guapo para un humano. Deja a tu novia "
+"(a Mejir) Ho ho ho, te ves bastante guapo para un humano. Deja a tu novia "
 "media roja medio azul y te dejaré ser mi esclavo en lugar de matarte. "
 "¡Podemos hacer cosas indescriptibles juntos todos los días!"
 
@@ -365,7 +365,7 @@ msgid ""
 "to his. Now, I would like to ask that you leave me alone stranger, I have a "
 "tome to read."
 msgstr ""
-"* Cierra el libro, mira a Megir* Oh, mis disculpas, tu voz es bastante "
+"* Cierra el libro, mira a Mejir* Oh, mis disculpas, tu voz es bastante "
 "similar a la suya. Ahora, me gustaría pedirle que me dejes en paz extraño, "
 "tengo un tomo para leer."
 
@@ -466,7 +466,7 @@ msgid ""
 "Thankfully their invasion has been stopped, but their remnants still haunt "
 "some desolate parts of the world..."
 msgstr ""
-"* le da a Megir una mirada nerviosa* Esas cosas no son meros mitos, "
+"* le da a Mejir una mirada nerviosa* Esas cosas no son meros mitos, "
 "invocador. ¡Analizaron no menos de cinco civilizaciones, incluidos los "
 "Runemasters! Esos engendros de la oscuridad pueden reanimar a los muertos "
 "como sus títeres. Afortunadamente, su invasión se ha detenido, pero sus "
@@ -557,7 +557,7 @@ msgstr ""
 
 #. [message]: speaker=Mage
 msgid "*looks at Glomin, then at Mehir* You brought a <b>dwarf</b> here?!"
-msgstr "* Mira a Glomin, luego a Megir* trajiste un <b> enano </b> aquí?"
+msgstr "* Mira a Glomin, luego a Mejir* trajiste un <b> enano </b> aquí?"
 
 #. [message]: speaker=Rashti
 msgid "*looks at Jaffar*"
@@ -565,7 +565,7 @@ msgstr "*mira a Yafar*"
 
 #. [message]: speaker=Keeper
 msgid "*looks at Mehir with fury in his eyes*"
-msgstr "*mira a Megir con furia en sus ojos*"
+msgstr "*mira a Mejir con furia en sus ojos*"
 
 #. [message]: speaker=Rashti
 #. [message]: speaker=Mehir
@@ -825,7 +825,7 @@ msgid ""
 "darkness lurking 'round here! But why the hell do ye need my precious "
 "battery?!"
 msgstr ""
-"* a Megir* ¡Hola, tú! ¡Finalmente, alguien que no es uno de los 'empía de' "
+"* a Mejir* ¡Hola, tú! ¡Finalmente, alguien que no es uno de los 'empía de' "
 "oscuridad que acecha 'aquí! Pero, ¿por qué demonios necesitas mi preciosa "
 "batería?"
 
@@ -886,14 +886,14 @@ msgstr ""
 
 #. [message]: speaker=Um_Mu
 msgid "*turns to Mehir* Ah, you're back! Want more books?"
-msgstr "* se vuelve hacia Megir* ¡Ah, estás de vuelta! ¿Quieres más libros?"
+msgstr "* se vuelve hacia Mejir* ¡Ah, estás de vuelta! ¿Quieres más libros?"
 
 #. [message]: speaker=Um_Mu
 msgid ""
 "*turns to Mehir* Hello mister! Do you need help with finding a book from the "
 "top shelf?"
 msgstr ""
-"* se vuelve hacia Megir* ¡Hola señor! ¿Necesita ayuda para encontrar un "
+"* se vuelve hacia Mejir* ¡Hola señor! ¿Necesita ayuda para encontrar un "
 "libro del estante superior?"
 
 #. [message]: speaker=Guru
@@ -1189,7 +1189,7 @@ msgid ""
 "...and that’s why I owe him my life. I anoint Mehir as the leader of Tar-"
 "Tabar."
 msgstr ""
-"...y por ese motivo le debo la vida. Proclamo a Megir como líder de Tar-"
+"...y por ese motivo le debo la vida. Proclamo a Mejir como líder de Tar-"
 "Tabar."
 
 #. [message]: speaker=Aerius
@@ -1229,7 +1229,7 @@ msgstr "... ¡Pero también cocinaste sus cuerpos de decasas!"
 
 #. [message]: speaker=Elder
 msgid "...decision. The meeting has elected Mehir as the new leader!"
-msgstr "... imparcial. ¡El consejo ha nombrado líder a Megir!"
+msgstr "... imparcial. ¡El consejo ha nombrado líder a Mejir!"
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -1459,7 +1459,7 @@ msgid ""
 msgstr ""
 "<i>* para sí mismo* Eso fue ... un giro bastante imprevisto de los "
 "acontecimientos. Debo hacer algo de inmediato, de lo contrario, el plan se "
-"arruinaría ... </i> (a Megir) mira, debes ir al Averno. En realidad."
+"arruinaría ... </i> (a Mejir) mira, debes ir al Averno. En realidad."
 
 #. [message]: speaker=Guru
 msgid ""
@@ -1523,7 +1523,7 @@ msgstr ""
 "poderosos magos de habilidad singular,\n"
 "con sirvientes de los Avernos,\n"
 "ahora malos, ahora buenos.\n"
-"Y acompañad a Megir en su andar,\n"
+"Y acompañad a Mejir en su andar,\n"
 "quien según dictó su fortuna,\n"
 "salvó el mundo tras conciliar\n"
 "tanto el sol como la luna.</i>"
@@ -1971,10 +1971,10 @@ msgid ""
 "hostage, but he had no choice if he wanted to ensure the construction's "
 "safety. He gave Mehir some resources, and the latter set out immediately."
 msgstr ""
-"Tras ser liberado, Megir se dirigió inmediatamente a Sud-Affar e informó a "
+"Tras ser liberado, Mejir se dirigió inmediatamente a Sud-Affar e informó a "
 "Sharif acerca de la situación. El líder de la ciudad no se sintió muy feliz "
-"con la idea del guardián de enviar a Megir en una misión tan importante pero "
-"no tuvo elección. Megir partió de inmediato."
+"con la idea del guardián de enviar a Mejir en una misión tan importante pero "
+"no tuvo elección. Mejir partió de inmediato."
 
 #. [message]: speaker=narrator
 msgid ""
@@ -2006,7 +2006,7 @@ msgid ""
 "for the Great Circle..."
 msgstr ""
 "Cuando Sharif tuvo conocimiento de los ataques, envió a su adjunto, Jaffar, "
-"con sus mejores tropas. A petición de Megir llevaban el equipo necesario "
+"con sus mejores tropas. A petición de Mejir llevaban el equipo necesario "
 "para poder talar árboles y los trabajadores comenzaron a abrir el camino "
 "para el Gran círculo..."
 
@@ -2036,7 +2036,7 @@ msgid ""
 "After recapturing Degos, Mehir, Dedylos, and their troops set out to Kharos "
 "in hopes that the city was still standing..."
 msgstr ""
-"Después de recuperar Degos, Megir, Dedylos, y sus tropas salieron hacia "
+"Después de recuperar Degos, Mejir, Dedylos, y sus tropas salieron hacia "
 "Caros con la esperanza de que la ciudad no hubiera sido atacada."
 
 #. [message]: speaker=Mehir
@@ -2447,7 +2447,7 @@ msgstr ""
 
 #. [message]: speaker=Elder2
 msgid "Alright then, let’s vote. Mehir, leave us for..."
-msgstr "Es una buena idea. Votemos. Megir, salga de la..."
+msgstr "Es una buena idea. Votemos. Mejir, salga de la..."
 
 #. [message]: speaker=Mehir
 msgid "Alright then. Time to test my new powers!"
@@ -2763,16 +2763,16 @@ msgid ""
 "boost the troops' morale, Mehir decided to be the first to teleport to the "
 "‘flying island’."
 msgstr ""
-"Y entonces Megir comprendió lo que Anthi tenía en mente cuando le dijo que "
-"era imposible llegar a esa tierra en barco. Megir vio una enorme masa de "
+"Y entonces Mejir comprendió lo que Anthi tenía en mente cuando le dijo que "
+"era imposible llegar a esa tierra en barco. Mejir vio una enorme masa de "
 "tierra sobre su cabeza que se mantenía inmóvil en el aire justo sobre las "
 "nubes.\n"
 "\n"
 "Incluso las alfombras voladoras no podrían volar tan alto, entonces la gente "
-"de Megir decidió trazar un círculo especial en la cubierta del barco, "
+"de Mejir decidió trazar un círculo especial en la cubierta del barco, "
 "similar a uno que fue usado hace siglos por los invocadores de Ka-Gattan "
 "para viajar entre la superficie y el subsuelo. Tras unas pocas horas, todo "
-"estaba listo y el primero que se transportó a la isla volante fue Megir."
+"estaba listo y el primero que se transportó a la isla volante fue Mejir."
 
 #. [message]: speaker=narrator
 msgid "And then, as fate would have it, it did get worse..."
@@ -3529,7 +3529,7 @@ msgid ""
 "experience, Sharif promoted him by multiple ranks. The dream of a young city "
 "guard came true..."
 msgstr ""
-"Debido a que el logro de Megir fue más que excepcional por su falta de "
+"Debido a que el logro de Mejir fue más que excepcional por su falta de "
 "experiencia, Sharif lo promovió por múltiples filas. El sueño de un joven "
 "guardia de la ciudad se hizo realidad ..."
 
@@ -3551,7 +3551,7 @@ msgid ""
 "Summoners and their clothes were black as death. There were also bodies of "
 "large terrifying three-headed beasts, capable of devouring a man with ease."
 msgstr ""
-"Antes de que llegaran los refuerzos desde Alcamiya, Megir, Malib y Rasti "
+"Antes de que llegaran los refuerzos desde Alcamiya, Mejir, Malib y Rasti "
 "dispusieron de dos semanas para poder examinar los cuerpos muertos de sus "
 "enemigos. La conclusión fue que los invasores eran similares a los humanos. "
 "Tenían largas, puntiagudas orejas y una piel pálida, casi gris. Iban armados "
@@ -3970,7 +3970,7 @@ msgstr "Consulte la licencia del comerciante."
 
 #. [message]: type=EoMa_Carpet_Master
 msgid "Cheers for Mehir!!!"
-msgstr "¡Que viva Megir!"
+msgstr "¡Que viva Mejir!"
 
 #. [message]: speaker=unit
 msgid "Chief, me find humans in jungle! What do we do?"
@@ -4292,7 +4292,7 @@ msgstr "Muerte de Malib"
 
 #. [objective]: condition=lose
 msgid "Death of Mehir"
-msgstr "Muerte de Megir"
+msgstr "Muerte de Mejir"
 
 #. [objective]: condition=lose
 msgid "Death of Rashti"
@@ -4659,7 +4659,7 @@ msgid ""
 "The army and all connected services are subordinated to the so-called sun "
 "warriors."
 msgstr ""
-"Durante su visita, Megir aprendió muchas cosas acerca de los kharosanos y su "
+"Durante su visita, Mejir aprendió muchas cosas acerca de los kharosanos y su "
 "religión. Los kharosanos adoraban al sol como su dios y a la luz como el "
 "origen de la vida. Este dualismo reflejaba su estructura social. La sociedad "
 "kharosana está regida por las más sabias sacerdotisas del culto a la luz que "
@@ -4899,7 +4899,7 @@ msgstr ""
 
 #. [message]: speaker=Mastermage
 msgid "Excellent! Mehir, gather your people; the contest shall begin soon."
-msgstr "¡Excelente! Megir, reúne a tu gente; El concurso comenzará pronto."
+msgstr "¡Excelente! Mejir, reúne a tu gente; El concurso comenzará pronto."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -4928,7 +4928,7 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 msgid "Excuse me, are you Mehir ibn Hakim the Elder, the one being promoted?"
-msgstr "Disculpe, ¿eres Megir ibn Hakim el anciano, el que se promueve?"
+msgstr "Disculpe, ¿eres Mejir ibn Hakim el anciano, el que se promueve?"
 
 #. [message]: speaker=Mehir
 msgid "Excuse me..."
@@ -5336,7 +5336,7 @@ msgid ""
 msgstr ""
 "¡Obtén esto, nuestros legendarios hermanos existen! Se llaman a sí mismos "
 "invocadores, porque pueden conjurar demonios o algunos de esos. ¡¿Puedes "
-"creerlo?! Conoce a Megir, un maestro de este tipo de magia, líder de la "
+"creerlo?! Conoce a Mejir, un maestro de este tipo de magia, líder de la "
 "ciudad y el embajador de los descendientes de nuestros antecendentes."
 
 #. [unit_type]: id=TLU_Summons_Master_Ghost, race=undead
@@ -5412,7 +5412,7 @@ msgstr "Umm, ¡Una gran idea! Solo tenéis que decirme vuestro nombre, joven."
 
 #. [message]: speaker=Rashti
 msgid "Good job, Mehir! I like your style!"
-msgstr "¡Buen trabajo, Megir! ¡Me gusta tu estilo!"
+msgstr "¡Buen trabajo, Mejir! ¡Me gusta tu estilo!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -5462,7 +5462,7 @@ msgid ""
 "anything in their power to take your life, and the lives of your men, think "
 "it, believe it..."
 msgstr ""
-"Bien. (a Megir) Ahora, mira estos ojos, ves enemigos feroces, dispuestos a "
+"Bien. (a Mejir) Ahora, mira estos ojos, ves enemigos feroces, dispuestos a "
 "hacer cualquier cosa en su poder para llevar tu vida, y la vida de tus "
 "hombres, piense que lo creas ..."
 
@@ -5539,7 +5539,7 @@ msgstr ""
 
 #. [message]: speaker=gate_guardian
 msgid "Greetings, sergeant Mehir."
-msgstr "Saludos, sargento Megir."
+msgstr "Saludos, sargento Mejir."
 
 #. [message]: speaker=Keeper
 msgid ""
@@ -5955,7 +5955,7 @@ msgstr ""
 
 #. [message]: speaker=mage2
 msgid "Hey, look, I think I just saw Mehir over there!"
-msgstr "Oye, mira, ¡creo que acabo de ver a Megir allí!"
+msgstr "Oye, mira, ¡creo que acabo de ver a Mejir allí!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -6319,7 +6319,7 @@ msgid ""
 "MEHIR!!!"
 msgstr ""
 "¡NECESITO MÁS! ¡Me recuerda la última vez en la que quería CORTAROS LA "
-"GARGANTA, MEGIR!"
+"GARGANTA, Mejir!"
 
 #. [message]: speaker=Rashti
 msgid "I SHALL RESTORE MY REIGN, BY BLOOD!!!"
@@ -6366,7 +6366,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "I am always ready for anything, Mehir. Why do you ask?"
-msgstr "Siempre estoy listo para cualquier cosa, Megir. ¿Por qué lo preguntas?"
+msgstr "Siempre estoy listo para cualquier cosa, Mejir. ¿Por qué lo preguntas?"
 
 #. [message]: speaker=Rashti
 msgid ""
@@ -6726,7 +6726,7 @@ msgid ""
 msgstr ""
 "He visto mucho durante mi presencia en este reino: desiertos, montañas, "
 "cielo, lluvia, mis viejos maestros muriendo y los nuevos elegidos. Al final, "
-"elegí a Megir como mi maestro final. Aprendí mucho durante el tiempo con él, "
+"elegí a Mejir como mi maestro final. Aprendí mucho durante el tiempo con él, "
 "más de lo que podría imaginar. Incluso perecí por un momento solo para nacer "
 "de nuevo. Ahora soy eterno y no me arrepiento de nada."
 
@@ -6823,7 +6823,7 @@ msgstr ""
 "Sé, pero ¿qué pasa con la filosofía de tu nación? ¿No creen ustedes que "
 "encontrarán el último sentido de sus vidas? <i>* para sí mismo* Una creencia "
 "que se encuentra entre las tonterías más grandes que he escuchado en "
-"años ... </i> (a Megir) ¿no tienes curiosidad por saber qué hay allí?"
+"años ... </i> (a Mejir) ¿no tienes curiosidad por saber qué hay allí?"
 
 #. [message]: speaker=Rashti
 msgid "I know what I'm doing, just clear the way for me."
@@ -7256,7 +7256,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "I'LL KILL YOU, MEHIR!!!"
-msgstr "Te mataré, Megir !!!"
+msgstr "Te mataré, Mejir !!!"
 
 #. [message]: speaker=Mehir
 msgid "I'd rather not talk about it..."
@@ -7623,7 +7623,7 @@ msgstr ""
 "actual, el alto consejo ordenó a todos os ciudadanos del país de los "
 "invocadores que ayudaran a los constructores. Mujeres, niños, incluso "
 "ancianos - todos se unieron a los trabajadores. El mensajero salió "
-"inmediatamente para darle a Megir las noticias."
+"inmediatamente para darle a Mejir las noticias."
 
 #. [message]: speaker=Reficul
 msgid ""
@@ -7847,7 +7847,7 @@ msgid ""
 "my next master."
 msgstr ""
 "De hecho ... al menos logré vengarlo. En cuanto a por qué estoy aquí, la "
-"elección de seguir a Megir era por mi propia voluntad. Creo que es digno de "
+"elección de seguir a Mejir era por mi propia voluntad. Creo que es digno de "
 "convertirse en mi próximo maestro."
 
 #. [message]: speaker=Um_Mu
@@ -8336,7 +8336,7 @@ msgid ""
 "\n"
 "The order in which the spells are cast does not matter."
 msgstr ""
-"Recuerde que cada vez que Megir se posicione para conjurar el hechizo, "
+"Recuerde que cada vez que Mejir se posicione para conjurar el hechizo, "
 "perderá todos sus movimientos y no podrá atacar. Sin embargo, podrá "
 "reclutar.\n"
 "\n"
@@ -8523,7 +8523,7 @@ msgstr "Activar la lluvia"
 
 #. [message]: type=TLU_DharmaRashti
 msgid "Long time no see, Mehir. I'm back and I am gonna RIP YOUR THROAT OUT!!!"
-msgstr "Cuanto tiempo sin verte, Megir. ¡He vuelto y voy a CORTARTE EL CUELLO!"
+msgstr "Cuanto tiempo sin verte, Mejir. ¡He vuelto y voy a CORTARTE EL CUELLO!"
 
 #. [message]: type=TLU_HoRashti
 msgid "Look Dharma'rashti, we must unite. The whole Abyss is at stake!"
@@ -8606,7 +8606,7 @@ msgid ""
 "Luckily, he’s gone. Mehir, as the one patrolling this area since dawn, tell "
 "me what happened here."
 msgstr ""
-"Afortunadamente, se ha ido. Megir, has estado patrullando este área desde el "
+"Afortunadamente, se ha ido. Mejir, has estado patrullando este área desde el "
 "alba. Dime que es lo que realmente pasó."
 
 #. [message]: speaker=Mehir
@@ -8754,7 +8754,7 @@ msgid ""
 "there. *to Mehir* Now, to fulfill the other part of my promise..."
 msgstr ""
 "Maestro Umbrez, ¿has terminado? * Mira el círculo* Ah, un trabajo bastante "
-"impresionante allí. * a Megir* ahora, para cumplir con la otra parte de mi "
+"impresionante allí. * a Mejir* ahora, para cumplir con la otra parte de mi "
 "promesa ..."
 
 #. [message]: speaker=GLeader
@@ -8930,7 +8930,7 @@ msgstr ""
 #. [side]: type=TLU_Mehir_Leader, id=Mehir
 #. [side]: type=TLU_The_Last_Summoner, id=Mehir
 msgid "Mehir"
-msgstr "Megir"
+msgstr "Mejir"
 
 #. [part]
 msgid ""
@@ -8979,7 +8979,7 @@ msgstr ""
 #. [message]: speaker=mage1
 msgid ""
 "Mehir! By the Sun, I always wanted to meet you! You're an absolute legend!"
-msgstr "¡Megir! ¡Al sol, siempre quise conocerte! ¡Eres una leyenda absoluta!"
+msgstr "¡Mejir! ¡Al sol, siempre quise conocerte! ¡Eres una leyenda absoluta!"
 
 #. [message]: speaker=Jaffar
 msgid ""
@@ -9006,11 +9006,11 @@ msgstr ""
 
 #. [message]: speaker=Jaffar
 msgid "Mehir! What did I say about not bringing those beasts here?!"
-msgstr "¡Megir! ¿Qué dije sobre no traer a esas bestias aquí?"
+msgstr "¡Mejir! ¿Qué dije sobre no traer a esas bestias aquí?"
 
 #. [message]: speaker=Jaffar
 msgid "Mehir! You thief! Take him!"
-msgstr "¡Megir! ¡Ladrón! ¡Cogedlo!"
+msgstr "¡Mejir! ¡Ladrón! ¡Cogedlo!"
 
 #. [message]: speaker=Rashti
 msgid "Mehir, I <b>must</b> reach that lunatic and kill him!"
@@ -9018,7 +9018,7 @@ msgstr "Mehir, debo </b> llegar a ese lunático y matarlo!"
 
 #. [message]: speaker=Rashti
 msgid "Mehir, I must climb to where he stands, and RIP HIM TO SHREDS!!!"
-msgstr "No, la culpa es del humano. Megir, he de subir a donde está y matarlo."
+msgstr "No, la culpa es del humano. Mejir, he de subir a donde está y matarlo."
 
 #. [part]
 msgid ""
@@ -9029,7 +9029,7 @@ msgid ""
 "out to the west, to find the mysterious people who were known for "
 "accomplishing astounding feats of magic."
 msgstr ""
-"Megir, como último de los invocadores, observaba este espectáculo desde "
+"Mejir, como último de los invocadores, observaba este espectáculo desde "
 "Caros. Prometió que haría todo lo posible para permitir a sus tropas "
 "reunirse con sus familiares y amigos.\n"
 "De acuerdo con lo que Anthi había dicho, la única forma de llegar al Averno "
@@ -9054,11 +9054,11 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Mehir, sir, Mehir ibn Hakim the elder, to be precise."
-msgstr "Mehir, señor, Megir ibn hakim el anciano, para ser precisos."
+msgstr "Mehir, señor, Mejir ibn hakim el anciano, para ser precisos."
 
 #. [message]: speaker=Rashti
 msgid "Mehir... please... be my new master."
-msgstr "Megir... por favor... sed mi nuevo maestro."
+msgstr "Mejir... por favor... sed mi nuevo maestro."
 
 #. [unit_type]: id=TLU_Merchant, race=eoma_summoner
 msgid "Merchant"
@@ -9106,7 +9106,7 @@ msgstr "Alcamiya"
 
 #. [objective]: condition=win
 msgid "Move Mehir to the Palace of Omniscience"
-msgstr "Mueva a Megir hasta el Palacio de la omnisciencia"
+msgstr "Mueva a Mejir hasta el Palacio de la omnisciencia"
 
 #. [objective]: condition=win
 msgid "Move to the next chamber"
@@ -9384,7 +9384,7 @@ msgid ""
 "Mysterious beasts grabbed Mehir and Jaffar, and carried them deep into the "
 "jungle..."
 msgstr ""
-"Las misteriosas bestias agarraron a Megir y Jaffar, y las llevaron "
+"Las misteriosas bestias agarraron a Mejir y Jaffar, y las llevaron "
 "profundamente en la jungla ..."
 
 #. [unit]: id=mjinn, type=EoMa_Mystical_Jinn
@@ -9405,7 +9405,7 @@ msgid ""
 "AM COMING FOR YOU, MEHIR!"
 msgstr ""
 "¡NUNCA! ¡No volveré a ser esclavizada! ¡Ahora soy libre por fin y... VOY A "
-"POR TI MEGIR! "
+"POR TI Mejir! "
 
 #. [message]: type=TLU_DharmaRashti
 msgid "NEVER!!!"
@@ -9584,7 +9584,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "No, stop! What is happening to me?! Mehir, I don’t want..."
-msgstr "¡No, para! ¿Qué me está ocurriendo? Megir, no quiero..."
+msgstr "¡No, para! ¿Qué me está ocurriendo? Mejir, no quiero..."
 
 #. [message]: speaker=Mehir
 msgid "No, that's all I wanted to know right now."
@@ -10089,11 +10089,11 @@ msgstr ""
 
 #. [message]: speaker=girl1
 msgid "Oh, Mehir! We would love to!"
-msgstr "¡Oh, Megir! ¡Nos encantaría!"
+msgstr "¡Oh, Mejir! ¡Nos encantaría!"
 
 #. [message]: speaker=narrator
 msgid "Oh, Mehir! You are such a professional!"
-msgstr "¡Oh, Megir! ¡Eres tan profesional!"
+msgstr "¡Oh, Mejir! ¡Eres tan profesional!"
 
 #. [message]: speaker=Mastermage
 msgid ""
@@ -10179,7 +10179,7 @@ msgstr "Oh, claro, me olvidé totalmente de eso. ¿Pero qué hay de Yafar?"
 msgid ""
 "Oh, that? Mehir did return some of it, what little he hadn't already spent "
 "that is."
-msgstr "¿Oh eso? Megir devolvió algo, lo poco que no había gastado."
+msgstr "¿Oh eso? Mejir devolvió algo, lo poco que no había gastado."
 
 #. [message]: speaker=narrator
 msgid "Oh, yes! Flying so fast feels wonderful!"
@@ -10838,14 +10838,14 @@ msgstr "Dejando a un lado el precio ridículo, no puedo pagar el elemental."
 
 #. [note]
 msgid "Right click Mehir for help"
-msgstr "Haga clic derecho Megir para obtener ayuda"
+msgstr "Haga clic derecho Mejir para obtener ayuda"
 
 #. [message]: speaker=narrator
 msgid ""
 "Right click an empty hex adjacent to Mehir and then pick a unit you wish to "
 "summon."
 msgstr ""
-"Haga clic derecho en un hexaderador vacío adyacente a Megir y luego elija "
+"Haga clic derecho en un hexaderador vacío adyacente a Mejir y luego elija "
 "una unidad que desee invocar."
 
 #. [message]: speaker=Mehir
@@ -10964,7 +10964,7 @@ msgid ""
 "Secondly, only I can do unspeakable things with Mehir! GET THE HELL AWAY "
 "FROM HIM YOU FILTHY WITCH!!!"
 msgstr ""
-"En segundo lugar, ¡solo yo puedo hacer cosas indescriptibles con Megir! "
+"En segundo lugar, ¡solo yo puedo hacer cosas indescriptibles con Mejir! "
 "¡Aleja de él, bruja sucia!"
 
 #. [message]: speaker=gate_guardian
@@ -11150,7 +11150,7 @@ msgstr "Ella tenía razón, eres digna..."
 
 #. [message]: speaker=Dedylos
 msgid "She’s dead. I’m sorry, Mehir..."
-msgstr "Ha muerto. Lo siento, Megir..."
+msgstr "Ha muerto. Lo siento, Mejir..."
 
 #. [message]: speaker=mage1
 msgid ""
@@ -11264,10 +11264,10 @@ msgstr ""
 "Habían pasado seis meses. El círculo dejó atrás el territorio de Sud-Affar, "
 "y los trabajadores de Tar-Tabar continuaron la construcción. Comenzó la "
 "siguiente etapa del trazado: conectar las ciudades de la trinidad una con "
-"otra creando un gran triángulo. Mientras tanto Megir mejoró sus habilidades "
+"otra creando un gran triángulo. Mientras tanto Mejir mejoró sus habilidades "
 "tomando lecciones de los viejos invocadores veteranos.\n"
 "\n"
-"El tiempo de la paz no dura mucho. Un día Megir fue invocado urgentemente a "
+"El tiempo de la paz no dura mucho. Un día Mejir fue invocado urgentemente a "
 "Alcamiya."
 
 #. [scenario]: id=19_Sky_Kingdom
@@ -11430,7 +11430,7 @@ msgstr ""
 
 #. [message]: speaker=Void
 msgid "So you must be Mehir. Come closer, Earthbound."
-msgstr "Entonces debes ser Megir. Acércate, Earthbound."
+msgstr "Entonces debes ser Mejir. Acércate, Earthbound."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11521,7 +11521,7 @@ msgstr ""
 "que lo siguieran, lo cual era bastante inusual. Vagaban por el desierto y "
 "acabaron siento una amenaza tanto para la capital como para otras ciudades. "
 "Los exploradores descubrieron donde se encontraban estos seres corruptos: "
-"cerca de Tar-Tabar. Megir era el gobernante de la región y se le encomendó "
+"cerca de Tar-Tabar. Mejir era el gobernante de la región y se le encomendó "
 "la tarea de acabar con ellos."
 
 #. [message]: speaker=Guru
@@ -11840,7 +11840,7 @@ msgid ""
 "Sweet Nomolas! Mehir is now the leader of Tar Tabar! I can't believe we met "
 "such an important person at that time in Sud-Affar!"
 msgstr ""
-"¡Dulces Nomolas! ¡Megir es ahora el líder de Tar Tabar! ¡No puedo creer que "
+"¡Dulces Nomolas! ¡Mejir es ahora el líder de Tar Tabar! ¡No puedo creer que "
 "hayamos conocido a una persona tan importante en ese momento en Sud-Affar!"
 
 #. [message]: speaker=Jaffar
@@ -11968,7 +11968,7 @@ msgstr ""
 "de Alcamiya. Los ejércitos de la trinidad quedaron conmocionados por la "
 "destrucción a gran escala que había sufrido la ciudad. Un gran número de "
 "escuadrones reforzaron el cuartel local. Cuando terminó de repararse el "
-"portal, Megir, Rasti y Malib volvieron a Alcamiya."
+"portal, Mejir, Rasti y Malib volvieron a Alcamiya."
 
 #. [side]: type=EoMa_Matriarch_of_Emptiness, id=Matriarch1
 msgid "Teryth"
@@ -11995,7 +11995,7 @@ msgid ""
 "Thank our legendary brothers from the Great Desert. This is Mehir, our "
 "rescuer!"
 msgstr ""
-"Gracias a nuestros legendarios hermanos del gran desierto. ¡Este es Megir, "
+"Gracias a nuestros legendarios hermanos del gran desierto. ¡Este es Mejir, "
 "nuestro salvador!"
 
 #. [message]: speaker=Dedylos
@@ -12004,7 +12004,7 @@ msgid ""
 "defend Saffaros. Mehir, will you help us?"
 msgstr ""
 "Gracias al sol, por ahora Caros no ha sido tocada. Deben de ser "
-"exploradores. Debemos defender Saffaros. ¿Nos ayudaréis, Megir?"
+"exploradores. Debemos defender Saffaros. ¿Nos ayudaréis, Mejir?"
 
 #. [message]: speaker=Mehir
 msgid "Thank you and good luck!"
@@ -12036,7 +12036,7 @@ msgid ""
 "without worrying about logistics."
 msgstr ""
 "Gracias a la colaboración con el Sky Kingdom Magi, el megacírculo personal "
-"de Megir ha mejorado enormemente, otorgándole hechizos más poderosos y la "
+"de Mejir ha mejorado enormemente, otorgándole hechizos más poderosos y la "
 "habilidad única para teletransportar a sus tropas directamente a un campo de "
 "batalla sin preocuparse por la logística."
 
@@ -12393,7 +12393,7 @@ msgstr ""
 "La aparición del Flying Invader sorprendió al Alto Consejo. Paranoico de una "
 "posible invasión en cualquier momento, aumentaron significativamente los "
 "fondos de los militares y entrenaron a nuevos soldados tan rápido como "
-"pudieron permitirse. Pero volvamos a la historia de Megir ..."
+"pudieron permitirse. Pero volvamos a la historia de Mejir ..."
 
 #. [part]
 msgid ""
@@ -12410,9 +12410,9 @@ msgstr ""
 "se retiraron lejos hacia el este, permitiendo a la gente volver a sus "
 "antiguas tierras..\n"
 "\n"
-"Mientras tanto, Megir fue declarado como el mayor héroe de Caros. Mientras "
+"Mientras tanto, Mejir fue declarado como el mayor héroe de Caros. Mientras "
 "sus exploradores buscaban posibles amenazas de los restos del ejército "
-"destruido, Megir pasaba mucho tiempo con Anthi, llegando a conocer la "
+"destruido, Mejir pasaba mucho tiempo con Anthi, llegando a conocer la "
 "cultura carosana y la historia de las tierras ancestrales."
 
 #. [message]: speaker=Keeper
@@ -12443,7 +12443,7 @@ msgid ""
 msgstr ""
 "La calma y sabia ho'rashti. Su objetivo es reunirse con la mitad malvada a "
 "toda costa. Sin embargo, ella es demasiado débil para hacerlo sola y "
-"necesita la ayuda de Megir."
+"necesita la ayuda de Mejir."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -12502,7 +12502,7 @@ msgstr ""
 "Alcamiya. Además, nuevos círculos, más pequeños se habían de hacer. Miles de "
 "trabajadores de la capital fueron contratados para ayudar en la "
 "construcción.\n"
-"Megir, al igual que los otros líderes de la trinidad, era libre de hacer lo "
+"Mejir, al igual que los otros líderes de la trinidad, era libre de hacer lo "
 "que deseara, puesto que ya se había terminado el círculo exterior, de mayor "
 "tamaño. Pero surgió la oportunidad de probar sus nuevas habilidades en "
 "batalla."
@@ -12639,7 +12639,7 @@ msgid ""
 "destination, Mehir was puzzled about the lack of land nearby. The captain "
 "calmly responded by asking Mehir to look up, at the sky."
 msgstr ""
-"El viaje duró dos días. Cuando alcanzaron su destino, Megir pensó que era "
+"El viaje duró dos días. Cuando alcanzaron su destino, Mejir pensó que era "
 "una broma puesto que no había tierra a la vista. Entonces el capitán le "
 "pidió que mirara hacia el cielo."
 
@@ -12714,7 +12714,7 @@ msgid ""
 "finish the Circle in its original formula and move to the Abyss. If it isn't "
 "completed in time, all the effort devoted to the project would go to waste."
 msgstr ""
-"Los mensajeros enviados por Megir alcanzaron Alcamiya en doce días, donde "
+"Los mensajeros enviados por Mejir alcanzaron Alcamiya en doce días, donde "
 "entregaron el sensacional mensaje de que Rasti había conseguido su verdadera "
 "forma. El alto consejo descubrió que la muerte de Rasti, la resurrección de "
 "sus egos, y su integración en una forma femenina de Nomola había destruido "
@@ -13061,7 +13061,7 @@ msgid ""
 "and if necessary, rescue - the leader and his troops."
 msgstr ""
 "Allí, el Consejo Superior se había reunido para una reunión secreta. Llegó a "
-"los oídos de Megir que Tashkar, la cabeza de Tar-Tabar, desapareció, después "
+"los oídos de Mejir que Tashkar, la cabeza de Tar-Tabar, desapareció, después "
 "de haber salido a Ka-Gatta con algunas de sus tropas. La razón detrás de la "
 "expedición quedó en secreto, pero, para su sorpresa, Mehir fue elegido para "
 "encontrar, y si fue necesario, rescatar: el líder y sus tropas."
@@ -13159,7 +13159,7 @@ msgid ""
 "true, and that the inhabitants of the desert would return to protect the "
 "Ancestral Lands."
 msgstr ""
-"Estas palabras intrigaron a Megir, que vio similitudes entre lo que decía "
+"Estas palabras intrigaron a Mejir, que vio similitudes entre lo que decía "
 "Atiros y el asedio de Mag-Magar. Sin embargo, el relato del recién llegado "
 "no había terminado. Cuando fue seguro que la tierra media había caído, Anthi "
 "llegó a la conclusión de que el ejército kharosano no iba a poder derrotar a "
@@ -13324,7 +13324,7 @@ msgid ""
 " -You cannot skip your turn"
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-" -La de movimiento de Megir se reina después de cada movimiento.\n"
+" -La de movimiento de Mejir se reina después de cada movimiento.\n"
 " -No no puedes omitir tu turno"
 
 #. [objectives]
@@ -13337,7 +13337,7 @@ msgid ""
 "-Rashti follows you automatically"
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-"-La de movimiento de Megir se recarga después de cada movimiento\n"
+"-La de movimiento de Mejir se recarga después de cada movimiento\n"
 "-No no puedes omitir tu turno\n"
 "-PUEDES interactuar con NPC que tienen marcos de exclamación amarilla "
 "moviéndose junto a ellos\n"
@@ -13352,7 +13352,7 @@ msgid ""
 "next to them."
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-"-La de movimiento de Megir se reina después de cada movimiento.\n"
+"-La de movimiento de Mejir se reina después de cada movimiento.\n"
 "-No no puedes omitir tu turno\n"
 "-PUEDES interactuar con NPC que tienen marcos de exclamación amarilla "
 "moviéndose junto a ellos."
@@ -13899,7 +13899,7 @@ msgid ""
 "teleport there, we will send all of the armies of the Trinity to help you."
 msgstr ""
 "¡Esos seres deben de haber invadido Mag-Magar! ¡No perdamos más tiempo! "
-"Megir, llevaos a Rasti y a vuestros hombres. Quizás no sea demasiado tarde. "
+"Mejir, llevaos a Rasti y a vuestros hombres. Quizás no sea demasiado tarde. "
 "Tan pronto como os teleportéis allí, enviaremos a todos los ejércitos de la "
 "trinidad para ayudaros."
 
@@ -14064,7 +14064,7 @@ msgid ""
 "Today, Mehir, I’ll show you three stained-glass windows, and explain some of "
 "the basic things about our culture, about which you asked yesterday."
 msgstr ""
-"Hoy, Megir, os mostraré tres vidrieras policromadas, las cuales explican "
+"Hoy, Mejir, os mostraré tres vidrieras policromadas, las cuales explican "
 "algunas de las cuestiones de nuestra cultura acerca de las que preguntasteis "
 "ayer."
 
@@ -14365,7 +14365,7 @@ msgstr ""
 
 #. [message]: speaker=Keeper
 msgid "Very well, then, you may leave. *unties Mehir*"
-msgstr "Muy bien, entonces, puedes irte. *desata Megir*"
+msgstr "Muy bien, entonces, puedes irte. *desata Mejir*"
 
 #. [message]: speaker=Keeper
 msgid ""
@@ -14415,7 +14415,7 @@ msgstr ""
 
 #. [message]: speaker=Jaffar
 msgid "WAIT! NO! Mehir, you were there! Did you really cook them?!"
-msgstr "¡ESPERAR! ¡NO! Megir, estabas allí! ¿Realmente los cocinas?"
+msgstr "¡ESPERAR! ¡NO! Mejir, estabas allí! ¿Realmente los cocinas?"
 
 #. [message]: speaker=Malib
 msgid ""
@@ -14681,7 +14681,7 @@ msgstr ""
 msgid ""
 "We chose him in recognition of his many extraordinary achievements. Mehir, "
 "come closer."
-msgstr "Lo elegimos como reconocimiento a sus logros. Acercaros, Megir."
+msgstr "Lo elegimos como reconocimiento a sus logros. Acercaros, Mejir."
 
 #. [message]: speaker=Atiros
 msgid "We defeated the invaders! Anthi, WE DID IT!!!"
@@ -14843,7 +14843,7 @@ msgstr "¡Estamos rodeados! Todos, preparan tus armas, ¡pero no ataces todavía
 
 #. [message]: speaker=Anthi
 msgid "Welcome to Kharos, Mehir, descendant of our fathers."
-msgstr "Bienvenido a Caros, Megir, descendiente de nuestros padres."
+msgstr "Bienvenido a Caros, Mejir, descendiente de nuestros padres."
 
 #. [message]: speaker=Elder
 msgid ""
@@ -15089,7 +15089,7 @@ msgid ""
 "Well, well, Arcanus, look who we got here - Mehir himself — the leader of "
 "Tar-Tabar, defender of Kharos?"
 msgstr ""
-"Umm... entonces vos sois Megir - el líder de Tar-Tabar, defensor de Caros."
+"Umm... entonces vos sois Mejir - el líder de Tar-Tabar, defensor de Caros."
 
 #. [message]: speaker=Reficul
 msgid ""
@@ -15268,7 +15268,7 @@ msgstr "¿Se puede saber qué es eso?"
 
 #. [message]: speaker=Rashti
 msgid "What is happening to me? Mehir, help! I'm fading..."
-msgstr "¡No, para! ¿Qué me está ocurriendo? Megir, no quiero..."
+msgstr "¡No, para! ¿Qué me está ocurriendo? Mejir, no quiero..."
 
 #. [message]: speaker=Mehir
 msgid "What is it?"
@@ -15692,7 +15692,7 @@ msgid ""
 "Before we proceed to the action, let's start with the humble beginnings, a "
 "usual day of his life..."
 msgstr ""
-"Sea testigo de la historia de Megir, un joven guardia de la ciudad de Al-"
+"Sea testigo de la historia de Mejir, un joven guardia de la ciudad de Al-"
 "Kamija, que desempeñará un papel muy importante en el período de tiempo que "
 "los estudiosos llaman 'Era of Magic'. Pero antes de que suceda, tendrá que "
 "ascender la jerarquía de los invocadores. Antes de proceder a la acción, "
@@ -16286,7 +16286,7 @@ msgstr ""
 
 #. [message]: speaker=Guru
 msgid "You have arrived too early, Mehir."
-msgstr "Habéis llegado demasiado pronto, Megir."
+msgstr "Habéis llegado demasiado pronto, Mejir."
 
 #. [message]: speaker=narrator
 msgid ""
@@ -17090,7 +17090,7 @@ msgstr "Aerius"
 
 #. [side]: type=EoMa_Master_of_War
 msgid "team_name^Amithrior"
-msgstr "Megir"
+msgstr "Mejir"
 
 #. [side]: type=TLU_Malib, id=Malib
 msgid "team_name^Army of Mag-Magar"
@@ -17204,7 +17204,7 @@ msgstr "Maestro del agua"
 #. [side]: type=TLU_Mehir_Leader, id=Mehir
 #. [side]: type=TLU_The_Last_Summoner, id=Mehir
 msgid "team_name^Mehir"
-msgstr "Megir"
+msgstr "Mejir"
 
 #. [side]
 msgid "team_name^Rashti"
