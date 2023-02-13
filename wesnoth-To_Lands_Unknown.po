@@ -43,15 +43,15 @@ msgstr "!"
 
 #. [message]: speaker=Mehir
 msgid "'By the Sun'? Wait a second, are you... Kharosian?"
-msgstr "'Por el sol'? Espera un segundo, ¿eres... carosano?"
+msgstr "'Por el Sol'? Espera un segundo. Eres..., ¿carosano?"
 
 #. [message]: speaker=Rhaxiz
 msgid ""
 "(bows) <i>*in the saurian language* I have brought the humansss, as you "
 "requesssted, o mighty Keeper.</i>"
 msgstr ""
-"(Bows) <i>* en el idioma saurio* He traído a los humanos, como usted "
-"solicitó, oh poderoso guardián. </i>"
+"(Bows) <i>*en el idioma saurio* He traído a los humanoss, como usted "
+"solicitó, oh, poderoso Guardián. </i>"
 
 #. [message]: speaker=SpearGuardian
 msgid ""
@@ -1448,7 +1448,7 @@ msgid ""
 "<i>*to himself* I really hope The Keeper didn't tell him about the Eye of "
 "Darkness...</i>"
 msgstr ""
-"<i>* para sí mismo* Realmente espero que el arquero no le haya contado sobre "
+"<i>* para sí mismo* Realmente espero que el Guardían no le haya contado sobre "
 "el ojo de la oscuridad ... </i>"
 
 #. [message]: speaker=Guru
@@ -2018,7 +2018,7 @@ msgid ""
 "Circle on Darkblooded territory."
 msgstr ""
 "Después de su victoria, Mehir regresó a las fronteras de la jungla, donde el "
-"arquero vino personalmente a encontrarse con él. Jaffar fue devuelto "
+"Guardián vino personalmente a encontrarse con él. Jaffar fue devuelto "
 "inmediatamente y a los invocadores se les otorgó permiso para continuar la "
 "construcción del gran círculo en territorio de sangre oscura."
 
@@ -7303,7 +7303,7 @@ msgid ""
 "I'm Mehir, but more importantly, The Keeper sent us to rescue you, so that "
 "we can earn his trust."
 msgstr ""
-"Soy Mehir, pero lo más importante, el arquero nos envió a rescatarte, para "
+"Soy Mehir, pero lo más importante, el Guardián nos envió a rescatarte, para "
 "que podamos ganar su confianza."
 
 #. [message]: speaker=Mehir
