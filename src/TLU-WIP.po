@@ -1,0 +1,880 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2023-02-12 08:07 UTC\n"
+"PO-Revision-Date: 2023-02-12 11:05-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: To_Lands_Unknown\_main.cfg:23
+msgid ""
+"<i>Hearken ye,\n"
+"You strangers in a desolate land\n"
+"To this tale of lands most old,\n"
+"of the Summoners of al-Kamija,\n"
+"Those mighty magi\n"
+"Of powers untold,\n"
+"Their Abysmal servants\n"
+"Both good and bad,\n"
+"And of Mehir, who had,\n"
+"As once foretold,\n"
+"saved all life in this world.</i>"
+msgstr ""
+"<i>Prestad oreja,\n"
+"vosotros, foráneos en una tierra sin arar,\n"
+"a este relato de una era añeja,\n"
+"de los invocadores de al-Kamija,\n"
+"poderosos magos de habilidad singular,\n"
+"con sirvientes de los avernos,\n"
+"ahora malos, ahora buenos.\n"
+"Y acompañad a Mehir en su andar,\n"
+"quien según dictó su fortuna,\n"
+"salvó el mundo tras conciliar\n"
+"tanto el sol como la luna.</i>"
+
+#: To_Lands_Unknown\_main.cfg:38
+msgid ""
+"\n"
+"This is the story of Mehir, the Summoner, and his journey to lands unknown."
+msgstr ""
+"\n"
+"Esta es la historia de Mehir, el invocador y de su viaje a tierras ignotas."
+
+#: To_Lands_Unknown\_main.cfg:40
+msgid ""
+"\n"
+"(Intermediate or Expert level. 19 playable scenarios.)"
+msgstr ""
+"\n"
+"(Nivel intermedio o experto, 19 escenarios jugables)."
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:49 To_Lands_Unknown\_main.cfg:59
+msgid "To Lands Unknown"
+msgstr "En tierras ignotas"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:50
+msgid "TLU"
+msgstr "ETI"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:55
+msgid "Jinni"
+msgstr "Genio"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:55
+msgid "Easy"
+msgstr "Fácil"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:56
+msgid "Wonderful Jinni"
+msgstr "Genio maravilloso"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:56
+msgid "Normal"
+msgstr "Normal"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:57
+msgid "Mystical Jinni"
+msgstr "Genio místico"
+
+#. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
+#: To_Lands_Unknown\_main.cfg:57
+msgid "Hard"
+msgstr "Difícil"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:4
+msgid "Campaign Design"
+msgstr "Diseño de campaña"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:10
+msgid "Artwork and Level Design"
+msgstr "Arte y diseño de niveles"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:16
+msgid "WML coding"
+msgstr "Programación WML"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:31
+msgid "Story corrections"
+msgstr "Corrección de historia"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:43
+msgid "Proofreading"
+msgstr "Corrección de estilo"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:76
+msgid "Translations"
+msgstr "Traducciones"
+
+#. [about]
+#: To_Lands_Unknown\about.cfg:95
+msgid "Gameplay Testing"
+msgstr "Pruebas de juego"
+
+#: To_Lands_Unknown\dependency-utils.cfg:20
+msgid "The required add-on “<i>Era of Magic</i>” is currently <b>not</b> installed."
+msgstr "El complemento requerido \"<i>Era of Magic</i>\" <b>no</b> está instalado."
+
+#: To_Lands_Unknown\dependency-utils.cfg:29
+msgid "The required add-on “<i>To Lands Unknown: Resources</i>” is currently <b>not</b> installed."
+msgstr "El complemento requerido \"<i>To Lands Unknown - Resources</i>\" <b>no</b> está instalado.."
+
+#. [dummy]: id=metamorph
+#. [value]: id=metamorph
+#: To_Lands_Unknown\macros\abilities.cfg:7
+#: To_Lands_Unknown\macros\items.cfg:777
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1603
+msgid "metamorph"
+msgstr "metamorfo"
+
+#. [dummy]: id=metamorph
+#: To_Lands_Unknown\macros\abilities.cfg:8
+msgid "This elemental can turn into another type of elemental."
+msgstr "Esta unidad puede transformarse en una equivalente de otro elemento."
+
+#: To_Lands_Unknown\macros\abilities.cfg:136
+msgid "Turn into fire"
+msgstr "Transformar en fuego"
+
+#: To_Lands_Unknown\macros\abilities.cfg:137
+msgid "Turn into water"
+msgstr "Transformar en agua"
+
+#: To_Lands_Unknown\macros\abilities.cfg:138
+msgid "Turn into air"
+msgstr "Transformar en aire"
+
+#: To_Lands_Unknown\macros\abilities.cfg:139
+msgid "Turn into earth"
+msgstr "Transformar en tierra"
+
+#. [dummy]: id=meditation
+#: To_Lands_Unknown\macros\abilities.cfg:146
+msgid "meditation"
+msgstr "meditación"
+
+#. [dummy]: id=meditation
+#: To_Lands_Unknown\macros\abilities.cfg:147
+msgid "This unit gains 1 point of experience at the start of his side's turn if he wasn't moving on the previous turn."
+msgstr "Esta unidad gana 1 PX al comienzo de su turno si no se movió ni atacó en el turno anterior."
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:3
+msgid ""
+"Legends say that this scimitar can magically lead a hand of the owner so his strikes are more deadly and hit more often.\n"
+"\n"
+"- Attack increases by 100%\n"
+"- Chance to hit is constant and equals 70%\n"
+"- If the unit's scimitar already has weapon specials, they are overwritten\n"
+"\n"
+"Should this unit pick up the scimitar?"
+msgstr ""
+"Según las leyendas, esta cimitarra guía mágicamente la mano del portador, volviendo sus golpes más letales y certeros.\n"
+"\n"
+"- El ataque aumenta en 100%.\n"
+"- El ataque tiene una probabilidad de golpear fija de 70%.\n"
+"\n"
+"¿Deseas recoger la cimitarra?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:12
+msgid ""
+"Propelled by Abyssal winds, and woven from magical threads. Those lucky enough who possess this ancient vehicle gain amazing mobility.\n"
+"\n"
+"- Advances the unit (unless the unit is already at maximum level)\n"
+"- Speed increases by 50%\n"
+"\n"
+"Should this unit pick up the carpet?"
+msgstr ""
+"Propulsada por vientos del Averno y tejida con hilos mágicos. Aquellos afortunados que adquieran este antiguo vehículo gozarán de una movilidad increíble.\n"
+"\n"
+"- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"- Su velocidad aumenta en 50%.\n"
+"\n"
+"¿Deseas recoger la alfombra?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:19
+msgid ""
+"This mysterius ring is richly decorated with magical symbols connected to the Abyss, mending wounds of the bearer.\n"
+"- Grants regeneration\n"
+"\n"
+"Should this unit pick up the ring?"
+msgstr ""
+"Este anillo misterioso está ornamentado ricamente y grabado con símbolos mágicos conectados al Averno, capaces de sanar las heridas del portador.\n"
+"- Otorga regeneración.\n"
+"\n"
+"¿Deseas recoger el anillo?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:24
+msgid ""
+"Marked with mysterious symbols, this cloak was enchanted a long time ago, shielding the wearer from the desert heat and flames alike.\n"
+"\n"
+"- Advances the unit (unless the unit is already at maximum level)\n"
+"- Grants 50% fire resistance\n"
+"\n"
+"Should this unit pick up the cloak?"
+msgstr ""
+"Esta capa fue encantada hace mucho tiempo y grabada con símbolos misteriosos, capaces de resguardar al portador del calor del desierto y del fuego.\n"
+"\n"
+"- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"- Otorga 50% de resistencia al fuego.\n"
+"\n"
+"¿Deseas recoger la capa?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:31
+msgid ""
+"This unique headgear had to belong to a very powerful summoner. It follows from the amazing workmanship and the glitter of the big crystal in the front.\n"
+"\n"
+"- Increases magical power by 20%\n"
+"- Decreases experience points needed for advancement by 25%\n"
+"\n"
+"Should this unit pick up the cap?"
+msgstr ""
+"Este turbante singular seguramente perteneció a un invocador muy poderoso. Es obvio al observar la calidad y el fulgor del gran cristal en el frente.\n"
+"\n"
+"- Aumenta el poder mágico en 20%.\n"
+"- Reduce los puntos de experiencia requeridos para promocionar en 25%.\n"
+"\n"
+"¿Deseas recoger el tocado?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:38
+msgid ""
+"Richly decorated plates, solid workmanship and magical symbols: this must be the legendary armor made by the Ka-Gattans blacksmiths.\n"
+"\n"
+"- Increases physical resistances by 25%\n"
+"- Increases fire and cold resistances by 20%\n"
+"- Decreases arcane resistance by 15%\n"
+"\n"
+"Should this unit pick up the armor?"
+msgstr ""
+"Placas ricamente ornamentadas, ejecución sólida y símbolos mágicos: esta debe ser la legendaria armadura fabricada por los herreros de Ka-Gatta.\n"
+"\n"
+"- Aumenta las resistencias físicas en 25%.\n"
+"- Aumenta las resistencias contra el fuego y el frío en 20%.\n"
+"- Reduce  la resistencia arcana en 15%.\n"
+"\n"
+"¿Deseas recoger la armadura?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:46
+msgid ""
+"This pike, forged from raw abyssal energy, is the weapon once wielded by the very first Rhami'kai of. The spears used by her successors were were made from mundane metal.\n"
+"\n"
+"- Advances the unit (unless the unit is already at maximum level)\n"
+"- Increases the attack by 25%\n"
+"- Increases magical resistances by 10%\n"
+"\n"
+"Should this unit pick up the spear?"
+msgstr ""
+"Esta pica, forjada puramente a partir de energía del averno, es el arma utilizada por la primera Rhami'kai. Una obra excepcional, en comparación con las armas de sus sucesoras, fabricadas en serie a partir de metal mundano.\n"
+"\n"
+"- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"- Aumenta el ataque en 25%.\n"
+"- Aumenta las resistencias mágicas en 10%.\n"
+"\n"
+"¿Deseas recoger la lanza?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:54
+msgid ""
+"A legendary masterpiece made by the Ancestors in the olden times. Its unique powers enabled the magical being to be recalled back to the mortal world after being killed.\n"
+"\n"
+"- The unit is recalled back to the leader when dies\n"
+"- After each recall the unit is fully healed\n"
+"- The unit can be recalled only 3 times. After that it dies for sure.\n"
+"\n"
+"Should this unit pick up the collar?"
+msgstr ""
+"Una legendaria obra maestra, fabricada por los ancestros en tiempos antiguos. Sus poderes singulares permiten que una entidad mágica sea llamada de vuelta tras ser asesinada.\n"
+"\n"
+"- La unidad se reincorpora junto al líder al morir.\n"
+"- Después de cada reincorporación, la unidad se sana completamente.\n"
+"- Válido solo para 3 usos. Después, la unidad muere definitivamente.\n"
+"\n"
+"¿Deseas recoger el collar?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:62
+msgid ""
+"When the Ancestors summoned first elementals — entities made of pure energy -  they dreamed about replicating the Elemental Bird - a mix of all four known elements. Unfortunately they failed, but at least ended up with an unique amulet, capable of transforming one forms of an elemental into another. One might go as far as saying this is one of the most powerful relics made by the Ancestors.\n"
+"The elemental unit can turn into another elemental (use right-click on the unit to activate)\n"
+"\n"
+"Should this unit pick up the amulet?"
+msgstr ""
+"Mientras los ancestros invocaban a los primeros elementales —entidades de energía pura—, soñaban con replicar el Ave Elemental, mezcla de los cuatro elementos conocidos. Desafortunadamente, fallaron, pero por lo menos fabricaron un amuleto singular, capaz de transformar un elemental en otra manifestación. Se podría decir que esta es una de las reliquias más poderosas alguna vez fabricadas por los ancestros.\n"
+"Permite a la unidad elemental convertirse en una homóloga de otro elemento (presione clic derecho en la unidad para activar).\n"
+"\n"
+"¿Deseas recoger el amuleto?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:67
+msgid ""
+"This staff is rumored to have been the very one wielded by the first Master of Banishers. Its power is formidable even in untrained hands.\n"
+"\n"
+"- Advances the unit (unless the unit is already at maximum level)\n"
+"- the banishment attack never misses\n"
+"- the staff/frozen gate attacks deal +2 damage \n"
+"- increases magical resistances by 10%\n"
+"\n"
+"Should this unit pick up the staff?"
+msgstr ""
+"Se rumorea que este bastón fue el usado por el primero Maestro de los Desterradores. Su poder es formidable incluso en manos no entrenadas.\n"
+"\n"
+"- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"- El ataque destierro nunca falla.\n"
+"- El ataque portal congelado gana +2 de daño.\n"
+"- Aumenta las resistencias mágicas en 10%.\n"
+"\n"
+"¿Deseas recoger el bastón?"
+
+#: To_Lands_Unknown\macros\artifact-descriptions.cfg:76
+msgid ""
+"This sphere was found in Reficul's camp. It emits a magical barrier around the bearer, protecting him from most kinds of damage. Tar-Tabar's enchanters have managed to adapt it for human use, but at a slight expense of effectiveness.\n"
+"\n"
+"- increases physical and magical resistances by 15%\n"
+"\n"
+"Should this unit pick up the sphere?"
+msgstr ""
+"Esta esfera fue hallada en el campamento de Reficul. Emite una barrera mágica alrededor del portador, la cual lo protege de la mayoría de daños. Los encantadores de Tar-Tabar la han adaptado para uso por humanos, pero con una pequeña pérdida de eficacia.\n"
+"\n"
+"- Aumenta las resistencias físicas y mágicas en 15%.\n"
+"\n"
+"¿Deseas recoger la esfera?"
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:58
+msgid " for later use (on recruit/recall of a unit)"
+msgstr "  para uso posterior (al reclutar o reincorporar una unidad)"
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\macros\items.cfg:103
+msgid "You can still take the item for later use, though."
+msgstr "Puedes recoger el objeto para asignarlo después, no obstante."
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\macros\items.cfg:143
+msgid "At the moment you do not have a unit in your army who could use this artifact. However the item will be picked up, so it can wait for a suitable unit to be recruited or recalled."
+msgstr "Por ahora, ninguna de tus tropas puede utilizar este artefacto. Sin embargo, el item quedará guardado y podrás asignarlo cuando adquieras una unidad compatible."
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:317
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:686
+msgid "carpet^Take it"
+msgstr "Tómala"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:321
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:688
+msgid "Golden Carpet"
+msgstr "Alfombra dorada"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:324
+msgid ""
+"Woven of golden threads, inspired by Abyssal winds. Everyone who possesses this ancient vehicle gains amazing speed and agility.\n"
+"Speed increases by 50%"
+msgstr ""
+"Tejida de hilos dorados, guiada por vientos del Averno. Quien posea este antiguo transporte adquiere velocidad y agilidad sorprendente.\n"
+"La velocidad aumenta en 50%."
+
+#. [value]: id=gcarpet
+#: To_Lands_Unknown\macros\items.cfg:350
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:721
+msgid "golden carpet"
+msgstr "alfombra dorada"
+
+#. [value]: id=gcarpet
+#: To_Lands_Unknown\macros\items.cfg:351
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:722
+msgid ""
+"This unit flies on the ancient Golden Carpet.\n"
+"\n"
+"Effects:\n"
+"Speed increases by 50%"
+msgstr ""
+"Esta unidad vuela sobre la antigua Alfombra dorada.\n"
+"\n"
+"Efectos:\n"
+"La velocidad aumenta en 50%."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:375
+msgid "carpet^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:412
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:830
+msgid "cloak^Take it"
+msgstr "Tómala"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:416
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:832
+msgid "Desert Cloak"
+msgstr "Capa del desierto"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:419
+msgid ""
+"Marked with mysterious symbols, this cloak was enchanted a long time ago, but it still grants its owner good protection against fire.\n"
+"Advances the unit (unless the unit is already at maximum level)\n"
+"Grants 50% fire resistance"
+msgstr ""
+"Grabada con símbolos misteriosos, esta capa fue encantada hace mucho tiempo, pero aún mantiene a su portador a buen recaudo contra el fuego.\n"
+"Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"Otorga 50% de resistencia al fuego."
+
+#. [value]: id=dcloak
+#: To_Lands_Unknown\macros\items.cfg:449
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:868
+msgid "desert cloak"
+msgstr "capa del desierto"
+
+#. [value]: id=dcloak
+#: To_Lands_Unknown\macros\items.cfg:450
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:869
+msgid ""
+"This unit wears the famous Desert Cloak of ancients.\n"
+"\n"
+"Effects:\n"
+"Grants 50% fire resistance"
+msgstr ""
+"Esta unidad ha heredado de los antiguos la famosa Capa del desierto.\n"
+"\n"
+"Efectos:\n"
+"Otorga 50% de resistencia al fuego."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:474
+msgid "cloak^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:511
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1299
+msgid "spear^Take it"
+msgstr "Tómala"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:515
+msgid "Spear of Rhami"
+msgstr "Lanza de rhami"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:518
+msgid ""
+"This weapon, forged from the light of the Abyss, is a part of the equipment used by magical entities called Rhami’kai. The Ancestors stole one of those spears and enhanced it magically.\n"
+"Advances the unit (unless the unit is already at maximum level)\n"
+"Increases the attack by 25%\n"
+"Increases magical resistances by 10%"
+msgstr ""
+"Esta arma, forjada de la luz del Averno, es parte del equipamiento usado por entidades mágicas llamadas Rhami’kai. Los ancestros robaron una de esas lanzas y la mejoraron mágicamente.\n"
+"Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"Aumenta el ataque en 25%.\n"
+"Aumenta las resistencias mágicas en 10%."
+
+#. [value]: id=spearrhami
+#: To_Lands_Unknown\macros\items.cfg:577
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1366
+msgid "spear of rhami"
+msgstr "lanza de rhami"
+
+#. [value]: id=spearrhami
+#: To_Lands_Unknown\macros\items.cfg:578
+msgid ""
+"This unit is holding a powerful spear of abysmal origin.\n"
+"\n"
+"Effects:\n"
+"Increases the attack by 25%\n"
+"Increases magic resistance by 10%"
+msgstr ""
+"Esta unidad sostiene una poderosa lanza de origen avernal.\n"
+"\n"
+"Efectos:\n"
+"Aumenta el ataque en 25%.\n"
+"Aumenta la resistencia mágica en 10%."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:603
+msgid "spear^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:640
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1467
+msgid "collar^Take it"
+msgstr "Tómalo"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:644
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1469
+msgid "Collar of Recall"
+msgstr "Collar de invocación"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:647
+msgid ""
+"A legendary artifact, a masterpiece made by the Ancestors. In olden times a magical collar was made, which when placed upon a magical being, could recall it after death.\n"
+"The unit is recalled back to the leader\n"
+"After each recall the unit is fully healed\n"
+"The unit can be recalled only 3 times. After that it dies for sure."
+msgstr ""
+"Un artefacto legendario, una obra maestra hecha por los ancestros. En los viejos tiempos se hizo un collar mágico, que al ser vestido por un ser mágico, permitía invocarlo después de su muerte.\n"
+"La unidad es invocada por el líder.\n"
+"Después de cada invocación, la unidad se sana completamente.\n"
+"La unidad se puede invocar solo 3 veces. Después, muere definitamente."
+
+#. [value]: id=collar
+#: To_Lands_Unknown\macros\items.cfg:679
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1515
+msgid "collar"
+msgstr "collar"
+
+#. [value]: id=collar
+#: To_Lands_Unknown\macros\items.cfg:680
+msgid "After death the unit is recalled back to leader. Activates only 3 times."
+msgstr "Después de la muerte, la unidad vuelve donde el líder. Se activa solo 3 veces."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:706
+msgid "collar^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:743
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1553
+msgid "amulet^Take it"
+msgstr "Tómalo"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:747
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1555
+msgid "Amulet of Metamorph"
+msgstr "Amuleto de metamorfosis"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:750
+msgid ""
+"The Ancestors were fascinated with elementals — entities made of pure energy. They also dreamed about creating a creature from a mix of all four known elements. Unfortunately they failed. Yet at the end an unique amulet was created, capable of transforming one element into another one. This is one of the most powerful relics made by the Ancestors.\n"
+"The elemental unit can turn into other elemental\n"
+"(use right-click on the unit to activate)"
+msgstr ""
+"Los ancestros estaban fascinados con los elementales, entidades hechas de energía pura. También soñaban con crear una criatura a partir de una mezcla de los cuatro elementos conocidos. Lamentablemente fallaron. Sin embargo, al final se creó un amuleto único, capaz de transformar un elemento en otro. Esta es una de las reliquias más poderosas hechas por los ancestros.\n"
+"La unidad elemental puede transformarse en otra.\n"
+"(usa clic derecho en la unidad para activar)"
+
+#. [value]: id=metamorph
+#: To_Lands_Unknown\macros\items.cfg:778
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1604
+msgid ""
+"This elemental wears the Amulet of Metamorph.\n"
+"\n"
+"Effects:\n"
+"The elemental unit can turn into another elemental (use right-click on the unit to activate).\n"
+"The unit becomes loyal."
+msgstr ""
+"Este elemental porta el Amuleto de metamorfosis.\n"
+"\n"
+"Efectos:\n"
+"La unidad elemental puede transformarse en otro elemental (clique con el botón derecho en la unidad para activar).\n"
+"La unidad se vuelve leal."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:821
+msgid "amulet^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:857
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1224
+msgid "armor^Take it"
+msgstr "Tómala"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:861
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1226
+msgid "Cuirass of the Ancients"
+msgstr "Coraza de los antiguos"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:864
+msgid ""
+"Richly decorated plates, solid workmanship and magical symbols: this must be the legendary armor of Ka-Gattans.\n"
+"\n"
+"- Increases physical resistances by 25%\n"
+"- Increases fire and cold resistances by 20%\n"
+"- Decreases arcane resistance by 15%"
+msgstr ""
+"Placas ricamente decoradas, acabado sólido y símbolos mágicos: esta debe ser la legendaria armadura de Ka-Gattans.\n"
+"\n"
+"- Aumenta las resistencias físicas en 25%.\n"
+"- Aumenta las resistencias de fuego y frío en 20%.\n"
+"- Reduce la resistencia arcana en 15%."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:911
+msgid "armor^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:947
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1618
+msgid "staff^Take it"
+msgstr "Tómalo"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:951
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1620
+msgid "Banishment Staff"
+msgstr "Bastón de destierro"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:954
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1623
+msgid ""
+"- Advances the unit (unless the unit is already at maximum level)\n"
+"- the banishment attack never misses\n"
+"- the staff/frozen gate attacks deal +2 damage \n"
+"- increases magical resistances by 10%"
+msgstr ""
+"- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"- El ataque de destierro nunca falla\n"
+"- El ataque de portal congelado gana +2 de daño.\n"
+"- Aumenta las resistencias mágicas en 10%."
+
+#. [value]: id=staffbanisher
+#: To_Lands_Unknown\macros\items.cfg:1014
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1687
+msgid "banishment staff"
+msgstr "bastón de destierro"
+
+#. [value]: id=staffbanisher
+#: To_Lands_Unknown\macros\items.cfg:1015
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1688
+msgid ""
+"This unit is holding a powerful staff which once belonging to the first Master of Banishers.\n"
+"\n"
+"Effects:\n"
+"- the banishment attack never misses\n"
+"- the staff/frozen gate attacks deal +2 damage \n"
+"- increases magical resistances by 10%"
+msgstr ""
+"Esta unidad porta un poderoso bastón que alguna vez perteneció al primer Maestro de los Desterradores.\n"
+"\n"
+"Efectos:\n"
+"- El ataque de destierro nunca falla.\n"
+"- El ataque de portal congelado inflige +2 de daño adicional.\n"
+"- Aumenta las resistencias mágicas en 10%."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:1042
+msgid "staff^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:1078
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:779
+msgid "ring^Take it"
+msgstr "Tómalo"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:1082
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:781
+msgid "Ring of Regeneration"
+msgstr "Anillo de regeneración"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:1085
+msgid ""
+"This mysterius ring is richly decorated with magical symbols making it somehow connected to the Abyss. The bearer of this relic may benefit from strange energies flowing into his body, healing him effectively.\n"
+"- Grants regeneration"
+msgstr ""
+"Este anillo misterioso está ricamente ornamentado con símbolos mágicos, lo que de alguna manera lo conecta al Averno. El portador de esta reliquia puede beneficiarse de energías extrañas que fluyen hacia su cuerpo y resultan en su sanación.\n"
+"- Otorga regeneración."
+
+#. [value]: id=regenring
+#: To_Lands_Unknown\macros\items.cfg:1110
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:814
+msgid "ring of regeneration"
+msgstr "anillo de regeneración"
+
+#. [value]: id=regenring
+#: To_Lands_Unknown\macros\items.cfg:1111
+msgid ""
+"This unit wears the Ring of Regeneration.\n"
+"\n"
+"Effects:\n"
+"Grants regeneration"
+msgstr ""
+"Esta unidad porta el anillo de regeneración.\n"
+"\n"
+"Efectos:\n"
+"Otorga regeneración."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:1135
+msgid "ring^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#. [scenario]: id=08_Ka-gatta
+#: To_Lands_Unknown\macros\items.cfg:1171
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:890
+msgid "cap^Take it"
+msgstr "Tómalo"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:1175
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:892
+msgid "Cap of Power"
+msgstr "Turbante poderoso"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:1178
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:895
+msgid ""
+"Increases magical power by 20%\n"
+"Decreases experience points needed for advancement by 25%"
+msgstr ""
+"Aumenta el poder mágico en 20%.\n"
+"Reduce los puntos de experiencia necesarios para la promoción en 25%."
+
+#. [value]: id=capofpower
+#: To_Lands_Unknown\macros\items.cfg:1231
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:948
+msgid "cap of power"
+msgstr "turbante poderoso"
+
+#. [value]: id=capofpower
+#: To_Lands_Unknown\macros\items.cfg:1232
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:949
+msgid ""
+"This unit wears a magical cap, which enhances its magical power.\n"
+"\n"
+"Effects:\n"
+"Increases magical power by 20%\n"
+"Decreases experience points needed for advancement by 25%"
+msgstr ""
+"Esta unidad porta un turbante encantado, lo que mejora su habilidad mágica.\n"
+"\n"
+"Efectos:\n"
+"Aumenta el poder mágico en 20%.\n"
+"Reduce los puntos de experiencia necesarios para el avance en 25%."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:1257
+msgid "cap^Leave it for another unit"
+msgstr "Saltar"
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:1292
+msgid "sphere^Take it"
+msgstr "Tómala"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:1296
+msgid "Reficul's sphere"
+msgstr "Esfera de Reficul"
+
+#. [object]
+#: To_Lands_Unknown\macros\items.cfg:1299
+msgid "Increases magical and physical resistances by 15%"
+msgstr "Aumenta las resistencias mágicas y físicas en 15%."
+
+#. [value]: id=sphereofreficul
+#: To_Lands_Unknown\macros\items.cfg:1332
+msgid "reficul's sphere"
+msgstr "esfera de reficul"
+
+#. [value]: id=sphereofreficul
+#: To_Lands_Unknown\macros\items.cfg:1333
+msgid ""
+"This unit wears a sphere once belonging to Reficul.\n"
+"\n"
+"Effects:\n"
+"Resitances to physical and magical attacks are increased by 15%"
+msgstr ""
+"Esta unidad porta una esfera que alguna vez perteneció a Reficul.\n"
+"\n"
+"Efectos:\n"
+"Las resistencias a los ataques físicos y mágicos aumentan en 15%."
+
+#. [option]
+#: To_Lands_Unknown\macros\items.cfg:1357
+msgid "sphere^Leave it for another unit"
+msgstr "Saltar"
+
+#. [unstore_unit]
+#: To_Lands_Unknown\macros\macros.cfg:103
+msgid "Recalled..."
+msgstr "Invocado..."
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\macros\macros.cfg:145
+msgid ""
+"Note: Your unit has become a Neutral Summoner. He can now summon friendly Jinn to aid your cause, but Mehir is not experienced enough at this stage of the story, to maintain such a unit. This means all summoned Jinn will disappear every time you advance to the next scenario.\n"
+"\n"
+"When Mehir becomes a Summons Master, he will be able to keep them and carry between missions."
+msgstr ""
+"Nota: Su unidad se ha convertido en un invocador neutral. Ahora puede convocar a genios amigable para ayudarte en tu causa, pero Mehir no tiene suficiente experiencia para conservar tal unidad. Esto significa que todos los genios convocados desaparecerán cada vez que avance al siguiente escenario.\n"
+"\n"
+"Cuando Mehir progrese en un Maestro de las Invocaciones, podrás mantenerlos a través de múltiples misiones."
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\macros\macros.cfg:170
+msgid "Note: All summoned Jinn have returned to the Abyss. Remember: Mehir needs to be a Summons Master to carry them between missions."
+msgstr "Nota: Todos los Jinn convocados han regresado al averno. Recuerde: Mehir debe ser un Maestro de las invocaciones para conservarlo entre misiones."
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\macros\macros.cfg:200
+msgid "Note: You have summoned a Jinni. Unfortunately Mehir is not experienced enough at this stage of the story to carry such a unit between missions. The summoned jinni will disappear at the end of the current scenario."
+msgstr "Nota: Has invocado un genio. Desafortunadamente, Mehir no tiene suficiente experiencia en esta etapa de la historia para mantenerla. El genio convocado desaparecerá al final del escenario actual."
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\macros\macros.cfg:236
+msgid "Note: Grand Summoners can't advance now, but if one gets an AMLA, they'll become Summons Masters when Mehir recalls them while being a Summons Master himself."
+msgstr "Nota: Un Gran Invocador no puede ser promocionado a la siguiente etapa, pero si alguno adquiere la experiencia para un ASNM, se volverán Maestros de las invocaciones cuando Mehir los reinvoque luego de que sea un Maestro de las invocaciones."
+
+#. [set_menu_item]: id=badass_mode_toggle
+#. [set_menu_item]: id=badass_mode_toggle_last
+#: To_Lands_Unknown\macros\macros.cfg:311
+#: To_Lands_Unknown\macros\macros.cfg:405
+msgid "Toggle Badass Mode"
+msgstr "Activar Modo rudo"
+
+#. [side]
+#: To_Lands_Unknown\macros\macros.cfg:531
+msgid "team_name^DharmaRashti"
+msgstr "DharmaRashti"
+
+#. [side]
+#: To_Lands_Unknown\macros\macros.cfg:547
+msgid "team_name^HoRashti"
+msgstr "HoRashti"
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\macros\macros.cfg:1049
+msgid "It looks like Rashti has lost her balance once again!"
+msgstr "¡Parece que Rashti volvió a perder su armonía!"
