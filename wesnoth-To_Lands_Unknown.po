@@ -433,7 +433,7 @@ msgstr "<i>Atónita</i>"
 
 #. [message]: speaker=Rashti
 msgid "*freezes in place*"
-msgstr "<i>se congela en su lugar</i>"
+msgstr "<i>$1<\/i>e congela en su lugar</i>"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -478,7 +478,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*gives him a cold stare*"
-msgstr "<i>le da una mirada fría</i>"
+msgstr "<i>Le da una mirada gélida.</i>"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -537,11 +537,11 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "*impales herself with her spear*"
-msgstr "<i>se empala con su lanza</i>"
+msgstr "<i>$1<\/i>e empala con su lanza</i>"
 
 #. [message]: speaker=Rashti
 msgid "*impressed*"
-msgstr "<i>impresionado</i>"
+msgstr "<i>Impresionada.</i>"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -557,16 +557,16 @@ msgstr "<i>Mira a Glomin, luego a Mejir</i> trajiste un <b> enano </b> aquí?"
 
 #. [message]: speaker=Rashti
 msgid "*looks at Jaffar*"
-msgstr "<i>mira a Yafar</i>"
+msgstr "<i>Mira a Yafar.</i>"
 
 #. [message]: speaker=Keeper
 msgid "*looks at Mehir with fury in his eyes*"
-msgstr "<i>mira a Mejir con furia en sus ojos</i>"
+msgstr "<i>Mira a Mejir con furia en sus ojos.</i>"
 
 #. [message]: speaker=Rashti
 #. [message]: speaker=Mehir
 msgid "*looks at Semir*"
-msgstr "<i>mira a Semir</i>"
+msgstr "<i>Mira a Semir</i>"
 
 #. [message]: speaker=Mehir
 msgid "*nervously* Did... did you hear that?"
@@ -592,12 +592,12 @@ msgid ""
 "*pants* What is going on here?! The messenger said the palace was under "
 "attack!"
 msgstr ""
-"<i>Pantalones</i> ¿Qué está pasando aquí? ¡El mensajero dijo que el palacio "
+"<i>Jadeando</i> ¿Qué está pasando aquí? ¡El mensajero dijo que el palacio "
 "estaba bajo ataque!"
 
 #. [message]: speaker=Mehir
 msgid "*puts on sunglasses* Yes."
-msgstr "<i>se pone gafas de sol</i> Sí."
+msgstr "<i>$1<\/i>e pone gafas de sol</i> Sí."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -632,7 +632,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "*shrieks*"
-msgstr "<i>chillidos</i>"
+msgstr "<i>Chillidos.</i>"
 
 #. [message]: speaker=Mage
 msgid ""
@@ -654,7 +654,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "*sigh* Fine, I will eat this... crab of yours..."
-msgstr "<i>suspiro</i> bien, comeré esto... cangrejo tuyo..."
+msgstr "<i>$1<\/i>uspiro</i> bien, comeré esto... cangrejo tuyo..."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -677,19 +677,19 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*sigh* Fine, let's pretend we never saw this."
-msgstr "<i>suspiro</i> bien, fingamos que nunca vimos esto."
+msgstr "<i>$1<\/i>uspiro</i> bien, fingamos que nunca vimos esto."
 
 #. [message]: speaker=Bakha
 msgid "*sigh* Fine..."
-msgstr "<i>suspiro</i> bien..."
+msgstr "<i>$1<\/i>uspiro</i> bien..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I guess we have no choice..."
-msgstr "<i>suspiro</i> Supongo que no tenemos otra opción..."
+msgstr "<i>$1<\/i>uspiro</i> Supongo que no tenemos otra opción..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I hate my job... This can't possibly get any worse..."
-msgstr "<i>suspiro</i> Odio mi trabajo... esto no puede empeorar..."
+msgstr "<i>$1<\/i>uspiro</i> Odio mi trabajo... esto no puede empeorar..."
 
 #. [event]
 msgid "*sigh* I have failed..."
@@ -697,7 +697,7 @@ msgstr "Os lo advertí..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I told you, this is not a co..."
-msgstr "<i>suspiro</i> Te dije que esto no es un co..."
+msgstr "<i>$1<\/i>uspiro</i> Te dije que esto no es un co..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -711,7 +711,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*sigh* Maybe choosing you as my master wasn't such a good idea..."
-msgstr "<i>suspiro</i> tal vez elegirte como mi maestro no era una buena idea..."
+msgstr "<i>$1<\/i>uspiro</i> tal vez elegirte como mi maestro no era una buena idea..."
 
 #. [message]: speaker=Jaffar
 msgid ""
@@ -741,7 +741,7 @@ msgstr ""
 
 #. [message]: speaker=Elder2
 msgid "*sigh* You do have a point, but..."
-msgstr "<i>suspiro</i> tienes un punto, pero..."
+msgstr "<i>$1<\/i>uspiro</i> tienes un punto, pero..."
 
 #. [message]: speaker=Banisher
 msgid ""
@@ -753,23 +753,23 @@ msgstr ""
 
 #. [message]: speaker=unit
 msgid "*sigh* fine."
-msgstr "<i>suspiro</i> bien."
+msgstr "<i>$1<\/i>uspiro</i> bien."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* fine..."
-msgstr "<i>suspiro</i> bien..."
+msgstr "<i>$1<\/i>uspiro</i> bien..."
 
 #. [message]: speaker=Mehir
 msgid "*sighs with relief*"
-msgstr "<i>suspira con alivio</i>"
+msgstr "<i>$1<\/i>uspira con alivio</i>"
 
 #. [message]: speaker=guardian1
 msgid "*silently nods*"
-msgstr "<i>asiente en silencio</i>"
+msgstr "<i>Asiente en silencio</i>"
 
 #. [message]: speaker=Rashti
 msgid "*smiles gently*"
-msgstr "<i>sonríe suavemente</i>"
+msgstr "<i>Sonríe suavemente</i>"
 
 #. [message]: speaker=Guru
 msgid ""
@@ -800,7 +800,7 @@ msgstr ""
 
 #. [message]: speaker=Keeper
 msgid "*smokes the pipe for a moment*"
-msgstr "<i>fuma la tubería por un momento</i>"
+msgstr "<i>Fuma la pipa por un momento.</i>"
 
 #. [message]: speaker=Rashti
 msgid "*stares into the Abyss* The wind in my hair... it feels different now."
@@ -821,7 +821,7 @@ msgid ""
 "darkness lurking 'round here! But why the hell do ye need my precious "
 "battery?!"
 msgstr ""
-"<i>a Mejir</i> ¡Hola, tú! ¡Finalmente, alguien que no es uno de los 'empía de' "
+"<i>A Mejir</i> ¡Hola, tú! ¡Finalmente, alguien que no es uno de los 'empía de' "
 "oscuridad que acecha 'aquí! Pero, ¿por qué demonios necesitas mi preciosa "
 "batería?"
 
@@ -877,12 +877,12 @@ msgid ""
 "*to the mage* Stop shaking! And wipe the tears from your eyes. You look "
 "pathetic!"
 msgstr ""
-"<i>al mago</i> ¡Deja de sacudir! Y limpia las lágrimas de tus ojos. ¡Te ves "
+"<i>Al mago</i> ¡Deja de sacudir! Y limpia las lágrimas de tus ojos. ¡Te ves "
 "patético!"
 
 #. [message]: speaker=Um_Mu
 msgid "*turns to Mehir* Ah, you're back! Want more books?"
-msgstr "<i>se vuelve hacia Mejir</i> ¡Ah, estás de vuelta! ¿Quieres más libros?"
+msgstr "<i>$1<\/i>e vuelve hacia Mejir</i> ¡Ah, estás de vuelta! ¿Quieres más libros?"
 
 #. [message]: speaker=Um_Mu
 msgid ""
@@ -910,7 +910,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "*visibly drunk* I... *hic* won..."
-msgstr "<i>visiblemente borracho</i> i...* hic* ganó..."
+msgstr "<i>Visiblemente borracho</i> He...* hic* ganado..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -924,12 +924,12 @@ msgstr ""
 
 #. [event]
 msgid "*whistles*"
-msgstr "<i>silbatos</i>"
+msgstr "<i>$1<\/i>ilbatos</i>"
 
 #. [message]: speaker=Mehir
 #. [event]
 msgid "*yawn*"
-msgstr "<i>bostezo</i>"
+msgstr "<i>Bostezo.</i>"
 
 #. [unstore_unit]
 msgid "+1 exp"
