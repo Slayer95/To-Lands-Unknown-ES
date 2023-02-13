@@ -50,7 +50,7 @@ msgid ""
 "(bows) <i>*in the saurian language* I have brought the humansss, as you "
 "requesssted, o mighty Keeper.</i>"
 msgstr ""
-"(Bows) <i>* en el idioma sauriano* He traído a los humanos, como usted "
+"(Bows) <i>* en el idioma saurio* He traído a los humanos, como usted "
 "solicitó, oh poderoso guardián. </i>"
 
 #. [message]: speaker=SpearGuardian
@@ -137,7 +137,7 @@ msgstr ""
 
 #. [message]: speaker=Rhaxiz
 msgid "(says something in the saurian language)"
-msgstr "(dice algo en el idioma sauriano)"
+msgstr "(dice algo en el idioma saurio)"
 
 #. [message]: speaker=Rhaxiz
 msgid "(series of gestures demanding retreat)"
@@ -1356,7 +1356,7 @@ msgstr "<b> ¡vamos a morir! </b>"
 msgid ""
 "<i>*in the saurian language* Very well, my aprentisss. You may leave.</i>"
 msgstr ""
-"<i>* en el idioma sauriano* muy bien, mis aprentisss. Puedes irte. </i>"
+"<i>* en el idioma saurio* muy bien, mis aprentisss. Puedes irte. </i>"
 
 #. [message]: speaker=Rashti
 msgid ""
