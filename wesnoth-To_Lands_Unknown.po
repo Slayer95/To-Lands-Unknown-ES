@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  wesnoth-To_Lands_Unknown.po  #-#-#-#-#\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-12 08:07 UTC\n"
@@ -14,16 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2.2\n"
-"#-#-#-#-#  TLU-raw.pot (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-02-13 00:20 UTC\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 msgid ""
 "\n"
@@ -55,22 +43,22 @@ msgstr "!"
 
 #. [message]: speaker=Mehir
 msgid "'By the Sun'? Wait a second, are you... Kharosian?"
-msgstr "'Por el Sol'? Espera un segundo. Eres..., ¿carosano?"
+msgstr "¿'Por el Sol'? Espera un segundo. Eres..., ¿carosano?"
 
 #. [message]: speaker=Rhaxiz
 msgid ""
 "(bows) <i>*in the saurian language* I have brought the humansss, as you "
 "requesssted, o mighty Keeper.</i>"
 msgstr ""
-"(Bows) <i>*en el idioma saurio* He traído a los humanoss, como usssted "
-"sssolicitó, oh, poderossso Guardián. </i>"
+"<i><span style='font-weight: bold'>Hace una venia y habla en saurio.</span> He traído a los humanosss, como usssted "
+"sssolicitó, oh, poderossso Guardián</i>.
 
 #. [message]: speaker=SpearGuardian
 msgid ""
 "(finally catching up) Greetings, your Highness! Your servant Mehir found me "
 "in the caves and released from my post by your request."
 msgstr ""
-"(Llega finalmente) ¡Saludos, Alteza! Su sirviente Mejir me encontró en las "
+"<i>Llega finalmente.</i> ¡Saludos, Alteza! Su sirviente Mejir me encontró en las "
 "cuevas y me relevó de la guardia por vuestra solicitud."
 
 #. [message]: speaker=Rhaxiz
@@ -87,23 +75,22 @@ msgstr "<i>Entrega la licencia.</i> Uhh, claro, aquí tenéis."
 
 #. [message]: speaker=Rhaxiz
 msgid "(hisses in a furious manner and pushes Mehir and Jaffar up the stairs)"
-msgstr ""
-"<i>Sisea furiosamente y empuja a Mejir y Jaffar por las escaleras.</i>"
+msgstr <i>Sisea furiosamente y empuja a Mejir y Jaffar por las escaleras.</i>"
 
 #. [message]: type=EoMa_Jungle_Guardian
 msgid ""
 "(in saurian) <i>Thisss isss outrageousss! Your Highnesss, thessse humansss "
 "deserve death!</i>"
 msgstr ""
-"<i>(En saurio)</i> <i>Esssto essss essscandalossso! ¡Su Alteza, essstos humanosss "
-"merecen la muerte! </i>"
+"<i><span style='font-weight: bold'>En saurio.</span> Esssto essss essscandalossso! ¡Su Alteza, essstos humanosss "
+"merecen la muerte!</i>"
 
 #. [message]: speaker=Rashti
 msgid ""
 "(looks at Mehir) Finally, somebody actually bothered to send reinforcements! "
 "What took them so long?"
 msgstr ""
-"(mira a Mejir) ¡Finalmente, alguien se tuvo que molestar en enviar refuerzos! "
+"<i>Mira a Mejir</i> ¡Finalmente, alguien se tuvo que molestar en enviar refuerzos! "
 "¿Cómo es que tardaron tanto?"
 
 #. [message]: speaker=Glomin
@@ -111,7 +98,7 @@ msgid ""
 "(looks at the battlefield, eyes wider) My wrench be damned! What is goin' on "
 "here?!"
 msgstr ""
-"(Observa con los ojos dilatados el campo de batalla) ¡Maldita mi llave! "
+"<i>Observa con los ojos dilatados el campo de batalla.</i> ¡Maldita mi llave! "
 "¡¿Qué ha pasao aquí?!"
 
 #. [objective]: condition=win
@@ -125,7 +112,7 @@ msgid ""
 "representative of our technologically advanced civilization. May it have the "
 "honor of speaking with your leader?"
 msgstr ""
-"(reproduce un mensaje pregrabado) Saludos, organismos inteligentes. Ciertamente, "
+"<i>Reproduce un mensaje pregrabado.</i> Saludos, organismos inteligentes. Ciertamente, "
 "es un placer conoceros. Este modelo de combate no es más que un humilde "
 "representante de nuestra desarrollada civilización técnica. "
 "¿Se puede tener el honor de una entrevista con vuestro líder?"
@@ -141,7 +128,7 @@ msgid ""
 "Though in your defense, it was a good idea to bring her, and the spear is "
 "still safe with her. Just don't pull more such tricks next time."
 msgstr ""
-"(secretamente a Mejir) Puedes ser inteligente, pero no me engañarás. Ambos sabemos "
+"<i>A Mejir, en secreto.</i> Puedes ser inteligente, pero no me engañarás. Ambos sabemos "
 "muy bien que en realidad no he relevado a la Guardiana de la Lanza de su puesto. "
 "Aunque, en tu defensa, fue una buena idea traerla, y la lanza todavía está a "
 "salvo con ella. Simplemente no intentes más artimañas la próxima vez."
@@ -164,7 +151,7 @@ msgid ""
 "(takes a look at the gold inside) Holy vizier! This is a quarter of the Sud-"
 "Affar's entire military budget! My goodness..."
 msgstr ""
-"(echa un vistazo al oro contenido) ¡Santo Visir! ¡Este es un cuarto de todo el "
+"<i>Echa un vistazo al oro contenido.</i> ¡Santo Visir! ¡Este es un cuarto de todo el "
 "presupuesto militar de Sud-Affar! Dios mío..."
 
 #. [message]: speaker=LizardMessenger
@@ -172,20 +159,20 @@ msgid ""
 "(the lizard says something, but it is too far away for Mehir to hear "
 "anything)"
 msgstr ""
-"(la lagartija dice algo, pero está muy lejos de Mejir, quien no logra "
-"oír nada)"
+"<i>La lagartija dice algo, pero está muy lejos de Mejir, quien no logra "
+"oír nada.</i>"
 
 #. [message]: speaker=Void
 msgid ""
 "(to Antiquarius) I still wonder, why did we bother with all the effort to "
 "get this particular summoner here?"
 msgstr ""
-"(a Antiquarius) Todavía me pregunto, ¿por qué nos esforzamos y tomamos tantas "
+"<i>A Antiquarius.</i> Todavía me pregunto, ¿por qué nos esforzamos y tomamos tantas "
 "molestias para traer a este invocador en particular?"
 
 #. [message]: speaker=Keeper
 msgid "(to Mehir) Do we have an agreement?"
-msgstr "<i>(A Mejir).</i> ¿Tenemos un trato?"
+msgstr "<i>A Mejir.</i> ¿Tenemos un trato?"
 
 #. [message]: speaker=second_unit
 msgid ""
@@ -193,20 +180,20 @@ msgid ""
 "blue half-red girlfriend and I'll let you be my slave instead of killing "
 "you. We can do unspeakable things together every day!"
 msgstr ""
-"<i>(A Mejir).</i> Jo, jo, jo, te ves bastante guapo para ser humano. Deja a tu novia "
+"<i>A Mejir.</i> Jo, jo, jo, te ves bastante guapo para ser humano. Deja a tu novia "
 "rojiazul y te dejaré ser mi esclavo en lugar de matarte. "
 "¡Podemos hacer cosas indecibles juntos todos los días!"
 
 #. [message]: speaker=Mehir
 msgid "(to Rashti) Did you actually do that?!"
-msgstr "<i>(A Rashti).</i> ¿Realmente hiciste semejante cosa?"
+msgstr "<i>A Rashti.</i> ¿Realmente hiciste semejante cosa?"
 
 #. [message]: id=$traitors[0].id
 msgid ""
 "(to another comrade) Hey look, finally the queen of the Red Abyss is living "
 "up to her name! What do you say about switching sides?"
 msgstr ""
-"(a otro camarada) ¡Oye, fíjate, finalmente la reina del Averno Rojo está a la "
+"<i>A otro camarada.</i> ¡Oye, fíjate, finalmente la reina del Averno Rojo está a la "
 "altura de su nombre! ¿Qué tal si cambiamos de bando?"
 
 #. [message]: speaker=Aerius
@@ -214,7 +201,7 @@ msgid ""
 "(to his troops) Just a small note: don't bother with the civilians. We're "
 "here for the lamp, not for carnage."
 msgstr ""
-"(a sus tropas) Ojo nomás: no os ensañéis con los civiles. Venimos "
+"<i>A sus tropas.</i> Ojo nomás: no os ensañéis con los civiles. Venimos "
 "por la lámpara, no por una masacre."
 
 #. [message]: speaker=guardian1
@@ -223,7 +210,7 @@ msgid ""
 "not exactly the most charismatic man in al-Kamija, nor does he have good "
 "leadership skills either."
 msgstr ""
-"(al anciano) *ejem* Francamente, aunque él sea un experto en su oficio, no es "
+"<i>Al anciano.</i> ¡Ejem! Francamente, aunque él sea un experto en su oficio, no es "
 "precisamente el hombre más carismático de Alcamiya, y tampoco está dotado de "
 "buenas habilidades de liderazgo."
 
@@ -232,12 +219,12 @@ msgid ""
 "(to the goblin) Hey, you, midget! Calm down, I mean you no harm. Go to your "
 "chief and tell him I'm here to make a deal."
 msgstr ""
-"(al goblin) ¡Ey, tú, enano! Cálmate, no te haré daño. Ve donde tu jefe y "
+"<i>Al goblin.</i> ¡Ey, tú, enano! Cálmate, no te haré daño. Ve donde tu jefe y "
 "dile que estoy aquí para hacer un trato."
 
 #. [message]: speaker=Rashti
 msgid "(to the master mage) Watch and learn, airhead..."
-msgstr "<i>(Al mago maestro).</i> Observa y aprende, cabeza hueca..."
+msgstr "<i>Al mago maestro.</i> Observa y aprende, cabeza hueca..."
 
 #. [message]: speaker=Alib
 msgid "(visibly drunk) I'm 'ere! *hic* Heehee!"
@@ -246,7 +233,7 @@ msgstr "<i>Visiblemente borracho.</i> ¡Ya llegué! ¡Hic! ¡Je, je!"
 #. [message]: speaker=Keeper
 msgid "(visibly faded, in saurian) <i>Calm down, I know what I'm doing.</i>"
 msgstr ""
-"**(visiblemente desvanecido, en saurio)* <i>Calma, sé lo que hago.</i>""
+"*<i><span style='font-weight: bold'>Visiblemente desvanecido, en saurio.</span> Calma, sé lo que hago.</i>""
 
 #. [message]: speaker=Mehir
 msgid "(whispers) Rashti kind of scares me, to be honest..."
@@ -254,7 +241,7 @@ msgstr "<i>Susurra.</i> Rashti es intimidante, francamente..."
 
 #. [message]: speaker=Mehir
 msgid "(whispers)...though everything will go up in smoke soon..."
-msgstr "<i>Susurra</i>... aunque todo se hará humo muy pronto..."
+msgstr "... <i>Susurra</i> Anque todo se hará humo muy pronto..."
 
 #. [message]: speaker=girl1
 msgid ""
@@ -511,7 +498,7 @@ msgstr ""
 #. [message]: speaker=Dedylos
 #. [message]: speaker=Mastermage
 msgid "*gulp*"
-msgstr "(glup)"
+msgstr "<i>Glup</i>"
 
 #. [message]: speaker=Unknown
 msgid "*heavy breathing* ...I...finally...found...you..."
@@ -6782,7 +6769,7 @@ msgid ""
 "Abyss faster than expected. Take care of her. Her death would cause "
 "disastrous consequences for our connection to the Abyss."
 msgstr ""
-"(susurra) ... callaos... (habla con normalidad) A pesar de todo, espero que "
+"... <i>Susurra.</i> Callaos... <i>Habla con normalidad.</i> A pesar de todo, espero que "
 "forméis un buen equipo, lo cual nos permitirá trasladarnos al Averno más "
 "rápido de lo planeado. Cuidad de ella. Su muerte podría tener consecuencias "
 "desastrosas para el Averno.\n"
@@ -9448,7 +9435,7 @@ msgid ""
 "allow us to move to the Abyss faster than expected. Take care of her. Her "
 "death would cause disastrous consequences for our connection to the Abyss."
 msgstr ""
-"(susurra) ... callaos... (habla con normalidad) A pesar de todo, espero que "
+"... <i>Susurra.</i> Callaos... <i>Habla con normalidad.</i> A pesar de todo, espero que "
 "forméis un buen equipo, lo cual nos permitirá trasladarnos al Averno más "
 "rápido de lo planeado. Cuidad de ella. Su muerte podría tener consecuencias "
 "desastrosas para el Averno.\n"
@@ -9839,10 +9826,9 @@ msgid ""
 "Level Advancements), but as the story progresses he may advance by receiving "
 "promotions due to his actions (like in real life)."
 msgstr ""
-"Nota: Aunque no puede avanzar normalmente, Mehir tiene Amlas personalizados "
-"(después de los avances de nivel máximo), pero a medida que avanza la "
-"historia, puede avanzar al recibir promociones debido a sus acciones (como "
-"en la vida real)."
+"Nota: Aunque no puede avanzar normalmente, Mehir tiene ASNM personalizados "
+"(avances sobre el nivel máximo), pero a medida que avanza la historia, podría "
+"ser promocionado según sus acciones (como en la vida real)."
 
 #. [message]: speaker=Mehir
 msgid "Nothing new. Stuff like that happens to me everyday but thanks anyway."
