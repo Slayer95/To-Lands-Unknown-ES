@@ -443,7 +443,7 @@ msgid ""
 "genius magi implemented a cooling system for my new circle for such "
 "situations..."
 msgstr ""
-"<i> jadeos</i> apenas puedo respirar ... un fuego elemental más y nos "
+"<i> jadeos</i> apenas puedo respirar ... un elemental de fuego más y nos "
 "asfixiaremos aquí. El calor que proviene de estas piscinas de lava ya es "
 "insoportable. ¡Se está volviendo aún más cálido que en un desierto abierto! "
 "Pensé que esos genios Magi implementaron un sistema de enfriamiento para mi "
@@ -1657,7 +1657,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 msgid "A fire elemental moves on a wooden bridge"
-msgstr "Un fuego elemental se mueve en un puente de madera"
+msgstr "Un elemental de fuego se mueve en un puente de madera"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11687,15 +11687,15 @@ msgstr ""
 
 #. [abilities]
 msgid "Summon Air Elemental"
-msgstr "Invocar aire elemental"
+msgstr "Invocar elemental de aire"
 
 #. [abilities]
 msgid "Summon Earth Elemental"
-msgstr "Invocar a la tierra elemental"
+msgstr "Invocar elemental de tierra"
 
 #. [abilities]
 msgid "Summon Fire Elemental"
-msgstr "Invocar al fogata elemental"
+msgstr "Invocar elemental de fuego"
 
 #. [abilities]
 msgid "Summon Rhami"
