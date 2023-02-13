@@ -456,7 +456,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*gestures to the two ho'rhami bodyguards, and whispers something*"
-msgstr "*Gesticula a las dos ho'rami guardaespaldas y susurra algo*"
+msgstr "*Gesticula a las dos jo'rami guardaespaldas y susurra algo*"
 
 #. [message]: speaker=Guru
 msgid ""
@@ -1840,7 +1840,7 @@ msgid ""
 "Ho'rashti's permission... *sigh*"
 msgstr ""
 "Aaaa y ahí va mi primera oportunidad en siglos para torturar a alguien con "
-"el permiso de Ho'rashti ... *suspiro *"
+"el permiso de Jo'Rashti ... *suspiro *"
 
 #. [part]
 msgid ""
@@ -2409,11 +2409,11 @@ msgstr ""
 "Todos los seres invocados del Averno Rojo, tales como los darma'ramis, "
 "rami'datus e ifrits, lo traicionarán instantáneamente en este escenario.\n"
 "\n"
-"Los seres inteligentes de nivel 1 como genios y rhamis pueden optar por "
+"Los seres inteligentes de nivel 1 como genios y ramis pueden optar por "
 "traicionarlo según su suerte.\n"
 "\n"
-"Los elementales y seres azules de nivel 2-3, tales como grandes genios, rhami'kais y "
-"ho'rhamis, nunca se volverán contra ti."
+"Los elementales y seres azules de nivel 2-3, tales como grandes genios, rami'kais y "
+"jo'rhamis, nunca se volverán contra ti."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -4262,7 +4262,7 @@ msgstr ""
 
 #. [message]: speaker=Banisher
 msgid "Dear Nomolas... It seems Rashti is no longer under our control!"
-msgstr "¡Oh no... parece que hemos perdido el control de Rhasti!"
+msgstr "¡Oh no... parece que hemos perdido el control de Rashti!"
 
 #. [message]: speaker=Jaffar
 msgid "Dear Nomolas... So the doctors were right, I am completely insane!"
@@ -4296,7 +4296,7 @@ msgstr "Muerte de Mejir"
 
 #. [objective]: condition=lose
 msgid "Death of Rashti"
-msgstr "Muerte de Rhasti"
+msgstr "Muerte de Rashti"
 
 #. [objective]: condition=lose
 msgid "Death of Rhaxiz"
@@ -4407,11 +4407,11 @@ msgstr "Destrucción de la puerta viviente"
 
 #. [unit_type]: id=TLU_DharmaRashti, race=eoma_magical
 msgid "Dharma'rashti"
-msgstr "Darma Rhasti"
+msgstr "Darma'Rashti"
 
 #. [objective]: condition=win
 msgid "Dharma'rashti eliminates Ho’Rashti"
-msgstr "Darma'rashti elimina a Ho’rashti"
+msgstr "Darma'Rashti elimina a Jo'Rashti"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -5305,7 +5305,7 @@ msgstr "Guardián de la puerta Theivya"
 
 #. [objective]: condition=win
 msgid "Gather all your human units, Rashti and Glomin inside the circle"
-msgstr "Reúna a todas sus tropas humanas y Rhasti dentro del círculo"
+msgstr "Reúna a todas sus tropas humanas y Rashti dentro del círculo"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -6169,11 +6169,11 @@ msgstr "HMPH... Supongo que haces un punto allí."
 
 #. [unit_type]: id=TLU_HoRashti, race=eoma_magical
 msgid "Ho'rashti"
-msgstr "Jo Rhasti"
+msgstr "Jo'Rashti"
 
 #. [objective]: condition=win
 msgid "Ho'rashti eliminates Dharma’Rashti"
-msgstr "Ho'rashti elimina a Darma'Rashti"
+msgstr "Jo'Rashti elimina a Darma'Rashti"
 
 #. [message]: speaker=Guru
 msgid ""
@@ -6247,7 +6247,7 @@ msgstr "¿Eh? ¿Yendo ya? Pero tengo muchas preguntas que hacer..."
 
 #. [message]: speaker=Mehir
 msgid "Huh? Rashti, where are you going?!"
-msgstr "¿Como? ¿Adonde vas, Rhasti?"
+msgstr "¿Como? ¿Adonde vas, Rashti?"
 
 #. [message]: speaker=Mehir
 msgid "Huh? They are retreating?"
@@ -6255,7 +6255,7 @@ msgstr "¿Como? ¿Se retiran? ¡Estamos a salvo!"
 
 #. [message]: speaker=Jaffar
 msgid "Huh? Wait! Why me?! What are you doing?"
-msgstr "¿Como? ¿Adonde vas, Rhasti?"
+msgstr "¿Como? ¿Adonde vas, Rashti?"
 
 #. [message]: speaker=GLeader
 msgid "Huh? We’re under attack!"
@@ -6477,7 +6477,7 @@ msgid ""
 msgstr ""
 "Me inclino ante ningún hombre. El único ser que sirvo es el santo "
 "rashti'rhami, la diosa de todos los Rhamis. Fue ella quien, hace 392 años, "
-"me ordenó proteger la lanza del primer rhami'kai. Solo hay dos formas en que "
+"me ordenó proteger la lanza de la primera rami'kai. Solo hay dos formas en que "
 "me pueden liberar de esta publicación, ya sea por su orden o por ser "
 "derrotado en la batalla. Y si para lograr lo último tengo que atacar a cada "
 "cazador de tesoros que pise este lugar, que así sea."
@@ -6837,7 +6837,7 @@ msgid ""
 "release you from your blue half's constraints, to give you the choice you "
 "never had?"
 msgstr ""
-"Te conozco muy bien, Darma'rashti, lo que realmente quieres. Sé lo mucho "
+"Te conozco muy bien, Darma'Rashti, sé lo que realmente quieres. Sé lo mucho "
 "que extrañas los días de tu gloria, cuando realmente fuiste la reina del "
 "Averno rojo. Somos bastante similares, tú y yo. ¿Qué pasa si te dije que "
 "puedo ... liberarte de las limitaciones de tu mitad azul, para darte la "
@@ -8527,7 +8527,7 @@ msgstr "Cuanto tiempo sin verte, Mejir. ¡He vuelto y voy a CORTARTE EL CUELLO!"
 
 #. [message]: type=TLU_HoRashti
 msgid "Look Dharma'rashti, we must unite. The whole Abyss is at stake!"
-msgstr "Mira Darma'rashti, debemos unirnos. ¡Todo el Averno está en juego!"
+msgstr "Mira, Darma'Rashti, debemos unirnos. ¡Todo el Averno está en juego!"
 
 #. [message]: speaker=Glomin
 msgid ""
@@ -8770,7 +8770,7 @@ msgid ""
 "Master, don't trust her! She is evil! (to Dharma'rashti) *sigh* Look, now is "
 "really not the time for flirting. Besides, is THAT what you consider a date?"
 msgstr ""
-"Maestro, ¡no confíes en ella! ¡Ella es malvada! (a Darma'rashti) * suspiro "
+"Maestro, ¡no confíes en ella! ¡Ella es malvada! (a Darma'Rashti) * suspiro "
 "* Mira, ahora no es realmente el momento de coquetear. Además, ¿es eso lo "
 "que consideras una cita?"
 
@@ -8936,9 +8936,7 @@ msgstr "Mejir"
 msgid ""
 "Mehir and Rashti returned to al-Kamija, for a meeting with the High "
 "Council..."
-msgstr ""
-"Mehir y Rashti regresaron a Al-Kamija, para una reunión con el Consejo del "
-"Alto ..."
+msgstr "Mehir y Rashti regresaron a Alcamiya, para reunirse con el Alto Consejo..."
 
 #. [objective]: condition=win
 msgid "Mehir enters the Central Palace"
@@ -10029,7 +10027,7 @@ msgstr "Oh, por todos los..."
 
 #. [message]: speaker=Mehir
 msgid "Oh no! Rashti has lost her balance once again!"
-msgstr "¡Oh no! ¡Rhasti ha vuelto a perder su equilibrio!"
+msgstr "¡Oh no! ¡Rashti ha vuelto a perder su equilibrio!"
 
 #. [message]: speaker=Mehir
 msgid "Oh no! The bridge is on fire!"
@@ -10591,11 +10589,11 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Rashti! Get away from there! We must close the portal!"
-msgstr "¡Rhasti! ¡Sal de ahí! ¡Debemos cerrar el portal!"
+msgstr "¡Rashti! ¡Sal de ahí! ¡Debemos cerrar el portal!"
 
 #. [message]: speaker=Mehir
 msgid "Rashti! Is everything alright?"
-msgstr "¡Rhasti! ¿Va todo bien?"
+msgstr "¡Rashti! ¿Va todo bien?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10632,11 +10630,11 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Rashti, are you alright?"
-msgstr "¿Rhasti, puedes llegar hasta él?"
+msgstr "¿Rashti, puedes llegar hasta él?"
 
 #. [message]: speaker=Mehir
 msgid "Rashti, are you ready for this?"
-msgstr "¿Rhasti, puedes llegar hasta él?"
+msgstr "¿Rashti, puedes llegar hasta él?"
 
 #. [message]: speaker=Ghost
 msgid ""
@@ -10652,11 +10650,11 @@ msgstr "¿Pero qué es lo que has hecho? ¡Nos está absorbiendo!"
 
 #. [message]: speaker=Mehir
 msgid "Rashti, you go first."
-msgstr "Rasti, tu primero."
+msgstr "Rashti, tu primero."
 
 #. [message]: speaker=Mehir
 msgid "Rashti, you tell him..."
-msgstr "¿Rhasti, puedes llegar hasta él?"
+msgstr "Rashti, dícelo..."
 
 #. [message]: speaker=Aerius
 msgid ""
@@ -10678,7 +10676,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Rashti? You... you’re alive?! Both of you?"
-msgstr "¿Rhasti? ¿Estás viva? ¿Las dos?"
+msgstr "¿Rashti? ¿Estás viva? ¿Las dos?"
 
 #. [message]: speaker=Safay
 msgid "Ready for duty, sir!"
@@ -10890,7 +10888,7 @@ msgstr "Defended el campamento."
 
 #. [message]: speaker=Mehir
 msgid "Run, Rashti, run. You're our only hope!"
-msgstr "Corre Rhasti, corre. ¡Sin ti no podremos hacerlo!"
+msgstr "Corre, Rashti, corre. ¡Sin ti no podremos hacerlo!"
 
 #. [message]: race=human
 msgid ""
@@ -11928,7 +11926,7 @@ msgid ""
 "personality tends to change quite often, making her very unpredictable."
 msgstr ""
 "Tashkar, el líder de Tar-Tabar, posee Rashti'rhami, la diosa de todos los "
-"Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Ho'rashti "
+"Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Jo'Rashti "
 "y la Dharma'rashti de temperatura caliente. Debido a su doble naturaleza, la "
 "personalidad de Rashti tiende a cambiar con bastante frecuencia, haciéndola "
 "muy impredecible."
@@ -12342,7 +12340,7 @@ msgid ""
 "tends to change quite often, making her very unpredictable."
 msgstr ""
 "La Rami Rashti, es uno de los cuatro seres más poderosos jamás invocados. "
-"Consiste en dos poderosas entidades - la calmada y sabia Ho'Rashti, y la "
+"Consiste en dos poderosas entidades - la calmada y sabia Jo'Rashti, y la "
 "temperamental Darma'Rashti. Debiso a su naturaleza dual, la personalidad de"
 "Rashti tiene a cambiar seguido, haciéndola impredecible."
 
@@ -12441,7 +12439,7 @@ msgid ""
 "costs. However, she's too weak to do so by herself, and needs Mehir's "
 "assistance."
 msgstr ""
-"La calma y sabia ho'rashti. Su objetivo es reunirse con la mitad malvada a "
+"La calma y sabia Jo'Rashti. Su objetivo es reunirse con la mitad malvada a "
 "toda costa. Sin embargo, ella es demasiado débil para hacerlo sola y "
 "necesita la ayuda de Mejir."
 
@@ -13669,7 +13667,7 @@ msgid ""
 "Rhami'Kai."
 msgstr ""
 "Esta unidad está bendecida por el artefacto que está protegiendo: la lanza "
-"del primer Rhami'kai."
+"de la primera rami'kai."
 
 #. [regenerate]: id=eoma_healing
 msgid ""
@@ -14111,7 +14109,7 @@ msgstr "Traducciones"
 
 #. [unit_type]: id=TLU_True_Rashti, race=eoma_magical
 msgid "True Rashti"
-msgstr "Al Rhasti"
+msgstr "Al Rasti"
 
 #. [message]: speaker=Agent2
 msgid ""
@@ -14167,7 +14165,7 @@ msgstr "Dos horas después..."
 
 #. [message]: speaker=Mehir
 msgid "Uh, Rashti? Are you alright?"
-msgstr "¡Rhasti! ¿Va todo bien?"
+msgstr "¡Rashti! ¿Va todo bien?"
 
 #. [message]: speaker=Mehir
 msgid "Uh, excuse me..."
@@ -14454,7 +14452,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Wait a... Rashti, did you say the activation spell?!"
-msgstr "Un momento... Rhasti. ¿Pronunciaste el conjuro de activación?"
+msgstr "Un momento... Rashti. ¿Pronunciaste el conjuro de activación?"
 
 #. [objective]: condition=win
 msgid "Wait until the circle finishes itself"
@@ -14659,7 +14657,7 @@ msgstr "Podemos organizar eso..."
 #. [message]: speaker=Mehir
 msgid ""
 "We can make them fall into the Red Abyss! Could you say the activation spell?"
-msgstr "Un momento... Rhasti. ¿Pronunciaste el conjuro de activación?"
+msgstr "Un momento... Rashti. ¿Pronunciaste el conjuro de activación?"
 
 #. [message]: speaker=Anthi
 msgid ""
@@ -14747,7 +14745,7 @@ msgstr "¡Tenemos que abrirnos camino! ¡Rápido!"
 msgid ""
 "We must weaken Dharma’Rashti, so that Ho’Rashti can seize her and unite!"
 msgstr ""
-"¡Debemos atrapar a la Darma Rasti, para que Jo Rasti pueda alcanzarla y "
+"¡Debemos atrapar a la Darma'Rashti, para que Jo'Rashti pueda alcanzarla y "
 "unirse!"
 
 #. [message]: speaker=Mehir
@@ -15203,7 +15201,7 @@ msgstr "Qué lástima, desearía que el Averno se abriera y me trague..."
 
 #. [message]: speaker=Mehir
 msgid "What about Rashti? She’s half-good..."
-msgstr "¿Que pasaría con Rhasti? Ella es mitad buena..."
+msgstr "¿Que pasaría con Rashti? Ella es mitad buena..."
 
 #. [message]: speaker=Mehir
 msgid "What about the battery?"
@@ -15406,7 +15404,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Whatever happens, do not attack Rashti! This is an order!"
-msgstr "¡No ataquéis a Rhasti, ocurra lo que ocurra! ¡Es una orden!"
+msgstr "¡No ataquéis a Rashti, ocurra lo que ocurra! ¡Es una orden!"
 
 #. [message]: speaker=Rashti
 msgid "Whatever these things are, I'm pretty sure they are not living beings."
@@ -16000,7 +15998,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "Yes, why are you asking?"
-msgstr "¿Como? ¿Adonde vas, Rhasti?"
+msgstr "¿Como? ¿Adonde vas, Rashti?"
 
 #. [message]: speaker=Guru
 msgid "Yes, you will now serve this man over here, understood?"
