@@ -25,7 +25,7 @@ msgid ""
 "This is the story of Mehir, the Summoner, and his journey to lands unknown."
 msgstr ""
 "\n"
-"Esta es la historia de Mehir, el invocador y de su viaje a tierras ignotas."
+"Esta es la historia de Megir, el invocador, y de su viaje a tierras ignotas."
 
 #. [option]
 msgid " for later use (on recruit/recall of a unit)"
@@ -43,7 +43,7 @@ msgstr "!"
 
 #. [message]: speaker=Mehir
 msgid "'By the Sun'? Wait a second, are you... Kharosian?"
-msgstr "'Por el sol'? Espera un segundo, ¿eres ... Kharosian?"
+msgstr "'Por el sol'? Espera un segundo, ¿eres ... Carosian?"
 
 #. [message]: speaker=Rhaxiz
 msgid ""
@@ -63,7 +63,7 @@ msgstr ""
 
 #. [message]: speaker=Rhaxiz
 msgid "(gestures Mehir and Jaffar to follow him)"
-msgstr "(Gestes Mehir y Jaffar para seguirlo)"
+msgstr "(Gestes Megir y Jaffar para seguirlo)"
 
 #. [message]: speaker=Keeper
 msgid "(gestures him to leave)"
@@ -76,7 +76,7 @@ msgstr "(Manos por encima de la licencia) Uhh, claro, aquí vas."
 #. [message]: speaker=Rhaxiz
 msgid "(hisses in a furious manner and pushes Mehir and Jaffar up the stairs)"
 msgstr ""
-"(Sisea de una manera furiosa y empuja a Mehir y Jaffar por las escaleras)"
+"(Sisea de una manera furiosa y empuja a Megir y Jaffar por las escaleras)"
 
 #. [message]: type=EoMa_Jungle_Guardian
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "(looks at Mehir) Finally, somebody actually bothered to send reinforcements! "
 "What took them so long?"
 msgstr ""
-"(Mira a Mehir) Finalmente, ¡alguien realmente se molestó en enviar "
+"(Mira a Megir) Finalmente, ¡alguien realmente se molestó en enviar "
 "refuerzos! ¿Qué les tomó tanto tiempo?"
 
 #. [message]: speaker=Glomin
@@ -129,7 +129,7 @@ msgid ""
 "Though in your defense, it was a good idea to bring her, and the spear is "
 "still safe with her. Just don't pull more such tricks next time."
 msgstr ""
-"(en silencio a Mehir) Puedes ser inteligente, pero no me engañarás. Ambos "
+"(en silencio a Megir) Puedes ser inteligente, pero no me engañarás. Ambos "
 "sabemos muy bien, en realidad no he aliviado al Spear Guardian de su "
 "publicación. Aunque en tu defensa, fue una buena idea traerla, y la lanza "
 "todavía está a salvo con ella. Simplemente no tome más trucos de esos la "
@@ -174,7 +174,7 @@ msgstr ""
 
 #. [message]: speaker=Keeper
 msgid "(to Mehir) Do we have an agreement?"
-msgstr "(a Mehir) ¿Tenemos un acuerdo?"
+msgstr "(a Megir) ¿Tenemos un acuerdo?"
 
 #. [message]: speaker=second_unit
 msgid ""
@@ -182,7 +182,7 @@ msgid ""
 "blue half-red girlfriend and I'll let you be my slave instead of killing "
 "you. We can do unspeakable things together every day!"
 msgstr ""
-"(a Mehir) Ho ho ho, te ves bastante guapo para un humano. Deja a tu novia "
+"(a Megir) Ho ho ho, te ves bastante guapo para un humano. Deja a tu novia "
 "media roja medio azul y te dejaré ser mi esclavo en lugar de matarte. "
 "¡Podemos hacer cosas indescriptibles juntos todos los días!"
 
@@ -195,7 +195,7 @@ msgid ""
 "(to another comrade) Hey look, finally the queen of the Red Abyss is living "
 "up to her name! What do you say about switching sides?"
 msgstr ""
-"(a otro camarada) ¡Oye, mira, finalmente la reina del abismo rojo está a la "
+"(a otro camarada) ¡Oye, mira, finalmente la reina del Averno rojo está a la "
 "altura de su nombre! ¿Qué dices sobre el cambio de lados?"
 
 #. [message]: speaker=Aerius
@@ -213,7 +213,7 @@ msgid ""
 "leadership skills either."
 msgstr ""
 "(al anciano) * ejem * para ser honesto, mientras que es un experto de su "
-"oficio, él no es exactamente el hombre más carismático de Al-Kamija, ni "
+"oficio, él no es exactamente el hombre más carismático de Alcamiya, ni "
 "tampoco tiene buenas habilidades de liderazgo."
 
 #. [message]: speaker=Mehir
@@ -274,7 +274,7 @@ msgid ""
 "can be quite rebellious, unpredictable and destruction-loving."
 msgstr ""
 "* ejem* Como debe ser consciente, los seres mágicos que se originan en el "
-"abismo rojo pueden ser bastante rebeldes, impredecibles y amantes de la "
+"Averno rojo pueden ser bastante rebeldes, impredecibles y amantes de la "
 "destrucción."
 
 #. [message]: speaker=Mehir
@@ -319,7 +319,7 @@ msgid ""
 "*ahem* The Dimensional Gate can transform itself into an abyssmal being of "
 "its master's choice, in exchange for a living being's soul..."
 msgstr ""
-"* ejem* La puerta dimensional puede transformarse en un ser abisal de su "
+"* ejem* La puerta dimensional puede transformarse en un ser avernal de su "
 "elección de maestro, a cambio de el alma de un ser vivo ..."
 
 #. [message]: speaker=Rashti
@@ -365,7 +365,7 @@ msgid ""
 "to his. Now, I would like to ask that you leave me alone stranger, I have a "
 "tome to read."
 msgstr ""
-"* Cierra el libro, mira a Mehir* Oh, mis disculpas, tu voz es bastante "
+"* Cierra el libro, mira a Megir* Oh, mis disculpas, tu voz es bastante "
 "similar a la suya. Ahora, me gustaría pedirle que me dejes en paz extraño, "
 "tengo un tomo para leer."
 
@@ -421,7 +421,7 @@ msgid ""
 "possible? Your kind should be in the Abyss now."
 msgstr ""
 "* Eyes muy abiertos* Espera ... así que eres ... ¡tú! ¡Increíble! Pero, "
-"¿cómo es eso posible? Tu tipo debería estar en el abismo ahora."
+"¿cómo es eso posible? Tu tipo debería estar en el Averno ahora."
 
 #. [message]: speaker=mage2
 msgid "*facepalm intensifies*"
@@ -466,7 +466,7 @@ msgid ""
 "Thankfully their invasion has been stopped, but their remnants still haunt "
 "some desolate parts of the world..."
 msgstr ""
-"* le da a Mehir una mirada nerviosa* Esas cosas no son meros mitos, "
+"* le da a Megir una mirada nerviosa* Esas cosas no son meros mitos, "
 "invocador. ¡Analizaron no menos de cinco civilizaciones, incluidos los "
 "Runemasters! Esos engendros de la oscuridad pueden reanimar a los muertos "
 "como sus títeres. Afortunadamente, su invasión se ha detenido, pero sus "
@@ -557,7 +557,7 @@ msgstr ""
 
 #. [message]: speaker=Mage
 msgid "*looks at Glomin, then at Mehir* You brought a <b>dwarf</b> here?!"
-msgstr "* Mira a Glomin, luego a Mehir* trajiste un <b> enano </b> aquí?"
+msgstr "* Mira a Glomin, luego a Megir* trajiste un <b> enano </b> aquí?"
 
 #. [message]: speaker=Rashti
 msgid "*looks at Jaffar*"
@@ -565,7 +565,7 @@ msgstr "*mira a Jaffar*"
 
 #. [message]: speaker=Keeper
 msgid "*looks at Mehir with fury in his eyes*"
-msgstr "*mira a Mehir con furia en sus ojos*"
+msgstr "*mira a Megir con furia en sus ojos*"
 
 #. [message]: speaker=Rashti
 #. [message]: speaker=Mehir
@@ -654,7 +654,7 @@ msgid ""
 "trip back to the Abyss."
 msgstr ""
 "* Se encoge de hombros* Si no está contento, solo pídale a su Banisher local "
-"para un viaje rápido de regreso al Abismo."
+"para un viaje rápido de regreso al Averno."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* Fine, I will eat this... crab of yours..."
@@ -809,7 +809,7 @@ msgstr "*fuma la tubería por un momento*"
 #. [message]: speaker=Rashti
 msgid "*stares into the Abyss* The wind in my hair... it feels different now."
 msgstr ""
-"* mira al abismo* el viento en mi cabello ... ahora se siente diferente."
+"* mira al Averno* el viento en mi cabello ... ahora se siente diferente."
 
 #. [scenario]: id=08_Ka-gatta
 msgid ""
@@ -825,7 +825,7 @@ msgid ""
 "darkness lurking 'round here! But why the hell do ye need my precious "
 "battery?!"
 msgstr ""
-"* a mehir* ¡Hola, tú! ¡Finalmente, alguien que no es uno de los 'empía de' "
+"* a Megir* ¡Hola, tú! ¡Finalmente, alguien que no es uno de los 'empía de' "
 "oscuridad que acecha 'aquí! Pero, ¿por qué demonios necesitas mi preciosa "
 "batería?"
 
@@ -860,7 +860,7 @@ msgid ""
 "i>"
 msgstr ""
 "Bah...Eso ha sido muy fácil. Me encanta la inocencia de los seres del "
-"abismo. Son como niños, niños con un poder asombroso..."
+"Averno. Son como niños, niños con un poder asombroso..."
 
 #. [message]: speaker=Aerius
 msgid "*to himself* <i>This spot looks good. Now for that portal spell...</i>"
@@ -886,14 +886,14 @@ msgstr ""
 
 #. [message]: speaker=Um_Mu
 msgid "*turns to Mehir* Ah, you're back! Want more books?"
-msgstr "* se vuelve hacia mehir* ¡Ah, estás de vuelta! ¿Quieres más libros?"
+msgstr "* se vuelve hacia Megir* ¡Ah, estás de vuelta! ¿Quieres más libros?"
 
 #. [message]: speaker=Um_Mu
 msgid ""
 "*turns to Mehir* Hello mister! Do you need help with finding a book from the "
 "top shelf?"
 msgstr ""
-"* se vuelve hacia mehir* ¡Hola señor! ¿Necesita ayuda para encontrar un "
+"* se vuelve hacia Megir* ¡Hola señor! ¿Necesita ayuda para encontrar un "
 "libro del estante superior?"
 
 #. [message]: speaker=Guru
@@ -907,7 +907,7 @@ msgid ""
 msgstr ""
 "* Se vuelve hacia los dos magos* para responder a su pregunta, Umbrez, "
 "Nomolas sigue siendo el objetivo. Pero dado que la magia no sirve en el "
-"Abismo, llegar al primer Jinni sería prácticamente imposible si los "
+"Averno, llegar al primer Jinni sería prácticamente imposible si los "
 "invocadores nos odian. Ahora que ya no nos ven como enemigos, y están "
 "ocupados luchando contra los seres rojos nativos, después de haber esperado "
 "siglos, podríamos ver la oportunidad de alcanzarlo."
@@ -1217,7 +1217,7 @@ msgid ""
 "construction, then I have no choice but to stop it by force!"
 msgstr ""
 "... Pero como si vivir bajo tu reinado aquí ya no fuera lo suficientemente "
-"insoportable, pronto tendremos que soportarlo incluso en el Abismo, nuestra "
+"insoportable, pronto tendremos que soportarlo incluso en el Averno, nuestra "
 "propia tierra natal, ¡gracias a la construcción del maldito \"gran círculo"
 "\"! ¡Debo detener esta locura a toda costa! Si no puedo convencer a su "
 "especie de cesar la construcción, ¡no tengo más remedio que detenerlo por la "
@@ -1297,7 +1297,7 @@ msgid ""
 "...the Red Abyss?! The place of ultimate chaos? The home of all Efreet and "
 "Dharma’rhamis? The most dangerous part of the entire dimension?"
 msgstr ""
-"... ¿El abismo rojo? ¿El lugar del caos definitivo? ¿El hogar de todos los "
+"... ¿El Averno rojo? ¿El lugar del caos definitivo? ¿El hogar de todos los "
 "ifrit y darma rami? ¿El área más peligrosa de toda la dimensión?"
 
 #. [message]: speaker=Sculptor
@@ -1459,7 +1459,7 @@ msgid ""
 msgstr ""
 "<i>* para sí mismo* Eso fue ... un giro bastante imprevisto de los "
 "acontecimientos. Debo hacer algo de inmediato, de lo contrario, el plan se "
-"arruinaría ... </i> (a Mehir) mira, debes ir al abismo. En realidad."
+"arruinaría ... </i> (a Megir) mira, debes ir al Averno. En realidad."
 
 #. [message]: speaker=Guru
 msgid ""
@@ -1468,7 +1468,7 @@ msgid ""
 "things are going to happen in the Abyss soon if you don't do something about "
 "it."
 msgstr ""
-"<i>* para sí mismo* Esto es mucho más difícil de lo que esperaba El abismo "
+"<i>* para sí mismo* Esto es mucho más difícil de lo que esperaba El Averno "
 "pronto si no haces algo al respecto."
 
 #. [message]: speaker=Reficul
@@ -1489,7 +1489,7 @@ msgid ""
 "hope I don't die today... *sigh* here goes nothing...</i>"
 msgstr ""
 "<i>* para sí mismo* ¿Qué tipo de invocador es él? Y esos secuaces armados, "
-"claramente no son seres abisales ... ¿podría ser que ni siquiera es un "
+"claramente no son seres avernales ... ¿podría ser que ni siquiera es un "
 "ciudadano de nuestra nación? Esto es claramente una invasión ... Queridos "
 "Nomolas, solo espero no morir hoy ... * suspiro * Aquí no va nada ... </i>"
 
@@ -1519,11 +1519,11 @@ msgstr ""
 "<i>Prestad oreja,\n"
 "vosotros, foráneos en una tierra sin arar,\n"
 "a este relato de una era añeja,\n"
-"de los invocadores de al-Kamija,\n"
+"de los invocadores de Alcamiya,\n"
 "poderosos magos de habilidad singular,\n"
-"con sirvientes de los avernos,\n"
+"con sirvientes de los Avernos,\n"
 "ahora malos, ahora buenos.\n"
-"Y acompañad a Mehir en su andar,\n"
+"Y acompañad a Megir en su andar,\n"
 "quien según dictó su fortuna,\n"
 "salvó el mundo tras conciliar\n"
 "tanto el sol como la luna.</i>"
@@ -1730,9 +1730,9 @@ msgstr ""
 "del desierto, hicieron un descubrimiento sumamente poderoso - la magia. "
 "Oculta en forma de símbolos y patrones, la magia controlaba nuestro "
 "destino.\n"
-"Los antiguos descubrieron el Abismo - otro mundo lleno de energía, donde el "
+"Los antiguos descubrieron el Averno - otro mundo lleno de energía, donde el "
 "tiempo y el espacio no tienen sentido. Nuestro arsenal completo de "
-"conocimientos mágicos procede del abismo. Podemos invocar este poder en "
+"conocimientos mágicos procede del Averno. Podemos invocar este poder en "
 "nuestro mundo - y esa es la razón de que se nos llame invocadores."
 
 #. [message]: speaker=Mehir
@@ -1867,7 +1867,7 @@ msgstr ""
 
 #. [scenario]: id=15_Abyssal_Rebellion
 msgid "Abyssal Rebellion"
-msgstr "Rebelión de abisal"
+msgstr "Rebelión de avernal"
 
 #. [message]: speaker=Keeper
 msgid ""
@@ -2173,7 +2173,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Ah, another lovely day in al-Kamija!"
-msgstr "¡Ah, otro hermoso día en Al-Kamija!"
+msgstr "¡Ah, otro hermoso día en Alcamiya!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -2233,7 +2233,7 @@ msgid ""
 msgstr ""
 "Ah, invocador, todavía queda una enorme cantidad de conocimiento en este "
 "mundo para aprender, y por lo tanto no tenemos intención de ir a otras "
-"dimensiones todavía. Y además, como la magia no funciona en el abismo, por "
+"dimensiones todavía. Y además, como la magia no funciona en el Averno, por "
 "lo que incluso si llegamos allí, nos faltaríamos formas de investigarla "
 "suficientemente. Podríamos considerar profundizar en otras dimensiones, pero "
 "primero tendríamos que agotar todo lo que este tiene para ofrecer, lo cual "
@@ -2271,7 +2271,7 @@ msgid ""
 "put it... not exactly here anymore."
 msgstr ""
 "Ah, bienvenido, invocador, pareces familiar. Parece que mi pequeña visita a "
-"Al-Kamija te ayudó a obtener una promoción ... je, puedes agradecerme más "
+"Alcamiya te ayudó a obtener una promoción ... je, puedes agradecerme más "
 "tarde. Déjame adivinar, has venido por uno de tus líderes, ¿verdad? Él "
 "es ... bueno, ¿cómo lo pongo ... ya no exactamente aquí?"
 
@@ -2312,7 +2312,7 @@ msgstr ""
 "Ah, sí. Ahora entiendo. Guru es definitivamente la persona que estás "
 "buscando. Puedes encontrarlo arriba. Ahora perdóname, ¡pero necesito ver "
 "esas tropas tuyas! * Para sí mismo, con emoción en su voz* ¡Mis amigos no me "
-"creen! ¡He conocido a un verdadero invocador y la reina del Abismo! ¡Esto es "
+"creen! ¡He conocido a un verdadero invocador y la reina del Averno! ¡Esto es "
 "increíble!"
 
 #. [message]: speaker=Mehir
@@ -2406,7 +2406,7 @@ msgid ""
 "Elementals and level 2-3 blue beings like Great Jinn, Rhami'kai and Ho'rhami "
 "will never turn against you."
 msgstr ""
-"Todos los seres convocados originados por el abismo rojo como Dharma'rhami, "
+"Todos los seres convocados originados por el Averno rojo como Dharma'rhami, "
 "Rhami'datu y Efreet lo traicionarán instantáneamente en este escenario.\n"
 "\n"
 "Los seres inteligentes de nivel 1 como Jinn y Rhami pueden optar por "
@@ -2483,10 +2483,10 @@ msgid ""
 "Kamija's Political Flaws', 'The Anarchist's Cookbook' and 'Banishment "
 "Formulas And How To Make Your Own'..."
 msgstr ""
-"Muy bien, veamos ... wow, para un efreeti, al tipo le encanta leer. Mira lo "
-"que tenemos: 'Una guía de invocación para Jinn', 'Manifiesto del culto "
-"rojo,' Al-Kamija's Political Fows ',' The Anarchist's Cookbook 'y' Fórmulas "
-"de destierro y cómo hacer los tuyos '..."
+"Muy bien, veamos ... wow, para un ifrit, al tipo le encanta leer. Mira lo "
+"que tenemos: 'Una guía de invocación para Genios', 'Manifiesto del Culto "
+"Rojo,' Fallas Políticas de Alcamiya ',' Recetario del Anarquista 'y' Destierro - "
+"Fórmulas y Cómo Hacer Uno Propio '..."
 
 #. [message]: speaker=Mehir
 msgid "Alright, mobilize some troops, we will be moving soon."
@@ -2525,7 +2525,7 @@ msgid ""
 "mind the consequences."
 msgstr ""
 "Además, no use entidades rojas en absoluto, porque son rebeldes por "
-"naturaleza y cerca de este efreeti, seguramente se rebelan contra nosotros. "
+"naturaleza y cerca de este ifrit, seguramente se rebelan contra nosotros. "
 "Por supuesto, este es solo consejo. Puedes hacer lo que quieras, mi mentira, "
 "siempre y cuando tengas en cuenta las consecuencias."
 
@@ -2538,7 +2538,7 @@ msgid ""
 msgstr ""
 "Además, si no hubieras ayudado a Kharos, no habríamos conocido <i>* para sí "
 "mismo*, lo que habría arruinado por completo el plan </i>. Además, una vez "
-"que regrese al Abismo, tendrá muchas historias para contarle a su gente, "
+"que regrese al Averno, tendrá muchas historias para contarle a su gente, "
 "sobre todas las cosas por las que ha pasado. ¡Serás conocido como una "
 "leyenda!"
 
@@ -2602,7 +2602,7 @@ msgid ""
 msgstr ""
 "Asombroso... Si contara a mis amigos de Alcamiya todo lo que he visto aquí, "
 "no me creerían. Parece que no estamos muy avanzados en el ámbito espiritual, "
-"pero al menos tenemos el Abismo y Nomolas, lo que nos proporciona una gran "
+"pero al menos tenemos el Averno y Nomolas, lo que nos proporciona una gran "
 "vent..."
 
 #. [side]: type=EoMa_Master_of_War
@@ -2639,7 +2639,7 @@ msgid ""
 "An eternal connection to the Abyss, a world of unlimited energy, where "
 "concepts like time and space are rather difficult to apply..."
 msgstr ""
-"Un nexo infinito al Abismo, un mundo de energía ilimitada, donde el tiempo y "
+"Un nexo infinito al Averno, un mundo de energía ilimitada, donde el tiempo y "
 "el espacio no tienen sentido..."
 
 #. [message]: speaker=gate_guardian
@@ -2745,7 +2745,7 @@ msgid ""
 "awareness."
 msgstr ""
 "Y el líder de Mag -Magar, Malib, es propietario de la puerta viva, la última "
-"y el ser más extraño de todos. Es un portal móvil abierto al abismo similar "
+"y el ser más extraño de todos. Es un portal móvil abierto al Averno similar "
 "a las puertas dimensionales, pero en este caso particular, una fuerza "
 "desconocida de origen abismal ha ganado control sobre él, otorgando la "
 "autoconciencia de la puerta."
@@ -2786,7 +2786,7 @@ msgstr "Y pensar que yo quería comandar a estos invocadores..."
 
 #. [message]: speaker=Atiros
 msgid "And what about Kharos? Has it been besieged?"
-msgstr "¿Y que pasa con Kharos? ¿Han destruido Kharos?"
+msgstr "¿Y que pasa con Kharos? ¿Han destruido Caros?"
 
 #. [message]: speaker=Mehir
 msgid "And what does this affect?"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Another illegally summoned Efreeti?"
-msgstr "¿Otro Efreeti convocado ilegalmente?"
+msgstr "¿Otro Ifrit convocado ilegalmente?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -2993,7 +2993,7 @@ msgid ""
 "sentience. In some ways, they are similar to elementals."
 msgstr ""
 "De todos modos, ¿dónde estaba yo? Los seres mágicos desterrados de este "
-"mundo regresan al abismo a través de pequeñas puertas dimensionales, que "
+"mundo regresan al Averno a través de pequeñas puertas dimensionales, que "
 "dejan atrás. Tal puerta permanece abierta y operativa después de un "
 "destierro exitoso e incluso gana sensibilidad. De alguna manera, son "
 "similares a los elementales."
@@ -3194,7 +3194,7 @@ msgid ""
 "variable in his experiment, and neither should you."
 msgstr ""
 "En cuanto a Al-Kamija, sospecho que fue uno de sus muchos experimentos, tal "
-"vez ver cómo sería una civilización elevada con la magia abisal. Por "
+"vez ver cómo sería una civilización elevada con la magia avernal. Por "
 "desgracia, por mucho que lo respeto, no tengo intención de ser una variable "
 "insignificante en su experimento, y tú tampoco deberías hacerlo."
 
@@ -3255,7 +3255,7 @@ msgid ""
 "the Abyss. This one can do more than that."
 msgstr ""
 "Como ya sabes, los círculos mágicos se pueden usar para convocar criaturas "
-"del abismo. Este puede hacer más que eso."
+"del Averno. Este puede hacer más que eso."
 
 #. [message]: speaker=Anthi
 msgid ""
@@ -3310,7 +3310,7 @@ msgid ""
 "entities summoned afterwards. We still don't know why exactly he decided to "
 "obey us, but we're certainly glad he did."
 msgstr ""
-"Al principio, los antiguos consideraron que el abismo era un lugar de caos "
+"Al principio, los antiguos consideraron que el Averno era un lugar de caos "
 "primitivo, hasta que invocaron al primero de los seres mágicos, un auténtico "
 "morador de otro mundo. Este fue Nomolas, el primer genio.\n"
 "Con un ingenio sin ataduras, esta entidad es el ser más poderoso que "
@@ -3428,7 +3428,7 @@ msgid ""
 "Authority?! <b>I am the Goddess of all Rhamis AND the Queen of the Red "
 "Abyss, for crying out loud!!!</b>"
 msgstr ""
-"¡¿Autoridad?! <b> ¡Soy la diosa de todos los Rhamis y la Reina del Abismo "
+"¡¿Autoridad?! <b> ¡Soy la diosa de todos los Rhamis y la Reina del Averno "
 "Rojo, por llorar en voz alta! </b>"
 
 #. [message]: id=Mehir
@@ -3441,7 +3441,7 @@ msgid ""
 "being for Nomolas's sake, we NEVER forget!"
 msgstr ""
 "¡Bloody Hell, por supuesto que recuerdo, bastardo con cabeza de aire! Soy un "
-"ser abisal por el bien de Nomolas, ¡nunca olvidamos!"
+"ser avernal por el bien de Nomolas, ¡nunca olvidamos!"
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -3466,7 +3466,7 @@ msgid ""
 "your former self. You could have easily been the puppeteer, yet you chose to "
 "be the puppet..."
 msgstr ""
-"De vuelta en el abismo, solías ser una figura poderosa, una que muchos se "
+"De vuelta en el Averno, solías ser una figura poderosa, una que muchos se "
 "arrodillaban a la vista. Pero ahora, te has convertido en poco más que una "
 "sombra patética de tu antiguo yo. Podrías haber sido fácilmente el "
 "titiritero, pero eligió ser el títere ..."
@@ -3529,7 +3529,7 @@ msgid ""
 "experience, Sharif promoted him by multiple ranks. The dream of a young city "
 "guard came true..."
 msgstr ""
-"Debido a que el logro de Mehir fue más que excepcional por su falta de "
+"Debido a que el logro de Megir fue más que excepcional por su falta de "
 "experiencia, Sharif lo promovió por múltiples filas. El sueño de un joven "
 "guardia de la ciudad se hizo realidad ..."
 
@@ -3735,12 +3735,12 @@ msgid ""
 "the Abyss cools our streets and houses. Without it, the heat of the Desert "
 "would've dried us to death."
 msgstr ""
-"Pero cuando descubrimos el abismo, nuestras vidas cambiaron drásticamente. "
+"Pero cuando descubrimos el Averno, nuestras vidas cambiaron drásticamente. "
 "Nomolas, el primer Jinni, creó una magnífica ciudad para nosotros en el "
 "corazón del desierto. Finalmente podríamos abandonar las cuevas y movernos a "
 "la superficie. La ciudad en sí se llama al-Kamija, y ahora es nuestra "
 "capital. Gracias a un conjunto de círculos mágicos a su alrededor, tenemos "
-"aire acondicionado: el aire frío del abismo enfría nuestras calles y casas. "
+"aire acondicionado: el aire frío del Averno enfría nuestras calles y casas. "
 "Sin él, el calor del desierto nos habría secado a la muerte."
 
 #. [message]: speaker=Mehir
@@ -3754,7 +3754,7 @@ msgid ""
 "dimension is not 'magic', though it does have some similar properties. Real "
 "magic is something entirely different."
 msgstr ""
-"Pero tienes la suerte de tener un acceso estable al abismo. Ese lugar, y sus "
+"Pero tienes la suerte de tener un acceso estable al Averno. Ese lugar, y sus "
 "habitantes, compensan su debilidad. La energía que proviene de esa dimensión "
 "no es 'mágica', aunque tiene algunas propiedades similares. La magia real es "
 "algo completamente diferente."
@@ -3765,7 +3765,7 @@ msgid ""
 "its energy directly, like Jinn and other sentient abyssal beings can."
 msgstr ""
 "Pero probablemente no lo necesitará allí de todos modos, y podría canalizar "
-"su energía directamente, como Jinn y otros seres abisales sintientes."
+"su energía directamente, como Jinn y otros seres avernales sintientes."
 
 #. [message]: speaker=Guru
 msgid "But..."
@@ -3850,7 +3850,7 @@ msgid ""
 "authority over Tar-Tabar!"
 msgstr ""
 "¡Por el poder que me ha otorgado el Alto Consejo y en el nombre de todos los "
-"ciudadanos de nuestro país y del Abismo os otorgamos el nombramiento de "
+"ciudadanos de nuestro país y del Averno os otorgamos el nombramiento de "
 "líder de Tar-Tabar!"
 
 #. [message]: speaker=Keeper
@@ -4105,7 +4105,7 @@ msgid ""
 "risk her dying!"
 msgstr ""
 "¡Maldición! ¡No tiene ninguna oportunidad contra un ejército entero de seres "
-"demoníacos! ¡Protegedla a toda costa! ¡No debe morir o perderemos el Abismo!"
+"demoníacos! ¡Protegedla a toda costa! ¡No debe morir o perderemos el Averno!"
 
 #. [message]: speaker=Mehir
 msgid "Damn it! I guess we have no choice now. Men, defensive formation!"
@@ -4257,12 +4257,12 @@ msgid ""
 "Dear Nomolas, what the hell is this?! Is that efreeti possessing our magical "
 "beings?!"
 msgstr ""
-"Querido Nomolas, ¿qué demonios es esto? ¿Ese Efreeti posee nuestros seres "
+"Querido Nomolas, ¿qué demonios es esto? ¿Ese ifrit posee nuestros seres "
 "mágicos?"
 
 #. [message]: speaker=Banisher
 msgid "Dear Nomolas... It seems Rashti is no longer under our control!"
-msgstr "¡Oh no... parece que hemos perdido el control de Rasti!"
+msgstr "¡Oh no... parece que hemos perdido el control de Rhasti!"
 
 #. [message]: speaker=Jaffar
 msgid "Dear Nomolas... So the doctors were right, I am completely insane!"
@@ -4296,7 +4296,7 @@ msgstr "Muerte de Megir"
 
 #. [objective]: condition=lose
 msgid "Death of Rashti"
-msgstr "Muerte de Rasti"
+msgstr "Muerte de Rhasti"
 
 #. [objective]: condition=lose
 msgid "Death of Rhaxiz"
@@ -4407,7 +4407,7 @@ msgstr "Destrucción de la puerta viviente"
 
 #. [unit_type]: id=TLU_DharmaRashti, race=eoma_magical
 msgid "Dharma'rashti"
-msgstr "Darma Rasti"
+msgstr "Darma Rhasti"
 
 #. [objective]: condition=win
 msgid "Dharma'rashti eliminates Ho’Rashti"
@@ -4780,7 +4780,7 @@ msgstr "¡Suficiente! *golpea su otra mitad con su lanza*"
 
 #. [objective]: condition=win
 msgid "Enter the Abyss"
-msgstr "Entre al abismo"
+msgstr "Entre al Averno"
 
 #. [scenario]: id=24_Epilogue
 msgid "Epilogue"
@@ -4875,7 +4875,7 @@ msgid ""
 "delays, we should be in the Abyss sooner than planned."
 msgstr ""
 "Todo está yendo según lo planeado. Si no nos detenemos, podríamos estar en "
-"el abismo antes de lo que pensábamos."
+"el Averno antes de lo que pensábamos."
 
 #. [message]: speaker=merchant
 msgid ""
@@ -4899,7 +4899,7 @@ msgstr ""
 
 #. [message]: speaker=Mastermage
 msgid "Excellent! Mehir, gather your people; the contest shall begin soon."
-msgstr "¡Excelente! Mehir, reúne a tu gente; El concurso comenzará pronto."
+msgstr "¡Excelente! Megir, reúne a tu gente; El concurso comenzará pronto."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -4922,13 +4922,13 @@ msgid ""
 "sure to remove these absurd limitations! Why the hell did he even make them "
 "in the first place?..."
 msgstr ""
-"Excelente, estamos luchando contra el mayor de los males del abismo y solo "
+"Excelente, estamos luchando contra el mayor de los males del Averno y solo "
 "dispongo de cinco disipadores... Si sobrevivimos a esta locura, eliminaré "
 "estas limitaciones."
 
 #. [message]: speaker=Instructor
 msgid "Excuse me, are you Mehir ibn Hakim the Elder, the one being promoted?"
-msgstr "Disculpe, ¿eres Mehir ibn Hakim el anciano, el que se promueve?"
+msgstr "Disculpe, ¿eres Megir ibn Hakim el anciano, el que se promueve?"
 
 #. [message]: speaker=Mehir
 msgid "Excuse me..."
@@ -4990,7 +4990,7 @@ msgid ""
 "want to show you in the Abyss once we get there."
 msgstr ""
 "No temas, mehir. Simplemente no te mates. Hay tantas cosas que quiero "
-"mostrarte en el Abismo una vez que llegamos allí."
+"mostrarte en el Averno una vez que llegamos allí."
 
 #. [unit_type]: id=TLU_Malib, race=eoma_summoner
 msgid ""
@@ -5015,7 +5015,7 @@ msgid ""
 msgstr ""
 "Pocos hombres en la totalidad de la historia conocida han adoptado el "
 "misterio velado que viene naturalmente con el título de cuarto grado. Son "
-"hombres que pueden manejar todo el poder del abismo con su mano derecha y la "
+"hombres que pueden manejar todo el poder del Averno con su mano derecha y la "
 "devastación completa de convocar magia con su izquierda. Un maestro de la "
 "citación ha alcanzado la culminación de todas las artes de la invocación "
 "siempre diseñadas y comprendidas.\n"
@@ -5035,7 +5035,7 @@ msgstr ""
 
 #. [option]
 msgid "Fifty Shades of Tharis"
-msgstr "Cincuenta tonos de Tharis"
+msgstr "Cincuenta tonos de Taris"
 
 #. [message]: speaker=Mehir
 msgid "Finally a female abysmal likes me! But..."
@@ -5164,7 +5164,7 @@ msgid ""
 "were abandoned and the ancestors could finally claim the Great Desert as "
 "their home."
 msgstr ""
-"Vivieron aquí durante 500 años hasta que un buen día descubrieron el abismo. "
+"Vivieron aquí durante 500 años hasta que un buen día descubrieron el Averno. "
 "Con el tiempo, sus conocimientos les permitieron crear ciudades maravillosas "
 "en la calurosa superficie. La primera fue Alcamiya, la nueva capital creada "
 "de la nada por el primer genio, Nomolas. Las cuevas fueron abandonadas y los "
@@ -5305,7 +5305,7 @@ msgstr "Guardián de la puerta Theivya"
 
 #. [objective]: condition=win
 msgid "Gather all your human units, Rashti and Glomin inside the circle"
-msgstr "Reúna a todas sus tropas humanas y Rasti dentro del círculo"
+msgstr "Reúna a todas sus tropas humanas y Rhasti dentro del círculo"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -5336,7 +5336,7 @@ msgid ""
 msgstr ""
 "¡Obtén esto, nuestros legendarios hermanos existen! Se llaman a sí mismos "
 "invocadores, porque pueden conjurar demonios o algunos de esos. ¡¿Puedes "
-"creerlo?! Conoce a Mehir, un maestro de este tipo de magia, líder de la "
+"creerlo?! Conoce a Megir, un maestro de este tipo de magia, líder de la "
 "ciudad y el embajador de los descendientes de nuestros antecendentes."
 
 #. [unit_type]: id=TLU_Summons_Master_Ghost, race=undead
@@ -5412,7 +5412,7 @@ msgstr "Umm, ¡Una gran idea! Solo tenéis que decirme vuestro nombre, joven."
 
 #. [message]: speaker=Rashti
 msgid "Good job, Mehir! I like your style!"
-msgstr "¡Buen trabajo, Mehir! ¡Me gusta tu estilo!"
+msgstr "¡Buen trabajo, Megir! ¡Me gusta tu estilo!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -5462,7 +5462,7 @@ msgid ""
 "anything in their power to take your life, and the lives of your men, think "
 "it, believe it..."
 msgstr ""
-"Bien. (a Mehir) Ahora, mira estos ojos, ves enemigos feroces, dispuestos a "
+"Bien. (a Megir) Ahora, mira estos ojos, ves enemigos feroces, dispuestos a "
 "hacer cualquier cosa en su poder para llevar tu vida, y la vida de tus "
 "hombres, piense que lo creas ..."
 
@@ -5539,7 +5539,7 @@ msgstr ""
 
 #. [message]: speaker=gate_guardian
 msgid "Greetings, sergeant Mehir."
-msgstr "Saludos, sargento Mehir."
+msgstr "Saludos, sargento Megir."
 
 #. [message]: speaker=Keeper
 msgid ""
@@ -5660,7 +5660,7 @@ msgid ""
 "He can summon?! Just who the hell is this efreeti?! As if convincing an "
 "entire mob of red beings to join him wasn't astonishing enough..."
 msgstr ""
-"¿Puede convocar?! ¿Quién demonios es este Efreeti? Como si convencer a toda "
+"¿Puede convocar?! ¿Quién demonios es este ifrit? Como si convencer a toda "
 "una multitud de seres rojos para unirse a él no era lo suficientemente "
 "asombroso ..."
 
@@ -5759,7 +5759,7 @@ msgid ""
 msgstr ""
 "Je, agradable ... y ahora, la última pregunta: dado que dijiste que el "
 "maestro de los desantivadores de al-kamija podría desterrar a los dioses "
-"elementales y otros seres abisales poderosos, ¿esto significa que la "
+"elementales y otros seres avernales poderosos, ¿esto significa que la "
 "existencia de la puerta dimensional no es simplemente una ¿De los rumores se "
 "extendieron en el bazar?"
 
@@ -5955,7 +5955,7 @@ msgstr ""
 
 #. [message]: speaker=mage2
 msgid "Hey, look, I think I just saw Mehir over there!"
-msgstr "Oye, mira, ¡creo que acabo de ver a Mehir allí!"
+msgstr "Oye, mira, ¡creo que acabo de ver a Megir allí!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -6102,7 +6102,7 @@ msgstr ""
 "Hmmm .... (mentiras) Te estábamos buscando. Verás, soy un mensajero enviado "
 "por la propia Rashti. Ella me ordenó ... Err ... Encuéntrate y libérate de "
 "tu publicación. Sí, estaba demasiado ocupada para hacer esto en persona. "
-"Después de todo, siendo la reina del Abismo, tiene asuntos más importantes "
+"Después de todo, siendo la reina del Averno, tiene asuntos más importantes "
 "que atender que buscar a otro tutor polvoriento en una cueva olvidada."
 
 #. [message]: speaker=Keeper
@@ -6169,11 +6169,11 @@ msgstr "HMPH ... Supongo que haces un punto allí."
 
 #. [unit_type]: id=TLU_HoRashti, race=eoma_magical
 msgid "Ho'rashti"
-msgstr "Jo Rasti"
+msgstr "Jo Rhasti"
 
 #. [objective]: condition=win
 msgid "Ho'rashti eliminates Dharma’Rashti"
-msgstr "Darma Rasti"
+msgstr "Darma Rhasti"
 
 #. [message]: speaker=Guru
 msgid ""
@@ -6198,7 +6198,7 @@ msgid ""
 "How should I show them the Abyss and fried lizards, I wonder? Never mind, "
 "I’ll try. Maybe we can avoid bloodshed..."
 msgstr ""
-"Me pregunto como podría mostrarles el abismo y lagartos fritos. Vale, de "
+"Me pregunto como podría mostrarles el Averno y lagartos fritos. Vale, de "
 "acuerdo, lo intentaré. Quizás nos evitemos problemas..."
 
 #. [message]: speaker=messenger
@@ -6247,7 +6247,7 @@ msgstr "¿Eh? ¿Yendo ya? Pero tengo muchas preguntas que hacer ..."
 
 #. [message]: speaker=Mehir
 msgid "Huh? Rashti, where are you going?!"
-msgstr "¿Como? ¿Adonde vas, Rasti?"
+msgstr "¿Como? ¿Adonde vas, Rhasti?"
 
 #. [message]: speaker=Mehir
 msgid "Huh? They are retreating?"
@@ -6255,7 +6255,7 @@ msgstr "¿Como? ¿Se retiran? ¡Estamos a salvo!"
 
 #. [message]: speaker=Jaffar
 msgid "Huh? Wait! Why me?! What are you doing?"
-msgstr "¿Como? ¿Adonde vas, Rasti?"
+msgstr "¿Como? ¿Adonde vas, Rhasti?"
 
 #. [message]: speaker=GLeader
 msgid "Huh? We’re under attack!"
@@ -6280,7 +6280,7 @@ msgid ""
 "you go outside and see our troops."
 msgstr ""
 "Humano, este es un círculo mágico genuino. Estás hablando con el líder de "
-"Tar-Tabar y yo soy la Reina del Abismo. Si quieres más pruebas, te sugiero "
+"Tar-Tabar y yo soy la Reina del Averno. Si quieres más pruebas, te sugiero "
 "que salgas y veas a nuestras tropas."
 
 #. [message]: type=EoMa_Mighty_Cyclops
@@ -6366,7 +6366,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "I am always ready for anything, Mehir. Why do you ask?"
-msgstr "Siempre estoy listo para cualquier cosa, Mehir. ¿Por qué lo preguntas?"
+msgstr "Siempre estoy listo para cualquier cosa, Megir. ¿Por qué lo preguntas?"
 
 #. [message]: speaker=Rashti
 msgid ""
@@ -6491,7 +6491,7 @@ msgid ""
 msgstr ""
 "Apenas puedo creer que hace solo un año Mehir era solo un oficial de bajo "
 "rango bajo mi orden, pero ahora es mi igual. Mehir es realmente un modelo a "
-"seguir para los ciudadanos de al-Kamija. ¡Felicitaciones por su promoción, "
+"seguir para los ciudadanos de Alcamiya. ¡Felicitaciones por su promoción, "
 "Mehir, les deseo suerte con su nuevo deber!"
 
 #. [message]: speaker=Rashti
@@ -6597,7 +6597,7 @@ msgid ""
 msgstr ""
 "No reconozco ninguna de estas tierras de este lado. Estos deben ser otros "
 "continentes de este planeta. Cuando nuestros ancestros ​​descubrieron el "
-"abismo y se establecieron en Al-Kamija, se dieron por vencido por la "
+"Averno y se establecieron en Al-Kamija, se dieron por vencido por la "
 "exploración mundial."
 
 #. [event]
@@ -6726,7 +6726,7 @@ msgid ""
 msgstr ""
 "He visto mucho durante mi presencia en este reino: desiertos, montañas, "
 "cielo, lluvia, mis viejos maestros muriendo y los nuevos elegidos. Al final, "
-"elegí a Mehir como mi maestro final. Aprendí mucho durante el tiempo con él, "
+"elegí a Megir como mi maestro final. Aprendí mucho durante el tiempo con él, "
 "más de lo que podría imaginar. Incluso perecí por un momento solo para nacer "
 "de nuevo. Ahora soy eterno y no me arrepiento de nada."
 
@@ -6751,7 +6751,7 @@ msgstr ""
 "Espero no ofenderte, pero no consideramos el sol como un ser divino. Para "
 "nosotros, es solo una fuente de calor mortal. Debido a nuestra ubicación, "
 "rara vez salimos de nuestras ciudades enfriadas. Incluso el místico Jinn, "
-"algunas de las entidades más sabias del abismo, cuando se le preguntó al "
+"algunas de las entidades más sabias del Averno, cuando se le preguntó al "
 "respecto, nos dijo que el sol es solo una gran bola de fuego. Bueno, usaron "
 "palabras más sofisticadas para ello. 'Termo-algo' o 'plas-mah', no recuerdo "
 "la redacción exacta que usó."
@@ -6775,9 +6775,9 @@ msgid ""
 "disastrous consequences for our connection to the Abyss."
 msgstr ""
 "(susurra) ... callaos... (habla con normalidad) A pesar de todo, espero que "
-"forméis un buen equipo, lo cual nos permitirá trasladarnos al abismo más "
+"forméis un buen equipo, lo cual nos permitirá trasladarnos al Averno más "
 "rápido de lo planeado. Cuidad de ella. Su muerte podría tener consecuencias "
-"desastrosas para el abismo.\n"
+"desastrosas para el Averno.\n"
 "\n"
 "¡Creo que ya hemos terminado con esto, ya puede comenzar la celebración!"
 
@@ -6823,7 +6823,7 @@ msgstr ""
 "Sé, pero ¿qué pasa con la filosofía de tu nación? ¿No creen ustedes que "
 "encontrarán el último sentido de sus vidas? <i>* para sí mismo* Una creencia "
 "que se encuentra entre las tonterías más grandes que he escuchado en "
-"años ... </i> (a mehir) ¿no tienes curiosidad por saber qué hay allí?"
+"años ... </i> (a Megir) ¿no tienes curiosidad por saber qué hay allí?"
 
 #. [message]: speaker=Rashti
 msgid "I know what I'm doing, just clear the way for me."
@@ -6839,7 +6839,7 @@ msgid ""
 msgstr ""
 "Te conozco muy bien, dharma'rashti, lo que realmente quieres. Sé lo mucho "
 "que extrañas los días de tu gloria, cuando realmente fuiste la reina del "
-"abismo rojo. Somos bastante similares, tú y yo. ¿Qué pasa si te dije que "
+"Averno rojo. Somos bastante similares, tú y yo. ¿Qué pasa si te dije que "
 "puedo ... liberarte de las limitaciones de tu mitad azul, para darte la "
 "elección que nunca tuviste?"
 
@@ -6854,7 +6854,7 @@ msgid ""
 msgstr ""
 "Lo sé. No llegué a tiempo y estoy atrapado en este mundo por ahora. Me "
 "dijeron que Guru podía ayudarme a mí y a mis hombres a regresar a nuestra "
-"gente en el Abismo."
+"gente en el Averno."
 
 #. [message]: speaker=narrator
 msgid "I know. Now look, I can fly without using my hands!"
@@ -6870,7 +6870,7 @@ msgstr ""
 "Lo uso principalmente para cálculos complejos. Cosas como tu nuevo círculo "
 "serían demasiado peligrosos para solo globos oculares. Hablando de eso, como "
 "expliqué anteriormente, la magia parece existir solo en esta dimensión, por "
-"lo que el círculo no funcionará cuando llegues al abismo."
+"lo que el círculo no funcionará cuando llegues al Averno."
 
 #. [message]: speaker=Mehir
 msgid "I may or may not have been asleep in class during that lesson..."
@@ -7085,7 +7085,7 @@ msgstr ""
 "Ya veo ... en medio de tantos seres espirituales verdaderos, nuestro tipo "
 "está más desarrollado. ¿Guerra sobre 'el único'? ¡Eso haría reír a los "
 "camellos! Nos limitamos a las misiones de fe contra Jinn Faithless. El "
-"abismo nos da una gran ventaja"
+"Averno nos da una gran ventaja"
 
 #. [message]: speaker=Malib
 msgid ""
@@ -7256,7 +7256,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "I'LL KILL YOU, MEHIR!!!"
-msgstr "Te mataré, Mehir !!!"
+msgstr "Te mataré, Megir !!!"
 
 #. [message]: speaker=Mehir
 msgid "I'd rather not talk about it..."
@@ -7471,7 +7471,7 @@ msgid ""
 "piles of ash, and send your souls to the Red Abyss for eternal torment!"
 msgstr ""
 "Si esto es una trampa y mi maestro muere, los convertiré en los dos en "
-"montones de cenizas ardientes y enviaré tus almas al abismo rojo para un "
+"montones de cenizas ardientes y enviaré tus almas al Averno rojo para un "
 "tormento eterno."
 
 #. [message]: speaker=Mehir
@@ -7557,7 +7557,7 @@ msgid ""
 "luxuries, even personal circles and pet elementals."
 msgstr ""
 "En una ciudad rica como Al-Kamija, los comerciantes son una parte decente de "
-"la población. Los bazares de al-Kamija son un lugar donde puedes encontrar "
+"la población. Los bazares de Alcamiya son un lugar donde puedes encontrar "
 "todo tipo de cosas, desde las necesidades más básicas hasta los lujos más "
 "extravagantes, incluso círculos personales y elementales de mascotas."
 
@@ -7580,7 +7580,7 @@ msgid ""
 msgstr ""
 "De acuerdo con las regulaciones del gremio de desvanecedores, cualquier ente "
 "mágico que haya traicionado a sus maestros ha de ser confiscado. Ha de ser "
-"devuelto al abismo para que su mente quede borrada."
+"devuelto al Averno para que su mente quede borrada."
 
 #. [message]: speaker=Banisher
 msgid ""
@@ -7590,7 +7590,7 @@ msgid ""
 msgstr ""
 "De acuerdo con las regulaciones del gremio de desvanecedores, cualquier ente "
 "mágico que haya traicionado a sus maestros ha de ser confiscado. Ha de ser "
-"devuelto al abismo para que su mente quede borrada."
+"devuelto al Averno para que su mente quede borrada."
 
 #. [message]: speaker=Aerius
 msgid ""
@@ -7632,7 +7632,7 @@ msgid ""
 "you an illusion of authority, no amount of acting can conceal the simple "
 "truth. Face it - you are nothing more than just a puppet."
 msgstr ""
-"En el abismo, sí, estabas a cargo. Pero enfréntalo, en esta dimensión, sus "
+"En el Averno, sí, estabas a cargo. Pero enfréntalo, en esta dimensión, sus "
 "'sujetos' realmente obedecen a los invocadores, no a usted. Si bien los "
 "humanos intentan darle una ilusión de autoridad, ninguna cantidad de "
 "actuación puede ocultar la simple verdad. Enfréntalo, no eres más que un "
@@ -7761,9 +7761,9 @@ msgstr ""
 "En efecto. De todos modos, hace siglos, cuando el culto rojo se rebeló "
 "contra nuestra nación, los seres rojos eran su arma principal de guerra. En "
 "aquel entonces, el arte del destierro tenía que desarrollarse para poder "
-"derrotar a las hordas de Efreeti y Dharma'rhamis. Hoy en día, los "
-"disipadores y los desantivadores tratan principalmente con seres rojos "
-"individuales ocasionalmente rebelando, ya que las rebeliones organizadas a "
+"derrotar a las hordas de ifrits y dharma'rhamis. Hoy en día, los disipadores "
+"y los desvanecedores tratan principalmente con los seres rojos individuales "
+"que se sublevan ocasionalmente, ya que las rebeliones organizadas a "
 "gran escala son poco comunes."
 
 #. [message]: speaker=Sculptor
@@ -7787,7 +7787,7 @@ msgid ""
 "them against us."
 msgstr ""
 "En efecto. Sin embargo, tenga en cuenta, mi mentira: no transforme la puerta "
-"en un nivel uno Jinni o un rhami frente a este gran efreeti: podría "
+"en un genio o rhami de nivel uno en frente de este gran ifrit: podría "
 "convertirse fácilmente contra nosotros."
 
 #. [message]: speaker=Mehir
@@ -7847,7 +7847,7 @@ msgid ""
 "my next master."
 msgstr ""
 "De hecho ... al menos logré vengarlo. En cuanto a por qué estoy aquí, la "
-"elección de seguir a Mehir era por mi propia voluntad. Creo que es digno de "
+"elección de seguir a Megir era por mi propia voluntad. Creo que es digno de "
 "convertirse en mi próximo maestro."
 
 #. [message]: speaker=Um_Mu
@@ -8023,8 +8023,8 @@ msgid ""
 "talk to someone who they view as their servant, instead of the mysterious "
 "godlike being he truly is."
 msgstr ""
-"Llegó al punto de que lentamente comenzó a dar forma al Abismo para "
-"parecerse al mundo mortal e introducir el mundo mortal al Abismo. Sospecho "
+"Llegó al punto de que lentamente comenzó a dar forma al Averno para "
+"parecerse al mundo mortal e introducir el mundo mortal al Averno. Sospecho "
 "que su personalidad era poco más que una fachada para que los humanos se "
 "sientan cómodos con su presencia. Después de todo, es mucho más fácil para "
 "los mortales hablar con alguien que ven como su siervo, en lugar del "
@@ -8054,7 +8054,7 @@ msgid ""
 "common Jinn or Rhamis."
 msgstr ""
 "Parece que ya tienes un gran Jinni contigo. Tal vez no sea tan sofisticado "
-"como un Jinni maravilloso, pero estoy bastante seguro de que será útil y no "
+"como un Genio maravilloso, pero estoy bastante seguro de que será útil y no "
 "nos traicionará gracias a su intelecto superior en comparación con Jinn o "
 "Rhamis común."
 
@@ -8438,7 +8438,7 @@ msgstr "Dejar el taller"
 
 #. [message]: speaker=Rashti
 msgid "Leave this to me! I’ll get rid of that nonsense-spewer myself!"
-msgstr "¡Déjamelo a mí! Me libraré de ese error del abismo."
+msgstr "¡Déjamelo a mí! Me libraré de ese error del Averno."
 
 msgid ""
 "Legends say that this scimitar can magically lead a hand of the owner so his "
@@ -8527,7 +8527,7 @@ msgstr "Cuanto tiempo sin verte, Megir. ¡He vuelto y voy a CORTARTE EL CUELLO!"
 
 #. [message]: type=TLU_HoRashti
 msgid "Look Dharma'rashti, we must unite. The whole Abyss is at stake!"
-msgstr "Mira dharma'rashti, debemos unirnos. ¡Todo el abismo está en juego!"
+msgstr "Mira dharma'rashti, debemos unirnos. ¡Todo el Averno está en juego!"
 
 #. [message]: speaker=Glomin
 msgid ""
@@ -8546,7 +8546,7 @@ msgid ""
 "Look, how about you just surrender calmly? Back home in the Abyss you'll be "
 "even better off than roaming the deserts. We want what's best for you."
 msgstr ""
-"Mira, ¿qué tal si te rindes con calma? De vuelta a casa en el abismo, "
+"Mira, ¿qué tal si te rindes con calma? De vuelta a casa en el Averno, "
 "estarás aún mejor que deambulando por los desiertos. Queremos lo mejor para "
 "ti."
 
@@ -8754,7 +8754,7 @@ msgid ""
 "there. *to Mehir* Now, to fulfill the other part of my promise..."
 msgstr ""
 "Maestro Umbrez, ¿has terminado? * Mira el círculo* Ah, un trabajo bastante "
-"impresionante allí. * a mehir* ahora, para cumplir con la otra parte de mi "
+"impresionante allí. * a Megir* ahora, para cumplir con la otra parte de mi "
 "promesa ..."
 
 #. [message]: speaker=GLeader
@@ -8834,7 +8834,7 @@ msgid ""
 "Maybe a little, but I am afraid that living in a place full of abyssmals who "
 "are almost impossible to date, could be frustrating in the long run."
 msgstr ""
-"Tal vez un poco, pero me temo que vivir en un lugar lleno de abismos que son "
+"Tal vez un poco, pero me temo que vivir en un lugar lleno de Avernos que son "
 "casi imposibles de salir, podría ser frustrante a largo plazo."
 
 #. [option]
@@ -8979,7 +8979,7 @@ msgstr ""
 #. [message]: speaker=mage1
 msgid ""
 "Mehir! By the Sun, I always wanted to meet you! You're an absolute legend!"
-msgstr "¡Mehir! ¡Al sol, siempre quise conocerte! ¡Eres una leyenda absoluta!"
+msgstr "¡Megir! ¡Al sol, siempre quise conocerte! ¡Eres una leyenda absoluta!"
 
 #. [message]: speaker=Jaffar
 msgid ""
@@ -9006,7 +9006,7 @@ msgstr ""
 
 #. [message]: speaker=Jaffar
 msgid "Mehir! What did I say about not bringing those beasts here?!"
-msgstr "¡Mehir! ¿Qué dije sobre no traer a esas bestias aquí?"
+msgstr "¡Megir! ¿Qué dije sobre no traer a esas bestias aquí?"
 
 #. [message]: speaker=Jaffar
 msgid "Mehir! You thief! Take him!"
@@ -9032,7 +9032,7 @@ msgstr ""
 "Megir, como último de los invocadores, observaba este espectáculo desde "
 "Kharos. Prometió que haría todo lo posible para permitir a sus tropas "
 "reunirse con sus familiares y amigos.\n"
-"De acuerdo con lo que Anthi había dicho, la única forma de llegar al abismo "
+"De acuerdo con lo que Anthi había dicho, la única forma de llegar al Averno "
 "era dirigirse hacia el oeste, para buscar a una gente misteriosa de la que "
 "se sabía que podían hacer que ocurrieran cosas increíbles."
 
@@ -9054,7 +9054,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Mehir, sir, Mehir ibn Hakim the elder, to be precise."
-msgstr "Mehir, señor, mehir ibn hakim el anciano, para ser precisos."
+msgstr "Mehir, señor, Megir ibn hakim el anciano, para ser precisos."
 
 #. [message]: speaker=Rashti
 msgid "Mehir... please... be my new master."
@@ -9155,7 +9155,7 @@ msgid ""
 "My Master! KILL! I’m losing DIE! control. The Abyss KILL! is in danger. DIE!"
 msgstr ""
 "¡Maestro!... ¡MATAR!... Estoy perdiendo... ¡MUERE!...el control. El "
-"Abismo... ¡MATAR!... está en peligro. ¡MUERE!"
+"Averno... ¡MATAR!... está en peligro. ¡MUERE!"
 
 #. [message]: speaker=unit
 msgid ""
@@ -9308,7 +9308,7 @@ msgid ""
 "My magical servants, you may return to the Abyss! Farewell, stranger, and "
 "thank you for releasing me from this prison..."
 msgstr ""
-"¡Mis sirvientes mágicos, puedes regresar al Abismo! Adiós, extraño, y "
+"¡Mis sirvientes mágicos, puedes regresar al Averno! Adiós, extraño, y "
 "gracias por liberarme de esta prisión ..."
 
 #. [message]: speaker=Rashti
@@ -9343,7 +9343,7 @@ msgid ""
 "charisma and rhetoric... I'm not surprised at all that he managed to "
 "persuade so many beings to follow him!"
 msgstr ""
-"My, mi, he visto bastantes abisales en mi tiempo como desterráneo, pero este "
+"My, mi, he visto bastantes avernales en mi tiempo como desterráneo, pero este "
 "es un verdadero placer para mis ojos ... tanta fuerza, tan extraordinario "
 "carisma y retórica ... no me sorprende ¡Todo lo que logró persuadir a tantos "
 "seres para que lo siguieran!"
@@ -9384,12 +9384,12 @@ msgid ""
 "Mysterious beasts grabbed Mehir and Jaffar, and carried them deep into the "
 "jungle..."
 msgstr ""
-"Las misteriosas bestias agarraron a Mehir y Jaffar, y las llevaron "
+"Las misteriosas bestias agarraron a Megir y Jaffar, y las llevaron "
 "profundamente en la jungla ..."
 
 #. [unit]: id=mjinn, type=EoMa_Mystical_Jinn
 msgid "Mystical Jinn"
-msgstr "Jinn místico"
+msgstr "Genio místico"
 
 #. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
 msgid "Mystical Jinni"
@@ -9397,7 +9397,7 @@ msgstr "Genio místico"
 
 #. [message]: speaker=Mehir
 msgid "Mystical Jinni! Give me some advice!"
-msgstr "¡Jinni místico! ¡Dame algún consejo!"
+msgstr "¡Genio místico! ¡Dame algún consejo!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
@@ -9447,9 +9447,9 @@ msgid ""
 "death would cause disastrous consequences for our connection to the Abyss."
 msgstr ""
 "(susurra) ... callaos... (habla con normalidad) A pesar de todo, espero que "
-"forméis un buen equipo, lo cual nos permitirá trasladarnos al abismo más "
+"forméis un buen equipo, lo cual nos permitirá trasladarnos al Averno más "
 "rápido de lo planeado. Cuidad de ella. Su muerte podría tener consecuencias "
-"desastrosas para el abismo.\n"
+"desastrosas para el Averno.\n"
 "\n"
 "¡Creo que ya hemos terminado con esto, ya puede comenzar la celebración!"
 
@@ -9470,7 +9470,7 @@ msgid ""
 "Nevermind, Jaffar's already in the Abyss. It is good as it is. So what's "
 "next?"
 msgstr ""
-"No importa, Jaffar ya está en el Abismo. Es bueno como es. ¿Qué es lo "
+"No importa, Jaffar ya está en el Averno. Es bueno como es. ¿Qué es lo "
 "siguiente?"
 
 #. [event]
@@ -9770,7 +9770,7 @@ msgid ""
 "Note: All summoned Jinn have returned to the Abyss. Remember: Mehir needs to "
 "be a Summons Master to carry them between missions."
 msgstr ""
-"Nota: Todos los Jinn convocados han regresado al averno. Recuerde: Mehir "
+"Nota: Todos los Jinn convocados han regresado al Averno. Recuerde: Mehir "
 "debe ser un Maestro de las invocaciones para conservarlo entre misiones."
 
 #. [message]: speaker=narrator
@@ -10029,7 +10029,7 @@ msgstr "Oh, por todos los..."
 
 #. [message]: speaker=Mehir
 msgid "Oh no! Rashti has lost her balance once again!"
-msgstr "¡Oh no! ¡Rasti ha vuelto a perder su equilibrio!"
+msgstr "¡Oh no! ¡Rhasti ha vuelto a perder su equilibrio!"
 
 #. [message]: speaker=Mehir
 msgid "Oh no! The bridge is on fire!"
@@ -10044,7 +10044,7 @@ msgid ""
 "Oh no... The dwellers of the Red Abyss are flooding into our realm! If we do "
 "not close the portal soon, this will be the end of the world!"
 msgstr ""
-"Oh no ... ¡los habitantes del abismo rojo están inundando nuestro reino! Si "
+"Oh no ... ¡los habitantes del Averno rojo están inundando nuestro reino! Si "
 "no cerramos el portal pronto, ¡este será el fin del mundo!"
 
 #. [message]: speaker=Elder
@@ -10089,11 +10089,11 @@ msgstr ""
 
 #. [message]: speaker=girl1
 msgid "Oh, Mehir! We would love to!"
-msgstr "¡Oh, mehir! ¡Nos encantaría!"
+msgstr "¡Oh, Megir! ¡Nos encantaría!"
 
 #. [message]: speaker=narrator
 msgid "Oh, Mehir! You are such a professional!"
-msgstr "¡Oh, mehir! ¡Eres tan profesional!"
+msgstr "¡Oh, Megir! ¡Eres tan profesional!"
 
 #. [message]: speaker=Mastermage
 msgid ""
@@ -10101,7 +10101,7 @@ msgid ""
 "in the Abyss for a good few days."
 msgstr ""
 "Oh, un invocador. Interesante... ¿Por qué estáis aquí? Hace ya varios días "
-"que vuestros paisanos marcharon al abismo."
+"que vuestros paisanos marcharon al Averno."
 
 #. [message]: speaker=Mehir
 msgid "Oh, a gate. Let’s open it."
@@ -10179,7 +10179,7 @@ msgstr "Oh, claro, me olvidé totalmente de eso. ¿Pero qué hay de Jaffar?"
 msgid ""
 "Oh, that? Mehir did return some of it, what little he hadn't already spent "
 "that is."
-msgstr "¿Oh eso? Mehir devolvió algo, lo poco que no había gastado."
+msgstr "¿Oh eso? Megir devolvió algo, lo poco que no había gastado."
 
 #. [message]: speaker=narrator
 msgid "Oh, yes! Flying so fast feels wonderful!"
@@ -10591,11 +10591,11 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Rashti! Get away from there! We must close the portal!"
-msgstr "¡Rasti! ¡Sal de ahí! ¡Debemos cerrar el portal!"
+msgstr "¡Rhasti! ¡Sal de ahí! ¡Debemos cerrar el portal!"
 
 #. [message]: speaker=Mehir
 msgid "Rashti! Is everything alright?"
-msgstr "¡Rasti! ¿Va todo bien?"
+msgstr "¡Rhasti! ¿Va todo bien?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10632,11 +10632,11 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Rashti, are you alright?"
-msgstr "¿Rasti, puedes llegar hasta él?"
+msgstr "¿Rhasti, puedes llegar hasta él?"
 
 #. [message]: speaker=Mehir
 msgid "Rashti, are you ready for this?"
-msgstr "¿Rasti, puedes llegar hasta él?"
+msgstr "¿Rhasti, puedes llegar hasta él?"
 
 #. [message]: speaker=Ghost
 msgid ""
@@ -10656,7 +10656,7 @@ msgstr "Rasti, tu primero."
 
 #. [message]: speaker=Mehir
 msgid "Rashti, you tell him..."
-msgstr "¿Rasti, puedes llegar hasta él?"
+msgstr "¿Rhasti, puedes llegar hasta él?"
 
 #. [message]: speaker=Aerius
 msgid ""
@@ -10678,7 +10678,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Rashti? You... you’re alive?! Both of you?"
-msgstr "¿Rasti? ¿Estás viva? ¿Las dos?"
+msgstr "¿Rhasti? ¿Estás viva? ¿Las dos?"
 
 #. [message]: speaker=Safay
 msgid "Ready for duty, sir!"
@@ -10706,7 +10706,7 @@ msgstr "Invocado..."
 
 #. [message]: speaker=narrator
 msgid "Received 750 gold, as well as two Efreet lamps!"
-msgstr "¡Recibió 750 de oro, así como dos lámparas Efreet!"
+msgstr "¡Recibió 750 de oro, así como dos lámparas Ifrit!"
 
 #. [objective]: condition=win
 msgid "Recruit or recall something"
@@ -10755,11 +10755,11 @@ msgstr ""
 "particular que es capaz de llevarnos a ese mundo irreal. Nuestros "
 "experimentos tuvieron éxito, pero hasta la fecha no hemos podido invocar de "
 "vuelta los objetos que habíamos enviado previamente. Con motivo de esto, "
-"aunque parezca una locura, decidimos transportar al abismo todo nuestro "
+"aunque parezca una locura, decidimos transportar al Averno todo nuestro "
 "país, esperando encontrar la solución al otro lado. Pero incluso aunque la "
 "encontráramos, quizás no la usaríamos...\n"
 "\n"
-"Sería abrumador que creyéramos que vamos a encontrar en el abismo el sentido "
+"Sería abrumador que creyéramos que vamos a encontrar en el Averno el sentido "
 "último de la vida y decidiéramos permanecer allí para siempre."
 
 #. [message]: speaker=narrator
@@ -10838,14 +10838,14 @@ msgstr "Dejando a un lado el precio ridículo, no puedo pagar el elemental."
 
 #. [note]
 msgid "Right click Mehir for help"
-msgstr "Haga clic derecho Mehir para obtener ayuda"
+msgstr "Haga clic derecho Megir para obtener ayuda"
 
 #. [message]: speaker=narrator
 msgid ""
 "Right click an empty hex adjacent to Mehir and then pick a unit you wish to "
 "summon."
 msgstr ""
-"Haga clic derecho en un hexaderador vacío adyacente a Mehir y luego elija "
+"Haga clic derecho en un hexaderador vacío adyacente a Megir y luego elija "
 "una unidad que desee convocar."
 
 #. [message]: speaker=Mehir
@@ -10890,7 +10890,7 @@ msgstr "Defended el campamento."
 
 #. [message]: speaker=Mehir
 msgid "Run, Rashti, run. You're our only hope!"
-msgstr "Corre Rasti, corre. ¡Sin ti no podremos hacerlo!"
+msgstr "Corre Rhasti, corre. ¡Sin ti no podremos hacerlo!"
 
 #. [message]: race=human
 msgid ""
@@ -10964,7 +10964,7 @@ msgid ""
 "Secondly, only I can do unspeakable things with Mehir! GET THE HELL AWAY "
 "FROM HIM YOU FILTHY WITCH!!!"
 msgstr ""
-"En segundo lugar, ¡solo yo puedo hacer cosas indescriptibles con Mehir! "
+"En segundo lugar, ¡solo yo puedo hacer cosas indescriptibles con Megir! "
 "¡Aleja de él, bruja sucia!"
 
 #. [message]: speaker=gate_guardian
@@ -11170,7 +11170,7 @@ msgstr "¡Callad y cubridme!"
 
 #. [scenario]: id=17_Siege_of_Kharos
 msgid "Siege of Kharos"
-msgstr "Puertas de Kharos"
+msgstr "Puertas de Caros"
 
 #. [scenario]: id=12_Siege_of_Mag-Magar
 msgid "Siege of Mag-Magar"
@@ -11430,7 +11430,7 @@ msgstr ""
 
 #. [message]: speaker=Void
 msgid "So you must be Mehir. Come closer, Earthbound."
-msgstr "Entonces debes ser Mehir. Acércate, Earthbound."
+msgstr "Entonces debes ser Megir. Acércate, Earthbound."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11935,7 +11935,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Taste the fires of the Abyss, savages!"
-msgstr "¡Al fin! ¡Sentid los fuegos del abismo!"
+msgstr "¡Al fin! ¡Sentid los fuegos del Averno!"
 
 msgid "Technical note:"
 msgstr "Nota tecnica:"
@@ -12036,7 +12036,7 @@ msgid ""
 "without worrying about logistics."
 msgstr ""
 "Gracias a la colaboración con el Sky Kingdom Magi, el megacírculo personal "
-"de Mehir ha mejorado enormemente, otorgándole hechizos más poderosos y la "
+"de Megir ha mejorado enormemente, otorgándole hechizos más poderosos y la "
 "habilidad única para teletransportar a sus tropas directamente a un campo de "
 "batalla sin preocuparse por la logística."
 
@@ -12111,7 +12111,7 @@ msgid ""
 "the Abyss, you will miss it..."
 msgstr ""
 "Todo eso es muy interesante. Ya no confías en el sol, pero una vez en el "
-"abismo, lo extrañarás ..."
+"Averno, lo extrañarás ..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -12223,13 +12223,13 @@ msgid ""
 "your shallow promises... *sigh* I severely overestimated the intellect of my "
 "followers..."
 msgstr ""
-"¡El abismo sea condenado! Quería darles libertad y, sin embargo, se "
+"¡El Averno sea condenado! Quería darles libertad y, sin embargo, se "
 "enamoraron de sus promesas superficiales ... * suspiro * Sobreestimé "
 "severamente el intelecto de mis seguidores ..."
 
 #. [message]: speaker=Mehir
 msgid "The Abyss! Finally!"
-msgstr "¡El abismo! ¡Por fin!"
+msgstr "¡El Averno! ¡Por fin!"
 
 #. [object]
 msgid ""
@@ -12280,7 +12280,7 @@ msgstr ""
 "lámparas Jinn y muchos otros objetos mágicos. Si bien los invocadores se "
 "enorgullecen ingenuamente en la capacidad de usar hábilmente círculos "
 "mágicos, los encantadores son los que realmente entienden los entresijos de "
-"la magia abisal."
+"la magia avernal."
 
 #. [message]: speaker=Elder
 msgid ""
@@ -12305,7 +12305,7 @@ msgid ""
 "being are yet to be discovered."
 msgstr ""
 "La puerta viva es una obra maestra y maravilla para muchos estudiosos. Al "
-"poder acceder a diferentes partes del abismo, las capacidades completas de "
+"poder acceder a diferentes partes del Averno, las capacidades completas de "
 "este ser único aún no se han descubierto."
 
 #. [unit_type]: id=TLU_Living_Gate, race=eoma_magical
@@ -12320,11 +12320,11 @@ msgid ""
 msgstr ""
 "La puerta viva es la cuarta y el último ser de origen abismal. A los "
 "invocadores todavía les resulta difícil describir esta cosa inusual. Es un "
-"portal móvil abierto al abismo similar a las puertas dimensionales, pero en "
+"portal móvil abierto al Averno similar a las puertas dimensionales, pero en "
 "este caso particular, una fuerza desconocida de origen abismal ha ganado "
 "control sobre él, otorgando la autoconciencia de la puerta. La puerta viva "
 "es una obra maestra y maravilla para muchos estudiosos. Al poder acceder a "
-"diferentes partes del abismo, se desconocen las capacidades completas de "
+"diferentes partes del Averno, se desconocen las capacidades completas de "
 "esta unidad."
 
 #. [message]: speaker=Mehir
@@ -12392,7 +12392,7 @@ msgstr ""
 "La aparición del Flying Invader sorprendió al Alto Consejo. Paranoico de una "
 "posible invasión en cualquier momento, aumentaron significativamente los "
 "fondos de los militares y entrenaron a nuevos soldados tan rápido como "
-"pudieron permitirse. Pero volvamos a la historia de Mehir ..."
+"pudieron permitirse. Pero volvamos a la historia de Megir ..."
 
 #. [part]
 msgid ""
@@ -12442,7 +12442,7 @@ msgid ""
 msgstr ""
 "La calma y sabia ho'rashti. Su objetivo es reunirse con la mitad malvada a "
 "toda costa. Sin embargo, ella es demasiado débil para hacerlo sola y "
-"necesita la ayuda de Mehir."
+"necesita la ayuda de Megir."
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -12595,7 +12595,7 @@ msgid ""
 "the final segment, and once it touched the other world..."
 msgstr ""
 "La mañana siguiente, el gran círculo - el proyecto más grande nunca "
-"realizado - fue terminado. El sueño acerca del abismo casi se hizo realidad, "
+"realizado - fue terminado. El sueño acerca del Averno casi se hizo realidad, "
 "como nunca antes. Solo faltaba activar el círculo para que los invocadores "
 "abandonaran este mundo mortal para entrar en una tierra mágica de infinitas "
 "posibilidades.\n"
@@ -12694,9 +12694,9 @@ msgid ""
 "energies into our world. And best of all, there's no known way of protection "
 "from this beauty."
 msgstr ""
-"El megacircle accede a una parte densa en energía del abismo y luego le abre "
+"El megacircle accede a una parte densa en energía del Averno y luego le abre "
 "una puerta de corta duración, lo que resulta en una expulsión concentrada de "
-"energías abisales en nuestro mundo. Y lo mejor de todo, no hay una forma de "
+"energías avernales en nuestro mundo. Y lo mejor de todo, no hay una forma de "
 "protección conocida de esta belleza."
 
 #. [part]
@@ -12718,13 +12718,13 @@ msgstr ""
 "forma. El alto consejo descubrió que la muerte de Rasti, la resurrección de "
 "sus egos, y su integración en una forma femenina de Nomola había destruido "
 "por completo el equilibrio entre los mundos. El gran círculo se estaba "
-"quedando obsoleto, derivando desde su localización mística en el abismo. De "
+"quedando obsoleto, derivando desde su localización mística en el Averno. De "
 "todas formas, experimentos llevados a cabo por los invocadores en días "
 "anteriores mostraban que las fluctuaciones de tiempo en el espacio del "
 "multiverso conllevaban un retraso de veinticinco días entre los eventos y "
 "sus consecuencias visibles. El mensajero había viajado durante doce días, lo "
 "cual quiere decir que los invocadores tenían trece días para terminar el "
-"círculo en su actual forma y trasladarse al abismo. Si no se completara a "
+"círculo en su actual forma y trasladarse al Averno. Si no se completara a "
 "tiempo, todo el trabajo sería un desperdicio."
 
 #. [part]
@@ -12757,7 +12757,7 @@ msgid ""
 "circles. They live not too far to the west from here, or at least, they used "
 "to live there yesterday..."
 msgstr ""
-"Conozco gente que puede trasladaros al abismo sin dibujar círculos. Viven no "
+"Conozco gente que puede trasladaros al Averno sin dibujar círculos. Viven no "
 "muy lejos al oeste de aquí, o al menos, vivían hasta hace poco..."
 
 #. [message]: speaker=Mehir
@@ -13060,7 +13060,7 @@ msgid ""
 "and if necessary, rescue - the leader and his troops."
 msgstr ""
 "Allí, el Consejo Superior se había reunido para una reunión secreta. Llegó a "
-"los oídos de Mehir que Tashkar, la cabeza de Tar-Tabar, desapareció, después "
+"los oídos de Megir que Tashkar, la cabeza de Tar-Tabar, desapareció, después "
 "de haber salido a Ka-Gatta con algunas de sus tropas. La razón detrás de la "
 "expedición quedó en secreto, pero, para su sorpresa, Mehir fue elegido para "
 "encontrar, y si fue necesario, rescatar: el líder y sus tropas."
@@ -13116,7 +13116,7 @@ msgid ""
 "are not of abyssal origin either..."
 msgstr ""
 "Estos seres parecen ser mágicos, pero no siento magia en sus cuerpos. No son "
-"en absoluto del abismo."
+"en absoluto del Averno."
 
 #. [message]: speaker=BLeader
 msgid ""
@@ -13323,7 +13323,7 @@ msgid ""
 " -You cannot skip your turn"
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-" -La de movimiento de Mehir se reina después de cada movimiento.\n"
+" -La de movimiento de Megir se reina después de cada movimiento.\n"
 " -No no puedes omitir tu turno"
 
 #. [objectives]
@@ -13336,7 +13336,7 @@ msgid ""
 "-Rashti follows you automatically"
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-"-La de movimiento de Mehir se recarga después de cada movimiento\n"
+"-La de movimiento de Megir se recarga después de cada movimiento\n"
 "-No no puedes omitir tu turno\n"
 "-PUEDES interactuar con NPC que tienen marcos de exclamación amarilla "
 "moviéndose junto a ellos\n"
@@ -13351,7 +13351,7 @@ msgid ""
 "next to them."
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-"-La de movimiento de Mehir se reina después de cada movimiento.\n"
+"-La de movimiento de Megir se reina después de cada movimiento.\n"
 "-No no puedes omitir tu turno\n"
 "-PUEDES interactuar con NPC que tienen marcos de exclamación amarilla "
 "moviéndose junto a ellos."
@@ -13398,7 +13398,7 @@ msgstr ""
 "Esto es solo ... ¡alucinante! Creo que usó una fórmula alterada de destierro "
 "en sí mismo, ¡una que no se limpie la mente! Si lo que dijo es cierto, "
 "tendremos que lidiar con una resistencia mucho, mucho mayor una vez que nos "
-"subamos al abismo ..."
+"subamos al Averno ..."
 
 #. [message]: speaker=ferryman
 msgid "This is madness! I'm gonna write a complaint to the High Council!"
@@ -13435,7 +13435,7 @@ msgstr ""
 #. [message]: speaker=Rashti
 msgid "This makes me wonder... Is the Abyss still the same place now?"
 msgstr ""
-"Esto me hace preguntarme ... ¿El Abismo sigue siendo el mismo lugar ahora?"
+"Esto me hace preguntarme ... ¿El Averno sigue siendo el mismo lugar ahora?"
 
 #. [message]: speaker=unit
 msgid ""
@@ -13484,7 +13484,7 @@ msgid ""
 "\n"
 "Should this unit pick up the spear?"
 msgstr ""
-"Esta pica, forjada puramente a partir de energía del averno, es el arma "
+"Esta pica, forjada puramente a partir de energía del Averno, es el arma "
 "utilizada por la primera Rhami'kai. Una obra excepcional, en comparación con "
 "las armas de sus sucesoras, fabricadas en serie a partir de metal mundano.\n"
 "\n"
@@ -13562,7 +13562,7 @@ msgid ""
 "Should this unit pick up the staff?"
 msgstr ""
 "Se rumorea que este bastón fue el usado por el primero Maestro de los "
-"Desterradores. Su poder es formidable incluso en manos no entrenadas.\n"
+"Desvanecedores. Su poder es formidable incluso en manos no entrenadas.\n"
 "\n"
 "- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
 "- El ataque destierro nunca falla.\n"
@@ -13725,7 +13725,7 @@ msgid ""
 "- increases magical resistances by 10%"
 msgstr ""
 "Esta unidad porta un poderoso bastón que alguna vez perteneció al primer "
-"Maestro de los Desterradores.\n"
+"Maestro de los Desvanecedores.\n"
 "\n"
 "Efectos:\n"
 "- El ataque de destierro nunca falla.\n"
@@ -13857,7 +13857,7 @@ msgstr ""
 "mostrar algún interés preocupado en la situación de los parientes. Por lo "
 "tanto, Mehir debía actuar como enviado: entregaría una carta del Consejo al "
 "pueblo de Kharos, una invitación para moverse junto con los invocadores al "
-"Abismo. Un gesto tan agradable parecía adecuado, si no la única posibilidad "
+"Averno. Un gesto tan agradable parecía adecuado, si no la única posibilidad "
 "de supervivencia para las personas en el viejo país nativo. El High Council "
 "ordenó que se construyeran tres barcos específicamente para la partida de "
 "Mehir, similar en diseño al que Atiros navegó. El propio Mehir estaba "
@@ -13908,7 +13908,7 @@ msgid ""
 "in the Abyss, and made me fight my way here, so it better be true..."
 msgstr ""
 "Me dijeron que vos sois la persona que podría ayudarme a unirme a mi gente "
-"en el abismo..."
+"en el Averno..."
 
 #. [message]: type=EoMa_HoRhami
 msgid "Those who dare touch the scimitar..."
@@ -14005,7 +14005,7 @@ msgid ""
 msgstr ""
 "Los tiempos cambian, viejo pedo, lidiar con eso. ¿Prefieres volver a los "
 "tiempos en que nuestros ancestros ​​tuvieron que vivir en cuevas y comer "
-"hongos para sobrevivir, sin magia abisal?"
+"hongos para sobrevivir, sin magia avernal?"
 
 #. [message]: speaker=narrator
 msgid ""
@@ -14110,7 +14110,7 @@ msgstr "Traducciones"
 
 #. [unit_type]: id=TLU_True_Rashti, race=eoma_magical
 msgid "True Rashti"
-msgstr "Al Rasti"
+msgstr "Al Rhasti"
 
 #. [message]: speaker=Agent2
 msgid ""
@@ -14166,7 +14166,7 @@ msgstr "Dos horas después..."
 
 #. [message]: speaker=Mehir
 msgid "Uh, Rashti? Are you alright?"
-msgstr "¡Rasti! ¿Va todo bien?"
+msgstr "¡Rhasti! ¿Va todo bien?"
 
 #. [message]: speaker=Mehir
 msgid "Uh, excuse me..."
@@ -14287,7 +14287,7 @@ msgstr "Umbrez"
 
 #. [message]: speaker=Mehir
 msgid "Unbelievable! I've got to enter heaven to get down into the Abyss."
-msgstr "¡Increíble! Tengo que entrar en el cielo para meterme en el averno."
+msgstr "¡Increíble! Tengo que entrar en el cielo para meterme en el Averno."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -14364,7 +14364,7 @@ msgstr ""
 
 #. [message]: speaker=Keeper
 msgid "Very well, then, you may leave. *unties Mehir*"
-msgstr "Muy bien, entonces, puedes irte. *desata mehir*"
+msgstr "Muy bien, entonces, puedes irte. *desata Megir*"
 
 #. [message]: speaker=Keeper
 msgid ""
@@ -14414,7 +14414,7 @@ msgstr ""
 
 #. [message]: speaker=Jaffar
 msgid "WAIT! NO! Mehir, you were there! Did you really cook them?!"
-msgstr "¡ESPERAR! ¡NO! Mehir, estabas allí! ¿Realmente los cocinas?"
+msgstr "¡ESPERAR! ¡NO! Megir, estabas allí! ¿Realmente los cocinas?"
 
 #. [message]: speaker=Malib
 msgid ""
@@ -14453,7 +14453,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Wait a... Rashti, did you say the activation spell?!"
-msgstr "Un momento... Rasti. ¿Pronunciaste el conjuro de activación?"
+msgstr "Un momento... Rhasti. ¿Pronunciaste el conjuro de activación?"
 
 #. [objective]: condition=win
 msgid "Wait until the circle finishes itself"
@@ -14630,9 +14630,9 @@ msgid ""
 "civilization."
 msgstr ""
 "Todavía no estamos seguros de si nuestras predicciones son correctas, pero "
-"parece que el equilibrio abisal puede estar en riesgo en las próximas "
+"parece que el equilibrio avernal puede estar en riesgo en las próximas "
 "semanas o meses. Un cierto rojo está bajo el nombre de Reficul está "
-"intentando convertir los abisales contra su civilización. Si bien puede no "
+"intentando convertir los avernales contra su civilización. Si bien puede no "
 "ser mucho en términos de fuerza cruda, pero las ideas que se propaga son "
 "muy, muy peligrosas para su civilización."
 
@@ -14649,7 +14649,7 @@ msgid ""
 "behind. Abysmal beings except Rashti do not matter."
 msgstr ""
 "Será mejor que permanezcamos dentro del círculo. No puedo dejar a mis "
-"hombres atrás. Los entes del abismo no importan."
+"hombres atrás. Los entes del Averno no importan."
 
 #. [message]: speaker=Rashti
 msgid "We can arrange that..."
@@ -14658,7 +14658,7 @@ msgstr "Podemos organizar eso ..."
 #. [message]: speaker=Mehir
 msgid ""
 "We can make them fall into the Red Abyss! Could you say the activation spell?"
-msgstr "Un momento... Rasti. ¿Pronunciaste el conjuro de activación?"
+msgstr "Un momento... Rhasti. ¿Pronunciaste el conjuro de activación?"
 
 #. [message]: speaker=Anthi
 msgid ""
@@ -14684,7 +14684,7 @@ msgstr "Lo elegimos como reconocimiento a sus logros. Acercaros, Megir."
 
 #. [message]: speaker=Atiros
 msgid "We defeated the invaders! Anthi, WE DID IT!!!"
-msgstr "¡Hemos salvado Kharos! ¡Anthi, LO HEMOS HECHO!"
+msgstr "¡Hemos salvado Caros! ¡Anthi, LO HEMOS HECHO!"
 
 #. [message]: speaker=Dedylos
 msgid ""
@@ -14784,7 +14784,7 @@ msgid ""
 "characteristic of the Abyssals. Luckily, the true guilty party got what they "
 "deserved. Though I do wonder, who were they?"
 msgstr ""
-"No deberíamos culpar a Rasti por la muerte de Tashkar. Los entes del abismo "
+"No deberíamos culpar a Rasti por la muerte de Tashkar. Los entes del Averno "
 "se caracterizan por su ingenuidad. Por fortuna los auténticos culpables "
 "fueron eliminados, aunque nunca lleguemos a saber quienes eran."
 
@@ -14842,7 +14842,7 @@ msgstr "¡Estamos rodeados! Todos, preparan tus armas, ¡pero no ataces todavía
 
 #. [message]: speaker=Anthi
 msgid "Welcome to Kharos, Mehir, descendant of our fathers."
-msgstr "Bienvenido a Kharos, Megir, descendiente de nuestros padres."
+msgstr "Bienvenido a Caros, Megir, descendiente de nuestros padres."
 
 #. [message]: speaker=Elder
 msgid ""
@@ -14868,7 +14868,7 @@ msgid ""
 "Well well, yet another pathetic rebellion in the Red Abyss? Seems it is time "
 "for me to take out the trash yet again."
 msgstr ""
-"Bueno, bueno, ¿otra rebelión patética en el Abismo Rojo? Parece que es hora "
+"Bueno, bueno, ¿otra rebelión patética en el Averno Rojo? Parece que es hora "
 "de que saque la basura una vez más."
 
 #. [message]: speaker=Mehir
@@ -14895,7 +14895,7 @@ msgid ""
 "count..."
 msgstr ""
 "Bueno, también puedo lanzar hechizos con mi mente, pero aquellos dependen de "
-"la energía abisal en lugar de la nativa de este mundo, así que supongo que "
+"la energía avernal en lugar de la nativa de este mundo, así que supongo que "
 "eso no cuenta ..."
 
 #. [message]: speaker=Aerius
@@ -15067,7 +15067,7 @@ msgid ""
 msgstr ""
 "Bueno, sabemos cómo actualizarlo más, ¡gratis! Considere esta parte de la "
 "disculpa por el daño que Aerius ha hecho. Le diré a Umbrez, uno de nuestros "
-"magos vacíos que conocen mucho sobre la magia abisal, que haga exactamente "
+"magos vacíos que conocen mucho sobre la magia avernal, que haga exactamente "
 "eso. Conocerlo en el cielo norte, mejorará tu círculo con nuestra magia."
 
 #. [message]: speaker=Sculptor
@@ -15136,7 +15136,7 @@ msgid ""
 "independent wonderful jinni like me. I need to pay rent, bills, do some "
 "shopping from time to time, hire carpet ferrymen etc."
 msgstr ""
-"Bueno, ya ves, vivir en al-Kamija es bastante costoso, especialmente para un "
+"Bueno, ya ves, vivir en Alcamiya es bastante costoso, especialmente para un "
 "maravilloso jinni independiente como yo. Necesito pagar el alquiler, las "
 "facturas, hacer algunas compras de vez en cuando, contratar a Ferrymen de "
 "alfombras, etc."
@@ -15198,11 +15198,11 @@ msgstr "Qué bonita vista de la ciudad ..."
 
 #. [message]: speaker=Banisher
 msgid "What a shame, I wish the Abyss would open and swallow me up..."
-msgstr "Qué lástima, desearía que el abismo se abriera y me trague ..."
+msgstr "Qué lástima, desearía que el Averno se abriera y me trague ..."
 
 #. [message]: speaker=Mehir
 msgid "What about Rashti? She’s half-good..."
-msgstr "¿Que pasaría con Rasti? Ella es mitad buena..."
+msgstr "¿Que pasaría con Rhasti? Ella es mitad buena..."
 
 #. [message]: speaker=Mehir
 msgid "What about the battery?"
@@ -15327,7 +15327,7 @@ msgstr ""
 "¿Qué sabría, preguntas? Más de lo que piensas. Lo admiré, escuché cada una "
 "de las palabras, leí y releé todo lo que ha escrito docenas de veces. Estoy "
 "de acuerdo contigo sobre su intelecto, él es la mente más grande en todo el "
-"abismo. Sobre todo, él es un filósofo, uno con el poder de poner en práctica "
+"Averno. Sobre todo, él es un filósofo, uno con el poder de poner en práctica "
 "cualquiera de sus teorías."
 
 #. [message]: speaker=Rashti
@@ -15405,7 +15405,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Whatever happens, do not attack Rashti! This is an order!"
-msgstr "¡No ataquéis a Rasti, ocurra lo que ocurra! ¡Es una orden!"
+msgstr "¡No ataquéis a Rhasti, ocurra lo que ocurra! ¡Es una orden!"
 
 #. [message]: speaker=Rashti
 msgid "Whatever these things are, I'm pretty sure they are not living beings."
@@ -15507,7 +15507,7 @@ msgid ""
 msgstr ""
 "Cuando los humanos lo convocaron accidentalmente, estaba completamente "
 "fascinado por los conceptos del mundo mortal, que eran completamente ajenos "
-"al abismo. Se podría decir que se obsesionó completamente."
+"al Averno. Se podría decir que se obsesionó completamente."
 
 #. [dummy]: id=tlu_instakill
 msgid "When this unit hits a non-flying target, it kills it instantly."
@@ -15691,7 +15691,7 @@ msgid ""
 "Before we proceed to the action, let's start with the humble beginnings, a "
 "usual day of his life..."
 msgstr ""
-"Sea testigo de la historia de Mehir, un joven guardia de la ciudad de Al-"
+"Sea testigo de la historia de Megir, un joven guardia de la ciudad de Al-"
 "Kamija, que desempeñará un papel muy importante en el período de tiempo que "
 "los estudiosos llaman 'Era of Magic'. Pero antes de que suceda, tendrá que "
 "ascender la jerarquía de los invocadores. Antes de proceder a la acción, "
@@ -15856,7 +15856,7 @@ msgid ""
 "to get to the Abyss, then why not do that?"
 msgstr ""
 "Sí, todas las historias que podría contar ... Por cierto, me pregunto, si "
-"sabes cómo llegar al Abismo, ¿por qué no hacer eso?"
+"sabes cómo llegar al Averno, ¿por qué no hacer eso?"
 
 #. [message]: speaker=Mehir
 msgid "Yeah, that piece of junk can barely hold together."
@@ -15999,7 +15999,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "Yes, why are you asking?"
-msgstr "¿Como? ¿Adonde vas, Rasti?"
+msgstr "¿Como? ¿Adonde vas, Rhasti?"
 
 #. [message]: speaker=Guru
 msgid "Yes, you will now serve this man over here, understood?"
@@ -16203,7 +16203,7 @@ msgid ""
 "servants in the middle of the Great Desert for centuries."
 msgstr ""
 "No puedes culparlos. Estaban a salvo de los peligros del mundo exterior, "
-"viviendo una vida utópica aislacionista junto con sus sirvientes abisales en "
+"viviendo una vida utópica aislacionista junto con sus sirvientes avernales en "
 "medio del gran desierto durante siglos."
 
 #. [message]: speaker=Banisher
@@ -16213,8 +16213,8 @@ msgid ""
 "summon more Great Jinn directly without recruiting those risky low-level "
 "ones!"
 msgstr ""
-"Podrías usar tus desterrados contra nuestro enemigo para obtener múltiples "
-"IIS dimensionales. ¡Entonces podríamos alimentarlos con almas de seres "
+"Podrías usar tus desvanecedores contra nuestro enemigo para obtener múltiples "
+"Puertas Dimensional II. ¡Entonces podríamos alimentarlos con almas de seres "
 "mágicos hostiles para convocar más a Jinn más grande directamente sin "
 "reclutar esos riesgosos de bajo nivel!"
 
@@ -16254,7 +16254,7 @@ msgid ""
 "the Summoners move to it, they won’t return and I will be trapped in this "
 "mortal world forever..."
 msgstr ""
-"No lo comprendéis. El Abismo es el centro de nuestras vidas. Si el resto de "
+"No lo comprendéis. El Averno es el centro de nuestras vidas. Si el resto de "
 "los invocadores se trasladan a él, nunca volverán y quedaré atrapado en este "
 "mundo mortal para siempre..."
 
@@ -16335,7 +16335,7 @@ msgid ""
 "of channeling magic, and the last one addressing intellectual skills, as "
 "well as understanding of science."
 msgstr ""
-"Tienes una compañera bastante inusual contigo. Parece ser un ser abisal "
+"Tienes una compañera bastante inusual contigo. Parece ser un ser avernal "
 "bastante poderoso, por lo que le gustaría probar sus habilidades en tres "
 "pruebas. Uno que involucra la fuerza física, el segundo mide su potencial de "
 "canalizar la magia y el último que aborda las habilidades intelectuales, así "
@@ -16416,7 +16416,7 @@ msgid ""
 msgstr ""
 "Es posible que hayas ganado la batalla, pero las semillas de la rebelión han "
 "sido plantadas desde hace mucho tiempo ... disfruta de tu paz mientras dure, "
-"porque nos volveremos a encontrar en el abismo ..."
+"porque nos volveremos a encontrar en el Averno ..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -16452,7 +16452,7 @@ msgid ""
 "circle, cruises in the sky, your crap food... I don't want to live without "
 "it again!"
 msgstr ""
-"¡Ya ves, nada en al-Kamija es tan bueno como este! Esos ums, mi último "
+"¡Ya ves, nada en Alcamiya es tan bueno como este! Esos ums, mi último "
 "círculo, cruceros en el cielo, tu comida de basura ... ¡No quiero vivir sin "
 "él otra vez!"
 
@@ -16485,7 +16485,7 @@ msgid ""
 "currently exclusive to this dimension."
 msgstr ""
 "Verá, los verdaderos usuarios de Magic como nosotros no están obligados a "
-"pergaminos y círculos mágicos, ni dependen de los seres abisales. Un usuario "
+"pergaminos y círculos mágicos, ni dependen de los seres avernales. Un usuario "
 "mágico puede doblar las leyes de este mundo con nada más que su propia "
 "mente. La magia es un poder increíble, con un potencial teóricamente "
 "infinito, pero hasta donde sabemos, actualmente es exclusivo de esta "
@@ -16499,7 +16499,7 @@ msgid ""
 "world for now."
 msgstr ""
 "Verá, bueno, mis tropas y yo nos separamos de nuestra nación y nuestras "
-"familias en el Abismo, por lo que necesitamos la energía de la batería para "
+"familias en el Averno, por lo que necesitamos la energía de la batería para "
 "poder hacerle un portal, para seguir al resto de mi gente allí. Estamos "
 "atrapados en este mundo por ahora."
 
@@ -16699,7 +16699,7 @@ msgid ""
 "arrived in time to help you."
 msgstr ""
 "Vuestros ejércitos están formados por humanos, que son muy fáciles de matar. "
-"Nosotros, en cambio, usamos principalmente entes del abismo, que no pueden "
+"Nosotros, en cambio, usamos principalmente entes del Averno, que no pueden "
 "ser envenenados o comidos, que parece que son las tácticas favoritas de "
 "vuestros enemigos. Habéis tenido suerte de que viniera a ayudaros."
 
@@ -16728,7 +16728,7 @@ msgstr ""
 "obtenemos un artefacto antiguo para estudiar y reparar las tensiones de las "
 "relaciones entre nuestras naciones. Además, si yo fuera tu enemigo, no "
 "estaría poniendo mi vida en riesgo al estar desarmado sin guardaespaldas "
-"frente a alguien tan poderoso como la reina del abismo. Ninguno de nosotros "
+"frente a alguien tan poderoso como la reina del Averno. Ninguno de nosotros "
 "tiene nada que ganar de la muerte del otro."
 
 #. [message]: speaker=unit
@@ -16806,7 +16806,7 @@ msgstr "Zzzzz ..."
 
 #. [attack]: type=arcane
 msgid "abyss"
-msgstr "Abismo"
+msgstr "Averno"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "amulet^Leave it"
@@ -16929,7 +16929,7 @@ msgstr "Exp"
 
 #. [dummy]: id=tlu_instakill
 msgid "fall to the Abyss"
-msgstr "Entre al abismo"
+msgstr "Entre al Averno"
 
 #. [unit_type]: id=TLU_Citizen5
 #. [unit_type]: id=TLU_Citizen6
