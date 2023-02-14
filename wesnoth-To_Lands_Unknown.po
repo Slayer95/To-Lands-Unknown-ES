@@ -660,11 +660,11 @@ msgstr ""
 
 #. [message]: race=human
 msgid "That's it! Excellent shot!"
-msgstr "¡Eso es! ¡Excelente disparo!"
+msgstr "¡Eso es! ¡Excelente lanzamiento!"
 
 #. [message]: race=human
 msgid "What an excellent throw! Great job!"
-msgstr "¡Excelente lanzamiento! ¡Buen trabajo!"
+msgstr "¡Qué espectacular lanzamiento! ¡Buen trabajo!"
 
 #. [message]: race=human
 msgid "Wow! Master, did you see that? The golem is entering the stratosphere!"
@@ -673,7 +673,7 @@ msgstr ""
 
 #. [message]: race=orc
 msgid "Yeah, you can do this!"
-msgstr "¡Sí, puedes hacer esto!"
+msgstr "¡Sí, puedes con esto!"
 
 #. [message]: role=machine
 msgid ""
@@ -724,26 +724,26 @@ msgstr "¡¡¡POR LA LIBERTAD!!!"
 
 #. [message]: role=rebel2
 msgid "DOWN WITH THE TYRANTS!!! DEATH TO THE FALSE QUEEN!!!"
-msgstr "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Es ¡¡!!! Muerte a la falsa reina !!!"
+msgstr "¡¡¡ABAJO LA TIRANÍA!!! ¡¡¡MUERTE A LA FALSA REINA!!!"
 
 #. [message]: role=rebel3
 msgid ""
 "Hmph, good riddance. We don't need human-loving imbeciles in our movement!"
 msgstr ""
-"HMPH, buen ridículo. ¡No necesitamos imbéciles amantes de los humanos en "
+"¡Jum! A tomar viento del desierto. ¡No necesitamos imbéciles amantes de los humanos en "
 "nuestro movimiento!"
 
 #. [message]: role=traitor
 msgid "Must... kill... the humans..."
-msgstr "Debe... matar... los humanos..."
+msgstr "Debo... matar... a los humanos..."
 
 #. [message]: type=EoMa_Blood_Warrior
 msgid "And I defend the bridge!"
-msgstr "¡Y yo defiendo el puente!"
+msgstr "¡Yo defenderé el puente!"
 
 #. [message]: type=EoMa_Blood_Warrior
 msgid "CHIEF NO SLEEP! WAKE UP! DRINK!"
-msgstr "¡Jefe sin dormir! ¡DESPERTAR! ¡BEBER!"
+msgstr "¡JEFE, NO DORMIR! ¡DESPERTAR! ¡BEBER!"
 
 #. [message]: type=EoMa_Blood_Warrior
 msgid "Uh... Lizards gone! EMPTY!"
@@ -751,11 +751,11 @@ msgstr "Uh... lagartijas idas! ¡VACÍO!"
 
 #. [message]: type=EoMa_Carpet_Master
 msgid "Cheers for Mehir!!!"
-msgstr "¡Que viva Mejir!"
+msgstr "¡Viva Mejir!"
 
 #. [message]: type=EoMa_Cyclops_Breaker
 msgid "<b> do it!</b>"
-msgstr "<b>¡Hazlo!</b>"
+msgstr ", <b>¡hazlo!</b>"
 
 #. [message]: type=EoMa_DarkApostle
 msgid "*chanting something in a strange, and eerie tongue*"
@@ -763,31 +763,31 @@ msgstr "<i>Recita algo en una lengua extraña y misteriosa.</i>"
 
 #. [message]: type=EoMa_DharmaRhami
 msgid "...MUST DIE!!!"
-msgstr "¡...DEBEN MORIR!"
+msgstr "¡... DEBEN MORIR!"
 
 #. [message]: type=EoMa_Efreet
 msgid "At last! Who shall I torture, my master?"
-msgstr "¡Por fin! ¿A quién he de torturar, mi amo?"
+msgstr "¡Por fin! ¿A quién he de torturar, amo?"
 
 #. [message]: type=EoMa_Efreet
 msgid ""
 "So this is the world of mortals? Time for some destruction... Wait a minute, "
 "IS THAT A BANISHER?! AAAAAAH!"
 msgstr ""
-"¿Entonces este es el mundo de los mortales? Es hora de una destrucción... "
-"Espera un minuto, ¿es un desterráneo? ¡Aaaaaah!"
+"¿Entonces este es el mundo de los mortales? Es hora de la destrucción... "
+"Espera un minuto, ¿es un desterrador? ¡Aaaaaah!"
 
 #. [message]: type=EoMa_Efreet
 msgid "With pleasure! MWAHAHAA!"
-msgstr "¡Con mucho gusto! Mwahahaa!"
+msgstr "¡Con mucho gusto! ¡Ja, ja, ja!"
 
 #. [message]: type=EoMa_HoRhami
 msgid ""
 "Have we not made our point clear enough, mortal? When we want someone dead, "
 "there will be no negotiations!"
 msgstr ""
-"¿No hemos hecho nuestro punto lo suficientemente claro, mortal? Cuando "
-"queramos a alguien muerto, ¡no habrá negociaciones!"
+"¿No hemos hablado claro, mortal? Cuando queremos a alguien muerto, ¡no hay "
+"negociaciones!"
 
 #. [message]: type=EoMa_HoRhami
 msgid "Those who dare touch the scimitar..."
@@ -803,43 +803,41 @@ msgstr ""
 
 #. [message]: type=EoMa_Mighty_Cyclops
 msgid "GO MASTER! DRINK! DRINK! DRINK!"
-msgstr "¡Ve a maestro! ¡BEBER! ¡BEBER! ¡BEBER!"
+msgstr "¡SIGA, MAESTRO! ¡BEBER! ¡BEBER! ¡BEBER!"
 
 #. [message]: type=EoMa_Mighty_Cyclops
 msgid "Humans no better than lizards! No honor! KILL HUMANS!"
 msgstr ""
-"¡Los humanos no son mejor que las lagartijas! ¡Sin honor! ¡Mata a los "
-"humanos!"
+"¡Humanos no mejores que lagartos! ¡Sin honor! ¡MATAR HUMANOS!"
 
 #. [message]: type=EoMa_Mystic
 msgid ""
 "Freedom, at lassst! I am eternally grateful to you. Who are you, my sssavior?"
 msgstr ""
-"Libertad, en Lassst! Te estoy eternamente agradecido. ¿Quién eres, mi "
-"sssavior?"
+"¡Libre! ¡Al fin! Te essstoy agradecido. Eternamente. ¿Quién esss usssted, mi sssalvador?"
 
 #. [message]: type=EoMa_Mystic
 msgid ""
 "I believe you. Pleassse, take usss from thiss place. This cursssed desssert "
 "almossst dried usss to death."
 msgstr ""
-"Os creo. Ningún extranjero conoce esos detalles. Por favor, sacadnos de este "
-"lugar. El desierto casi nos ha secado hasta matarnos."
+"Le creo. Por favor, sssáquenosss de essste lugar. Essste maldito desssierto "
+"casssi nosss ssseca hasssta la muerte."
 
 #. [message]: type=EoMa_Mystic_Warrior
 msgid ""
 "Sir, we have already gathered all the information we needed. We need not "
 "suffer more losses. Guru did not give us the permission."
 msgstr ""
-"Mi señor, ya hemos reunido la información acerca de su potencial. No "
-"necesitamos sufrir más bajas. Gurú no nos dio permiso."
+"Mi señor, ya hemos reunido toda la información que necesitábamos. No "
+"es necesario sufrir más bajas. Gurú no ha dado la autorización."
 
 #. [message]: type=EoMa_Mystic_Warrior
 msgid ""
 "The Council of Masters will be very dissatisfied with the outcome of this "
 "expedition."
 msgstr ""
-"El consejo de los maestros estará muy descontento con el resultado de esta "
+"El Consejo de Maestros estará muy descontento con el resultado de esta "
 "expedición."
 
 #. [message]: type=EoMa_Novice_Summoner
@@ -848,12 +846,12 @@ msgstr "¡Olé!"
 
 #. [message]: type=EoMa_Novice_Summoner
 msgid "Mag-Magar is under at..."
-msgstr "Mag-Magar está siendo atac..."
+msgstr "Mag-Magar está siendo ataca..."
 
 #. [message]: type=EoMa_Novice_Summoner
 #. [message]: type=EoMa_Carpet_Master
 msgid "Sir yes sir!"
-msgstr "¡Sí, señor!"
+msgstr "¡Señor, sí, señor!"
 
 #. [message]: type=EoMa_Rhami,EoMa_RhamiDatu,EoMa_RhamiKai,EoMa_HoRhami,EoMa_DharmaRhami
 msgid "Master, I found some kind of lever..."
@@ -865,17 +863,17 @@ msgid ""
 "Attempts at elimination failed. Their leader can speak our language. "
 "Communication possible."
 msgstr ""
-"Informes: Grupo no identificado Bunker invadido, intención: robar batería. "
-"Los intentos de eliminación fallaron. Su líder puede hablar nuestro idioma. "
+"Reportando: grupo identificado como Invocadores invadió búnker, intención: "
+"robar batería. Intentos de eliminación fallido. Su líder puede hablar nuestro idioma. "
 "Comunicación posible."
 
 #. [message]: type=EoMa_Summoner
 msgid "Hurray!!!"
-msgstr "¡Hurra!"
+msgstr "¡¡¡Hurra!!!"
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
 msgid "Have you called me, my Master?"
-msgstr "¿Me has llamado, mi maestro?"
+msgstr "¿Me habéis llamado, maestro?"
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
 msgid "Hey!"
@@ -889,15 +887,15 @@ msgid ""
 msgstr ""
 "El sol es la estrella en el centro del sistema solar. Es una esfera casi "
 "perfecta de plasma caliente, con un movimiento convectivo interno que genera "
-"un campo magnético a través de un proceso dinamo."
+"un campo magnético a través de un proceso dínamo."
 
 #. [message]: type=Mehir
 msgid "You have a rather... twisted sense of humor."
-msgstr "Tienes un sentido del humor más bien... retorcido."
+msgstr "Tienes un sentido del humor... Retorcido."
 
 #. [message]: type=TLU_DharmaRashti
 msgid "... NOT THE HALF OF IT!!!"
-msgstr "¡... NO A SU MITAD!"
+msgstr "¡... NO UNA MITAD!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid "...OVER YET!!!"
@@ -908,9 +906,9 @@ msgid ""
 "Any time is a good time for infighting. Now, be a good boy and don't get in "
 "the way, or I can't exactly guarantee you'll keep all of your limbs, got it?"
 msgstr ""
-"Cualquier momento es un buen momento para las luchas internas. Ahora, sea un "
-"buen chico y no se interponga en el camino, o no puedo garantizar "
-"exactamente que mantenga todas sus extremidades, ¿lo entiendes?"
+"Cualquier momento es un buen momento para discutir. Ahora, sé un buen chico y "
+"no te entrometas, o no podré garantizar que conservarás todos tus miembros, "
+"¿entendido?"
 
 #. [message]: type=TLU_DharmaRashti
 msgid "Argh, you win..."
@@ -921,8 +919,7 @@ msgid ""
 "HAHAHAHAHAAHAHAHA, you actually believed what I said?! Your expression is "
 "absolutely priceless!"
 msgstr ""
-"Jajajajajaja, jajajajajaja, ¿realmente creías lo que dije? ¡Tu expresión no "
-"tiene precio!"
+"¡JAJAJA, JAJAJA!, ¿de verdad creíste lo que dije? ¡Tu expresión no tiene precio!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
@@ -931,11 +928,11 @@ msgid ""
 "Council, no collateral damage from fireballs, no tortuing enemies unless "
 "strictly necessary, blah blah blah. Now I can finally do whatever I please!"
 msgstr ""
-"Je, ¿qué puedo decir, estar libre de mi mitad azul es bastante agradable? "
-"Ella siguió imponiendo reglas sobre reglas sobre mí. No matar a los miembros "
-"del Alto Consejo, sin daños colaterales de bolas de fuego, sin enemigos "
-"torturados a menos que sea estrictamente necesario, bla, bla, bla. ¡Ahora "
-"finalmente puedo hacer lo que me guste!"
+"¡Je! ¿Qué puedo decir? Estar libre de mi mitad azul es bastante agradable. "
+"Ella me imponía reglas y más reglas. Que no insulte a los miembros del Alto "
+"Consejo, que sin daños colaterales de las bolas de fuego, que no torture "
+"enemigos sin que sea estrictamente necesario, bla, bla, bla. ¡Ahora "
+"finalmente puedo hacer todo lo que quiero!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
@@ -949,7 +946,7 @@ msgstr ""
 
 #. [message]: type=TLU_DharmaRashti
 msgid "Hmph, fine, I'll tolerate your presence longer... for now."
-msgstr "HMPH, bien, toleraré tu presencia por más tiempo... por ahora."
+msgstr "¡Jum! Bien, seguiré tolerando tu presencia... Por ahora."
 
 #. [message]: type=TLU_DharmaRashti
 msgid "JUST TRY AND STOP ME, I DARE YOU!!!"
@@ -2149,7 +2146,7 @@ msgid ""
 msgstr ""
 "Después de tres días el vagabundo recobró el conocimiento. Atiros (ese era "
 "su nombre) había venido desde una tierra que abandonaron los invocadores "
-"hacía miles de años. Estas palabras impactaron al alto consejo, puesto que "
+"hacía miles de años. Estas palabras impactaron al Alto Consejo, puesto que "
 "los escritos antiguos no mencionaban a ninguna otra gente de fuera del gran "
 "desierto. Durante siglos, los invocadores creyeron que sus antepasados se "
 "habían dirigido al gran desierto desde las tierras ancestrales, dejándolas "
@@ -2324,7 +2321,7 @@ msgid ""
 "him of what will ensue..."
 msgstr ""
 "Para aumentar la velocidad de construcción del gran círculo en su forma "
-"actual, el alto consejo ordenó a todos os ciudadanos del país de los "
+"actual, el Alto Consejo ordenó a todos os ciudadanos del país de los "
 "invocadores que ayudaran a los constructores. Mujeres, niños, incluso "
 "ancianos - todos se unieron a los trabajadores. El mensajero salió "
 "inmediatamente para darle a Mejir las noticias."
@@ -2457,9 +2454,10 @@ msgid ""
 msgstr ""
 "Diez días después, se vieron aparecer en el horizonte alfombras procedentes "
 "de Alcamiya. Los ejércitos de la trinidad quedaron conmocionados por la "
-"destrucción a gran escala que había sufrido la ciudad. Un gran número de "
-"escuadrones reforzaron el cuartel local. Cuando terminó de repararse el "
-"portal, Mejir, Rasti y Malib volvieron a Alcamiya."
+"destrucción a gran escala que había sufrido la ciudad. En preparación contra "
+"posibles futuros ataques, el Alto Consejo asignó tropas de élite a la guarnición "
+"local, y amplió las fortificaciones alrededor de Mag-Magar. Cuando terminó de "
+"repararse el portal, Mejir, Rashti y Malib volvieron a Alcamiya."
 
 #. [part]
 msgid ""
@@ -2711,7 +2709,7 @@ msgstr ""
 "tanto, Mehir debía actuar como enviado: entregaría una carta del Consejo al "
 "pueblo de Caros, una invitación para moverse junto con los invocadores al "
 "Averno. Un gesto tan agradable parecía adecuado, si no la única posibilidad "
-"de supervivencia para las personas en el viejo país nativo. El High Council "
+"de supervivencia para las personas en el viejo país nativo. El Alto Consejo "
 "ordenó que se construyeran tres barcos específicamente para la partida de "
 "Mehir, similar en diseño al que Atiros navegó. El propio Mehir estaba "
 "bastante bien con la idea de representar oficialmente a la nación. Y por "
@@ -4901,9 +4899,9 @@ msgid ""
 "charisma and rhetoric... I'm not surprised at all that he managed to "
 "persuade so many beings to follow him!"
 msgstr ""
-"My, mi, he visto bastantes avernales en mi tiempo como desterráneo, pero "
-"este es un verdadero placer para mis ojos... tanta fuerza, tan "
-"extraordinario carisma y retórica... no me sorprende ¡Todo lo que logró "
+"¡Jo, jo! He visto bastantes avernales en mi tiempo como desterrador, pero "
+"este es un verdadero placer para mis ojos... Tanta fuerza, tan "
+"extraordinario carisma y retórica... ¡No me sorprende que haya logrado "
 "persuadir a tantos seres para que lo siguieran!"
 
 #. [message]: speaker=Banisher
@@ -5264,7 +5262,7 @@ msgstr ""
 
 #. [message]: speaker=elder
 msgid "Hmph, I suppose you make a point..."
-msgstr "Hmph, supongo que haces un punto..."
+msgstr "¡Jum! Supongo que tienes un punto..."
 
 #. [message]: speaker=elder
 msgid ""
@@ -5311,7 +5309,7 @@ msgid ""
 "possible if we want to finish the circle on the given schedule."
 msgstr ""
 "Bueno, a sido una lástima, pero ahora tenemos un problema mayor. Tar-Tabar "
-"no tiene líder. El alto consejo debe elegir al sucesor de Tashkar cuanto "
+"no tiene líder. El Alto Consejo debe elegir al sucesor de Tashkar cuanto "
 "antes si queremos terminar el círculo en el tiempo planeado."
 
 #. [message]: speaker=Elder
@@ -7618,7 +7616,7 @@ msgstr "Oye, ¿por qué me estás mirando? ¡Soy muy joven para morir!"
 
 #. [message]: speaker=Jaffar
 msgid "Hmph, damn banishers..."
-msgstr "Hmph, malditos desantivadores..."
+msgstr "¡Jum! Malditos desterradores..."
 
 #. [message]: speaker=Jaffar
 msgid "Huh? Wait! Why me?! What are you doing?"
@@ -8431,9 +8429,9 @@ msgid ""
 "with the High Council. Your achievements shall be announced in the whole "
 "country, and I will make sure to repay my debt to you!"
 msgstr ""
-"Os estoy infinitamente agradecido. Sin vuestra ayuda... tan pronto como "
-"lleguen las primeras alfombras de Alcamiya, iré a hablar con el alto "
-"consejo. ¡Vuestros logros deben ser anunciados por todo el país!"
+"Ya veo... Tan pronto como las primeras alfombras lleguen desde Alcamiya, "
+"acudiré a hablar ante el Alto Consejo. ¡Tus logros deben ser anunciados a la "
+"nación entera! Y me encargaré de pagar la deuda que tengo contigo."
 
 #. [message]: speaker=Malib
 msgid ""
@@ -9542,7 +9540,7 @@ msgid ""
 "just a routine check."
 msgstr ""
 "Todas las operaciones caen bajo las regulaciones impuestas por el Alto "
-"Consejo. Este es solo un cheque de rutina."
+"Consejo. Este es solo una verificación de rutina."
 
 #. [message]: speaker=Mehir
 msgid "Almost there..."
@@ -10452,11 +10450,11 @@ msgid ""
 "abyssal beings, does this mean that the existence of Dimensional Gate IIIs "
 "isn't merely one of the rumors spread at the bazaar?"
 msgstr ""
-"Je, agradable... y ahora, la última pregunta: dado que dijiste que el "
-"maestro de los desantivadores de al-kamija podría desterrar a los dioses "
+"¡Je! Agradable... Y ahora, la última pregunta: dado que dijiste que el "
+"Maestro de los Desterradores de Alcamiya podría desterrar a los dioses "
 "elementales y otros seres avernales poderosos, ¿esto significa que la "
-"existencia de la puerta dimensional no es simplemente una ¿De los rumores se "
-"extendieron en el bazar?"
+"existencia de la puerta dimensional III no es simplemente un rumor del "
+"bazar?"
 
 #. [message]: speaker=Mehir
 msgid "Heh, what can I say, fate works in mysterious ways."
@@ -10483,8 +10481,8 @@ msgid ""
 "relieve her, if you want to take her for a walk."
 msgstr ""
 "Su nombre es Theivya. Ella está vigilando la puerta al bazar. Lástima que no "
-"pueda abandonar su puesto. Tendrás que pedirle al Consejo del Alto que la "
-"releve si deseas llevarla a caminar."
+"pueda abandonar su puesto. Tendrás que pedirle al Alto Consejo que la "
+"releve si deseas salir con ella."
 
 #. [message]: speaker=Mehir
 msgid "Here goes the first one..."
@@ -11099,7 +11097,7 @@ msgid ""
 "of three city leaders. They are the only ones that are allowed to have "
 "Ultimate Beings as servants, you know."
 msgstr ""
-"Creo que... eso ha de decidirlo el alto consejo. Además, no soy uno de los "
+"Creo que... eso ha de decidirlo el Alto Consejo. Además, no soy uno de los "
 "tres líderes. Ellos son los únicos a los que se les permite tener como "
 "sirviente a un ser definitivo."
 
@@ -12720,8 +12718,8 @@ msgid ""
 "Uhh... I kind of forgot the money. Maybe send the bill to the High Council? "
 "I'm sure they'll pay. It is them who equip us with this junk after all."
 msgstr ""
-"Uhh... Olvidé el dinero. ¿Quizás enviar el proyecto de ley al Consejo "
-"Superior? Estoy seguro de que pagarán. Son ellos quienes nos equipan con "
+"Uhh... Olvidé el dinero. ¿Podrías enviar la factura al Alto Consejo? "
+"Estoy seguro de que pagarán. Son ellos quienes nos equipan con "
 "esta basura después de todo."
 
 #. [message]: speaker=Mehir
@@ -13729,8 +13727,8 @@ msgid ""
 "Hmph, fine, how about 20 gold? But I won't reduce the price any further, "
 "mind you, I still need to make a profit, don't forget that."
 msgstr ""
-"HMPH, bien, ¿qué tal 20 de oro? Pero no reduciré el precio más, eso sí, "
-"todavía necesito obtener ganancias, no lo olvides."
+"¡Jum! Bien, ¿qué tal 20 de oro? Pero no reduciré el precio más, eso sí. "
+"Todavía necesito obtener ganancias, no lo olvides."
 
 #. [message]: speaker=merchant
 msgid "May I ask why you're so sudden about it?"
@@ -14739,7 +14737,7 @@ msgstr "<i><span font-weight='bold'>Para sí misma.</span> Bien...</i>"
 
 #. [message]: speaker=Rashti
 msgid "<i>*to herself* Hmph, pompous know-it-alls just like the rest...</i>"
-msgstr "<i><span font-weight='bold'>Para sí misma.</span> ¡Hmph! Pomposos sabelotodos como todos los demás...</i>"
+msgstr "<i><span font-weight='bold'>Para sí misma.</span> ¡Jum! Pomposos sabelotodos como todos los demás...</i>"
 
 #. [message]: speaker=Rashti
 msgid ""
@@ -14920,7 +14918,7 @@ msgstr "Oye, ¿puedo torturarla para obtener la información? ¿Pleeeeease?"
 
 #. [message]: speaker=Rashti
 msgid "Hmph... I suppose you do make a point there."
-msgstr "HMPH... Supongo que haces un punto allí."
+msgstr "¡Jum!... Supongo que tienes un punto."
 
 #. [message]: speaker=Rashti
 msgid "How many times do I have to tell you, human..."
@@ -16064,7 +16062,7 @@ msgid ""
 "up with the idea of moving our society above clouds. He could theoretically "
 "be considered a formal ruler, but he generally cooperates with the Council."
 msgstr ""
-"Bueno, tenemos el Consejo de Masters, que toman la mayoría de las decisiones "
+"Bueno, tenemos el Consejo de Maestros, que toman la mayoría de las decisiones "
 "menores, pero es el Guru quien establece objetivos a largo plazo. Fue a él "
 "quien se le ocurrió la idea de mover nuestra sociedad por encima de las "
 "nubes. Teóricamente podría considerarse un gobernante formal, pero "
@@ -16767,7 +16765,7 @@ msgid ""
 msgstr ""
 "Conflictos? Han pasado siglos desde que tuvimos alguno. Todos somos libres y "
 "trabajamos juntos para lograr todo lo que deseamos. Si hay un problema "
-"complejo, el Consejo de Masters intenta encontrar una solución con la ayuda "
+"complejo, el Consejo de Maestros intenta encontrar una solución con la ayuda "
 "de Guru."
 
 #. [message]: speaker=Void
