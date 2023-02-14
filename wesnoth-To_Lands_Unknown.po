@@ -1535,47 +1535,43 @@ msgstr ""
 #. [message]: speaker=unit
 msgid "<i>Initiating combat mode, with berserk behavior active.</i>"
 msgstr ""
-"<i> Iniciando el modo de combate, con el comportamiento de Berserk activo. </"
-"i>"
+"<i>Iniciando el modo de combate. Ejecutando módulo Frenesí.</i>"
 
 #. [message]: role=machine
 msgid "<i>Life signatures detected. Initiating first contact protocols.</i>"
 msgstr ""
-"<i> firmas de vida detectadas. Iniciando los primeros protocolos de "
-"contacto. </i>"
+"<i>Signos vitales detectados. Iniciando los protocolos de primer contacto.</i>"
 
 #. [message]: speaker=Matriarch3
 msgid ""
 "<i>Ryvbüghdaz abgruz urzbaazäkhbäæz, ruẗhrup anrbzyv müzuguür gzÿv urzrüuz!</"
 "i>"
 msgstr ""
-"<i> ryvbüghdaz abgruz urzbaazäkhbäæz, ruẗhrup anrbzyv müzuguür gzÿv urzrüuz! "
-"</i>"
+"<i>Ryvbüghdaz abgruz urzbaazäkhbäæz, ruẗhrup anrbzyv müzuguür gzÿv urzrüuz!</i>"
 
 #. [message]: speaker=Rashti
 msgid ""
 "<span font-style='italic'>*to herself* Some chase after 36, others 69, the "
 "more enlightened pursue 63, but their true goal is 41...</span>"
 msgstr ""
-"<span font-style='italic'>* para sí misma* algunos persecución después de "
-"36, otros 69, el más iluminado persigue 63, pero su verdadero objetivo es "
-"41...</span>"
+"<i>(Para sí misma) Algunos persiguen el 36, otros el 69. Los más ilustrados "
+"buscan el 63, pero su verdadero objetivo está en el 41...</i>"
 
 #. [message]: speaker=Mehir
 msgid "<span font-style='italic'>*to himself* Hmmmm...</span>"
-msgstr "<span font-style='italic'>* para sí mismo* hmmmm...</span>"
+msgstr "<i>Hmmmm...</i>"
 
 #. [event]: id=Unknown
 msgid "???"
-msgstr "????"
+msgstr "???"
 
 #. [message]: speaker=Mehir
 msgid ""
 "A 'Destroyer'?! Wait a minute, so the Tharis were worshiping these "
 "creatures?! What the hell have I signed up for?!"
 msgstr ""
-"¿Un 'destructor'? ¡Espera un minuto, así que los Tharis adoraban a estas "
-"criaturas? ¿Para qué diablos me he inscrito?"
+"¿Un 'Destructor'? ¡Espera un minuto, así que los Taris adoraban a estas "
+"criaturas? ¿Para qué diablos me he apuntado?"
 
 #. [scenario]: id=13_A_New_Leader
 msgid "A New Leader"
@@ -1586,22 +1582,22 @@ msgid ""
 "A brawl near the Central Palace? Damn, maybe I should've bought the "
 "overpriced elemental... Well, too late to turn back, thanks for the warning."
 msgstr ""
-"¿Una pelea cerca del palacio central? Maldición, tal vez debería haber "
-"comprado el elemental caro... bueno, demasiado tarde para regresar, gracias "
-"por la advertencia."
+"¿Una pelea cerca del palacio central? Maldición, tal vez debiera haber "
+"comprado el elemental a pesar de su precio... Bueno, demasiado tarde "
+"para regresar. Gracias por la advertencia."
 
 #. [message]: speaker=Mehir
 msgid ""
 "A brawl near the Central Palace? Good thing I bought a water elemental then. "
 "Thanks for the warning."
 msgstr ""
-"¿Una pelea cerca del palacio central? Menos mal que compré un elemental de "
+"¿Una pelea cerca del palacio central? Menos mal que compré el elemental de "
 "agua entonces. Gracias por la advertencia."
 
 #. [message]: speaker=Mehir
 msgid "A bunch of ancient guardians shouldn't be too difficult to defeat."
 msgstr ""
-"Un grupo de guardianes antiguos no debería ser demasiado difícil de derrotar."
+"Un grupo de guardianes decrépitos no debiera ser demasiado difícil de vencer."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -2251,7 +2247,7 @@ msgid ""
 "traumatized from the lizards enough already..."
 msgstr ""
 "¡Ah, allí estás! ¿Cuál de ustedes pensó que era una buena idea usar un "
-"encantamiento de poder en interiores? ¡Estaba en camino de bañarme, y luego "
+"mantra de poder en interiores? ¡Estaba en camino de bañarme, y luego "
 "veo un rayo de luz y el piso se rompe frente a mis ojos! Como si no "
 "estuviera traumatizado de las lagartijas ya ..."
 
@@ -2430,7 +2426,7 @@ msgstr ""
 #. [side]: type=EoMa_Master_of_Darkness, id=Master
 #. [message]: speaker=narrator
 msgid "Almathis"
-msgstr "Almathis"
+msgstr "Almadis"
 
 #. [message]: speaker=Mehir
 msgid "Almost there..."
@@ -2611,7 +2607,7 @@ msgstr ""
 
 #. [side]: type=EoMa_Master_of_War
 msgid "Amithrior"
-msgstr "Amithrior"
+msgstr "Amitrior"
 
 #. [part]
 msgid ""
@@ -3285,7 +3281,7 @@ msgid ""
 "powerful, and telling you to cast it indoors wasn't exactly my brightest "
 "idea. My sincere apologies."
 msgstr ""
-"Como has presenciado, mi señor, el 'encantamiento del poder' es bastante "
+"Como has presenciado, mi señor, el 'mantra de poder' es bastante "
 "poderoso, y decirte que lo lanzaras en el interior no era exactamente mi "
 "idea más brillante. Mis sinceras disculpas."
 
@@ -7958,7 +7954,7 @@ msgid ""
 "formidable foe..."
 msgstr ""
 "Ahora está claro que las tres hermanas fallaron la tarea de matar a estos "
-"magos del desierto... parece que nuestro maestro Almathis finalmente ha "
+"magos del desierto... parece que nuestro maestro Almadis finalmente ha "
 "encontrado un enemigo formidable ..."
 
 #. [message]: speaker=girl2
@@ -10008,7 +10004,7 @@ msgid ""
 "invented."
 msgstr ""
 "Oh Ho Ho, esos son tremendos... no solo tiene armas mágicamente guiadas "
-"vinculadas a él, sino que es capaz de realizar el llamado 'encantamiento del "
+"vinculadas a él, sino que es capaz de realizar el llamado 'mantra de "
 "poder', uno de los hechizos de combate más devastadores jamás inventados."
 
 #. [message]: speaker=Mehir
@@ -12341,7 +12337,7 @@ msgstr ""
 "todo su ejército en un instante. Pero Anthi no quiere meterse con eso. "
 "Incluso se negó a dirigir más de su poder a sus guerreros <i>* para sí "
 "mismo* porque acordamos así </i>. Si ella hubiera hecho de lo contrario, "
-"probablemente habrían detenido a los Tharis por sí mismos."
+"probablemente habrían detenido a los Taris por sí mismos."
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
 msgid ""
@@ -13424,7 +13420,7 @@ msgid ""
 "should finish off the pathetic sun-lovers first, but that arrogant fool "
 "wouldn't listen to my advice..."
 msgstr ""
-"Esta misión es un completo desastre. Le dije a Almathis muchas veces que "
+"Esta misión es un completo desastre. Le dije a Almadis muchas veces que "
 "deberíamos terminar primero a los patéticos amantes del sol, pero ese tonto "
 "arrogante no escuchaba mi consejo ..."
 
@@ -13956,7 +13952,7 @@ msgstr "A por el tercero."
 
 #. [side]: type=EoMa_Master_of_War
 msgid "Thrion"
-msgstr "Tronco"
+msgstr "Trion"
 
 #. [message]: speaker=Mehir
 msgid "Time to check how my men are doing..."
@@ -16750,8 +16746,8 @@ msgid ""
 "Your loss. If you change your mind, feel free to come back, if the elemental "
 "isn't already sold out by then, that is."
 msgstr ""
-"Tu pérdida. Si cambia de opinión, siéntase libre de regresar, si el "
-"elemental ya no está agotado para entonces, eso es."
+"Tu problema. Si cambia de opinión, siéntase libre de regresar. Si es que "
+"aún tenemos un elemental en venta para entonces, claro está."
 
 #. [message]: speaker=narrator
 msgid ""
@@ -16759,13 +16755,12 @@ msgid ""
 "once per turn. To have more control over this process, seize one of enemy "
 "keeps and recall troops of your choosing from there."
 msgstr ""
-"Sus tropas llegarán automáticamente en grupos a su ubicación inicial una vez "
-"por turno. Para tener más control sobre este proceso, confise uno de los "
-"enemigos y recuerde tropas de su elección desde allí."
+"Tus tropas llegarán en grupos a la ubicación del portal al inicio de cada turno. "
+"Pero puedes reincorporar las tropas que más te urjan si capturas un torreón enemigo."
 
 #. [objectives]
 msgid "Your units cost no upkeep during this scenario."
-msgstr "Sus unidades no cuestan mantenimiento durante este escenario."
+msgstr "Las unidades no costarán mantenimiento hasta el final del escenario."
 
 #. [message]: speaker=Guru
 msgid ""
@@ -16775,11 +16770,11 @@ msgid ""
 "Thankfully your kind seems to be peaceful in nature and similar to us in "
 "some ways."
 msgstr ""
-"Tu joven país era algo completamente nuevo para nosotros. El ritmo de "
-"desarrollo de su civilización con sede en Abyss fue extremadamente rápido y "
-"rápidamente llamó nuestra atención. Queríamos aprender más sobre usted y sus "
-"intenciones. Afortunadamente, su tipo parece ser de naturaleza pacífica y "
-"similar a nosotros de alguna manera."
+"Vuestra joven nación era completamente novedosa para nosotros. El ritmo de desarrollo "
+"de vuestra civilización basada en el Averno fue extremadamente rápido y pronto llamó "
+"nuestra atención. Buscábamos aprender más sobre vosotros y vuestras intenciones. "
+"Afortunadamente, parecéis de naturaleza pacífica y semejantes a nosotros "
+"de varias maneras."
 
 #. [message]: speaker=BLeader
 msgid "Zzzzz..."
@@ -16800,7 +16795,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "amulet^Take it"
-msgstr "Tómalo"
+msgstr "Usarlo"
 
 #. [value]: id=cota
 msgid "ancient cuirass"
@@ -16843,7 +16838,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "cap^Take it"
-msgstr "Tómalo"
+msgstr "Usarlo"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "carpet^Leave it"
@@ -16856,7 +16851,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "carpet^Take it"
-msgstr "Tómala"
+msgstr "Usarla"
 
 #. [attack]: type=fire
 msgid "circle of destruction"
@@ -16873,7 +16868,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "cloak^Take it"
-msgstr "Tómala"
+msgstr "Usarla"
 
 #. [value]: id=collar
 msgid "collar"
@@ -16890,7 +16885,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "collar^Take it"
-msgstr "Tómalo"
+msgstr "Usarlo"
 
 #. [value]: id=dcloak
 msgid "desert cloak"
@@ -16906,11 +16901,11 @@ msgstr "lanza divina"
 
 #. [unstore_unit]
 msgid "exp"
-msgstr "Exp"
+msgstr "XP"
 
 #. [dummy]: id=tlu_instakill
 msgid "fall to the Abyss"
-msgstr "Entre al Averno"
+msgstr "entre al Averno"
 
 #. [unit_type]: id=TLU_Citizen5
 #. [unit_type]: id=TLU_Citizen6
@@ -16940,7 +16935,7 @@ msgstr "mantra de poder"
 
 #. [attack]: type=arcane
 msgid "lightbeam"
-msgstr "Iluminación"
+msgstr "rayo de luz"
 
 #. [attack]: type=fire
 msgid "magic arrow"
@@ -16971,7 +16966,7 @@ msgstr "metamorfo"
 
 #. [message]: speaker=messenger
 msgid "pssst!"
-msgstr "¡pssst!"
+msgstr "¡Pssst!"
 
 #. [value]: id=sphereofreficul
 msgid "reficul's sphere"
@@ -17008,7 +17003,7 @@ msgstr "Cogerla"
 
 #. [dummy]: id=tlu_spawndgs
 msgid "spawns gates"
-msgstr "engendra puertas"
+msgstr "generador de puertas"
 
 #. [trait]: id=spearguardian
 msgid "spear guardian"
@@ -17054,7 +17049,7 @@ msgstr "Tómalo"
 
 #. [side]
 msgid "team_name^."
-msgstr "Mago"
+msgstr "?"
 
 #. [side]
 msgid "team_name^Abyss"
@@ -17066,11 +17061,11 @@ msgstr "Aerius"
 
 #. [side]: type=EoMa_Master_of_Darkness, id=Master
 msgid "team_name^Almathis"
-msgstr "Aerius"
+msgstr "Almadis"
 
 #. [side]: type=EoMa_Master_of_War
 msgid "team_name^Amithrior"
-msgstr "Mejir"
+msgstr "Amitrior"
 
 #. [side]: type=TLU_Malib, id=Malib
 msgid "team_name^Army of Mag-Magar"
@@ -17088,16 +17083,16 @@ msgstr "Bárbaros"
 
 #. [side]
 msgid "team_name^Cave Creatures"
-msgstr "Aerius"
+msgstr "Residentes de las cuevas"
 
 #. [side]: id=ferryman, id=gate_guardian, id=merchant, id=waterelemental, id=elder
 #. [side]
 msgid "team_name^Citizens"
-msgstr "Saurios"
+msgstr "Ciudadanos"
 
 #. [side]: type=EoMa_Chosen_of_Forest, id=Keeper, id=Rhaxiz
 msgid "team_name^Darkblooded"
-msgstr "Kharos"
+msgstr "Sangreoscura"
 
 #. [side]: type=EoMa_Platinum_Warrior, id=Dedylos
 msgid "team_name^Dedylos"
@@ -17125,7 +17120,7 @@ msgstr "Guardianes"
 
 #. [side]
 msgid "team_name^High Council"
-msgstr "Alto consejo"
+msgstr "Alto Consejo"
 
 #. [side]
 msgid "team_name^HoRashti"
@@ -17133,12 +17128,12 @@ msgstr "HoRashti"
 
 #. [side]
 msgid "team_name^Hydras"
-msgstr "Hydras"
+msgstr "Hidras"
 
 #. [side]: id=Instructor, type=TLU_Elder
 #. [side]: id=Instructor, type=EoMa_Banisher
 msgid "team_name^Instructor"
-msgstr "Puesto"
+msgstr "Instructor"
 
 #. [side]: type=EoMa_Master_of_Air, id=Aerius
 #. [side]
@@ -17149,16 +17144,16 @@ msgstr "Invasores"
 #. [side]: type=EoMa_Prophet_of_Light, id=Anthi
 #. [side]: type=EoMa_Prophet_of_Light, id=Anthi, id=Kirios)}
 msgid "team_name^Kharos"
-msgstr "Kharos"
+msgstr "Caros"
 
 #. [side]: type=EoMa_Platinum_Warrior, id=Dedylos
 msgid "team_name^Kharosians"
-msgstr "Kharos"
+msgstr "Carosanos"
 
 #. [side]: type=EoMa_Mystic, id=Rhaxiz
 #. [side]: type=EoMa_Mystical_Toad, id=Rhaxiz
 msgid "team_name^Lizards"
-msgstr "Saurios"
+msgstr "Lagartijas"
 
 #. [side]: type=EoMa_Mastermage, id=Mastermage
 msgid "team_name^Mage"
@@ -17188,19 +17183,19 @@ msgstr "Mejir"
 
 #. [side]
 msgid "team_name^Rashti"
-msgstr "Rasti"
+msgstr "Rashti"
 
 #. [side]: type=EoMa_Great_Efreeti, id=Reficul
 msgid "team_name^Rebels"
-msgstr "Reficul"
+msgstr "Rebeldes"
 
 #. [side]
 msgid "team_name^Reinforcements"
-msgstr "Reficul"
+msgstr "Refuerzos"
 
 #. [side]: type=EoMa_Master_of_War
 msgid "team_name^Thrion"
-msgstr "Kharos"
+msgstr "Trion"
 
 #. [side]
 #. [side]: type=EoMa_Matriarch_of_Emptiness, id=Matriarch1
@@ -17211,7 +17206,7 @@ msgstr "Desconocido"
 
 #. [side]
 msgid "team_name^cutscene"
-msgstr "Enemigo"
+msgstr "cinemática"
 
 #. [regenerate]: id=eoma_healing
 msgid "ultimate circle"
@@ -17219,7 +17214,7 @@ msgstr "círculo definitivo"
 
 #. [dummy]: id=tlu_ulimate_focus
 msgid "ultimate focus"
-msgstr "círculo definitivo"
+msgstr "concentración definitiva"
 
 #. [message]: speaker=Mehir
 msgid ""
