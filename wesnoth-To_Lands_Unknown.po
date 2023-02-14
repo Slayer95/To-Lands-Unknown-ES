@@ -735,7 +735,7 @@ msgstr ""
 
 #. [message]: role=traitor
 msgid "Must... kill... the humans..."
-msgstr "Debo... matar... a los humanos..."
+msgstr "Debo... Matar... A los humanos..."
 
 #. [message]: type=EoMa_Blood_Warrior
 msgid "And I defend the bridge!"
@@ -842,7 +842,7 @@ msgstr ""
 
 #. [message]: type=EoMa_Novice_Summoner
 msgid "Ale!!!"
-msgstr "¡Olé!"
+msgstr "¡¡¡Salud!!!"
 
 #. [message]: type=EoMa_Novice_Summoner
 msgid "Mag-Magar is under at..."
@@ -912,14 +912,14 @@ msgstr ""
 
 #. [message]: type=TLU_DharmaRashti
 msgid "Argh, you win..."
-msgstr "Argh, ganas..."
+msgstr "¡Grrr! Tú ganas..."
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
 "HAHAHAHAHAAHAHAHA, you actually believed what I said?! Your expression is "
 "absolutely priceless!"
 msgstr ""
-"¡JAJAJA, JAJAJA!, ¿de verdad creíste lo que dije? ¡Tu expresión no tiene precio!"
+"¡JAJAJA, JAJAJA!, ¿de verdad te creíste lo que dije? ¡Tu expresión no tiene precio!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
@@ -957,28 +957,28 @@ msgid ""
 "Just shut your mouth and return to your books! It's because of your rules "
 "and commands that I can't ever do anything fun."
 msgstr ""
-"¡Simplemente cierra la boca y regresa a tus libros! Es por sus reglas y "
-"comandos que nunca puedo hacer nada divertido."
+"¡Solo cállate y regresa a tus libros! Es por tus reglas y comandos que "
+"nunca puedo hacer nada divertido."
 
 #. [message]: type=TLU_DharmaRashti
 msgid "Long time no see, Mehir. I'm back and I am gonna RIP YOUR THROAT OUT!!!"
-msgstr "Cuanto tiempo sin verte, Mejir. ¡He vuelto y voy a CORTARTE EL CUELLO!"
+msgstr "Cuánto tiempo sin verte, Mejir. ¡He vuelto y voy a CORTARTE EL CUELLO!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
 "Maybe you are right... In our true form nothing can oppose us, even these "
 "things. I'll join you, for now... but one day I am going to return!"
 msgstr ""
-"Tal vez tengas razón... en nuestra verdadera forma, nada puede oponerse a "
-"nosotros, incluso a estas cosas. Me uniré a ustedes, por ahora... ¡pero un "
-"día voy a regresar!"
+"Tal vez tengas razón... En nuestra verdadera forma, nada puede oponerse a "
+"nosotras, ni siquiera estas cosas. Me uniré a ustedes, por ahora... ¡Pero un "
+"día he de regresar!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
 "NEVER! I won’t let myself be enslaved again! Now I am finally free and... I "
 "AM COMING FOR YOU, MEHIR!"
 msgstr ""
-"¡NUNCA! ¡No volveré a ser esclavizada! ¡Ahora soy libre por fin y... VOY A "
+"¡NUNCA! ¡No volveré a ser esclavizada! ¡Ahora, soy libre por fin y... VOY A "
 "POR TI, MEJIR! "
 
 #. [message]: type=TLU_DharmaRashti
@@ -990,25 +990,24 @@ msgid ""
 "This is personal, Mehir. Stay away from our fight if you don't want your men "
 "to get killed!"
 msgstr ""
-"Esto es personal, Mehir. ¡Manténgase alejado de nuestra pelea si no quieres "
-"que te maten a tus hombres!"
+"Esto es personal, Mejir. ¡Manténganse lejos de nuestra pelea si no quieres "
+"que tus soldados mueran!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid ""
 "Well, there are two things I love - needless bloodshed and Mehir, but mostly "
 "needless bloodshed, might as well combine the two."
 msgstr ""
-"Bueno, hay dos cosas que amo: innecesario derramamiento de sangre y Mehir, "
-"pero en su mayoría innecesario derramamiento de sangre, también podrían "
-"combinar los dos."
+"Bueno, hay dos cosas que amo: derramar sangre por capricho y Mejir, "
+"pero sobre todo derramar sangre. Así que podría combinar ambos, ¿no?"
 
 #. [message]: type=TLU_Elder
 msgid ""
 "Noise?! Foreigners are trying to murder us for crying out loud! Do something "
 "about it!"
 msgstr ""
-"¡¿Ruido?! ¡Los extranjeros están tratando de asesinarnos por llorar en voz "
-"alta! ¡Haz algo al respecto!"
+"¡¿Ruido?! ¡Los extranjeros están tratando de asesinarnos. ¡Por el amor de Nomolas, "
+"haz algo al respecto!"
 
 #. [message]: type=TLU_Elder
 msgid ""
@@ -1016,10 +1015,10 @@ msgid ""
 "Rashti and your men with you. Maybe it’s not too late. As soon as you "
 "teleport there, we will send all of the armies of the Trinity to help you."
 msgstr ""
-"¡Esos seres deben de haber invadido Mag-Magar! ¡No perdamos más tiempo! "
-"Mejir, llevaos a Rasti y a vuestros hombres. Quizás no sea demasiado tarde. "
+"¡Ellos deben ser quienes invadieron Mag-Magar! ¡No perdamos más tiempo! "
+"Mejir, llevaos a Rashti y a vuestros hombres. Quizás no sea demasiado tarde. "
 "Tan pronto como os teleportéis allí, enviaremos a todos los ejércitos de la "
-"trinidad para ayudaros."
+"Trinidad para ayudaros."
 
 #. [message]: type=TLU_HoRashti
 msgid ""
@@ -2212,10 +2211,13 @@ msgstr ""
 "primitivo, hasta que invocaron al primero de los seres mágicos, un auténtico "
 "morador de otro mundo. Este fue Nomolas, el primer genio.\n"
 "Con un ingenio sin ataduras, esta entidad es el ser más poderoso que "
-"conocemos hasta la fecha. En teoría, Nomolas sería capaz de destruir incluso "
-"a Dios.\n"
-"Los antiguos se las arreglaron para poder comunicarse con Nomolas, el cual "
-"resultó ser tan obediente como todas las demás entidades mágicas invocadas."
+"conocemos hasta la fecha. Nomolas era como un dios, capaz de torcer las "
+"leyes de la naturaleza a voluntad, pero prefería observar la naturaleza "
+"de las cosas."
+"\n"
+"Entendió nuestro lenguaje, y resultó obedecernos, al igual que las demás "
+"entidades mágicas que invocamos posteriormente. Aunque aún no sabemos por qué "
+"exactamente decidió obedecernos, somos afortunados de que lo hiciera."
 
 #. [part]
 msgid ""
@@ -2264,7 +2266,7 @@ msgid ""
 "Summoners and their clothes were black as death. There were also bodies of "
 "large terrifying three-headed beasts, capable of devouring a man with ease."
 msgstr ""
-"Antes de que llegaran los refuerzos desde Alcamiya, Mejir, Malib y Rasti "
+"Antes de que llegaran los refuerzos desde Alcamiya, Mejir, Malib y Rashti "
 "dispusieron de dos semanas para poder examinar los cuerpos muertos de sus "
 "enemigos. La conclusión fue que los invasores eran similares a los humanos. "
 "Tenían largas, puntiagudas orejas y una piel pálida, casi gris. Iban armados "
@@ -2595,8 +2597,8 @@ msgid ""
 "completed in time, all the effort devoted to the project would go to waste."
 msgstr ""
 "Los mensajeros enviados por Mejir alcanzaron Alcamiya en doce días, donde "
-"entregaron el sensacional mensaje de que Rasti había conseguido su verdadera "
-"forma. El alto consejo descubrió que la muerte de Rasti, la resurrección de "
+"entregaron el sensacional mensaje de que Rashti había conseguido su verdadera "
+"forma. El alto consejo descubrió que la muerte de Rashti, la resurrección de "
 "sus egos, y su integración en una forma femenina de Nomola había destruido "
 "por completo el equilibrio entre los mundos. El gran círculo se estaba "
 "quedando obsoleto, derivando desde su localización mística en el Averno. De "
@@ -4210,8 +4212,8 @@ msgid ""
 "Rashti, you will not make the same mistake again. You will not read the "
 "spell. But I wonder whether you... remember it."
 msgstr ""
-"Rasti, no cometerás el mismo error de nuevo. No leerás el conjuro. Pero me "
-"pregunto si... lo recuerdas."
+"Rashti, no cometerás el mismo error de nuevo. No leerás el conjuro. Pero me "
+"pregunto si... ¿Lo recuerdas?"
 
 #. [message]: speaker=Aerius
 msgid ""
@@ -4219,7 +4221,7 @@ msgid ""
 "you were fighting, I asked you to read the inscription on that big circle. I "
 "assume that you would not do that again, would you?"
 msgstr ""
-"Rasti. ¿Recuerdas lo que pasó cuando viniste aquí con tu maestro? Cuando "
+"Rashti, ¿recuerdas lo que pasó cuando viniste aquí con tu maestro? Cuando "
 "estabas luchando, te pedí que leyeras la inscripción de ese gran círculo. "
 "Supongo que no lo harías de nuevo. ¿Verdad?"
 
@@ -4858,7 +4860,7 @@ msgid ""
 "It happened... Rashti has lost her balance. We must kill this Efreeti as "
 "soon as possible. This will save her."
 msgstr ""
-"Ha ocurrido... Rasti ha perdido su equilibrio. Hemos de matar a este ifrit "
+"Ha ocurrido... Rashti ha perdido su equilibrio. Hemos de matar a este ifrit "
 "cuanto antes. Eso la salvaría."
 
 #. [message]: speaker=Banisher
@@ -5398,7 +5400,7 @@ msgid ""
 "mood..."
 msgstr ""
 "Oh, casi lo olvido. Cada líder de la trinidad tiene su propio ente "
-"definitivo como sirviente. El de Tar-Tabar es Rasti Rami, que ya tuvisteis "
+"definitivo como sirviente. El de Tar-Tabar es Rashti’Rami, que ya tuvisteis "
 "el placer de conocer hace unas semanas. Desde este momento sois su nuevo "
 "maestro. Francamente, no os envidio. Sus cambios repentinos de estado de "
 "ánimo..."
@@ -5457,7 +5459,7 @@ msgid ""
 "characteristic of the Abyssals. Luckily, the true guilty party got what they "
 "deserved. Though I do wonder, who were they?"
 msgstr ""
-"No deberíamos culpar a Rasti por la muerte de Tashkar. Los entes del Averno "
+"No deberíamos culpar a Rashti por la muerte de Tashkar. Los entes del Averno "
 "se caracterizan por su ingenuidad. Por fortuna los auténticos culpables "
 "fueron eliminados, aunque nunca lleguemos a saber quienes eran."
 
@@ -5521,7 +5523,7 @@ msgid ""
 "Rashti is unpredictable. She can say all sorts of things between her moods "
 "of rage or self-control."
 msgstr ""
-"Rasti es impredecible. Puede decir muchas cosas mientras oscila su estado de "
+"Rashti es impredecible. Puede decir muchas cosas mientras oscila su estado de "
 "ánimo entre la rabia y el auto-control."
 
 #. [message]: speaker=Elder3
@@ -10288,8 +10290,8 @@ msgid ""
 "Geez, so much for intellect... What do you say about this: I'll teach you "
 "the basics of our magic *and* then you will kill me!"
 msgstr ""
-"Dios, tanto por el intelecto... ¿Qué dices sobre esto? Te enseñaré los "
-"conceptos básicos de nuestra magia * y * ¡Entonces me matarás!"
+"Plop, criatura inteligente... ¿Qué dices sobre esto? Te enseñaré los "
+"conceptos básicos de nuestra magia <b>y</b> ¡entonces me matarás!"
 
 #. [message]: speaker=Mehir
 msgid "Get back here!"
@@ -11760,8 +11762,8 @@ msgid ""
 "Out of one's right senses?... Got it. Oh dear, I don't want to end up like "
 "Jaffar, or worse."
 msgstr ""
-"¿De los sentidos correctos de uno?... lo tengo. Dios mío, no quiero "
-"terminar como Yafar, o peor."
+"¿De los sentidos correctos de uno?... lo tengo. ¡Caray! No quiero "
+"terminar como Yafar —o peor."
 
 #. [message]: speaker=Mehir
 msgid "Pardon, but I don't quite get what you mean."
@@ -13481,7 +13483,7 @@ msgstr "¡Sí, señor! ¡Seguidme!"
 #. [message]: speaker=Mehir
 msgid "Yes. Now I'd like you tell our host what the sun is."
 msgstr ""
-"Sí. Ahora me gustaría que le dijeras a nuestro anfitrión qué es el sol."
+"Sí. Ahora me gustaría que le dijeras a nuestra anfitriona lo qué es el sol."
 
 #. [message]: speaker=Mehir
 msgid "Yikes!"
@@ -13493,7 +13495,7 @@ msgstr "¡¿Tú otra vez?!"
 
 #. [message]: speaker=Mehir
 msgid "You are back! Geez, I almost though we lost you for a moment!"
-msgstr "¡Regresaste! ¡Dios, casi aunque te perdimos por un momento!"
+msgstr "¡Regresaste! ¡Rayos, por un momento pensé que te perdíamos!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -13910,7 +13912,7 @@ msgid ""
 "and Rashti inside the circle. You cannot leave your men behind."
 msgstr ""
 "Después de completar el círculo, has de reunir dentro todas tus tropas "
-"vivientes y a Rasti. No puedes dejar atrás a tus hombres."
+"vivientes y a Rasti. No puedes abandonar a tus hombres."
 
 #. [message]: speaker=narrator
 msgid ""
