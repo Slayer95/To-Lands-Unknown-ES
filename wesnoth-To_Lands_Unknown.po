@@ -291,7 +291,7 @@ msgstr ""
 
 #. [dummy]: id=tlu_instakill
 msgid "fall to the Abyss"
-msgstr "tragado por el Averno"
+msgstr "devorado por el Averno"
 
 #. [dummy]: id=tlu_spawndgs
 msgid ""
@@ -13495,7 +13495,7 @@ msgid ""
 "Wow... this place is in fact an enormous library! It is almost as big as the "
 "Grand Library of Abysmal Knowledge in al-Kamija!"
 msgstr ""
-"Guau... ¡este lugar es de hecho una enorme biblioteca! ¡Es casi tan grande "
+"Guau..., ¡este lugar es de hecho una enorme biblioteca! ¡Es casi tan grande "
 "como la Gran Biblioteca del Conocimiento Avernal en Alcamiya!"
 
 #. [message]: speaker=Malib
@@ -14595,7 +14595,7 @@ msgid ""
 "requesssted, o mighty Keeper.</i>"
 msgstr ""
 "<i><span font-weight='bold'>Hace una venia y habla en saurio.</span> He traído a los humanosss, como usssted "
-"sssolicitó, oh, poderossso Guardián.</i>
+"sssolicitó, oh, poderossso Guardián.</i>"
 
 #. [message]: speaker=Rhaxiz
 msgid "(gestures Mehir and Jaffar to follow him)"
@@ -14603,7 +14603,7 @@ msgstr "<i>Gesticula a Mejir y Yafar para seguirlo.</i>"
 
 #. [message]: speaker=Rhaxiz
 msgid "(hisses in a furious manner and pushes Mehir and Jaffar up the stairs)"
-msgstr <i>Sisea furiosamente y empuja a Mejir y Yafar por las escaleras.</i>"
+msgstr "<i>Sisea furiosamente y empuja a Mejir y Yafar por las escaleras.</i>"
 
 #. [message]: speaker=Rashti
 msgid ""
