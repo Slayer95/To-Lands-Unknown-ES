@@ -41,7 +41,7 @@ msgstr "Invocar elemental de fuego"
 
 #. [abilities]
 msgid "Summon Rhami"
-msgstr "Lanza de Rami"
+msgstr "Invocar rami"
 
 #. [abilities]
 msgid "Summon Rhami'datu"
@@ -352,7 +352,7 @@ msgstr "Rashti"
 
 #. [event]
 msgid "*sigh* I have failed..."
-msgstr "<i>Suspiro.</i> He fallado..."
+msgstr "<i>Suspira.</i> He fallado..."
 
 #. [event]
 msgid "*whistles*"
@@ -1063,8 +1063,8 @@ msgid ""
 "Master, don't trust her! She is evil! (to Dharma'rashti) *sigh* Look, now is "
 "really not the time for flirting. Besides, is THAT what you consider a date?"
 msgstr ""
-"Maestro, ¡no confíes en ella! ¡Ella es malvada! (a Darma'Rashti) * suspiro * "
-"Mira, ahora no es realmente el momento de coquetear. Además, ¿es eso lo que "
+"Maestro, ¡no confíes en ella! ¡Ella es malvada! <i>Suspira y se dirige a Darma'Rashti.</i>"
+"Mira, ahora no es exactamente el momento para coquetear. Además, ¿es eso lo que "
 "consideras una cita?"
 
 #. [message]: type=TLU_HoRashti
@@ -4626,7 +4626,7 @@ msgstr ""
 
 #. [message]: speaker=Bakha
 msgid "*sigh* Fine..."
-msgstr "<i>Suspiro.</i> Bien..."
+msgstr "<i>Suspira.</i> Bien..."
 
 #. [message]: speaker=Bakha
 msgid ""
@@ -4731,8 +4731,8 @@ msgid ""
 "*sigh* You see, Tashkar stinted our guild. Forgive me, my liege, but due to "
 "his policies, we aren't allowed to train more dispellers."
 msgstr ""
-"<i>Suspiro</i>Desafortunadamente, Tashkar escatimaba los recursos de nuestro gremio. Perdonadme, mi "
-"señor, pero no se nos permite entrenar más disipadores."
+"<i>Suspira.</i> Desafortunadamente, Tashkar escatimaba los recursos de "
+"nuestro gremio. Perdonadme, mi señor, pero no se nos permite entrenar más disipadores."
 
 #. [message]: speaker=Banisher
 msgid ""
@@ -5500,7 +5500,7 @@ msgstr ""
 
 #. [message]: speaker=Elder2
 msgid "*sigh* You do have a point, but..."
-msgstr "<i>Suspiro.</i> Tienes un punto, pero..."
+msgstr "<i>Suspira.</i> Tienes un punto, pero..."
 
 #. [message]: speaker=Elder2
 msgid "Alright then, let’s vote. Mehir, leave us for..."
@@ -9066,7 +9066,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "*sigh* Fine, I will eat this... crab of yours..."
-msgstr "<i>Suspiro.</i> Bien, me comeré este..., cangrejo que mencionas..."
+msgstr "<i>Suspira.</i> Bien, me comeré este..., cangrejo que mencionas..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -9078,15 +9078,15 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I guess we have no choice..."
-msgstr "<i>Suspiro.</i> Supongo que no tenemos otra opción..."
+msgstr "<i>Suspira.</i> Supongo que no tenemos otra opción..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I hate my job... This can't possibly get any worse..."
-msgstr "<i>Suspiro.</i> Odio mi trabajo... Esto no podría empeorar..."
+msgstr "<i>Suspira.</i> Odio mi trabajo... Esto no podría empeorar..."
 
 #. [message]: speaker=Mehir
 msgid "*sigh* I told you, this is not a co..."
-msgstr "<i>Suspiro</i>. Ya te dije que esto no es un dis..."
+msgstr "<i>Suspira</i>. Ya te dije que esto no es un dis..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -9094,12 +9094,12 @@ msgid ""
 "the hell are those scumbags?! I'll show them the wrath of a bothered "
 "supervisor!"
 msgstr ""
-"<i>Suspiro.</i> ¡Es como si el mundo entero conspirara para evitar que me relaje! "
+"<i>Suspira.</i> ¡Es como si el mundo entero conspirara para evitar que me relaje! "
 "¿Dónde diablos están esas bazofias? ¡Les mostraré la ira de un supervisor enojado!"
 
 #. [message]: speaker=Mehir
 msgid "*sigh* fine..."
-msgstr "<i>Suspiro.</i> Bien..."
+msgstr "<i>Suspira.</i> Bien..."
 
 #. [message]: speaker=Mehir
 msgid "*sighs with relief*"
@@ -9450,7 +9450,7 @@ msgid ""
 "dangerous... *sigh*"
 msgstr ""
 "Después de que se recuperó, me rechazó. Dijo que volar conmigo es demasiado "
-"peligroso... *suspiro *"
+"peligroso... <i>Suspira.</i>"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11663,7 +11663,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 msgid "Oh, I see... great... *sigh* Well, I guess I'll have to leave now..."
 msgstr ""
-"Oh, ya veo... genial... * suspiro * Bueno, supongo que tendré que irme "
+"Oh, ya veo... genial... <i>Suspira.</i> Bueno, supongo que tendré que irme "
 "ahora ..."
 
 #. [message]: speaker=Mehir
@@ -13331,9 +13331,9 @@ msgid ""
 "he says he cannot help me. *sigh* Let's just proceed with the battle and "
 "hope for the best. I got a bad feeling about this..."
 msgstr ""
-"Maravilloso, finalmente tengo un Jinni capaz de prever el futuro, y sin "
-"embargo, dice que no puede ayudarme. * suspiro* Procedamos con la batalla y "
-"esperamos lo mejor. Tengo un mal presentimiento sobre esto ..."
+"Maravilloso, finalmente tengo un genio capaz de prever el futuro y, sin "
+"embargo, dice que no puede ayudarme. <i>Suspira.</i> Procedamos con la batalla y "
+"esperemos lo mejor. Tengo un mal presentimiento sobre esto ..."
 
 #. [message]: speaker=Mehir
 msgid "Wow, summoning with a circle is certainly far easier than with scrolls!"
@@ -13698,9 +13698,9 @@ msgid ""
 "Damn, I can't afford losing a day standing in a queue. *sigh* Fine, a "
 "discount elemental it is. <i>*quietly* Man, the city guard these days...</i>"
 msgstr ""
-"Maldición, no puedo permitirme perder un día en una cola. * suspiro* bien, "
-"un elemento de descuento es. <i>* en silencio* hombre, el guardia de la "
-"ciudad en estos días...</i>"
+"Maldición, no puedo permitirme perder un día haciendo fila. <i>Suspira...</i> "
+"Bien, un elemental a descuento será. <i>(Para sí) Hombre, la guardia de la ciudad "
+"estos días...</i>"
 
 #. [message]: speaker=merchant
 msgid ""
@@ -14669,11 +14669,11 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "*sigh* Fine, let's pretend we never saw this."
-msgstr "<i>Suspiro.</i> Bien, finjamos que nunca vimos esto."
+msgstr "<i>Suspira.</i> Bien, finjamos que nunca vimos esto."
 
 #. [message]: speaker=Rashti
 msgid "*sigh* Maybe choosing you as my master wasn't such a good idea..."
-msgstr "<i>Suspiro.</i> Tal vez elegiros como mi maestro no fue tan buena idea..."
+msgstr "<i>Suspira.</i> Tal vez elegiros como mi maestro no fue tan buena idea..."
 
 #. [message]: speaker=Rashti
 msgid "*smiles gently*"
@@ -14773,7 +14773,7 @@ msgid ""
 "Ho'rashti's permission... *sigh*"
 msgstr ""
 "Aaaa y ahí va mi primera oportunidad en siglos para torturar a alguien con "
-"el permiso de Jo’Rashti... <i>Suspiro.</i>"
+"el permiso de Jo’Rashti... <i>Suspira.</i>"
 
 #. [message]: speaker=Rashti
 msgid "And now, FINISH OFF THE REST OF THOSE SCUM!!!"
@@ -15581,7 +15581,7 @@ msgid ""
 "*sigh* Such primitivity... You truly need to work on your rhetoric if you "
 "truly wish to sway the masses."
 msgstr ""
-"<i>Suspiro.</i> Qué primitividad... De verdad necesitas trabajar en tu retórica "
+"<i>Suspira.</i> Qué primitividad... De verdad necesitas trabajar en tu retórica "
 "si deseas influir realmente en las masas."
 
 #. [message]: speaker=Reficul
@@ -15768,8 +15768,8 @@ msgid ""
 "followers..."
 msgstr ""
 "¡Maldito Averno! Quería darles libertad; sin embargo, cayeron por tus "
-"promesas superficiales... <i>Suspiro</i> Sobreestimé tanto el intelecto "
-"de mis seguidores ..."
+"promesas superficiales... <i>Suspira.</i> Sobreestimé tanto el intelecto "
+"de mis seguidores..."
 
 #. [message]: speaker=Reficul
 msgid ""
@@ -16292,7 +16292,7 @@ msgstr "<i>Chillidos.</i>"
 
 #. [message]: speaker=unit
 msgid "*sigh* fine."
-msgstr "<i>Suspiro.</i> Bien."
+msgstr "<i>Suspira.</i> Bien."
 
 #. [message]: speaker=unit
 msgid "...ow... my back!"
@@ -16672,7 +16672,7 @@ msgid ""
 "our ancestors' failed experiments. <i>*to himself* I need someone to switch "
 "the topic, fast...</i>"
 msgstr ""
-"<i>Suspiro.</i> A decir verdad, ¡ay!, el cataclismo fue de hecho desencadenado "
+"<i>Suspira.</i> A decir verdad, ¡ay!, el cataclismo fue de hecho desencadenado "
 "por uno de los experimentos fallidos de nuestros ancestros.\n"
 "<i><span font-weight:'bold'>Para sí mismo.</span> "
 "Necesito que alguien cambie el tema y rápido...</i>"
