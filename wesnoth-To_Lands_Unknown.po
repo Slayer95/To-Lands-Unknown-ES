@@ -990,7 +990,7 @@ msgid ""
 "This is personal, Mehir. Stay away from our fight if you don't want your men "
 "to get killed!"
 msgstr ""
-"Esto es personal, Mejir. ¡Manténganse lejos de nuestra pelea si no quieres "
+"Esto es personal, Mejir. ¡Aléjense tú y tus hombres de nuestra pelea, si no quieres "
 "que tus soldados mueran!"
 
 #. [message]: type=TLU_DharmaRashti
@@ -999,7 +999,7 @@ msgid ""
 "needless bloodshed, might as well combine the two."
 msgstr ""
 "Bueno, hay dos cosas que amo: derramar sangre por capricho y Mejir, "
-"pero sobre todo derramar sangre. Así que podría combinar ambos, ¿no?"
+"pero sobre todo amo derramar sangre. Así que podría combinar ambos, ¿no?"
 
 #. [message]: type=TLU_Elder
 msgid ""
@@ -1065,15 +1065,15 @@ msgstr ""
 
 #. [message]: type=TLU_HoRashti
 msgid "Seems I'll have to beat some sense into you again."
-msgstr "Parece que tendré que vencer a ti de nuevo."
+msgstr "Parece que tendré que sacudirte algo de lógica en la mollera."
 
 #. [message]: type=TLU_HoRashti
 msgid ""
 "Sister! Hear the voice of reason! These are the final moments of this last "
 "battle. It is not a good time for our quarrels. We MUST join together."
 msgstr ""
-"¡Hermana! ¡Escucha la voz de la razón! Estos son los momentos finales de "
-"esta última batalla. No es un buen momento para nuestras disputas. Debemos "
+"¡Hermana! ¡Escucha la voz de la razón! Estamos en los momentos finales de "
+"esta última batalla. No es un buen momento para nuestras disputas. DEBEMOS "
 "unirnos."
 
 #. [message]: type=TLU_HoRashti
@@ -1081,12 +1081,12 @@ msgid ""
 "We have been split, and us halves are now independent, but we must unite in "
 "order to restore the balance of the Abyss."
 msgstr ""
-"Nuestras personalidades han sido separadas y ahora son independientes, pero "
-"debemos unirlas para restaurar el equilibrio."
+"Aunque al estar divididas seamos independientes, debemos unirnos "
+"para restaurar el balance del Averno."
 
 #. [message]: type=TLU_HoRashti
 msgid "You can kill a being but..."
-msgstr "Puedes matar a un ser pero..."
+msgstr "Puedes matar a un ser, pero..."
 
 #. [message]: type=TLU_Merchant
 msgid ""
@@ -1094,16 +1094,15 @@ msgid ""
 "it's not the bazaar, what am I doing here? Eh, whatever, might as well "
 "celebrate every now and then."
 msgstr ""
-"Combinación de cachimción y cafetera! ¡También hace papas fritas a Julienne! "
-"Oh, espera, no es el bazar, ¿qué estoy haciendo aquí? Eh, lo que sea, podría "
-"celebrar de vez en cuando."
+"¡Pipa de agua y cafetera 2 en 1! ¡También fríe papas corte juliana! "
+"Oh, espera, no es el bazar, ¿qué estoy haciendo aquí? Eh, como sea, hay "
+"que aprovechar para celebrar de vez en cuando."
 
 #. [message]: type=TLU_True_Rashti
 msgid ""
 "Finally, after all the eternal struggle between my two egos, I am whole!"
 msgstr ""
-"Finalmente, después de toda la lucha eterna entre mis dos egos, ¡estoy "
-"completo!"
+"Finalmente, después de toda la lucha eterna entre mis dos egos, ¡soy una!"
 
 #. [message]: type=TLU_True_Rashti
 msgid ""
@@ -9306,16 +9305,16 @@ msgid ""
 "saved all life in this world.</i>"
 msgstr ""
 "<i>Prestad oreja,\n"
-"vosotros, foráneos destas tierras sin trilla,\n"
+"ajenos destas tierras sin trilla,\n"
 "a este relato de una era añeja,\n"
-"de los invocadores que alzaran Alcamiya,\n"
-"magos supremos de habilidad singular,\n"
+"los invocadores de Alcamiya,\n"
+"magos de habilidad singular,\n"
 "y sus sirvientes de los avernos,\n"
 "agora malos, agora buenos.\n"
-"Y seguid a Mejir, que en su andar,\n"
-"hubo de, según dictó fortuna,\n"
-"salvar toda vida al conciliar,\n"
-"en este mundo, el sol con la luna.</i>"
+"¡Y Mejir!, quien pudo en su camino,\n"
+"los suyos librar, ¡dictó el destino!,\n"
+"y guardar el mundo y tantas vidas,\n"
+"lo exaltan aquí y en la otra orilla.</i>"
 
 #. [message]: speaker=Mehir
 msgid "<span font-style='italic'>*to himself* Hmmmm...</span>"
