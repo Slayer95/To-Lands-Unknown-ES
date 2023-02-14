@@ -970,7 +970,7 @@ msgid ""
 "things. I'll join you, for now... but one day I am going to return!"
 msgstr ""
 "Tal vez tengas razón... En nuestra verdadera forma, nada puede oponerse a "
-"nosotras, ni siquiera estas cosas. Me uniré a ustedes, por ahora... ¡Pero un "
+"nosotras, ni siquiera estas cosas. Me uniré a ti, por ahora... ¡Pero un "
 "día he de regresar!"
 
 #. [message]: type=TLU_DharmaRashti
@@ -1006,7 +1006,7 @@ msgid ""
 "Noise?! Foreigners are trying to murder us for crying out loud! Do something "
 "about it!"
 msgstr ""
-"¡¿Ruido?! ¡Los extranjeros están tratando de asesinarnos. ¡Por el amor de Nomolas, "
+"¡¿Ruido?! ¡Los invasores están tratando de asesinarnos! ¡Por el amor de Nomolas, "
 "haz algo al respecto!"
 
 #. [message]: type=TLU_Elder
@@ -1026,25 +1026,25 @@ msgid ""
 "another. We are two sides of the same coin. You are still dear to me... "
 "sister."
 msgstr ""
-"Tan fuerte como puede haber sido nuestra animosidad mutural, no podemos "
-"vivir el uno sin el otro. Somos dos lados de la misma moneda. Todavía eres "
-"querida para mí... hermana."
+"Por más intensa que sea nuestra animosidad natural, no podemos vivir la una "
+"sin la otra. Somos como las dos caras de una moneda. Para mí, eres lo más entrañable, "
+"hermana..."
 
 #. [message]: type=TLU_HoRashti
 msgid "Fear not, Master! She is mine!"
-msgstr "¡No tema, maestro! ¡Me encargaré de ella!"
+msgstr "¡No temáis, maestro! ¡Me encargaré de ella!"
 
 #. [message]: type=TLU_HoRashti
 msgid ""
 "I order you to stop immediately at once, unify with me and get back to "
 "fighting!"
 msgstr ""
-"¡Te ordeno que te detengas de inmediato a la vez, unifique conmigo y vuelvas "
-"a pelear!"
+"¡Te ordeno que te detengas ahora mismo! ¡Únete a mí y vuelve a la "
+"lucha!"
 
 #. [message]: type=TLU_HoRashti
 msgid "I will never allow you to harm our Master!"
-msgstr "¡Nunca permitiré que hagas daño al maestro!"
+msgstr "¡Nunca te permitiré que hieras a nuestro Maestro!"
 
 #. [message]: type=TLU_HoRashti
 msgid "It is not..."
@@ -1052,14 +1052,14 @@ msgstr "Esto no ha..."
 
 #. [message]: type=TLU_HoRashti
 msgid "Look Dharma'rashti, we must unite. The whole Abyss is at stake!"
-msgstr "Mira, Darma'Rashti, debemos unirnos. ¡Todo el Averno está en juego!"
+msgstr "Mira, Darma’Rashti, debemos unirnos. ¡Todo el Averno está en juego!"
 
 #. [message]: type=TLU_HoRashti
 msgid ""
 "Master, don't trust her! She is evil! (to Dharma'rashti) *sigh* Look, now is "
 "really not the time for flirting. Besides, is THAT what you consider a date?"
 msgstr ""
-"Maestro, ¡no confíes en ella! ¡Ella es malvada! <i>Suspira y se dirige a Darma'Rashti.</i>"
+"Maestro, ¡no confíes en ella! ¡Ella es malvada! <i>Suspira y se dirige a Darma’Rashti.</i>"
 "Mira, ahora no es exactamente el momento para coquetear. Además, ¿es eso lo que "
 "consideras una cita?"
 
@@ -1109,7 +1109,7 @@ msgid ""
 "I have finally achieved badassery...err I mean harmony of course. This is my "
 "final form."
 msgstr ""
-"Finalmente he logrado Badassery... Err, me refiero a la armonía, por "
+"*Finalmente he alcanzado la genialidad... Ehh, me refiero a la armonía, por "
 "supuesto. Esta es mi forma final."
 
 #. [modify_side]
@@ -1122,11 +1122,11 @@ msgstr "Guardianes"
 
 #. [note]
 msgid "Ignore Rhaxiz"
-msgstr "Proteja a Rhaxiz"
+msgstr "Ignore a Rhaxiz"
 
 #. [note]
 msgid "Right click Mehir for help"
-msgstr "Haga clic derecho Mejir para obtener ayuda"
+msgstr "Haga clic derecho en Mejir para obtener ayuda"
 
 #. [object]
 msgid ""
@@ -1157,11 +1157,11 @@ msgstr ""
 "- La campaña se desarrolla en un universo diferente de la historia principal "
 "de Battle for Wesnoth, y no se pretende que se relacionen.\n"
 "- Para simular la altura, algunos (o incluso la mayoría, en algunos "
-"escenarios) hexágonos son intransitables o impenetrables (lo que significa que "
-"solo las unidades voladoras pueden mover o que ninguna puede acceder a ellos, respectivamente)"
+"escenarios) hexágonos son <i>intransitables</i> o <i>impenetrables</i> (lo que significa que "
+"solo las unidades voladoras o ninguna pueda acceder a ellos, respectivamente)"
 "- Los halos y animaciones de unidades, etc. se usan extremadamente a menudo aquí. "
 "En caso de desactivarlos, perderías de una gran parte de la experiencia propia de "
-"En Tierras Ignotas."
+"“En Tierras Ignotas”."
 
 #. [object]
 msgid "300 gold"
@@ -1176,12 +1176,12 @@ msgid ""
 "After each recall the unit is fully healed\n"
 "The unit can be recalled only 3 times. After that it dies for sure."
 msgstr ""
-"Un artefacto legendario, una obra maestra hecha por los ancestros. En los "
-"viejos tiempos se hizo un collar mágico, que al ser vestido por un ser "
-"mágico, permitía invocarlo después de su muerte.\n"
+"Un artefacto legendario, una obra maestra hecha por los ancestros. Antaño "
+"se confeccionó un collar mágico, el cual, al revestir a una entidad mágica, "
+"permitía invocarlo después de su muerte.\n"
 "La unidad es invocada por el líder.\n"
 "Después de cada invocación, la unidad se sana completamente.\n"
-"La unidad se puede invocar solo 3 veces. Después, muere definitamente."
+"La unidad se puede invocar solo 3 veces. Después, muere definitivamente."
 
 msgid ""
 "A legendary masterpiece made by the Ancestors in the olden times. Its unique "
@@ -1194,8 +1194,8 @@ msgid ""
 "\n"
 "Should this unit pick up the collar?"
 msgstr ""
-"Una legendaria obra maestra, fabricada por los ancestros en tiempos "
-"antiguos. Sus poderes singulares permiten que una entidad mágica sea llamada "
+"Una obra maestra legendaria, fabricada por los maestros encantadores de antaño. "
+"Sus poderes singulares permiten que una entidad mágica sea llamada "
 "de vuelta tras ser asesinada.\n"
 "\n"
 "- La unidad se reincorpora junto al líder al morir.\n"
@@ -1209,8 +1209,8 @@ msgid ""
 "Advances the unit (unless the unit is already at maximum level)\n"
 "Grants 50% fire resistance"
 msgstr ""
-"Avanza la unidad (a menos que la unidad ya esté en nivel máximo)\n"
-"Otorga 50% de resistencia al fuego"
+"Promociona la unidad (a menos que ya esté en nivel máximo).\n"
+"Otorga 50% de resistencia al fuego."
 
 #. [object]
 msgid ""
@@ -1218,7 +1218,7 @@ msgid ""
 "Increases the attack by 25%\n"
 "Increases magical resistances by 10%"
 msgstr ""
-"Avanza la unidad (a menos que la unidad ya esté en nivel máximo)\n"
+"Promociona la unidad (a menos que ya esté en nivel máximo).\n"
 "Aumenta el ataque en 25%.\n"
 "Aumenta las resistencias mágicas en 10%."
 
@@ -1227,7 +1227,7 @@ msgid ""
 "Advances the unit (unless the unit is already at maximum level)\n"
 "Speed increases by 50%"
 msgstr ""
-"Avanza la unidad (a menos que la unidad ya esté en nivel máximo)\n"
+"Promociona la unidad (a menos que ya esté en nivel máximo).\n"
 "La velocidad aumenta en 50%."
 
 #. [object]
@@ -1263,7 +1263,7 @@ msgstr "Capa del desierto"
 
 #. [object]
 msgid "Found some gold:"
-msgstr "Encontró algo de oro:"
+msgstr "Encontró oro:"
 
 #. [object]
 msgid "Golden Carpet"
@@ -1287,11 +1287,9 @@ msgid ""
 "Increases fire and cold resistances by 20%\n"
 "Decreases arcane resistance by 15%"
 msgstr ""
-"Con placas profusamente decoradas, una manufactura sólida y símbolos "
-"mágicos: esta debe de ser la legendaria armadura de Ka-Gattans.\n"
-"Aumenta las resistencias físicas en un 25%\n"
-"Aumenta la resistencia al fuego y al frío en un 20%\n"
-"Disminuye la resistencia astral en un 15%"
+"Aumenta las resistencias físicas en 25%.\n"
+"Aumenta la resistencia al fuego y al frío en 20%.\n"
+"Disminuye la resistencia arcana en 15%."
 
 #. [object]
 msgid ""
@@ -1315,8 +1313,8 @@ msgid ""
 "Should this unit pick up the cloak?"
 msgstr ""
 "Esta capa fue encantada hace mucho tiempo y grabada con símbolos "
-"misteriosos, capaces de resguardar al portador del calor del desierto y del "
-"fuego.\n"
+"misteriosos, capaces de resguardar al portador no solo del calor "
+"del desierto, sino también del fuego.\n"
 "\n"
 "- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
 "- Otorga 50% de resistencia al fuego.\n"
@@ -1328,16 +1326,16 @@ msgid ""
 "Mehir got temporarily banned (not really, you can just reload the save file. "
 "this is just a joke)"
 msgstr ""
-"Mehir fue prohibido temporalmente (en realidad no, puedes volver a cargar el "
-"archivo de guardado. Esto es solo una broma)"
+"Mehir ha sido temporalmente baneado. <i>(En realidad, no. Puedes volver a cargar el "
+"archivo de guardado. Esto es solo una broma)</i>."
 
 #. [object]
 msgid ""
 "Mehir is drunk. His movement is decreased by 3 (this effect only lasts until "
 "the end of the scenario)"
 msgstr ""
-"Mehir está borracho. Su movimiento se reduce en 3 (este efecto solo dura "
-"hasta el final del escenario)"
+"Mejir está ebrio. Su movimiento se reduce en 3 (este efecto solo dura "
+"hasta el final del escenario)."
 
 #. [object]
 msgid ""
@@ -1345,9 +1343,9 @@ msgid ""
 "her movement is increased by 1. (this bonus only lasts until the end of the "
 "scenario)"
 msgstr ""
-"La determinación de Rashti de matar a Aerius le permite ignorar el Zoc "
-"enemigo, y su movimiento aumenta en 1. (Esta bonificación solo dura hasta el "
-"final del escenario)"
+"La determinación de Rashti de matar a Aerius le permite ignorar las ZdC "
+"enemigas; además, su movimiento aumenta en 1. (Esta bonificación solo dura hasta el "
+"final del escenario)."
 
 #. [object]
 msgid "Reficul's sphere"
@@ -1363,7 +1361,7 @@ msgid ""
 "- Decreases arcane resistance by 15%"
 msgstr ""
 "Placas ricamente decoradas, acabado sólido y símbolos mágicos: esta debe ser "
-"la legendaria armadura de Ka-Gattans.\n"
+"la legendaria armadura de Ka-Gattan.\n"
 "\n"
 "- Aumenta las resistencias físicas en 25%.\n"
 "- Aumenta las resistencias de fuego y frío en 20%.\n"
@@ -1378,16 +1376,16 @@ msgid ""
 "Scimitar damage increased by 100%, and the weapon becomes magical (always "
 "70% chance to hit)"
 msgstr ""
-"El daño de la cimitarra aumentó en 100%, y el arma se vuelve mágica (siempre "
-"un 70% de posibilidades de golpear)"
+"El daño de la cimitarra aumenta en 100%, y el arma se vuelve mágica "
+"(70% de posibilidades de golpear)."
 
 #. [object]
 msgid "Spear of Rhami"
-msgstr "Lanza de Rami"
+msgstr "Lanza de rami"
 
 #. [object]
 msgid "Spear of the Rhami"
-msgstr "Lanza de Rami"
+msgstr "Lanza de rami"
 
 #. [object]
 msgid ""
@@ -1399,21 +1397,22 @@ msgid ""
 "The elemental unit can turn into other elemental\n"
 "(use right-click on the unit to activate)"
 msgstr ""
-"Los ancestros estaban fascinados con los elementales, entidades hechas de "
-"energía pura. También soñaban con crear una criatura a partir de una mezcla "
-"de los cuatro elementos conocidos. Lamentablemente fallaron. Sin embargo, al "
-"final se creó un amuleto único, capaz de transformar un elemento en otro. "
+"Los ancestros, en su fascinación con los elementales, entidades hechas de "
+"energía pura, soñaron con crear una criatura a partir de una mezcla "
+"de los cuatro elementos conocidos. Lamentablemente, fallaron en su cometido. "
+"Sin embargo, al final lograron materializar un amuleto único, capaz de "
+"transformar un elemento en otro. "
 "Esta es una de las reliquias más poderosas hechas por los ancestros.\n"
 "La unidad elemental puede transformarse en otra.\n"
-"(usa clic derecho en la unidad para activar)"
+"(Dé clic derecho en la unidad para activar)."
 
 #. [object]
 msgid ""
 "The elemental unit can turn into another elemental (use right-click on the "
 "unit to activate)"
 msgstr ""
-"La unidad elemental puede convertirse en otro elemental (use clic derecho en "
-"la unidad para activar)"
+"La unidad elemental puede convertirse en otro elemental (dé clic derecho en "
+"la unidad para activar)."
 
 #. [object]
 msgid ""
@@ -1421,12 +1420,9 @@ msgid ""
 "After each recall the unit becomes stronger\n"
 "The unit can be recalled only 3 times. After that it dies for sure."
 msgstr ""
-"Una legendaria obra maestra fabricada por los antiguos en tiempos remotos. "
-"Sus poderes únicos permiten que un ser mágico sea llamado de vuelta al mundo "
-"mortal después de morir.\n"
-"La unidad vuelve junto a su líder después de morir\n"
-"Después de cada vuelta la unidad se hace más fuerte\n"
-"La unidad puede ser llamada de vuelta solo tres veces. Después muere "
+"La unidad vuelve junto a su líder al morir.\n"
+"Después de cada vuelta la unidad se recupera.\n"
+"La unidad es llamada de vuelta solo tres veces. Después, muere "
 "definitivamente."
 
 #. [object]
@@ -1438,8 +1434,7 @@ msgid ""
 msgstr ""
 "Este anillo misterioso está ricamente ornamentado con símbolos mágicos, lo "
 "que de alguna manera lo conecta al Averno. El portador de esta reliquia "
-"puede beneficiarse de energías extrañas que fluyen hacia su cuerpo y "
-"resultan en su sanación.\n"
+"puede beneficiarse de energías extrañas que, al fluir a su cuerpo, lo sanan\n"
 "- Otorga regeneración."
 
 msgid ""
@@ -1453,8 +1448,8 @@ msgid ""
 "\n"
 "Should this unit pick up the spear?"
 msgstr ""
-"Esta pica, forjada puramente a partir de energía del Averno, es el arma "
-"utilizada por la primera Rhami'kai. Una obra excepcional, en comparación con "
+"Esta lanza, forjada puramente a partir de energía del Averno, es el arma "
+"utilizada por la primera rhami’kai. Una obra excepcional, en comparación con "
 "las armas de sus sucesoras, fabricadas en serie a partir de metal mundano.\n"
 "\n"
 "- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
@@ -1495,7 +1490,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 msgid "A fire elemental moves on a wooden bridge"
-msgstr "Un elemental de fuego se mueve en un puente de madera"
+msgstr "Un elemental de fuego llega al puente de madera"
 
 #. [objective]: condition=lose
 msgid "Death of Atiros"
@@ -1511,7 +1506,7 @@ msgstr "Muerte de Glomin (explota la batería antes de morir)"
 
 #. [objective]: condition=lose
 msgid "Death of Jaffar"
-msgstr "Muerte del Anciano"
+msgstr "Muerte de Yafar"
 
 #. [objective]: condition=lose
 msgid "Death of Malib"
@@ -1531,19 +1526,19 @@ msgstr "Muerte de Rhaxiz"
 
 #. [objective]: condition=lose
 msgid "Death of any lizard"
-msgstr "Muerte de Malib"
+msgstr "Muerte de cualquier lagartija"
 
 #. [objective]: condition=lose
 msgid "Death of more than one Council member"
-msgstr "La muerte de 3 miembros del consejo"
+msgstr "Muerte de 2 o más miembros del consejo"
 
 #. [objective]: condition=lose
 msgid "Death of more than three Council members"
-msgstr "La muerte de 3 miembros del consejo"
+msgstr "Muerte de 2 o más miembros del consejo"
 
 #. [objective]: condition=lose
 msgid "Death of more than two Council members"
-msgstr "La muerte de 3 miembros del consejo"
+msgstr "Muerte de 3 o más miembros del consejo"
 
 #. [objective]: condition=lose
 msgid "Death of the Elder"
@@ -1551,7 +1546,7 @@ msgstr "Muerte del Anciano"
 
 #. [objective]: condition=lose
 msgid "Destruction of the Living Gate"
-msgstr "Destrucción de la puerta viviente"
+msgstr "Destrucción de la Portal Viviente"
 
 #. [objective]: condition=lose
 msgid "Killing any lizard"
@@ -1559,7 +1554,7 @@ msgstr "Matar a cualquier lagartija"
 
 #. [objective]: condition=lose
 msgid "Recruiting a Fire Elemental or its advancements"
-msgstr "Reclutar un elemento de fuego o sus avances"
+msgstr "Reclutar un elemental de fuego"
 
 #. [objective]: condition=win
 msgid "(optional) Search the caves for treasure"
@@ -1571,7 +1566,7 @@ msgstr "Cree el círculo de teletransporte"
 
 #. [objective]: condition=win
 msgid "Defeat Aerius"
-msgstr "Eliminar a Aerius"
+msgstr "Elimine a Aerius"
 
 #. [objective]: condition=win
 msgid "Defeat Reficul"
@@ -1579,7 +1574,7 @@ msgstr "Elimine a Reficul"
 
 #. [objective]: condition=win
 msgid "Defeat all enemies"
-msgstr "Elimine a todos os enemigos"
+msgstr "Elimine a todos los enemigos"
 
 #. [objective]: condition=win
 msgid "Defeat the barbarians"
@@ -1603,15 +1598,15 @@ msgstr "Defienda su posición"
 
 #. [objective]: condition=win
 msgid "Destroy your elemental"
-msgstr "Destruye tu elemental"
+msgstr "Destruya el elemental"
 
 #. [objective]: condition=win
 msgid "Destroy your elemental with the Dimensional Gate II"
-msgstr "Destruye tu elemental con la puerta dimensional II"
+msgstr "Destruya el elemental con el Portal Dimensional II"
 
 #. [objective]: condition=win
 msgid "Dharma'rashti eliminates Ho’Rashti"
-msgstr "Darma'Rashti elimina a Jo'Rashti"
+msgstr "Darma’Rashti elimina a Jo’Rashti"
 
 #. [objective]: condition=win
 msgid "Enter the Abyss"
@@ -1619,7 +1614,7 @@ msgstr "Entre al Averno"
 
 #. [objective]: condition=win
 msgid "Find Guru"
-msgstr "Gurú"
+msgstr "Encuentre a Gurú"
 
 #. [objective]: condition=win
 msgid "Gather all your human units, Rashti and Glomin inside the circle"
@@ -1627,7 +1622,7 @@ msgstr "Reúna a todas sus tropas humanas y Rashti dentro del círculo"
 
 #. [objective]: condition=win
 msgid "Ho'rashti eliminates Dharma’Rashti"
-msgstr "Jo'Rashti elimina a Darma'Rashti"
+msgstr "Jo’Rashti elimina a Darma’Rashti"
 
 #. [objective]: condition=win
 msgid "Kill Aerius"
@@ -1647,15 +1642,15 @@ msgstr "Elimine algunos bárbaros"
 
 #. [objective]: condition=win
 msgid "Kill the remaining enemies"
-msgstr "Mata a los enemigos restantes"
+msgstr "Mate a los enemigos restantes"
 
 #. [objective]: condition=win
 msgid "Leave the room"
-msgstr "Abandonar la habitación"
+msgstr "Abandone la habitación"
 
 #. [objective]: condition=win
 msgid "Leave the workshop"
-msgstr "Dejar el taller"
+msgstr "Deje el taller"
 
 #. [objective]: condition=win
 msgid "Mehir enters the Central Palace"
@@ -1675,7 +1670,7 @@ msgstr "Mueva a Mejir hasta el Palacio de la omnisciencia"
 
 #. [objective]: condition=win
 msgid "Move to the next chamber"
-msgstr "Muévase hasta la siguiente cámara"
+msgstr "Muévase a la siguiente cámara"
 
 #. [objective]: condition=win
 msgid "Protect lizards"
@@ -1683,15 +1678,15 @@ msgstr "Proteja a los saurios"
 
 #. [objective]: condition=win
 msgid "Recruit or recall something"
-msgstr "Recluta o recuerda algo"
+msgstr "Reclute o reincorpore"
 
 #. [objective]: condition=win
 msgid "Release the lizards"
-msgstr "Libere a los saurios"
+msgstr "Libere a las lagartijas"
 
 #. [objective]: condition=win
 msgid "Rhaxiz reaches the southeast keep"
-msgstr "Rhaxiz llega al sudeste de mantenimiento"
+msgstr "Rhaxiz llega al torreón del sudeste"
 
 msgid ""
 "Richly decorated plates, solid workmanship and magical symbols: this must be "
@@ -1703,7 +1698,7 @@ msgid ""
 "\n"
 "Should this unit pick up the armor?"
 msgstr ""
-"Placas ricamente ornamentadas, ejecución sólida y símbolos mágicos: esta "
+"Placas ricamente ornamentadas, sólido acabado y símbolos mágicos: esta "
 "debe ser la legendaria armadura fabricada por los herreros de Ka-Gatta.\n"
 "\n"
 "- Aumenta las resistencias físicas en 25%.\n"
@@ -1714,7 +1709,7 @@ msgstr ""
 
 #. [objective]: condition=win
 msgid "Run to the camp!"
-msgstr "Defended el campamento."
+msgstr "Escape al campamento."
 
 #. [objective]: condition=win
 msgid "Search the ruins"
@@ -1722,7 +1717,7 @@ msgstr "Busque en las ruinas"
 
 #. [objective]: condition=win
 msgid "Seize the post on the other hill"
-msgstr "Apodérese del puesto en el otro lado"
+msgstr "Apodérese del puesto al otro lado"
 
 #. [objective]: condition=win
 msgid "Semir banishes the efreeti"
@@ -1730,7 +1725,7 @@ msgstr "Semir destierra el ifrit"
 
 #. [objective]: condition=win
 msgid "Summon something"
-msgstr "Invocar algo"
+msgstr "Invoque una entidad mágica"
 
 #. [objective]: condition=win
 #. [objectives]
@@ -1739,11 +1734,11 @@ msgstr "Sobreviva hasta que se acaben los turnos"
 
 #. [objective]: condition=win
 msgid "Visit the Enchanter"
-msgstr "Visita el encantador"
+msgstr "Visite al encantador"
 
 #. [objective]: condition=win
 msgid "Visit the bazaar"
-msgstr "Visita el bazar"
+msgstr "Visite el bazar"
 
 #. [objective]: condition=win
 msgid "Wait until the circle finishes itself"
@@ -1756,31 +1751,29 @@ msgid ""
 "-Explore as much as possible. The items found in this scenario will be quite "
 "useful later on."
 msgstr ""
-"-Puedes conseguir un poco de oro extra saqueando los esqueletos que se "
-"encuentran en el suelo.\n"
-"-Explora tanto como sea posible. Los elementos que se encuentran en este "
-"escenario serán bastante útiles más adelante."
+"-Puede saquear oro de los esqueletos en el suelo.\n"
+"-Explore tanto como sea posible. Los artefactos de este escenario serán muy "
+"útiles más adelante."
 
 #. [objectives]
 msgid ""
 "Although you are given a lot of gold, you won't get to use most of it in the "
 "following scenario (the gold carryover is only 10%)"
 msgstr ""
-"Aunque se le da mucho oro, no podrá usar la mayor parte en el siguiente "
-"escenario (el arrastre de oro es solo del 10%)"
+"El oro que ha adquirido le pertenece a la ciudad de Sud-Affar. Solo podrás quedarte "
+"con el 10% para el próximo escenario."
 
 #. [objectives]
 msgid ""
 "Both of Rashti's halves are unkillable (are fully healed when reaching 0 "
 "hitpoints), so trying to kill Dharm'rashti is not going to work."
 msgstr ""
-"Las dos mitades de Rashti son inquietables (están completamente curadas al "
-"alcanzar 0 puntos de hits), por lo que no va a funcionar para matar a "
-"Dharm'rashti."
+"Las dos mitades de Rashti son inmortales (se recuperan totalmente al alcanzar "
+"los 0 PV), así que intentar matar a Darma’Rashti sería infructuoso."
 
 #. [objectives]
 msgid "Do not capture Jaffar's villages"
-msgstr "No captures las aldeas de Yafar"
+msgstr "No capture las aldeas de Yafar"
 
 #. [objectives]
 msgid ""
@@ -1788,9 +1781,9 @@ msgid ""
 " -Mehir's movement refills after each move.\n"
 " -You cannot skip your turn"
 msgstr ""
-"Este es un escenario que no es de combate:\n"
-" -La de movimiento de Mejir se reina después de cada movimiento.\n"
-" -No no puedes omitir tu turno"
+"Este escenario no es de combate:\n"
+" -Los movimientos de Mejir son ilimitados.\n"
+" -No puedes saltar el turno."
 
 #. [objectives]
 msgid ""
@@ -1801,12 +1794,11 @@ msgid ""
 "next to them\n"
 "-Rashti follows you automatically"
 msgstr ""
-"Este es un escenario que no es de combate:\n"
-"-La de movimiento de Mejir se recarga después de cada movimiento\n"
-"-No no puedes omitir tu turno\n"
-"-PUEDES interactuar con NPC que tienen marcos de exclamación amarilla "
-"moviéndose junto a ellos\n"
-"-Rashti te sigue automáticamente"
+"Este escenario no es de combate:\n"
+"-Los movimientos de Mejir son ilimitados.\n"
+"-No puedes saltar el turno.\n"
+"-Interactúa con NPC con signos de exclamación amarillos al acercarte.\n"
+"-Rashti te seguirá automáticamente."
 
 #. [objectives]
 msgid ""
@@ -1817,23 +1809,22 @@ msgid ""
 "next to them."
 msgstr ""
 "Este es un escenario que no es de combate:\n"
-"-La de movimiento de Mejir se reina después de cada movimiento.\n"
-"-No no puedes omitir tu turno\n"
-"-PUEDES interactuar con NPC que tienen marcos de exclamación amarilla "
+"-Los movimientos de Mejir son ilimitados.\n"
+"-No puedes saltar el turno.\n"
+"-Interactúa con NPC con signos de exclamación amarillos al acercarte.\n"
 "moviéndose junto a ellos."
 
 #. [objectives]
 msgid "Unlike in most scenarios, running out turns counts as a victory."
 msgstr ""
-"A diferencia de la mayoría de los escenarios, la ejecución de vueltas se "
-"vuelve los recuentos como una victoria."
+"A diferencia de la mayoría de escenarios, al fin de los turnos ganarás."
 
 #. [objectives]
 msgid ""
 "You won't be able to recall Semir after this scenario, as he will remain in "
 "Tar-Tabar."
 msgstr ""
-"No podrás recordar Semir después de este escenario, ya que permanecerá en "
+"No podrás reincorporar a Semir después de este escenario, ya que permanecerá en "
 "Tar-Tabar."
 
 #. [objectives]
@@ -1842,25 +1833,24 @@ msgstr "Las unidades no costarán mantenimiento hasta el final del escenario."
 
 #. [option]
 msgid " for later use (on recruit/recall of a unit)"
-msgstr "  para uso posterior (al reclutar o reincorporar una unidad)"
+msgstr " para uso posterior (al reclutar o reincorporar una unidad)."
 
 #. [option]
 msgid ""
 "Badass Mode (choose it if you know the campaign well or you seek a less "
 "serious gameplay)"
 msgstr ""
-"Modo rudo (elige si conoces bien la campaña o buscas un juego menos serio)"
+"Modo genial/duro (para veteranos de la campaña y/o una experiencia cómica)."
 
 #. [option]
 msgid ""
 "Buy the elemental anyway (costs 20 gold, carries over to the next scenarios)"
 msgstr ""
-"Compre el elemental de todos modos (cuesta 20 oro, se traslada a los "
-"siguientes escenarios)"
+"Compre el elemental de todos modos (cuesta 20 oro, se mantiene al final del escenario)."
 
 #. [option]
 msgid "Check the merchant's license."
-msgstr "Consulte la licencia del comerciante."
+msgstr "Verifique la licencia del comerciante."
 
 #. [option]
 msgid "Continue without rain"
@@ -1868,7 +1858,7 @@ msgstr "Continuar sin lluvia"
 
 #. [option]
 msgid "Fifty Shades of Tharis"
-msgstr "Cincuenta tonos de Taris"
+msgstr "Cincuenta sombras de Taris"
 
 #. [option]
 msgid "Heaven's Kitchen"
@@ -1876,15 +1866,15 @@ msgstr "Cocina del cielo"
 
 #. [option]
 msgid "I don't need an overpriced elemental!"
-msgstr "¡No necesito un elemental demasiado caro!"
+msgstr "¡Un elemental tan caro no me sirve!"
 
 #. [option]
 msgid "Learn about your future (costs 3 gold)"
-msgstr "Aprenda sobre su futuro (cuesta 3 oro)"
+msgstr "Preguntar por tu futuro (cuesta 3 oro)"
 
 #. [option]
 msgid "Load rain"
-msgstr "Activar la lluvia"
+msgstr "Activar lluvia"
 
 #. [option]
 msgid "Maybe some other time."
@@ -1897,8 +1887,7 @@ msgstr "No"
 #. [option]
 msgid "Normal Mode (good for new players or those who seek a serious gameplay)"
 msgstr ""
-"Modo normal (bueno para nuevos jugadores o para aquellos que buscan un juego "
-"serio)"
+"Modo normal (para nuevos jugadores y/o una experiencia seria)"
 
 #. [option]
 msgid "Not yet"
@@ -1910,11 +1899,11 @@ msgstr "Aquella Vez Que Reencarné Como Un Mu"
 
 #. [option]
 msgid "Use a trick"
-msgstr "Usa un truco"
+msgstr "Use una artimaña"
 
 #. [option]
 msgid "Yes"
-msgstr "Si."
+msgstr "Sí."
 
 #. [option]
 msgid "amulet^Leave it for another unit"
@@ -2014,13 +2003,12 @@ msgid ""
 "division to follow him, as he knew them quite well. Initially, things went "
 "smoothly, but not for too long..."
 msgstr ""
-"Unas semanas después de ser promovido, Sharif fue enviado por Sharif para "
-"estar a cargo de vigilar la construcción en los territorios al este de Sud-"
-"Affar, y al sur de Mag-Magar. Finalmente tuvo un deber más interesante, con "
-"mejores tropas a su disposición, aunque convenció a algunos de los hombres "
-"de la división de su guardia de la ciudad de que lo siguiera, ya que los "
-"conocía bastante bien. Inicialmente, las cosas salieron bien, pero no "
-"durante demasiado tiempo ..."
+"Unas semanas después de ser promovido, Mejir fue enviado por Sharif con "
+"el encargo de vigilar la construcción en los territorios al este de Sud-"
+"Affar y al sur de Mag-Magar. Finalmente pasó a tener una labor más interesante, "
+"con mejores tropas a su disposición. También convenció de seguirlo a algunos de "
+"sus subordinados de la guardia de la ciudad, ya que los conocía muy bien. "
+"Inicialmente, hubo buen viento, pero no por mucho..."
 
 #. [part]
 msgid ""
@@ -2885,7 +2873,7 @@ msgid ""
 "Here lies Samir, summoner of the mighty Rashti'rhami, and her first master. "
 "May he rest in peace."
 msgstr ""
-"Aquí se encuentra Samir, invocador de la poderosa Rashti’Rami, y su primer "
+"Aquí se encuentra Samir, invocador de la poderosa Rashti’Rami y su primer "
 "maestro. Puede él descansar en paz."
 
 #. [scenario]: id=08_Ka-gatta
@@ -3554,7 +3542,7 @@ msgstr ""
 
 #. [unit_type]: id=TLU_HoRashti, race=eoma_magical
 msgid "Ho'rashti"
-msgstr "Jo'Rashti"
+msgstr "Jo’Rashti"
 
 #. [unit_type]: id=TLU_HoRashti, race=eoma_magical
 msgid ""
@@ -3568,7 +3556,7 @@ msgstr ""
 
 #. [unit_type]: id=TLU_Living_Gate, race=eoma_magical
 msgid "Living Gate"
-msgstr "Puerta viviente"
+msgstr "Portal Viviente"
 
 #. [unit_type]: id=TLU_Living_Gate, race=eoma_magical
 msgid ""
@@ -7259,7 +7247,7 @@ msgid ""
 "personality tends to change quite often, making her very unpredictable."
 msgstr ""
 "Tashkar, el líder de Tar-Tabar, posee Rashti'rhami, la diosa de todos los "
-"Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Jo'Rashti "
+"Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Jo’Rashti "
 "y la Dharma'rashti de temperatura caliente. Debido a su doble naturaleza, la "
 "personalidad de Rashti tiende a cambiar con bastante frecuencia, haciéndola "
 "muy impredecible."
@@ -9312,9 +9300,9 @@ msgstr ""
 "y sus sirvientes de los avernos,\n"
 "agora malos, agora buenos.\n"
 "¡Y Mejir!, quien pudo en su camino,\n"
-"los suyos librar, ¡dictó el destino!,\n"
-"y guardar el mundo y tantas vidas,\n"
-"lo exaltan aquí y en la otra orilla.</i>"
+"los suyos librar, ¡dictó el destino!\n"
+"y guardar el mundo, y tanta vida\n"
+"lo exalta aquí y en la otra orilla.</i>"
 
 #. [message]: speaker=Mehir
 msgid "<span font-style='italic'>*to himself* Hmmmm...</span>"
