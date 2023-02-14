@@ -2895,15 +2895,15 @@ msgstr "Ka-gatta"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a Novice Summoner, Dispeller or Banisher can use this item!"
-msgstr "¡Solo un camellero puede usar este objeto!"
+msgstr "¡Solo un Invocador novato, Disipador o Desterrador pueden usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a Rhami or Rhami’kai can use this item!"
-msgstr "¡Solo un rami o un rami kai pueden usar este objeto!"
+msgstr "¡Solo un Rhami o un Rhami'kai pueden usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a camel rider (or his advancements) can use this item!"
-msgstr "¡Solo un camellero puede usar este objeto!"
+msgstr "¡Solo un Jinete de camello (o sus avances) pueden usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a human can use this item!"
