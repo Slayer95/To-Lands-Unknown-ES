@@ -2234,7 +2234,7 @@ msgid ""
 "guard came true..."
 msgstr ""
 "Debido a que el logro de Mejir fue más que excepcional con su falta de "
-"experiencia, Sharif lo promovió en múltiples ragos. Así, el sueño de un joven "
+"experiencia, Sharif lo promovió en múltiples rangos. Así, el sueño de un joven "
 "guardia de la ciudad se hizo realidad..."
 
 #. [part]
