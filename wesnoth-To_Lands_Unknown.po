@@ -3061,7 +3061,7 @@ msgstr "Residentes de las cuevas"
 
 #. [side]
 msgid "team_name^DharmaRashti"
-msgstr "Dharma’Rashti"
+msgstr "Darma’Rashti"
 
 #. [side]
 msgid "team_name^Enemy"
@@ -10238,7 +10238,7 @@ msgstr ""
 "Por última vez, Alib, si te veo bebiendo <b> nuevamente </b>, puedes apostar "
 "tu trasero, te haré despedir, y tendrás que encontrar un trabajo real que "
 "requiera más esfuerzo que estar de pie en uno ¡lugar! ¿Qué pasa si realmente "
-"nos atacan de verdad? ¡Hablé con un Jinni de fortuna y él dijo que incluso "
+"nos atacan de verdad? ¡Hablé con un genio de fortuna y él dijo que incluso "
 "podría ser hoy!"
 
 #. [message]: speaker=Mehir
@@ -12326,7 +12326,7 @@ msgid ""
 "some action today, so your carpet may prove useful!"
 msgstr ""
 "¡Ese es el espíritu! ¡Safay es un brillante ejemplo de un guardia de la "
-"ciudad confiable! Por cierto, hablé con un Jinni de fortuna y él dijo que "
+"ciudad confiable! Por cierto, hablé con un genio de fortuna y él dijo que "
 "podríamos ver algo de acción hoy, ¡así que su alfombra puede resultar útil!"
 
 #. [message]: speaker=Mehir
@@ -12855,7 +12855,7 @@ msgid ""
 "a Jinni after all!"
 msgstr ""
 "Espera, ¿usas los servicios de ferry de la alfombra? ¡Pero puedes volar "
-"solo! ¡Eres un Jinni después de todo!"
+"solo! ¡Eres un genio después de todo!"
 
 #. [message]: speaker=Mehir
 msgid "Wait... you speak our language?! I thought..."
@@ -14548,7 +14548,7 @@ msgstr ""
 "en la historia.\n"
 "\n"
 "Nota: Cuando se usa correctamente, se puede usar una puerta dimensional para "
-"invocar a un Jinni, pero Mehir aún no ha sido lo suficientemente "
+"invocar a un genio, pero Mehir aún no ha sido lo suficientemente "
 "experimentado como para poseer una unidad tan poderosa. Sin embargo, "
 "siéntase libre de invocar a otros seres o puede apilar estas puertas para su "
 "uso posterior."
@@ -17140,8 +17140,8 @@ msgid ""
 "I see it now. He will be a jinni. Perhaps think we should name him Edward, "
 "what do you think?"
 msgstr ""
-"Ya lo veo. Será un Jinni. Quizás piense que deberíamos nombrarlo Eduardo, "
-"¿qué piensas?"
+"Ya lo veo. Será un genio. Pienso que tal vez deberíamos llamarlo Eduardo, "
+"¿tú qué piensas?"
 
 #. [message]: speaker=wjinn
 msgid ""
