@@ -1654,7 +1654,7 @@ msgstr "Deje el taller"
 
 #. [objective]: condition=win
 msgid "Mehir enters the Central Palace"
-msgstr "Entre en el palacio central"
+msgstr "Entre en el Palacio Central"
 
 #. [objective]: condition=win
 msgid "Mehir enters the bunker"
@@ -2041,7 +2041,7 @@ msgid ""
 "madness and anger, aided by terrifying three-headed beasts, capable of "
 "easily devouring a man..."
 msgstr ""
-"Hacía medio año desde que los Carosanos perdieron contacto con sus "
+"Hacía medio año desde que los carosanos perdieron contacto con sus "
 "asentamientos más orientales: ninguno de los mensajeros volvía. Cuando "
 "más pueblos fueron desapareciendo, la máxima autoridad de Caros, la "
 "Suma Sacerdotisa de la Luz, Anthi, ordenó que se fortificaran las ciudades "
@@ -2135,7 +2135,7 @@ msgstr ""
 "Tres días después, el viajero finalmente volvió en sí. Atiros (así llamaba), "
 "provenía de una tierra abandonada por los invocadores hacía miles de años. "
 "Tales palabras sorprendieron al Alto Consejo, dado que por siglos creyeron "
-"que, cuando sus antepasados se dirigieron al gran desierto, habían abandonado "
+"que, cuando sus antepasados se dirigieron al Gran Desierto, habían abandonado "
 "por completo las tierras ancestrales. Según Atiros, la nación que ahora puebla "
 "esas tierras se denomina Caros, y está en grave peligro."
 
@@ -2269,7 +2269,7 @@ msgid ""
 msgstr ""
 "Durante su visita, Mejir aprendió muchas cosas acerca de los carosanos y su "
 "religión. Los carosanos adoraban al sol como su dios y a la luz como el "
-"origen de la vida. Esta peculiar dualidad era reflejada fielmente su estructura "
+"origen de la vida. Esta peculiar dualidad era reflejada fielmente en su estructura "
 "social. La sociedad carosana era gobernada por sabias sacerdotisas del culto "
 "de la luz, quienes son adeptas a la magia y no precisan de dibujar círculos. "
 "Por otro lado, el ejército y otros servicios relacionados estaban dirigidos por "
@@ -2288,7 +2288,7 @@ msgstr ""
 "Con el tiempo, el revolucionario descubrimiento permitió la construcción de "
 "ciudades maravillosas sobre la superficie caliente y hostil. La primera fue Alcamiya, "
 "la nueva capital creada de la nada por el primer genio, Nomolas. Las cuevas fueron "
-"abandonadas y los antiguos pudieron finalmente reclamar el Gran desierto como su hogar."
+"abandonadas y los antiguos pudieron finalmente reclamar el Gran Desierto como su hogar."
 
 #. [part]
 msgid ""
@@ -2304,11 +2304,10 @@ msgid ""
 "all joined the workers. The messenger immediately set out to Mehir to warn "
 "him of what will ensue..."
 msgstr ""
-"Para aumentar la velocidad de construcción del gran círculo en su forma "
-"actual, el Alto Consejo ordenó a todos os ciudadanos del país de los "
-"invocadores que ayudaran a los constructores. Mujeres, niños, incluso "
-"ancianos - todos se unieron a los trabajadores. El mensajero salió "
-"inmediatamente para darle a Mejir las noticias."
+"Atendiendo a semejante desastre, el Alto Consejo ordenó a todos los ciudadanos "
+"de la nación de invocadores que ayudaran en la construcción. Mujeres, niños e "
+"incluso ancianos: todos se unieron a los trabajadores. El mensajero entonces "
+"volvió raudo con Mejir, para advertirle de los acontecimientos..."
 
 #. [part]
 msgid ""
@@ -2317,19 +2316,18 @@ msgid ""
 "the desert, our forefathers came across a system of caves hidden far out in "
 "the sands. They were cool and spacious, so the ancestors decided to stay."
 msgstr ""
-"Ka-Gatta es un arcaico lugar, con una antigüedad de unos 1000 años. Nuestros "
+"Ka-Gatta es un sitio arcaico, que data de casi 1000 años atrás. Nuestros "
 "ancestros vivían aquí antes de que fuera creada Alcamiya. En los primeros "
-"tiempos, durante su viaje al corazón del desierto, nuestros antepasados "
-"dieron con un complejo de cuevas que se ocultaban profundamente bajo la "
-"arena. Eran lo bastante frescas y espaciosas, por lo que nuestros "
-"antecesores decidieron quedarse."
+"tiempos, mientras recorrían el desierto, los fundadores dieron con un "
+"complejo de cuevas ocultas en las profundidades. Eran lo bastante "
+"frescas y espaciosas, así que nuestros antecesores decidieron quedarse."
 
 #. [part]
 msgid ""
 "Mehir and Rashti returned to al-Kamija, for a meeting with the High "
 "Council..."
 msgstr ""
-"Mehir y Rashti regresaron a Alcamiya, para reunirse con el Alto Consejo..."
+"Mejir y Rashti regresaron a Alcamiya, para reunirse con el Alto Consejo..."
 
 #. [part]
 msgid ""
@@ -2340,20 +2338,20 @@ msgid ""
 "out to the west, to find the mysterious people who were known for "
 "accomplishing astounding feats of magic."
 msgstr ""
-"Mejir, como último de los invocadores, observaba este espectáculo desde "
-"Caros. Prometió que haría todo lo posible para permitir a sus tropas "
-"reunirse con sus familiares y amigos.\n"
-"De acuerdo con lo que Anthi había dicho, la única forma de llegar al Averno "
-"era dirigirse hacia el oeste, para buscar a una gente misteriosa de la que "
-"se sabía que podían hacer que ocurrieran cosas increíbles."
+"Mejir, ya la última autoridad de su nación en este mundo, observaba el impresionante "
+"espectáculo desde Caros. Juró que haría todo lo posible para reunir a sus tropas con "
+"sus familiares y amigos.\n"
+"De acuerdo con lo que Anthi había dicho, el único medio que le podría llevar al Averno "
+"estaba en el oeste, donde tendría que buscar a la misteriosa gente que en el pasado "
+"lograra, con su magia, asombrosas hazañas."
 
 #. [part]
 msgid ""
 "Mysterious beasts grabbed Mehir and Jaffar, and carried them deep into the "
 "jungle..."
 msgstr ""
-"Las misteriosas bestias agarraron a Mejir y Yafar, y las llevaron "
-"profundamente en la jungla ..."
+"Las misteriosas bestias agarraron a Mejir y Yafar, y se los llevaron "
+"a lo más profundo de la jungla..."
 
 #. [part]
 msgid ""
@@ -2371,19 +2369,18 @@ msgid ""
 "It should be stressed that we believe we will find in the Abyss the ultimate "
 "sense of our life and intend to stay there forever."
 msgstr ""
-"Viviendo en Alcamiya, hemos aprendido bastante acerca de la extraña "
-"dimensión que se descubrió en el pasado, pero no hemos sido capaces de "
-"entrar en ella. Quizás porque nadie en ese lugar nos puede invocar... De "
-"todos modos, en los últimos años, hemos podido diseñar un círculo mágico en "
-"particular que es capaz de llevarnos a ese mundo irreal. Nuestros "
-"experimentos tuvieron éxito, pero hasta la fecha no hemos podido invocar de "
-"vuelta los objetos que habíamos enviado previamente. Con motivo de esto, "
-"aunque parezca una locura, decidimos transportar al Averno todo nuestro "
-"país, esperando encontrar la solución al otro lado. Pero incluso aunque la "
-"encontráramos, quizás no la usaríamos...\n"
+"A raíz de nuestra dependencia del Averno, hemos aprendido bastante acerca de "
+"tan extraña dimensión, pero no hemos logrado entrar en ella. Quizás porque "
+"nadie allí puede invocarnos... Sin embargo, en los últimos años, nuestras "
+"mejores mentes idearon un peculiar diseño para un círculo mágico capaz de "
+"transportarons a ese mundo fantástico. Nuestros experimentos tuvieron éxito, "
+"aunque no hemos podido invocar de vuelta los objetos que que enviamos. Debido "
+"a esa limitación, aunque parezca una locura, decidimos enviar nuestra tierra "
+"entera al Averno, con la esperanza de encontrar eventualmente la solución en "
+"el otro lado. Pero, incluso si la encontráramos, quizás no la usaríamos.\n"
 "\n"
-"Sería abrumador que creyéramos que vamos a encontrar en el Averno el sentido "
-"último de la vida y decidiéramos permanecer allí para siempre."
+"Porque nosotros, invocadores, creemos firmemente que solo en el Averno podremos "
+"encontrar el sentido último de nuestra vida, y pretendemos quedarnos allí para siempre."
 
 #. [part]
 msgid ""
@@ -2396,14 +2393,13 @@ msgid ""
 "The time of peace did not last long, however. One day, Mehir was called to "
 "travel to al-Kamija without delay."
 msgstr ""
-"Habían pasado seis meses. El círculo dejó atrás el territorio de Sud-Affar, "
-"y los trabajadores de Tar-Tabar continuaron la construcción. Comenzó la "
-"siguiente etapa del trazado: conectar las ciudades de la trinidad una con "
-"otra creando un gran triángulo. Mientras tanto Mejir mejoró sus habilidades "
-"tomando lecciones de los viejos invocadores veteranos.\n"
+"Transcurrieron seis meses, en los que la construcción terminó en Sud-Affar. "
+"Los trabajadores de Tar-Tabar continuaron con una nueva etapa de la construcción —"
+"conectar las ciudades de la Trinidad con un gran triángulo. Mientras tanto, "
+"Mejir mejoraba sus habilidades tomando lecciones de invocadores veteranos.\n"
 "\n"
-"El tiempo de la paz no dura mucho. Un día Mejir fue invocado urgentemente a "
-"Alcamiya."
+"Pero solo era una breve calma antes de la tormenta. Mejir fue convocado a Alcamiya "
+"de urgencia."
 
 #. [part]
 msgid ""
@@ -2418,14 +2414,16 @@ msgid ""
 "Tar-Tabar, so as the city's ruler, it was Mehir's responsibility to "
 "eliminate them."
 msgstr ""
-"Días antes, uno de los ifrit se volvió contra sus maestros de Sud-Affar y "
-"huyó hacia el gran desierto. De vez en cuando ocurrían hechos aislados como "
-"este en Alcamiya, pero este ifrit persuadió a otras criaturas mágicas para "
-"que lo siguieran, lo cual era bastante inusual. Vagaban por el desierto y "
-"acabaron siento una amenaza tanto para la capital como para otras ciudades. "
-"Los exploradores descubrieron donde se encontraban estos seres corruptos: "
-"cerca de Tar-Tabar. Mejir era el gobernante de la región y se le encomendó "
-"la tarea de acabar con ellos."
+"Días atrás, en Sud-Affar, uno de los ifrits se rebeló contra su maestro y "
+"escapó al Gran Desierto. Aunque de por sí sería un evento común, lo que le daba "
+"importancia a este incidente era que el ifrit persuadió a otras entidades "
+"mágicas para seguirlo, lo cual preocupó sobremanera al Alto Consejo, con "
+"la memoria fresca sobre la rebelión del Culto Rojo."
+"De no tratar con ellos pronto, los seres mágicos rebeldes podrían lentamente "
+"crecer y convertirse en una seria amenaza para las ciudades de la Trinidad, e"
+"incluso para la capital. Los exploradores descubrieron a estos seres en las "
+"cercanías de Tar-Tabar, así que, al estar a cargo de la ciudad, sería la "
+"responsabilidad de Mejir eliminarlos."
 
 #. [part]
 msgid ""
@@ -2436,12 +2434,12 @@ msgid ""
 "additional fortifications around Mag-Magar. When the portal was repaired, "
 "Mehir, Rashti and Malib returned to al-Kamija."
 msgstr ""
-"Diez días después, se vieron aparecer en el horizonte alfombras procedentes "
-"de Alcamiya. Los ejércitos de la trinidad quedaron conmocionados por la "
-"destrucción a gran escala que había sufrido la ciudad. En preparación contra "
-"posibles futuros ataques, el Alto Consejo asignó tropas de élite a la guarnición "
-"local, y amplió las fortificaciones alrededor de Mag-Magar. Cuando terminó de "
-"repararse el portal, Mejir, Rashti y Malib volvieron a Alcamiya."
+"Diez días después, las primeras alfombras de Alcamiya aparecieron en el "
+"Los ejércitos de la trinidad quedaron conmocionados por la escala de la "
+"destrucción padecida por la ciudad. En preparación contra posibles ataques "
+"futuros, el Alto Consejo asignó tropas de élite a la guarnición local y "
+"empezó la construcción de fortificaciones adicionales alrededor de Mag-Magar. "
+"Cuando terminó de repararse el portal, Mejir, Rashti y Malib volvieron a Alcamiya."
 
 #. [part]
 msgid ""
@@ -2450,10 +2448,10 @@ msgid ""
 "funding, and trained new soldiers as fast as they could afford. But let's "
 "return to the tale of Mehir..."
 msgstr ""
-"La aparición del Flying Invader sorprendió al Alto Consejo. Paranoico de una "
-"posible invasión en cualquier momento, aumentaron significativamente los "
-"fondos de los militares y entrenaron a nuevos soldados tan rápido como "
-"pudieron permitirse. Pero volvamos a la historia de Mejir ..."
+"La aparición del invasor aéreo sorprendió al Alto Consejo. Paranoicos por una "
+"inminente invasión, incrementaron significativamente el gasto militar y entrenaron "
+"nuevos reclutas tan pronto como podían permitírselo. Pero volvamos a la historia de "
+"Mejir..."
 
 #. [part]
 msgid ""
@@ -2466,14 +2464,14 @@ msgid ""
 "with Anthi, getting to know the Kharosian culture and the history of the "
 "Ancestral Lands."
 msgstr ""
-"El ejército de la oscuridad fue destruido. Pequeños grupos de supervivientes "
-"se retiraron lejos hacia el este, permitiendo a la gente volver a sus "
-"antiguas tierras..\n"
+"El ejército de la oscuridad fue finalmente derrotado, con lo que los carosanos "
+"podrían retornar a los territorios devastados que les pertenecían.\n"
 "\n"
-"Mientras tanto, Mejir fue declarado como el mayor héroe de Caros. Mientras "
-"sus exploradores buscaban posibles amenazas de los restos del ejército "
-"destruido, Mejir pasaba mucho tiempo con Anthi, llegando a conocer la "
-"cultura carosana y la historia de las tierras ancestrales."
+"Mejir ingresó a la ciudad entre clamores de los ciudadanos de "
+"Caros, quienes lo alababan casi como una deidad. Mientras sus tropas estaban "
+"ocupadas con aniquilar los remanentes del ejército oscuro, ocupó mucho tiempo "
+"con Anthi, durante el cual conoció la cultura carosana y la historia de las "
+"tierras ancestrales."
 
 #. [part]
 #. This string originally had "2000 km"; we eventually came to feel that it was a sort of anachronism, so we decided to convert it to marahil (singular: marhala).
@@ -2492,12 +2490,10 @@ msgid ""
 "Mag-Magar, Tar-Tabar and Sud-Affar, whose leaders will supervise the works "
 "of their assistants."
 msgstr ""
-"Diseñamos un círculo gigante, uno que pudiera abarcar la mayor parte de "
-"nuestro país. El círculo tiene un diámetro de 50 marahil, por lo que "
-"construimos tres ciudades, cada una separada de las demás por la misma "
-"distancia para hacer más fácil la construcción del círculo. Los líderes de "
-"Mag-Magar, Tar-Tabar y Sud-Affar se encargarán de supervisar los trabajos "
-"junto con sus ayudantes."
+"El círculo tendría un diámetro de 50 <i>marahil</i>, suficiente para abarcar "
+"la mayor parte del desierto. Para facilitar la construcción, alzamos tres ciudades "
+"equidistantes, denominadas Mag-Magar, Tar-Tabar y Sud-Affar. En sus líderes recae "
+"la responsabilidad de supervisar las labores de sus subordinados."
 
 #. [part]
 msgid ""
@@ -2512,16 +2508,16 @@ msgid ""
 "because the outer (largest) part of the circle was finished. But there was "
 "an opportunity to test his new skills in battle."
 msgstr ""
-"La construcción del gran círculo continuó. Se conectó con el portal en Tar-"
-"Tabar, y tres meses después volvió a Mag-Magar. Se iniciaba una nueva etapa "
-"de la construcción: las ciudades de la trinidad habían de ser conectadas con "
-"Alcamiya. Además, nuevos círculos, más pequeños se habían de hacer. Miles de "
-"trabajadores de la capital fueron contratados para ayudar en la "
+"La construcción del Gran Círculo procedió. Se conectó el portal de Tar-Tabar "
+"bajo la dirección de Mejir y, tres meses después, el anillo externo se completó. "
+"Entonces empezó la siguiente etapa del proyecto: las ciudades de la Trinidad se "
+"enlazarían con Alcamiya. Además, para ganar estabilidad, nuevos círculos más "
+"pequeños tendrían que ser construidos en el interior de la estructura. Miles de "
+"trabajadores de la capital fueron contratados para acelerar el progreso de la "
 "construcción.\n"
-"Mejir, al igual que los otros líderes de la trinidad, era libre de hacer lo "
-"que deseara, puesto que ya se había terminado el círculo exterior, de mayor "
-"tamaño. Pero surgió la oportunidad de probar sus nuevas habilidades en "
-"batalla."
+"Mejir, al igual que los otros líderes de la Trinidad, quedó con plena libertad "
+"para hacer lo que quisiera, puesto que ya se había terminado el círculo exterior. "
+"No obstante, surgió una oportunidad para probar sus nuevas habilidades en batalla."
 
 #. [part]
 msgid ""
@@ -2529,9 +2525,9 @@ msgid ""
 "buildings, cities, millions of people — everything in the circle's diameter "
 "was absorbed by the abyssal energies."
 msgstr ""
-"El enorme territorio de Alcamiya ardió en llamas azules. Billones de dunas, "
-"paredes, ciudades, edificios, torres, millones de personas - todo fue "
-"absorbido por este resplandor irreal."
+"De pronto, el enorme territorio de Alcamiya ardió en llamas azules. Las dunas, "
+"paredes, ciudades y millones de personas —en definitiva, todo dentro del círculo—, "
+"fue absorbido por las energías avernales."
 
 #. [part]
 msgid ""
@@ -2544,15 +2540,17 @@ msgid ""
 "leaders of the Trinity and the chairmen of the Highest Council together drew "
 "the final segment, and once it touched the other world..."
 msgstr ""
-"La mañana siguiente, el gran círculo - el proyecto más grande nunca "
-"realizado - fue terminado. El sueño acerca del Averno casi se hizo realidad, "
-"como nunca antes. Solo faltaba activar el círculo para que los invocadores "
+"La mañana siguiente, el Gran Círculo —el mayor proyecto de los invocadores—, "
+"fue finalmente completado. El sueño de ingresar al Averno pronto se haría "
+"realidad y solo hacía falta el hechizo para que la posibilidad de dejar el "
+"mundo mortal se hiciera realidad.\n"
+"En el como nunca antes. Solo faltaba activar el círculo para que los invocadores "
 "abandonaran este mundo mortal para entrar en una tierra mágica de infinitas "
 "posibilidades.\n"
-"En el palacio central de Alcamiya comenzó una gran celebración, durante la "
-"cual iba a ser conectado el círculo al portal abierto. Los líderes de la "
-"trinidad y los dirigentes del alto consejo pintaron juntos el último "
-"segmento y cuando este tocó el otro mundo..."
+"Las multitudes se amontonaron en el Palacio Central de Alcamiya, a la espera del "
+"momento destinado, en el que el círculo se conectaría con el portal abierto. Los "
+"líderes de la Trinidad y los altos consejeros trazaron conjuntamente el segmento "
+"final, y cuando este tocó el otro mundo..."
 
 #. [part]
 msgid ""
@@ -2560,9 +2558,9 @@ msgid ""
 "destination, Mehir was puzzled about the lack of land nearby. The captain "
 "calmly responded by asking Mehir to look up, at the sky."
 msgstr ""
-"El viaje duró dos días. Cuando alcanzaron su destino, Mejir pensó que era "
-"una broma puesto que no había tierra a la vista. Entonces el capitán le "
-"pidió que mirara hacia el cielo."
+"Luego de dos días de viaje, supuestamente suficientes para alcanzar su destino, "
+"Mejir quedó perplejo por la ausencia de tierra a la vista. Entonces, el capitán "
+"le pidió que mirara arriba, en el cielo."
 
 #. [part]
 msgid ""
@@ -2578,19 +2576,17 @@ msgid ""
 "finish the Circle in its original formula and move to the Abyss. If it isn't "
 "completed in time, all the effort devoted to the project would go to waste."
 msgstr ""
-"Los mensajeros enviados por Mejir alcanzaron Alcamiya en doce días, donde "
+"Los mensajeros enviados por Mejir tardaron doce días en alcanzar Alcamiya, donde "
 "entregaron el sensacional mensaje de que Rashti había conseguido su verdadera "
-"forma. El alto consejo descubrió que la muerte de Rashti, la resurrección de "
-"sus egos, y su integración en una forma femenina de Nomola había destruido "
-"por completo el equilibrio entre los mundos. El gran círculo se estaba "
-"quedando obsoleto, derivando desde su localización mística en el Averno. De "
-"todas formas, experimentos llevados a cabo por los invocadores en días "
-"anteriores mostraban que las fluctuaciones de tiempo en el espacio del "
-"multiverso conllevaban un retraso de veinticinco días entre los eventos y "
-"sus consecuencias visibles. El mensajero había viajado durante doce días, lo "
-"cual quiere decir que los invocadores tenían trece días para terminar el "
-"círculo en su actual forma y trasladarse al Averno. Si no se completara a "
-"tiempo, todo el trabajo sería un desperdicio."
+"forma. Pero lo que Mejir no esperaba es que el gran acontecimiento había destruido "
+"por completo el balance entre los dos mundos. Debido al cambio radical en una de las "
+"variables, el Gran Círculo pronto estaría obsoleto. Sin embargo, los experimentos "
+"llevados a cabo por los invocadores en días anteriores mostraban que las fluctuaciones "
+"de tiempo entre los mundos implicaban un retraso de veinticinco días entre los eventos y "
+"sus consecuencias visibles. Dado que el mensajero había viajado ya por doce días, "
+"los invocadores tendrían tan solo trece días para completar el círculo con su formulación "
+"original y trasladarse al Averno. De no completarse a tiempo, todo el esfuerzo dedicado "
+"al proyecto se desperdiciaría."
 
 #. [part]
 msgid ""
@@ -2599,9 +2595,9 @@ msgid ""
 "Tar-Tabar, the foreigner was taken to a hospital. Everybody wanted to know "
 "who he was and what he wanted."
 msgstr ""
-"El extranjero misterioso se encontraba en un estado crítico. No era un "
-"ciudadano del país de los invocadores. Lo evidenciaba su aspecto exótico. En "
-"Tab-Tabar se trasladó al recién llegado a un hospital. Todo el mundo quería "
+"El misterioso peregrino se encontraba en un estado crítico. Claramente, no era un "
+"ciudadano de la nación de invocadores, pero tampoco se parecía al intruso volador. "
+"En Tar-Tabar, el extranjero fue trasladado a un hospital. Todo el mundo quería "
 "saber de quién se trataba y que es lo que quería."
 
 #. [part]
@@ -2618,17 +2614,17 @@ msgid ""
 "after Nomolas paled in comparison to him, but their power is still not to be "
 "underestimated, and is fully sufficient for our needs."
 msgstr ""
-"No hubo ningún deseo que Nomolas no pudiera satisfacer. Para medir su "
-"potencial, los antiguos le pidieron que creara la más hermosa ciudad que "
-"nunca existiera, y que la situara en medio del desierto. Esta pasó a ser su "
-"nuevo hogar, la capital de su país. En breves instantes, Nomolas creó "
-"Alcamiya del aire.\n"
+"En teoría, no había deseo alguno que Nomolas no pudiera satisfacer. Para medir su "
+"potencial, los antiguos le pidieron que creara la más hermosa ciudad del mundo,"
+"y que la situara en medio del desierto, para convertirse en su nuevo hogar y la "
+"capital de su país. En breves instantes, las torres de Alcamiya surgieron desde "
+"las arenas.\n"
 "\n"
-"Desde entonces, han pasado varios siglos. Nomolas duerme en el palacio "
-"central, esperando a ser requerido. Intentamos hacer uso de su poder solo si "
-"es necesario. Las demás entidades mágicas invocadas después de Nomolas no "
-"fueron tan poderosas como él, aunque su impresionante poder es más que "
-"suficiente para nuestras necesidades."
+"Desde entonces, han pasado varios siglos. Nomolas duerme en el Palacio "
+"Central, sin interferir con nuestras vidas. Solo lo despertamos cuando "
+"no tenemos otra elección. Aunque el poder de las entidades mágicas invocadas "
+"después de Nomalas palideciera comparado con el suyo, tampoco podía ser "
+"subestimado y era absolutamente suficiente para atender nuestras necesidades."
 
 #. [part]
 msgid ""
@@ -2639,10 +2635,10 @@ msgid ""
 "and if necessary, rescue - the leader and his troops."
 msgstr ""
 "Allí, el Alto Consejo se había reunido para una reunión secreta. Llegó a "
-"los oídos de Mejir que Tashkar, la cabeza de Tar-Tabar, desapareció, después "
-"de haber salido a Ka-Gatta con algunas de sus tropas. La razón detrás de la "
-"expedición quedó en secreto, pero, para su sorpresa, Mehir fue elegido para "
-"encontrar, y si fue necesario, rescatar: el líder y sus tropas."
+"los oídos de Mejir que Tashkar, la cabeza de Tar-Tabar, había desaparecido luego "
+"de partir, acompañado de algunos de sus soldados, a Ka-Gatta con fines confidenciales. "
+"Mejir, para su sorpresa, fue elegido para encontrar y, de ser necesario, rescatar al"
+"líder y a sus tropas."
 
 #. [part]
 msgid ""
@@ -2656,16 +2652,15 @@ msgid ""
 "true, and that the inhabitants of the desert would return to protect the "
 "Ancestral Lands."
 msgstr ""
-"Estas palabras intrigaron a Mejir, que vio similitudes entre lo que decía "
-"Atiros y el asedio de Mag-Magar. Sin embargo, el relato del recién llegado "
-"no había terminado. Cuando fue seguro que la tierra media había caído, Anthi "
-"llegó a la conclusión de que el ejército kharosano no iba a poder derrotar a "
-"un enemigo tan poderoso. Pero encontró la esperanza en una de las "
-"antiguas... leyendas, la cual contaba la historia de como unos antiguos "
-"hermanos abandonaron su tierra natal para dirigirse al desierto. Anthi no "
-"tenía elección y decidió dar crédito a esa historia, esperando que fuera "
-"cierta y que los habitantes del desierto quisieran retornar a sus "
-"ancestrales tierras natales para protegerlas."
+"Estas palabras intrigaron a Mejir, quien notó muchas similitudes entre "
+"las descripciones de Atiros y lo que él mismo vio en el asedio de Mag-Magar. "
+"Sin embargo, el relato del extranjero no había terminado. Para cuando la caída "
+"de las tierras meridionales estaba segura, Anthi llegó a la conclusión de que "
+"el ejército carosano no podría derrotar a un enemigo tan poderoso, así que lo "
+"apostó todo a una leyenda, la cual contaba la historia de unos antiguos hermanos "
+"que abandonaron su tierra y partieron al desierto. No tenía más opción que desear "
+"que fuera cierta y que los habitantes del desierto volverían para proteger "
+"sus tierras ancestrales."
 
 #. [part]
 msgid ""
@@ -2686,21 +2681,20 @@ msgid ""
 "do him good, and amuse his protegee as well."
 msgstr ""
 "Todo esto puso a los invocadores en una situación bastante incómoda. En los "
-"próximos meses, el gran círculo estaría listo y luego todo su país "
+"próximos meses, el Gran Círculo estaría listo y luego todo su país "
 "desaparecería de este mundo. En esta etapa, interferir en guerras "
-"extranjeras era impensable, sin embargo, los ancianos sintieron que indicaba "
-"mostrar algún interés preocupado en la situación de los parientes. Por lo "
-"tanto, Mehir debía actuar como enviado: entregaría una carta del Consejo al "
-"pueblo de Caros, una invitación para moverse junto con los invocadores al "
-"Averno. Un gesto tan agradable parecía adecuado, si no la única posibilidad "
-"de supervivencia para las personas en el viejo país nativo. El Alto Consejo "
-"ordenó que se construyeran tres barcos específicamente para la partida de "
-"Mehir, similar en diseño al que Atiros navegó. El propio Mehir estaba "
-"bastante bien con la idea de representar oficialmente a la nación. Y por "
-"mucho que le gustara el lujoso estilo de vida de su palacio, la perpetua "
-"persecución de Rashti y su propia preocupación de maldecir todo el asunto. "
-"Un breve viaje a tierras agradablemente frías le haría bien y también "
-"divertiría a su protegido."
+"extranjeras era impensable; sin embargo, los ancianos sintieron que mostrar "
+"interés y preocupación por la situación de sus parientes sería lo indicado. "
+"Así que Mejir haría de emisario y entregaría una carta del consejo a la gente "
+"de Caros —una invitación para mudarse al Averno junto con los invocadores. "
+"Tal gesto parecía adecuado, si no la única oportunidad de supervivencia para "
+"la gente de las tierras ancestrales. El Alto Consejo ordenó que se construyeran "
+"tres barcos específicamente para el viaje de Mejir, con un diseño similar a "
+"aquel en que Atiros había navegado. Mejir estaba bastante conforme con la "
+"idea de representar oficialmente a la nación. Aunque disfrutaba tanto la vida "
+"lujosa en su palacio, los acosos de Rashti y sus preocupaciones de volverse "
+"un burócrata gordo y perezoso lo arruinaban todo. Un breve viaje a tierras "
+"más frías le harían bien y serían una buena distracción para su protegida."
 
 #. [part]
 msgid ""
@@ -2709,14 +2703,14 @@ msgid ""
 "required flight to reach. The ship was really to give the carpets a place to "
 "take off from."
 msgstr ""
-"Dos días después, Mehir fue esperado por un barco tripulado. Anthi explicó "
-"que el país de las personas que mencionó estaba en el medio del océano, y "
-"requirió un vuelo para alcanzar. El barco realmente debía darle a las "
-"alfombras un lugar para despegar."
+"Dos días después, Mejir se encontró frente a un barco tripulado. Anthi le explicó "
+"que el país de las personas que mencionó estaba en el medio del océano, y que "
+"sería necesario volar para alcanzarlo. El barco solo serviría como plataforma de "
+"donde pudieran despegar sus alfombras."
 
 #. [part]
 msgid "We are Summoners, the only nation living in the Great Desert."
-msgstr "Somos invocadores, la única gente que vive en el Gran desierto."
+msgstr "Somos invocadores, la única nación que habita el Gran Desierto."
 
 #. [part]
 msgid ""
@@ -2729,15 +2723,14 @@ msgid ""
 "untouched, so I sent a messenger to al-Kamija for help. Not too long after, "
 "you and Rashti arrived.”"
 msgstr ""
-"Cuando se asentó el polvo, Malib les contó como comenzó todo - «El ejército "
-"aterrador llegó justo después del crepúsculo, desde el nordeste. Se veían "
-"cientos de luces rojas que eran en realidad sus ojos. Nunca se detenían. Las "
-"paredes se derrumbaban a su paso. Al cabo de pocos minutos, toda la ciudad "
-"no era otra cosa más que ardientes escombros. El poder de los brujos "
-"disminuyó con el paso del tiempo, pero la ciudad ya se encontraba bajo un "
-"intenso ataque por entonces. Afortunadamente no llegaron a dañar el portal, "
-"entonces envié un mensajero a Alcamiya en busca de ayuda. Minutos después "
-"aparecisteis vos»."
+"Cuando se asentó el polvo, Malib les contó como comenzó todo: «el ejército "
+"de la oscuridad llegó justo después del ocaso, desde el nordeste. En la "
+"oscuridad, vi cientos de ojos con un fulgor de color rojo sangre. Las "
+"murallas literalmente se derrumbaban a su paso. Poco después, la ciudad fue "
+"reducida a escombros en llamas. El ímpetu destructor eventualmente se redujo, "
+"pero para entonces la ciudad ya había sido vulnerada. "Afortunadamente, el "
+"portal permanecía intacto, así que envié un mensajero a Alcamiya en busca "
+"de ayuda. No pasó mucho tiempo y llegaron tú y Rashti.»."
 
 #. [part]
 msgid ""
@@ -2748,13 +2741,13 @@ msgid ""
 "of spellcasting. Realistically speaking, he was just blissfully unaware that "
 "the summoners were the oddballs in this regard."
 msgstr ""
-"Si bien los kharosianos eran usuarios hábiles de magia, era muy diferente "
-"del tipo utilizado por los invocadores. Por un lado, fue controlado por la "
-"mente del lanzador, que no requirió símbolos mágicos. Mehir notó que las "
-"Darkblooded, las hordas oscuras y el misterioso mago volador, Aerius, "
-"también estaban usando esta extraña técnica de lanzamiento de hechizos. "
-"Siendo de manera realista, él no sabía felizmente que los invocadores eran "
-"las bolas extrañas a este respecto."
+"Si bien los carosanos eran usuarios hábiles de magia, era muy diferente "
+"del tipo utilizado por los invocadores. Por un lado, era controlada por la "
+"mente del lanzador, y además no requería símbolos mágicos. Mejir cayó en "
+"cuenta de que tanto los sangreoscuras, como las hordas oscuras y el misterioso "
+"mmago volador, Aerius, utilizaban también esa extraña técnica de lanzamiento "
+"de hechizos. Realistamente, sin embargo, solo era ignorante de que los invocadores "
+"eran la excepción en este aspecto."
 
 #. [part]
 msgid ""
@@ -2764,15 +2757,15 @@ msgid ""
 "Before we proceed to the action, let's start with the humble beginnings, a "
 "usual day of his life..."
 msgstr ""
-"Sea testigo de la historia de Mejir, un joven guardia de la ciudad de Al-"
-"Kamija, que desempeñará un papel muy importante en el período de tiempo que "
-"los estudiosos llaman “Era de la Magia”. Pero antes de que suceda, tendrá que "
-"ascender la jerarquía de los invocadores. Antes de proceder a la acción, "
-"comencemos con los humildes comienzos, un día habitual de su vida ..."
+"Atestigüe la historia de Mejir, un joven guardia de Alcamiya, quien desempeñaría "
+"un rol muy importante en el perído que los escolares llaman “Era de la Magia”. "
+"Pero, antes de ello, tendrá que ascender en la jerarquía de los invocadores. "
+"Antes de llegar a la acción, revisemos sus humildes comienzos, en un día como "
+"cualquier otro de su vida..."
 
 #. [print]
 msgid "Please wait..."
-msgstr "Espere por favor..."
+msgstr "Espere, por favor..."
 
 #. [regenerate]: id=eoma_healing
 msgid ""
@@ -2785,12 +2778,13 @@ msgid ""
 "points of damage."
 msgstr ""
 "Esta unidad esta equipada con el tipo más poderoso de círculo mágico. El "
-"dueño puede reclutar y reincorporar unidades sin estar en una torre (no "
-"funciona en el bosque). Todas las unidades amigas adyacentes luchan mejor "
+"dueño puede reclutar y reincorporar unidades sin estar en un torreón (no "
+"funciona en bosques). Todas las unidades amigas adyacentes luchan mejor "
 "(+125%, +100%, +75%, +50%, +25% — para niveles 0, 1, 2, 3, 4 "
-"respectivamente), se sanan 8 PV, y reciben una bonificación del +20% para "
-"las resistencias al fuego, frío, y arcano. Al principio de cada turno, todos "
-"los enemigos adyacentes son ralentizados y reciben 8 puntos de daño."
+"respectivamente), se sanan 8 PV, y reciben una bonificación de +20% para "
+"sus resistencias contra el fuego, el frío y lo arcano. Al inicio de cada "
+"turno, todos los enemigos adyacentes son ralentizados y reciben 8 puntos "
+"de daño."
 
 #. [regenerate]: id=eoma_healing
 msgid "ultimate circle"
@@ -2798,19 +2792,19 @@ msgstr "círculo definitivo"
 
 #. [scenario]: id=00_Prologue
 msgid "Morning in al-Kamija"
-msgstr "Alcamiya"
+msgstr "Mañana en Alcamiya"
 
 #. [scenario]: id=01_Highest_Tiers
 msgid "Highest Tiers"
-msgstr "Niveles más altos"
+msgstr "Niveles superiores"
 
 #. [scenario]: id=02_Central_Palace
 msgid "Central Palace"
-msgstr "Entre en el palacio central"
+msgstr "Palacio Central"
 
 #. [scenario]: id=03_Near_the_Jungle
 msgid "Near the Jungle"
-msgstr "Busque en las ruinas"
+msgstr "Cerca de la jungla"
 
 #. [scenario]: id=04_Southern_Nations
 msgid "Southern Nations"
@@ -2818,7 +2812,7 @@ msgstr "Naciones del sur"
 
 #. [scenario]: id=05_Jungle_of_Life
 msgid "Jungle of Life"
-msgstr "Jungla"
+msgstr "Jungla de la vida"
 
 #. [scenario]: id=06_Fire_Canyon
 msgid "Fire Canyon"
@@ -2826,7 +2820,7 @@ msgstr "Cañón de fuego"
 
 #. [scenario]: id=07_Dome_of_Elements
 msgid "Dome of Elements"
-msgstr "Domo de los Elementos"
+msgstr "Domo de los elementos"
 
 #. [scenario]: id=08_Ka-gatta
 msgid ""
@@ -2851,25 +2845,24 @@ msgid ""
 "Here lies Ibrahim, the founder of the school of banishment, and the first "
 "Master of Banishers. May he rest in peace."
 msgstr ""
-"Aquí se encuentra Ibrahim, el fundador de la Escuela del Destierro, y el "
-"primer maestro de los desterradores. Puede él descansar en paz."
+"Aquí yace Ibrahim, fundador de la Escuela del Destierro, y el primer "
+"Maestro de los Desterradores. Que en paz descanse."
 
 #. [scenario]: id=08_Ka-gatta
 msgid ""
 "Here lies Khayyat, an unmatched enchanter, and inventor of the megacircle. "
 "Alas, he met an untimely end. May he rest in peace."
 msgstr ""
-"Aquí se encuentra Khayyat, un encantador inigualable e inventor del "
-"megacírculo. Por desgracia, se encontró con un final prematuro. Puede él "
-"descansar en paz."
+"Aquí yace Khayyat, encantador inigualable e inventor del megacírculo, quien, "
+"¡ay!, encontró un final prematuro. Que en paz descanse."
 
 #. [scenario]: id=08_Ka-gatta
 msgid ""
 "Here lies Samir, summoner of the mighty Rashti'rhami, and her first master. "
 "May he rest in peace."
 msgstr ""
-"Aquí se encuentra Samir, invocador de la poderosa Rashti’Rami y su primer "
-"maestro. Puede él descansar en paz."
+"Aquí yace Samir, invocador de la poderosa Rashti’Rami y su primer maestro. "
+"Que en paz descanse."
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Ka-gatta"
@@ -2881,15 +2874,15 @@ msgstr "¡Solo un Invocador novato, Disipador o Desterrador pueden usar este obj
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a Rhami or Rhami’kai can use this item!"
-msgstr "¡Solo un Rhami o un Rhami'kai pueden usar este objeto!"
+msgstr "¡Solo una Rami o Rami’kai puede usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a camel rider (or his advancements) can use this item!"
-msgstr "¡Solo un Jinete de camello (o sus avances) pueden usar este objeto!"
+msgstr "¡Solo un jinete de camello (o sus avances) pueden usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a human can use this item!"
-msgstr "¡Solo los humanos pueden llevar este objeto!"
+msgstr "¡Solo los humanos pueden usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a magical entity can use this item!"
@@ -2901,7 +2894,7 @@ msgstr "¡Solo un invocador puede usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only humans can use this item!"
-msgstr "¡Solo los humanos pueden llevar este objeto!"
+msgstr "¡Solo los humanos pueden usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only the carpet rider can use this item!"
@@ -2981,7 +2974,7 @@ msgstr "Tar-Tabar"
 
 #. [scenario]: id=15_Abyssal_Rebellion
 msgid "Abyssal Rebellion"
-msgstr "Rebelión de avernal"
+msgstr "Rebelión del Averno"
 
 #. [scenario]: id=16_Defense_of_Saffaros
 msgid "Defense of Saffaros"
@@ -2997,12 +2990,12 @@ msgstr "La Ciudad de la Luz"
 
 #. [scenario]: id=19_Sky_Kingdom
 msgid "Sky Kingdom"
-msgstr "Reino del cielo"
+msgstr "Reino del Cielo"
 
 #. [scenario]: id=20_Enlightenment
 #. [event]
 msgid "Augurius"
-msgstr "Aerius"
+msgstr "Augurius"
 
 #. [scenario]: id=20_Enlightenment
 msgid "Enlightenment"
@@ -3019,11 +3012,11 @@ msgstr "Umbrez"
 
 #. [scenario]: id=21_Skydock
 msgid "Skydock"
-msgstr "Saltador"
+msgstr "Aeropuerto"
 
 #. [scenario]: id=22_North_Pole
 msgid "North Pole"
-msgstr "Polo Norte"
+msgstr "Polo norte"
 
 #. [scenario]: id=23_Ruins
 msgid "Ruins"
@@ -3035,20 +3028,20 @@ msgstr "Epílogo"
 
 #. [scenario]: id=TLU_cutscene
 msgid "Transition"
-msgstr "Traducciones"
+msgstr "Transición"
 
 #. [set_menu_item]: id=badass_mode_toggle
 #. [set_menu_item]: id=badass_mode_toggle_last
 msgid "Toggle Badass Mode"
-msgstr "Activar Modo rudo"
+msgstr "Activar modo genial/duro"
 
 #. [set_menu_item]: id=control_rain
 msgid "Toggle Rain Visual Effects"
-msgstr "Conmutar los efectos visuales de lluvia"
+msgstr "Conmutar efectos visuales de lluvia"
 
 #. [set_menu_item]: id=control_rain_sound
 msgid "Toggle Rain Sound Effects"
-msgstr "Conmutar los efectos sonoros de lluvia"
+msgstr "Conmutar efectos sonoros de lluvia"
 
 #. [side]
 msgid "."
@@ -3060,7 +3053,7 @@ msgstr "?"
 
 #. [side]
 msgid "team_name^Abyss"
-msgstr "Aerius"
+msgstr "Averno"
 
 #. [side]
 msgid "team_name^Cave Creatures"
@@ -3068,7 +3061,7 @@ msgstr "Residentes de las cuevas"
 
 #. [side]
 msgid "team_name^DharmaRashti"
-msgstr "DharmaRashti"
+msgstr "Dharma’Rashti"
 
 #. [side]
 msgid "team_name^Enemy"
@@ -3088,7 +3081,7 @@ msgstr "Alto Consejo"
 
 #. [side]
 msgid "team_name^HoRashti"
-msgstr "HoRashti"
+msgstr "Jo’Rashti"
 
 #. [side]
 msgid "team_name^Hydras"
@@ -3122,7 +3115,7 @@ msgstr "cinemática"
 #. [side]: id=ferryman, id=gate_guardian, id=merchant, id=waterelemental, id=elder
 #. [command]: id=ferryman
 msgid "Carpet Ferryman"
-msgstr "Ferryman de alfombra"
+msgstr "Taxista de alfombra"
 
 #. [side]: id=ferryman, id=gate_guardian, id=merchant, id=waterelemental, id=elder
 msgid "Gate Guardian Theivya"
@@ -3168,7 +3161,7 @@ msgstr "Bárbaros"
 
 #. [side]: type=EoMa_Chosen_of_Forest, id=Keeper, id=Rhaxiz
 msgid "The Keeper"
-msgstr "El gran desierto"
+msgstr "El Guardián"
 
 #. [side]: type=EoMa_Chosen_of_Forest, id=Keeper, id=Rhaxiz
 msgid "team_name^Darkblooded"
@@ -3339,11 +3332,11 @@ msgid "Thick Jungle"
 msgstr "Jungla espesa"
 
 msgid "Things to keep in mind before playing the campaign:"
-msgstr "Cosas a tener en cuenta antes de jugar la campaña:"
+msgstr "A tener en cuenta antes de jugar la campaña:"
 
 #. [terrain_type]: id=litz
 msgid "Illuminated Hex"
-msgstr "Hexadecimal"
+msgstr "Hexágono iluminado"
 
 #. [terrain_type]: id=litz
 msgid "Lit"
@@ -3351,31 +3344,31 @@ msgstr "Iluminado"
 
 #. [terrain_type]: id=overlay_placeholder
 msgid "Art Placeholder"
-msgstr "Marcador de arte"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=overlay_placeholder2
 msgid "Art Placeholder2"
-msgstr "Marcador de arte"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=overlay_placeholder3
 msgid "Art Placeholder3"
-msgstr "Marcador de arte"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=overlay_placeholder4
 msgid "Art Placeholder4"
-msgstr "Marcador de arte"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=overlay_placeholder5
 msgid "Art Placeholder5"
-msgstr "Marcador de arte"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=overlay_placeholder6
 msgid "Art Placeholder6"
-msgstr "Marcador de arte"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=overlay_placeholder7
 msgid "Art Placeholder7"
-msgstr "Marcador de posición de arte7"
+msgstr "Reservado para arte"
 
 #. [terrain_type]: id=sand_rubble_inv
 msgid "Rubble"
@@ -3395,7 +3388,7 @@ msgstr "Eduardo"
 
 #. [then]
 msgid "I couldn't hold my promise to my men..."
-msgstr "No pude cumplir mi promesa a mis hombres..."
+msgstr "No pude cumplir la promesa que le hice a mis hombres..."
 
 #. [then]: id=enchanter, id=wjinn
 msgid "Ahmed"
@@ -3421,7 +3414,7 @@ msgstr "Amanecer"
 
 #. [time]: id=dusk_rain
 msgid "Dusk"
-msgstr "Crepúsculo"
+msgstr "Ocaso"
 
 #. [time]: id=first_watch_rain
 #. [time]: id=first_watch_magmagar
@@ -3434,7 +3427,7 @@ msgstr "Mañana"
 
 #. [time]: id=second_watch_rain
 msgid "Second Watch"
-msgstr "Segunda lluvia"
+msgstr "Segunda Vigilia"
 
 #. [time]: id=underground_kagatta
 msgid "Lit caverns"
@@ -3442,19 +3435,19 @@ msgstr "Cavernas iluminadas"
 
 #. [time]: id=underground_kagatta_dark
 msgid "Caverns"
-msgstr "Guiverno del caos"
+msgstr "Cavernas"
 
 #. [trait]: id=spearguardian
 msgid ""
 "This unit is blessed by the artifact it's guarding: the spear of the first "
 "Rhami'Kai."
 msgstr ""
-"Esta unidad está bendecida por el artefacto que está protegiendo: la lanza "
-"de la primera rami'kai."
+"Esta unidad está bendita por el artefacto que protege: la lanza de la primera "
+"rami’kai."
 
 #. [trait]: id=spearguardian
 msgid "spear guardian"
-msgstr "guardián de lanza"
+msgstr "guardiana de la lanza"
 
 #. [trait]: id=tlu_immortal
 msgid "This unit cannot be killed."
@@ -3471,7 +3464,7 @@ msgstr "inmortal"
 #. [unit_type]: id=TLU_animhack
 msgid "Dummy unit used for rendering cutscenes/background animations."
 msgstr ""
-"Unidad ficticia utilizada para representar escenas/animaciones de fondo."
+"Pseudo-unidad utilizada para representar las animaciones de fondos y cinemáticas."
 
 #. [unit_type]: id=TLU_Citizen1
 #. [unit_type]: id=TLU_Citizen2
@@ -3498,12 +3491,11 @@ msgid ""
 "is for the good half to fuse with her again, which will require subduing the "
 "evil half first..."
 msgstr ""
-"La temperamental e impredecible Darma'rashti. Tiene un rencor secreto contra "
-"los invocadores, que la mitad buena ha estado tratando activamente de "
-"suprimir. Ahora sin ninguna restricción, ella busca sangre... Ya que es "
-"imposible de destruir por medios convencionales, la única forma de tratar "
-"con ella es que la mitad buena se fusione nuevamente con ella, lo que "
-"requerirá someter a la mitad malvada primero. ."
+"La temperamental e impredecible Darma’Rashti. Tiene un rencor secreto contra "
+"los invocadores, el cual estaba siendo suprimido activamente por la mitad buena. "
+"Ahora sin restricciones, ella busca sangre... Ya que es indestructible por medios "
+"convencionales, la única forma de lidiar con ella es que su mitad buena se fusione "
+"nuevamente con ella, lo que requerirá someter a la mitad malvada primero..."
 
 #. [unit_type]: id=TLU_Elder, race=eoma_summoner
 msgid ""
@@ -3514,7 +3506,7 @@ msgstr ""
 "Los ancianos son eméritos de invocadores, siendo demasiado viejos para un "
 "servicio activo, guían y de hecho gobiernan la sociedad de invocador. Los "
 "ancianos más populares forman el Alto Consejo, el órgano de gobierno más "
-"importante en el gran desierto."
+"importante en el Gran Desierto."
 
 #. [unit_type]: id=TLU_Enchanter, race=eoma_summoner
 msgid "Enchanter"
@@ -4204,7 +4196,7 @@ msgid ""
 "assume that you would not do that again, would you?"
 msgstr ""
 "Rashti, ¿recuerdas lo que pasó cuando viniste aquí con tu maestro? Cuando "
-"estabas luchando, te pedí que leyeras la inscripción de ese gran círculo. "
+"estabas luchando, te pedí que leyeras la inscripción de ese Gran Círculo. "
 "Supongo que no lo harías de nuevo. ¿Verdad?"
 
 #. [message]: speaker=Aerius
@@ -4579,7 +4571,7 @@ msgid ""
 "Thank our legendary brothers from the Great Desert. This is Mehir, our "
 "rescuer!"
 msgstr ""
-"Gracias a nuestros legendarios hermanos del gran desierto. ¡Este es Mejir, "
+"Gracias a nuestros legendarios hermanos del Gran Desierto. ¡Este es Mejir, "
 "nuestro salvador!"
 
 #. [message]: speaker=Atiros
@@ -6184,7 +6176,7 @@ msgid ""
 "wouldn't help them. But the most ironic part is, they didn't even need help. "
 "Even yours..."
 msgstr ""
-"Y en segundo lugar, los kharosianos saben que tenemos un estado neutral. "
+"Y en segundo lugar, los carosanos saben que tenemos un estado neutral. "
 "Sabían que no los ayudaríamos. Pero la parte más irónica es que ni siquiera "
 "necesitaban ayuda. Incluso el tuyo ..."
 
@@ -9316,7 +9308,7 @@ msgid ""
 "A brawl near the Central Palace? Damn, maybe I should've bought the "
 "overpriced elemental... Well, too late to turn back, thanks for the warning."
 msgstr ""
-"¿Una pelea cerca del palacio central? Maldición, tal vez debiera haber "
+"¿Una pelea cerca del Palacio Central? Maldición, tal vez debiera haber "
 "comprado el elemental a pesar de su precio... Bueno, demasiado tarde "
 "para regresar. Gracias por la advertencia."
 
@@ -9325,7 +9317,7 @@ msgid ""
 "A brawl near the Central Palace? Good thing I bought a water elemental then. "
 "Thanks for the warning."
 msgstr ""
-"¿Una pelea cerca del palacio central? Menos mal que compré el elemental de "
+"¿Una pelea cerca del Palacio Central? Menos mal que compré el elemental de "
 "agua entonces. Gracias por la advertencia."
 
 #. [message]: speaker=Mehir
@@ -9701,7 +9693,7 @@ msgid ""
 msgstr ""
 "Otra pregunta más importante: dado que afirma que observa cosas desde aquí, "
 "entonces estoy seguro de que sabe que Kharos fue atacado por fuerzas "
-"desconocidas. Los kharosianos saben sobre tu reino, incluso comercian "
+"desconocidas. Los carosanos saben sobre tu reino, incluso comercian "
 "contigo, pero no los ayudaste. ¿Por qué?"
 
 #. [message]: speaker=Mehir
@@ -10150,7 +10142,7 @@ msgid ""
 "Err, I mean run to the camp, people! We must protect the Great Circle at all "
 "costs!"
 msgstr ""
-"No os preocupéis por mí. ¡Vos debéis proteger el gran círculo a toda costa!"
+"No os preocupéis por mí. ¡Vos debéis proteger el Gran Círculo a toda costa!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11018,7 +11010,7 @@ msgid ""
 "now the Great Desert?"
 msgstr ""
 "Me pregunto, ¿vivió esta primera civilización en el área que ahora es el "
-"gran desierto?"
+"Gran Desierto?"
 
 #. [message]: speaker=Mehir
 msgid "I'd rather not talk about it..."
@@ -11153,7 +11145,7 @@ msgid ""
 "Great Circle?"
 msgstr ""
 "Efectivamente... Por cierto, Yafar, ¿no se suponía que estabas en Sud-Affar, "
-"protegiendo el gran círculo?"
+"protegiendo el Gran Círculo?"
 
 #. [message]: speaker=Mehir
 msgid "Interesting. I wonder, do you know what happened to our ancestors?"
@@ -11399,7 +11391,7 @@ msgid ""
 "men that they'll never get to see their families ever again?"
 msgstr ""
 "Mi ciudad... Yafar... Todos y sus camellos... ¡Quedaremos sin hogar! "
-"Solos en el gran desierto... Este es el final... ¿Cómo se supone que debo "
+"Solos en el Gran Desierto... Este es el final... ¿Cómo se supone que debo "
 "decirles a mis hombres que nunca volverán a ver a sus familias?"
 
 #. [message]: speaker=Mehir
@@ -11721,7 +11713,7 @@ msgid ""
 msgstr ""
 "Ups, lo siento. Lo que intentaba... esto... Venimos del desierto, para ser "
 "exactos venimos de la ciudad cuya torre más alta puede verse en la "
-"distancia. Estamos construyendo un gran círculo alrededor de la ciudad..."
+"distancia. Estamos construyendo un Gran Círculo alrededor de la ciudad..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11732,7 +11724,7 @@ msgid ""
 "mushrooms, algae, some kinds of moss, lichen... delicacies when there isn't "
 "much else to eat."
 msgstr ""
-"Nuestros ancestros ​​de Ka-Gatta vivían en cuevas debajo del gran desierto. "
+"Nuestros ancestros ​​de Ka-Gatta vivían en cuevas debajo del Gran Desierto. "
 "Confiaron en granjas subterráneas donde crecieron diferentes tipos de flora "
 "subterránea. Todo esto estaba regado con canales vinculados al gran embalse "
 "ubicado en lo profundo de todo el lugar, pero la falta de luz redujo su "
@@ -12132,7 +12124,7 @@ msgid ""
 "guarding the Great Circle?"
 msgstr ""
 "Entonces, para cambiar el tema... Yafar, ¿no se suponía que debías estar "
-"en Sud-Affar, protegiendo el gran círculo?"
+"en Sud-Affar, protegiendo el Gran Círculo?"
 
 #. [message]: speaker=Mehir
 msgid "Soldiers, hurry up! We must stop this madness!"
@@ -12467,7 +12459,7 @@ msgid ""
 "years discovering the formula. Inventing a new one would take centuries..."
 msgstr ""
 "La transformación de Rasti distorsiona el espacio multidimensional entre los "
-"mundos, por lo que el gran círculo ha de ser activado en el plazo de dos "
+"mundos, por lo que el Gran Círculo ha de ser activado en el plazo de dos "
 "semanas: antes de que el diseño actual quede obsoleto. Nuestros científicos "
 "han tardado cientos de años en dar con esta configuración. Inventar una "
 "nueva podría llevar varios siglos más..."
@@ -12790,7 +12782,7 @@ msgid ""
 "people who invaded the central palace?!"
 msgstr ""
 "Espera, ¿estoy sillada o estoy viendo a Rashti’Rami que lucha contra las "
-"mismas personas que invadieron el palacio central?"
+"mismas personas que invadieron el Palacio Central?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -12952,7 +12944,7 @@ msgid ""
 msgstr ""
 "Usamos elementales de agua para cultivar cultivos y animales traseros. "
 "Incluso tenemos un lago artificial, alimentado por un enorme círculo mágico "
-"en una de las paredes del palacio central, creando una enorme cascada."
+"en una de las paredes del Palacio Central, creando una enorme cascada."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -13443,7 +13435,7 @@ msgid ""
 msgstr ""
 "Sí, * ejem * Muy bien, entonces, permítame presentarme, soy Mehir, "
 "anteriormente el líder de Tar-Tabar. Somos invocadores, una nación "
-"proveniente del gran desierto, con Alcamiya como capital. Aunque estamos "
+"proveniente del Gran Desierto, con Alcamiya como capital. Aunque estamos "
 "claramente muy lejos de su civilización tecnológicamente, tenemos seres "
 "avernales como sirvientes, que pueden cumplir con todos y cualquiera de "
 "nuestros deseos."
@@ -13501,7 +13493,7 @@ msgid ""
 msgstr ""
 "No puedes culparlos. Estaban a salvo de los peligros del mundo exterior, "
 "viviendo una vida utópica aislacionista junto con sus sirvientes avernales "
-"en medio del gran desierto durante siglos."
+"en medio del Gran Desierto durante siglos."
 
 #. [message]: speaker=Mehir
 msgid "You defend the town and I will try to prepare a counterattack."
@@ -13985,7 +13977,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 msgid "Chaos Wyvern Rider"
-msgstr "Guiverno del caos"
+msgstr "Jinete de guiverno del caos"
 
 #. [message]: speaker=narrator
 msgid "Choose gameplay mode"
@@ -15035,7 +15027,7 @@ msgid ""
 "years ago but we didn't go very far. There were no flying carpets at that "
 "time. And Jinn, well, they had their own affairs."
 msgstr ""
-"Expliqué las fronteras del gran desierto con mi tercer maestro hace más de "
+"Expliqué las fronteras del Gran Desierto con mi tercer maestro hace más de "
 "250 años, pero no fuimos muy lejos. No había alfombras voladoras en ese "
 "momento. Y los genios, bueno, tenían sus propios asuntos."
 
@@ -17148,7 +17140,7 @@ msgid ""
 "I see it now. He will be a jinni. Perhaps think we should name him Edward, "
 "what do you think?"
 msgstr ""
-"Ya lo veo. Será un Jinni. Quizás piense que deberíamos nombrarlo Edward, "
+"Ya lo veo. Será un Jinni. Quizás piense que deberíamos nombrarlo Eduardo, "
 "¿qué piensas?"
 
 #. [message]: speaker=wjinn
