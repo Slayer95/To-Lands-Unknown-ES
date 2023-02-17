@@ -5098,7 +5098,7 @@ msgstr ""
 
 #. [message]: speaker=Dedylos
 msgid "Do you mean that as an insult?"
-msgstr "¿Oís eso?"
+msgstr "¿Lo dices como un insulto?"
 
 #. [message]: speaker=Dedylos
 msgid "Does it mean..."
@@ -13973,7 +13973,7 @@ msgstr "Elija el modo de juego"
 
 #. [message]: speaker=narrator
 msgid "Do you like it, baby?"
-msgstr "¿Oís eso?"
+msgstr "¿Te gusta, guapa?"
 
 #. [message]: speaker=narrator
 msgid "Do you want to spend 6g to instantly level up the Dimensional Gate?"
