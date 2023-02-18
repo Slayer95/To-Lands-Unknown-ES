@@ -15191,7 +15191,7 @@ msgstr "¡MI MAESTRO ESTÁ MUERTO! ¡VOY A SACARTE LOS OJOS!"
 
 #. [message]: speaker=Rashti
 msgid "Mehir, I <b>must</b> reach that lunatic and kill him!"
-msgstr "Mehir, debo </b> llegar a ese lunático y matarlo!"
+msgstr "Mehir, <b>debo</b> llegar a ese lunático y matarlo!"
 
 #. [message]: speaker=Rashti
 msgid "Mehir, I must climb to where he stands, and RIP HIM TO SHREDS!!!"
