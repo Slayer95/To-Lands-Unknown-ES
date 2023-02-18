@@ -4161,7 +4161,7 @@ msgstr ""
 
 #. [message]: speaker=Aerius
 msgid "No! Don't do this! That was supposed to be part of <b>my</b> plan!"
-msgstr "¡No! ¡No lo hagáis! <i>¡Se suponía que eso era parte de <b>mi</b> plan!</i>"
+msgstr "¡No! ¡No lo hagáis! <i>¡Se suponía que eso fuera parte de <b>mi</b> plan!</i>"
 
 #. [message]: speaker=Aerius
 msgid ""
