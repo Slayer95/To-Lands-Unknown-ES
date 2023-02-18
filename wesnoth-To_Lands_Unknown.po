@@ -11201,7 +11201,7 @@ msgstr "Los perdería, pero podría valer la pena."
 
 #. [message]: speaker=Mehir
 msgid "It's an ambush! Everyone, draw your weapons!"
-msgstr "¡Es una emboscada! ¡Todos, dibujan tus armas!"
+msgstr "¡Es una emboscada! ¡A las armas!"
 
 #. [message]: speaker=Mehir
 msgid ""
