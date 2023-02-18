@@ -4866,7 +4866,7 @@ msgstr ""
 #: Era_of_Magic\units\Summoners\Wonderful_Jinni.cfg:85
 #: Era_of_Magic\units\Summoners\Wonderful_Jinni.cfg:98
 msgid "magic"
-msgstr "mágico"
+msgstr "magia"
 
 #. [unit_type]: id=EoMa_Heavy_Camel_Rider, race=eoma_summoner
 #: Era_of_Magic\units\Summoners\Elite_Camel_Rider.cfg:4
