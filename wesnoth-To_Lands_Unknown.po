@@ -4543,7 +4543,7 @@ msgid ""
 "pal in one piece!"
 msgstr ""
 "Eh, Dedylos, ¡tiempo sin verte! ¡Veo que todavía estás de servicio! ¿Pero qué "
-"pasa con las espadas dibujadas, loco? ¡Pensé que te alegraría ver a "
+"pasa con las espadas desenvainadas, loco? ¡Pensé que te alegraría ver a "
 "tu viejo amigo en una sola pieza!"
 
 #. [message]: speaker=Atiros
