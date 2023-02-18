@@ -15006,7 +15006,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 msgid "I know what I'm doing, just clear the way for me."
-msgstr "Sé lo que estoy haciendo, solo clara para mí."
+msgstr "Sé lo que estoy haciendo, sólo despeja el camino para mí."
 
 #. [message]: speaker=Rashti
 msgid ""
