@@ -12129,7 +12129,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Speak sense, Nomolas damn it!"
-msgstr "¡Habla sentido, Nomolas maldita sea!"
+msgstr "¡Habla con sentido, por Nomolas!"
 
 #. [message]: speaker=Mehir
 msgid ""
