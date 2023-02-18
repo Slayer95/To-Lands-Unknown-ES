@@ -8605,8 +8605,8 @@ msgid ""
 "You think you got me? MWAHAHAHAAAAAhaa!!! That's where you're wrong, desert "
 "mage..."
 msgstr ""
-"¿Crees que me tienes? Mwahahahaaaaaahaa !!! Ahí es donde te equivocas, "
-"Desert Mage ..."
+"¿Crees que me tienes? ¡¡¡JAJAJAJAJAjaja!!! Ahí es donde te equivocas, mago"
+"del desierto..."
 
 #. [message]: speaker=Mastermage
 msgid ""
