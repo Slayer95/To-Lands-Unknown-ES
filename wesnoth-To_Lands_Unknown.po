@@ -11798,8 +11798,8 @@ msgid ""
 "Ra... Rashti? Rashti?!... <i>*nervously, to himself* No, no, no, it’s "
 "impossible. This is just in a dream. This can’t be happening...</i>"
 msgstr ""
-"Ra... Rashti? Rashti? Esto es solo en un sueño. Esto no puede estar "
-"sucediendo...</i>"
+"¿Ra... Rashti? ¿Rashti? <i>*nervioso, a sí mismo* No, no, no, es imposible."
+" Esto es sólo un sueño. Esto no puede estar sucediendo...</i>"
 
 #. [message]: speaker=Mehir
 msgid "Ra..Rashti... What happened?"
