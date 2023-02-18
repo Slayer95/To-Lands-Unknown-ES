@@ -979,7 +979,7 @@ msgid ""
 "AM COMING FOR YOU, MEHIR!"
 msgstr ""
 "¡NUNCA! ¡No volveré a ser esclavizada! ¡Ahora, soy libre por fin y... VOY A "
-"POR TI, MEJIR! "
+"POR TI, MEJIR!"
 
 #. [message]: type=TLU_DharmaRashti
 msgid "NEVER!!!"
