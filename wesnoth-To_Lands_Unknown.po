@@ -456,7 +456,7 @@ msgstr "Como deseéis, maestro."
 
 #. [message]
 msgid "Brogh’ur’s dead! Run!!!"
-msgstr "¡Brogh-ur ha caído! ¡Corred!"
+msgstr "¡Brogh-ur ha caído! ¡Corran!"
 
 #. [message]
 msgid ""
