@@ -45,11 +45,11 @@ msgstr "Invocar rami"
 
 #. [abilities]
 msgid "Summon Rhami'datu"
-msgstr "Invocar rami’datu"
+msgstr "Invocar rami-datu"
 
 #. [abilities]
 msgid "Summon Rhami'kai"
-msgstr "Invocar rami’kai"
+msgstr "Invocar rami-kai"
 
 #. [abilities]
 msgid "Summon Water Elemental"
@@ -598,7 +598,7 @@ msgstr "¡Escucha a tu otra mitad! ¡Debes hacerlo!"
 msgid ""
 "We must weaken Dharma’Rashti, so that Ho’Rashti can seize her and unite!"
 msgstr ""
-"¡Tenemos que debilitar a Darma’Rashti para que Jo’Rashti pueda capturarla y unirse!"
+"¡Tenemos que debilitar a Darma-Rashti para que Jo-Rashti pueda capturarla y unirse!"
 
 #. [message]: id=mjinn
 msgid "May I inquire why is there such noise around here?"
@@ -1053,14 +1053,14 @@ msgstr "Esto no ha..."
 
 #. [message]: type=TLU_HoRashti
 msgid "Look Dharma'rashti, we must unite. The whole Abyss is at stake!"
-msgstr "Mira, Darma’Rashti, debemos unirnos. ¡Todo el Averno está en juego!"
+msgstr "Mira, Darma-Rashti, debemos unirnos. ¡Todo el Averno está en juego!"
 
 #. [message]: type=TLU_HoRashti
 msgid ""
 "Master, don't trust her! She is evil! (to Dharma'rashti) *sigh* Look, now is "
 "really not the time for flirting. Besides, is THAT what you consider a date?"
 msgstr ""
-"Maestro, ¡no confíes en ella! ¡Ella es malvada! <i>Suspira y se dirige a Darma’Rashti.</i>"
+"Maestro, ¡no confíes en ella! ¡Ella es malvada! <i>Suspira y se dirige a Darma-Rashti.</i>"
 "Mira, ahora no es exactamente el momento para coquetear. Además, ¿es eso lo que "
 "consideras una cita?"
 
@@ -1602,7 +1602,7 @@ msgstr "Destruya el elemental con el Portal Dimensional II"
 
 #. [objective]: condition=win
 msgid "Dharma'rashti eliminates Ho’Rashti"
-msgstr "Darma’Rashti elimina a Jo’Rashti"
+msgstr "Darma-Rashti elimina a Jo-Rashti"
 
 #. [objective]: condition=win
 msgid "Enter the Abyss"
@@ -1618,7 +1618,7 @@ msgstr "Reúna a todas sus tropas humanas y Rashti dentro del círculo"
 
 #. [objective]: condition=win
 msgid "Ho'rashti eliminates Dharma’Rashti"
-msgstr "Jo’Rashti elimina a Darma’Rashti"
+msgstr "Jo-Rashti elimina a Darma-Rashti"
 
 #. [objective]: condition=win
 msgid "Kill Aerius"
@@ -1765,7 +1765,7 @@ msgid ""
 "hitpoints), so trying to kill Dharm'rashti is not going to work."
 msgstr ""
 "Las dos mitades de Rashti son inmortales (se recuperan totalmente al alcanzar "
-"los 0 PV), así que intentar matar a Darma’Rashti sería infructuoso."
+"los 0 PV), así que intentar matar a Darma-Rashti sería infructuoso."
 
 #. [objectives]
 msgid "Do not capture Jaffar's villages"
@@ -2858,7 +2858,7 @@ msgid ""
 "Here lies Samir, summoner of the mighty Rashti'rhami, and her first master. "
 "May he rest in peace."
 msgstr ""
-"Aquí yace Samir, invocador de la poderosa Rashti’Rami y su primer maestro. "
+"Aquí yace Samir, invocador de la poderosa Rashti-Rami y su primer maestro. "
 "Que en paz descanse."
 
 #. [scenario]: id=08_Ka-gatta
@@ -3058,7 +3058,7 @@ msgstr "Residentes de las cuevas"
 
 #. [side]
 msgid "team_name^DharmaRashti"
-msgstr "Darma’Rashti"
+msgstr "Darma-Rashti"
 
 #. [side]
 msgid "team_name^Enemy"
@@ -3078,7 +3078,7 @@ msgstr "Alto Consejo"
 
 #. [side]
 msgid "team_name^HoRashti"
-msgstr "Jo’Rashti"
+msgstr "Jo-Rashti"
 
 #. [side]
 msgid "team_name^Hydras"
@@ -3440,7 +3440,7 @@ msgid ""
 "Rhami'Kai."
 msgstr ""
 "Esta unidad está bendita por el artefacto que protege: la lanza de la primera "
-"rami’kai."
+"rami-kai."
 
 #. [trait]: id=spearguardian
 msgid "spear guardian"
@@ -3477,7 +3477,7 @@ msgstr "Ciudadana"
 
 #. [unit_type]: id=TLU_DharmaRashti, race=eoma_magical
 msgid "Dharma'rashti"
-msgstr "Darma’Rashti"
+msgstr "Darma-Rashti"
 
 #. [unit_type]: id=TLU_DharmaRashti, race=eoma_magical
 msgid ""
@@ -3488,7 +3488,7 @@ msgid ""
 "is for the good half to fuse with her again, which will require subduing the "
 "evil half first..."
 msgstr ""
-"La temperamental e impredecible Darma’Rashti. Tiene un rencor secreto contra "
+"La temperamental e impredecible Darma-Rashti. Tiene un rencor secreto contra "
 "los invocadores, el cual estaba siendo suprimido activamente por la mitad buena. "
 "Ahora sin restricciones, ella busca sangre... Ya que es indestructible por medios "
 "convencionales, la única forma de lidiar con ella es que su mitad buena se fusione "
@@ -3526,7 +3526,7 @@ msgstr ""
 
 #. [unit_type]: id=TLU_HoRashti, race=eoma_magical
 msgid "Ho'rashti"
-msgstr "Jo’Rashti"
+msgstr "Jo-Rashti"
 
 #. [unit_type]: id=TLU_HoRashti, race=eoma_magical
 msgid ""
@@ -3534,7 +3534,7 @@ msgid ""
 "costs. However, she's too weak to do so by herself, and needs Mehir's "
 "assistance."
 msgstr ""
-"La calma y sabia Jo’Rashti. Su objetivo es reunirse con su mitad malvada a "
+"La calma y sabia Jo-Rashti. Su objetivo es reunirse con su mitad malvada a "
 "toda costa. Sin embargo, es demasiado débil para hacerlo sola, y necesita "
 "la ayuda de Mejir."
 
@@ -3633,7 +3633,7 @@ msgstr "Mercader"
 
 #. [unit_type]: id=TLU_Rashti, race=eoma_magical
 msgid "Rashti'rhami"
-msgstr "Rashti’Rami"
+msgstr "Rashti-Rami"
 
 #. [unit_type]: id=TLU_Rashti, race=eoma_magical
 msgid ""
@@ -3642,9 +3642,9 @@ msgid ""
 "tempered Dharma'rashti. Because of her dual nature, Rashti's personality "
 "tends to change quite often, making her very unpredictable."
 msgstr ""
-"Rashti’Rami es una de las cuatro entidades mágicas más poderosas jamás invocadas. "
-"Consiste en dos poderosas entidades: la calmada y sabia Jo’Rashti, y la "
-"temperamental Darma’Rashti. Debido a su naturaleza dual, la personalidad "
+"Rashti-Rami es una de las cuatro entidades mágicas más poderosas jamás invocadas. "
+"Consiste en dos poderosas entidades: la calmada y sabia Jo-Rashti, y la "
+"temperamental Darma-Rashti. Debido a su naturaleza dual, la personalidad "
 "de Rashti tiene a cambiar seguido y de manera impredecible."
 
 #. [unit_type]: id=TLU_Summons_Master_Ghost, race=undead
@@ -3689,7 +3689,7 @@ msgid ""
 "Jinni."
 msgstr ""
 "Vera Rashti es la forma final de la Rashti'Rami, que ha alcanzado la armonía "
-"suprema de sus mitades Darma’Rashti y Jo’Rashti. La auténtica Rashti es "
+"suprema de sus mitades Darma-Rashti y Jo-Rashti. La auténtica Rashti es "
 "considerada una entidad perfecta, incluso equiparada con Nómolas, el primer "
 "genio."
 
@@ -4774,7 +4774,7 @@ msgid ""
 "of her murdering you in your sleep after this incident."
 msgstr ""
 "Con vuestro permiso, mi señor, a los del Gremio de Desterradores nos "
-"gustaría colocar a la entidad Rashti’Rami bajo vigilancia... "
+"gustaría colocar a la entidad Rashti-Rami bajo vigilancia... "
 "Debido a que, tras este incidente, se estima una probabilidad de 17.314% "
 "de que os asesine cuando estuviereis durmiendo."
 
@@ -4848,8 +4848,8 @@ msgid ""
 "back, and use the power of your megacircle to strengthen and heal them."
 msgstr ""
 "Mi señor, usad elementales. No pueden pensar, por lo que es imposible "
-"engañarlos. También podéis usar entes azules de nivel alto, como las rami’kais, "
-"jo’ramis y grandes genios —nunca nos traicionarían. Usad a los disipadores y "
+"engañarlos. También podéis usar entes azules de nivel alto, como las rami-kais, "
+"jo-ramis y grandes genios —nunca nos traicionarían. Usad a los disipadores y "
 "desterradores tanto como podáis. Además, permaneced cerca de vuestras tropas, "
 "para fortalecerlas y curarlas con el poder de vuestro megacírculo."
 
@@ -5244,7 +5244,7 @@ msgid ""
 "see you have brought the holy Rashti'rhami with you, but where is Tashkar?"
 msgstr ""
 "Ah, Mejir, ¡bienvenido de nuevo! Nos dirigíamos a Mag-Magar cuando llegaste. "
-"Veo que trajiste contigo a la Santa Rashti’Rami contigo, pero ¿dónde está Tashkar?"
+"Veo que trajiste contigo a la Santa Rashti-Rami contigo, pero ¿dónde está Tashkar?"
 
 #. [message]: speaker=Elder
 msgid ""
@@ -5353,7 +5353,7 @@ msgid ""
 "mood..."
 msgstr ""
 "¡Oh! Casi lo olvido. Como sabéis, cada líder de la Trinidad tiene a su "
-"servicio exclusivo un ente definitivo. El de Tar-Tabar es Rashti’Rami, "
+"servicio exclusivo un ente definitivo. El de Tar-Tabar es Rashti-Rami, "
 "con quien ya tuvisteis el placer de conoceros hace unas semanas. Desde "
 "este momento sois su nuevo maestro. <i>Francamente, no os envidio. Sus cambios "
 "repentinos de estado de ánimo...</i>"
@@ -5997,7 +5997,7 @@ msgstr ""
 "Su alteza tiene un buen punto. Por el momento, realmente no hay buenos "
 "candidatos potenciales entre la élite. Tal vez sería una mejor idea que "
 "elija temporalmente a uno de los suyos como sustituto hasta que encontremos "
-"un maestro adecuado para Rashti’Rami."
+"un maestro adecuado para Rashti-Rami."
 
 #. [message]: speaker=Guru
 msgid ""
@@ -6975,7 +6975,7 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 msgid "Did you really have to poke Rashti'rhami 20 times?"
-msgstr "¿Realmente tuviste que tocar a Rashti’Rami 20 veces?"
+msgstr "¿Realmente tuviste que tocar a Rashti-Rami 20 veces?"
 
 #. [message]: speaker=Instructor
 msgid "Excuse me, are you Mehir ibn Hakim the Elder, the one being promoted?"
@@ -7209,8 +7209,8 @@ msgid ""
 "the hot-tempered Dharma'rashti. Because of her dual nature, Rashti's "
 "personality tends to change quite often, making her very unpredictable."
 msgstr ""
-"Tashkar, el líder de Tar-Tabar, posee Rashti’Rami, la diosa de todos los "
-"Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Jo’Rashti "
+"Tashkar, el líder de Tar-Tabar, posee Rashti-Rami, la diosa de todos los "
+"Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Jo-Rashti "
 "y la Dharma’Rashti de temperatura caliente. Debido a su doble naturaleza, la "
 "personalidad de Rashti tiende a cambiar con bastante frecuencia, haciéndola "
 "muy impredecible."
@@ -7385,7 +7385,7 @@ msgid ""
 "avatars, rhami'kais, great jinn, you name it!"
 msgstr ""
 "Podéis usarlo para invocar todo tipo de seres mágicos poderosos: avatares "
-"elementales, rami’kais, grandes genios, ¡lo que sea!"
+"elementales, rami-kais, grandes genios, ¡lo que sea!"
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -7632,7 +7632,7 @@ msgid ""
 "Looks like this is going nowhere... o holy Rashti'rhami, could Your Majesty "
 "please do something about it?"
 msgstr ""
-"Parece que esto no va a ninguna parte... Oh, santa Rashti’Rami, ¿podría su "
+"Parece que esto no va a ninguna parte... Oh, santa Rashti-Rami, ¿podría su "
 "majestad por favor hacer algo al respecto?"
 
 #. [message]: speaker=Jaffar
@@ -8420,7 +8420,7 @@ msgid ""
 "subordinate of Sharif instead of one of his own men? Something just doesn't "
 "add up here."
 msgstr ""
-"Aún así, me pregunto: ¿por qué exactamente Tashkar envió a Rashti’Rami con "
+"Aún así, me pregunto: ¿por qué exactamente Tashkar envió a Rashti-Rami con "
 "un subordinado de Sharif en lugar de uno de sus propios hombres? Algo "
 "simplemente no cuadra aquí."
 
@@ -8436,7 +8436,7 @@ msgstr ""
 "podría haber sostenido la ciudad por más tiempo. ¡Unas criaturas oscuras "
 "nos caen encima como un enjambre de langostas... El horror puro! Esperad, "
 "no sois Tashkar... ¿Cuál es vuestro nombre, rango y puesto? Además, ¿por qué "
-"está la santa Rashti’Rami contigo en vez de con Tashkar?"
+"está la santa Rashti-Rami contigo en vez de con Tashkar?"
 
 #. [message]: speaker=Malib
 msgid ""
@@ -8453,7 +8453,7 @@ msgid ""
 "soldier! Be aware that I can't risk fighting, the city mustn't lose it's "
 "leader."
 msgstr ""
-"Bueno, con Rashti’Rami, podríamos vivir lo suficiente como para ver los "
+"Bueno, con Rashti-Rami, podríamos vivir lo suficiente como para ver los "
 "refuerzos. ¡Haced lo mejor que podáis para ayudarla a derrotar a los "
 "invasores, soldado! Tomad en cuenta que no puedo arriesgarme a pelear: la "
 "ciudad no debe perder su líder."
@@ -9863,7 +9863,7 @@ msgstr ""
 "Comandante de tercer grado, Mejir de Sud-Affar a su servicio, señor! Tashkar "
 "es, *ejem *... actualmente no disponible. Mi escuadrón ha sido enviado por "
 "el Alto Consejo como una vanguardia, los ejércitos de la Trinidad deberían "
-"llegar pronto. En cuanto a Rashti’Rami, Tashkar la envió junto a mis tropas "
+"llegar pronto. En cuanto a Rashti-Rami, Tashkar la envió junto a mis tropas "
 "para ayudar a la defensa de Mag-Magar."
 
 #. [message]: speaker=Mehir
@@ -10161,7 +10161,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "Everyone, cover Rashti'rhami, and secure the entrance!"
-msgstr "¡Todos, cubren Rashti’Rami y aseguran la entrada!"
+msgstr "¡Todos, cubren Rashti-Rami y aseguran la entrada!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -11981,7 +11981,7 @@ msgstr "¡Sí, señor!"
 
 #. [message]: speaker=Mehir
 msgid "So here I am. By the order of Rashti'rhami herself, you are relieved!"
-msgstr "Así que aquí estoy. Por orden de la Rashti’Rami, ¡estás relevada!"
+msgstr "Así que aquí estoy. Por orden de la Rashti-Rami, ¡estás relevada!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -12136,7 +12136,7 @@ msgid ""
 msgstr ""
 "Hablando de deidades, la nuestra..., no se ajusta exactamente a la "
 "definición. Si bien técnicamente los adoramos, ellos son los que nos sirven, "
-"no al revés. Rashti’Rami es uno de esos seres."
+"no al revés. Rashti-Rami es uno de esos seres."
 
 #. [message]: speaker=Mehir
 msgid "Standing on top of the entire known world feels good."
@@ -12766,7 +12766,7 @@ msgid ""
 "Wait, am I sunstruck, or am I seeing Rashti'rhami herself battling the very "
 "people who invaded the central palace?!"
 msgstr ""
-"Espera, ¿estoy sillada o estoy viendo a Rashti’Rami que lucha contra las "
+"Espera, ¿estoy sillada o estoy viendo a Rashti-Rami que lucha contra las "
 "mismas personas que invadieron el Palacio Central?"
 
 #. [message]: speaker=Mehir
@@ -13884,13 +13884,13 @@ msgid ""
 "will never turn against you."
 msgstr ""
 "Todos los seres invocados del Averno Rojo, tales como los darma’ramis, "
-"rami’datus e ifrits, lo traicionarán instantáneamente en este escenario.\n"
+"rami-datus e ifrits, lo traicionarán instantáneamente en este escenario.\n"
 "\n"
 "Los seres inteligentes de nivel 1, como genios y ramis, pueden optar por "
 "traicionarlo según su suerte.\n"
 "\n"
 "Los elementales y seres azules de nivel 2-3, tales como grandes genios, "
-"rami’kais y jo’ramis, nunca se volverán contra usted."
+"rami-kais y jo-ramis, nunca se volverán contra usted."
 
 #. [side]: type=EoMa_Master_of_Darkness, id=Master
 #. [message]: speaker=narrator
@@ -14595,7 +14595,7 @@ msgstr "<i>Se congela en su lugar.</i>"
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:371
 msgid "*gestures to the two Ho'rhami bodyguards, and whispers something*"
-msgstr "<i>Gesticula a las dos guardias jo’rami y susurra inaudiblemente.</i>"
+msgstr "<i>Gesticula a las dos guardias jo-rami y susurra inaudiblemente.</i>"
 
 #. [message]: speaker=Rashti
 msgid "*gives him a cold stare*"
@@ -14731,7 +14731,7 @@ msgid ""
 "Ho'rashti's permission... *sigh*"
 msgstr ""
 "Yyyyy ahí va mi primera oportunidad en siglos para torturar a alguien con "
-"el permiso de Jo’Rashti... <i>Suspira.</i>"
+"el permiso de Jo-Rashti... <i>Suspira.</i>"
 
 #. [message]: speaker=Rashti
 msgid "And now, FINISH OFF THE REST OF THOSE SCUM!!!"
@@ -15638,7 +15638,7 @@ msgid ""
 "release you from your blue half's constraints, to give you the choice you "
 "never had?"
 msgstr ""
-"Os conozco muy bien, Darma’Rashti, sé lo que realmente queréis. Sé lo mucho "
+"Os conozco muy bien, Darma-Rashti, sé lo que realmente queréis. Sé lo mucho "
 "que extrañáis los días de vuestra gloria, cuando realmente fuisteis la reina "
 "del Averno Rojo. Somos bastante similares, tú y yo. ¿Qué tal si os dijera que "
 "puedo...? ¿Liberaros de las limitaciones de tu mitad azul para daros la "
@@ -15715,7 +15715,7 @@ msgid ""
 "like to call yourself a goddess, but last time I checked the dictionary, the "
 "word wasn't exactly synonymous with 'slave'. No authority whatsoever..."
 msgstr ""
-"Uh, oh, ¿a quién tenemos aquí? ¿No es esta la mismísima “Santa” Rashti’Rami? Os "
+"Uh, oh, ¿a quién tenemos aquí? ¿No es esta la mismísima “Santa” Rashti-Rami? Os "
 "gusta llamaros “diosa”, pero la última vez que revisé el diccionario, la "
 "palabra no era exactamente sinónima de “esclava”. Ningún tipo de autoridad..."
 
@@ -16177,8 +16177,8 @@ msgid ""
 "that steps foot in this place, so be it."
 msgstr ""
 "No me inclino ante hombre alguno. La única entidad a quien sirvo es la Santa "
-"Rashti’Rami, la diosa de todas las ramis. Fue ella quien, hace 392 años, me "
-"ordenó proteger la lanza de la primera rami’kai. Solo hay dos formas en que "
+"Rashti-Rami, la diosa de todas las ramis. Fue ella quien, hace 392 años, me "
+"ordenó proteger la lanza de la primera rami-kai. Solo hay dos formas en que "
 "me puedan apartar de este puesto, ya sea por su orden o por ser derrotada en "
 "la batalla. Y si para lograr lo último tengo que atacar a cada cazador de "
 "tesoros que pise este lugar, que así sea."
@@ -16282,7 +16282,7 @@ msgid ""
 "herself! Everyone, now's our chance, she is weaker in the mortal world! Get "
 "her!"
 msgstr ""
-"Ah, mira quien es. ¡La reina del tirano y la bota de humanos, Rashti’Rami! "
+"Ah, mira quien es. ¡La reina del tirano y la bota de humanos, Rashti-Rami! "
 "¡Todos, ahora es nuestra oportunidad, ella es más débil en el mundo mortal! "
 "¡Consíguela!"
 
