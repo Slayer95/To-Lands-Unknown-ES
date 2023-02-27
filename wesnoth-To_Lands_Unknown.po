@@ -4990,7 +4990,7 @@ msgstr ""
 
 #. [message]: speaker=BLeader
 msgid "What the hell?! Is that a walking bonfire?!"
-msgstr "¡¿Qué demonios?! ¿Una hoguera andante? ¡DESTRUIDLA!"
+msgstr "¡¿Qué demonios?! ¿Una hoguera andante?"
 
 #. [message]: speaker=BLeader
 msgid "You will never rescue them! NEVER! KNOCK THEM OFF!"
