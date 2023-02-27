@@ -456,7 +456,7 @@ msgstr "Como deseéis, maestro."
 
 #. [message]
 msgid "Brogh’ur’s dead! Run!!!"
-msgstr "¡Brogh’ur ha caído! ¡Corred!"
+msgstr "¡Brogh-ur ha caído! ¡Corred!"
 
 #. [message]
 msgid ""
@@ -1445,7 +1445,7 @@ msgid ""
 "Should this unit pick up the spear?"
 msgstr ""
 "Esta lanza, forjada puramente a partir de energía del Averno, es el arma "
-"utilizada por la primera rhami’kai. Una obra excepcional, en comparación con "
+"utilizada por la primera rami-kai. Una obra excepcional, en comparación con "
 "las armas de sus sucesoras, fabricadas en serie a partir de metal mundano.\n"
 "\n"
 "- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
@@ -1468,7 +1468,7 @@ msgid ""
 "Increases magical resistances by 10%"
 msgstr ""
 "Esta arma, forjada de la luz del Averno, es parte del equipamiento usado por "
-"entidades mágicas llamadas Rhami’kai. Nuestros ancestros robaron una de esas "
+"entidades mágicas llamadas rami-kai. Nuestros ancestros robaron una de esas "
 "lanzas y la mejoraron mágicamente.\n"
 "Promociona la unidad (a menos que ya esté en nivel máximo).\n"
 "Aumenta el ataque en 25%.\n"
@@ -1626,7 +1626,7 @@ msgstr "Aerius"
 
 #. [objective]: condition=win
 msgid "Kill Brogh’ur"
-msgstr "Mate a Brogh’ur"
+msgstr "Mate a Brogh-ur"
 
 #. [objective]: condition=win
 msgid "Kill all enemy units"
@@ -2871,7 +2871,7 @@ msgstr "¡Solo un Invocador novato, Disipador o Desterrador pueden usar este obj
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a Rhami or Rhami’kai can use this item!"
-msgstr "¡Solo una Rami o Rami’kai puede usar este objeto!"
+msgstr "¡Solo una rami o rami-kai puede usar este objeto!"
 
 #. [scenario]: id=08_Ka-gatta
 msgid "Only a camel rider (or his advancements) can use this item!"
@@ -3144,7 +3144,7 @@ msgstr "Instructor"
 
 #. [side]: type=EoMa_Barbarian_Lord, id=Broghur
 msgid "Brogh’ur"
-msgstr "Brogh’ur"
+msgstr "Brogh-ur"
 
 #. [side]: type=EoMa_Barbarian_Lord, id=Broghur
 msgid "Krog"
@@ -4985,7 +4985,7 @@ msgid ""
 "leader's skull!!!"
 msgstr ""
 "¡Espera un minuto, las lagartijas no tienen esas cosas! ¡¡¡Así que deben ser "
-"los mismos humanos que mataron a Brogh’ur!!! ¡¡¡Todos, a las armas!!! ¡¡¡Tráiganme "
+"los mismos humanos que mataron a Brogh-ur!!! ¡¡¡Todos, a las armas!!! ¡¡¡Tráiganme "
 "el cráneo de su líder!!!"
 
 #. [message]: speaker=BLeader
