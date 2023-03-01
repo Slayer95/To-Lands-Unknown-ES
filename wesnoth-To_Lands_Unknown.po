@@ -13568,8 +13568,8 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 msgid "You sound... calmer than usual for your half, Your Highness."
-msgstr "Vuestra Alteza parece... Más calmada que es habitual para vuestra "
-"mitad."
+msgstr "Vuestra Alteza parece ahora... Más calmada que fuera habitual "
+"para aquesta mitad."
 
 #. [message]: speaker=Mehir
 msgid ""
