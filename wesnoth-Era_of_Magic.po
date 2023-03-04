@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-23 03:28 UTC\n"
-"PO-Revision-Date: 2023-02-28 03:54+0100\n"
+"PO-Revision-Date: 2023-03-04 12:31+0100\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -280,7 +280,7 @@ msgstr ""
 #: Era_of_Magic/scenarios/4p_Zombies_Challenge.cfg:621
 msgid "all players get a gold/income reward every (number) turns"
 msgstr ""
-"todos los jugadores obtendrán una recompensa de oro/ingresos cada (número) "
+"Todos los jugadores obtendrán una recompensa de oro/ingresos cada (número) "
 "turnos."
 
 #. [slider]: id=bonusincome
@@ -525,7 +525,6 @@ msgstr "Cazador goblin"
 
 #. [unit_type]: id=EoMa_Goblin_Hunter, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Hunter.cfg:46
-#, fuzzy
 msgid ""
 "The more agile and cunning of the goblins generally tend to forsake brute "
 "force in favor of stealth. They often ambush unsuspecting foes from "
@@ -533,7 +532,7 @@ msgid ""
 "with daggers."
 msgstr ""
 "Los goblins más ágiles y astutos suelen abandonar la fuerza bruta en favor "
-"del sigilo. Suelen tender emboscadas a enemigos desprevenidos de zonas "
+"del sigilo. Usualmente tienden emboscadas a enemigos desprevenidos en zonas "
 "montañosas, enredando a los primeros con bolas, para luego cargar contra "
 "ellos con dagas."
 
@@ -781,7 +780,6 @@ msgstr "Maestro de roc"
 
 #. [unit_type]: id=EoMa_Roc_Master, race=eoma_roc
 #: Era_of_Magic/units/Barbarians/Roc_Master.cfg:21
-#, fuzzy
 msgid ""
 "Veteran roc riders are an uncommon sight, as many either end up dying during "
 "skirmishes or don't see much action beyond scouting, but there are "
@@ -797,11 +795,11 @@ msgstr ""
 "terminan muriendo durante las escaramuzas o no ven mucha acción más allá de "
 "la exploración, pero hay excepciones notables. Estos jinetes de roc a menudo "
 "terminan siendo líderes de pequeñas bandas de jinetes de roc, que vuelan por "
-"territorios vacíos y se aprovechan de los infrecuentes viajeros solitarios, "
-"y atacan caravanas mal protegidas. También suelen llevar a la batalla arcos "
+"territorios vacíos, se aprovechan de los infrecuentes viajeros solitarios, y "
+"atacan caravanas mal protegidas. También suelen llevar a la batalla arcos "
 "hechos a mano. Si bien la baja calidad de los arcos hace que no sean aptos "
-"para usar en el suelo, sus flechas se vuelven bastante mortales cuando se "
-"disparan desde el cielo, gracias a la aceleración vertical de la caída."
+"para usar desde el suelo, sus flechas se vuelven mortales cuando se disparan "
+"desde el cielo, gracias a la aceleración vertical de la caída."
 
 #. [unit_type]: id=EoMa_Roc_Rider, race=eoma_roc
 #: Era_of_Magic/units/Barbarians/Roc_Rider.cfg:4
@@ -1055,7 +1053,6 @@ msgstr "Elegido del bosque"
 
 #. [unit_type]: id=EoMa_Chosen_of_Forest, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chosen_of_Forest.cfg:22
-#, fuzzy
 msgid ""
 "The Chosen of Forest, or 'The Keeper', as many refer to him, is the "
 "Darkblooded's monarch of sorts. He is the oldest and probably wisest of the "
@@ -1065,8 +1062,8 @@ msgid ""
 "holding his own on the battlefield."
 msgstr ""
 "El Elegido del Bosque, o 'El Guardián', como muchos se refieren a él, es una "
-"especie de monarca de Darkblooded. Es el más antiguo y probablemente el más "
-"sabio de los místicos saurios, y conoce la mayoría de los secretos de la "
+"especie de monarca de los Sangreoscura. Es el más antiguo y probablemente el "
+"más sabio de los místicos saurios, y conoce la mayoría de los secretos de la "
 "jungla, incluidos los que la mayoría de los hombres preferirían no saber. Si "
 "bien pasa la mayor parte de su tiempo gestionando los asuntos estatales o "
 "meditando en la jungla, no es incapaz de defenderse en el campo de batalla."
@@ -1098,7 +1095,6 @@ msgstr "Elegido de la ciénaga"
 
 #. [unit_type]: id=EoMa_Chosen_of_Marsh, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chosen_of_Marsh.cfg:20
-#, fuzzy
 msgid ""
 "The Chosen of Marsh are the mightiest of the Swamp Magi, fully consumed by "
 "the Great Bog's darkness. They seem to emit clouds of magical poison gas "
@@ -1109,13 +1105,13 @@ msgid ""
 "repelling the Atokpi, a civilization now extinct, albeit not without "
 "consequence."
 msgstr ""
-"Los Elegidos de Marsh son los Magos del Pantano más poderosos, totalmente "
+"Los elegidos del pantano son los magos del pantano más poderosos, totalmente "
 "consumidos por la oscuridad del Gran Pantano. Parecen emitir nubes de gas "
-"venenoso mágico cada vez que van, tan potentes como sus garras bañadas en "
-"veneno. Estos recipientes de la oscuridad son temidos a través de la Jungla "
-"de la Vida, y solo se los conoce como \"aquellos que no deben ser "
+"venenoso mágico cada vez que aparecen, tan potentes como sus garras bañadas "
+"en veneno. Estos recipientes de la oscuridad son temidos a través de la "
+"Jungla de la Vida, y solo se los conoce como \"aquellos que no deben ser "
 "mencionados\". Si bien el culto no tiene exactamente las mejores relaciones "
-"con los místicos de sangrenegra, ayudaron a estos últimos a repeler a los "
+"con los místicos de Sangreoscura, ayudaron a estos últimos a repeler a los "
 "Atokpi, una civilización ahora extinta, aunque no sin consecuencias."
 
 #. [abilities]
@@ -1197,7 +1193,6 @@ msgstr "Sed de sangre +5, Máx PV +2"
 
 #. [unit_type]: id=EoMa_Desert_Salamander, race=eoma_salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Desert_Salamander.cfg:72
-#, fuzzy
 msgid ""
 "In search of relics and ancient ruins around the world one may encounter a "
 "Desert Salamander. They are Yellow Salamanders that retired from their "
@@ -1210,15 +1205,15 @@ msgid ""
 "monster or competitor."
 msgstr ""
 "En busca de reliquias y ruinas antiguas en todo el mundo, uno puede "
-"encontrarse con una salamandra del desierto. Son Salamandras Amarillas que "
+"encontrarse con una salamandra del desierto. Son salamandras amarillas que "
 "se retiraron de su forma de vida guerrera para vivir una vida de exploración "
 "de los misterios del pasado. Encontrar uno lejos del Gran Desierto es toda "
-"una sorpresa ya que, como su nombre y color de piel lo indican, son rovers "
-"del desierto. Es cierto que la mayoría de las Salamandras del Desierto vagan "
-"por las dunas de arena del Gran Desierto explorando las ruinas escondidas "
-"bajo las arenas del tiempo. Sin embargo, explorar es un trabajo peligroso "
-"porque uno no sabe qué peligros habitan dentro de las ruinas, ya sea una "
-"trampa, un monstruo o un competidor."
+"una sorpresa ya que, como su nombre y color de piel lo indican, son "
+"vagabundos del desierto. Se sabe que la mayoría de las salamandras del "
+"desierto vagan por las dunas de arena del Gran Desierto explorando las "
+"ruinas escondidas bajo las arenas del tiempo. Sin embargo, explorar es un "
+"trabajo peligroso porque uno no sabe qué peligros habitan dentro de las "
+"ruinas, ya sea una trampa, un monstruo o un competidor."
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Desert_Salamander.cfg:159
@@ -1243,7 +1238,6 @@ msgstr "sanación kamikaze"
 
 #. [dummy]: id=eoma_kamikazeheal
 #: Era_of_Magic/units/Dark_Blood_Alliance/Forest_Spirit.cfg:24
-#, fuzzy
 msgid ""
 "This unit can be sacrificed to heal a selected friendly unit.\n"
 "\n"
@@ -1252,7 +1246,7 @@ msgid ""
 msgstr ""
 "Esta unidad se puede sacrificar para curar a una unidad amiga seleccionada.\n"
 "\n"
-"Para obtener más información, elige la opción de clic derecho \"Ayuda del "
+"Para obtener más información, elige la opción de clic derecho \"Ayuda sobre "
 "espíritu del bosque\" que aparece al hacer clic derecho en una unidad con "
 "esta habilidad."
 
@@ -1274,7 +1268,6 @@ msgstr "Ayuda"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/units/Dark_Blood_Alliance/Forest_Spirit.cfg:242
-#, fuzzy
 msgid ""
 "To heal an adjacent friendly unit, rightclick that unit and choose the "
 "option 'Heal +25'. The Forest Spirit will be sacrificed in the process."
@@ -1415,7 +1408,6 @@ msgstr "Regeneración +10, Máx PV +2r"
 
 #. [unit_type]: id=EoMa_Lava_Salamander, race=eoma_salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Lava_Salamander.cfg:76
-#, fuzzy
 msgid ""
 "The Cult of the Fire holds many secrets and powers that cause many corrupted "
 "shamans much envy. However, these secrets are guarded by the cult's most "
@@ -1433,21 +1425,21 @@ msgid ""
 "reborn with body altering affects that give them a draconian appearance and "
 "veins of fire. "
 msgstr ""
-"El Culto del Fuego guarda muchos secretos y poderes que causan mucha envidia "
-"a muchos chamanes corruptos. Sin embargo, estos secretos están guardados por "
-"los miembros más dedicados y veteranos del culto, los Lava Salamanders. "
-"Residiendo en el corazón de las llamas corruptoras cerca de Great Bog, se "
-"encontrará un páramo volcánico de cenizas y charcos de lava.\n"
+"El Culto del Fuego guarda secretos y poderes que causarían envidia a muchos "
+"chamanes corruptos. Sin embargo, estos secretos están guardados por los "
+"miembros más dedicados y veteranos del culto, las salamandras de lava. "
+"Residiendo en el corazón de las llamas corruptoras cerca del Gran Pantano, "
+"se encontrarán en páramos volcánicos de cenizas y charcos de lava.\n"
 "\n"
 "Se rumorea que para que una salamandra de fuego se una a las filas de las "
-"salamandras de lava, debe someterse a una prueba, una que tendrá un "
-"renacimiento en un convento. La prueba ritual tardará años en completarse "
-"hasta que tengan un último ritual que determinará la resolución de la "
-"Salamandra. La salamandra de fuego debe emerger por completo dentro del "
-"fuego caótico que busca, entrando en un charco de lava. No todas las "
-"Salamandras que entran en las piscinas vuelven a ser ahora parte de la llama "
-"corruptora, pero las que lo han hecho renacen con efectos de alteración del "
-"cuerpo que les dan una apariencia draconiana y venas de fuego."
+"salamandras de lava, debe someterse a una prueba, un renacimiento en el "
+"monasterio. La prueba ritual tarda años en completarse hasta que tienen un "
+"último ritual que determinará la resolución de la salamandra. La salamandra "
+"de fuego debe emerger por completo dentro del fuego caótico que busca, "
+"entrando en una piscina de lava. No todas las salamandras que entran en las "
+"piscinas vuelven a ser parte de la llama corruptora, pero las que lo han "
+"hecho renacen con efectos de alteración del cuerpo que les dan una "
+"apariencia draconiana y venas de fuego."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Dark_Blood_Alliance/Lava_Salamander.cfg:141
@@ -1473,7 +1465,6 @@ msgstr "Místico"
 
 #. [unit_type]: id=EoMa_Mystic, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Mystic.cfg:21
-#, fuzzy
 msgid ""
 "Mystics are some of the most powerful and influential shamans in the Jungle "
 "of Life. They are the upper class of the Darkblood society, being second "
@@ -1482,7 +1473,7 @@ msgid ""
 "own wounds, as well as those of nearby allies."
 msgstr ""
 "Los místicos son algunos de los chamanes más poderosos e influyentes de la "
-"jungla de la vida. Son la clase alta de la sociedad Darkblood, solo "
+"Jungla de la Vida. Son la clase alta de la sociedad Sangreoscura, solo "
 "superados por el propio Guardián. Su habilidad para lanzar hechizos tampoco "
 "es menos formidable, pudiendo congelar a sus oponentes en el lugar o curar "
 "rápidamente sus propias heridas, así como las de los aliados cercanos."
@@ -1534,7 +1525,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Salamander_Marine, race=eoma_salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Salamander_Marine.cfg:4
 msgid "Salamander Marine"
-msgstr "Salamandra marine"
+msgstr "Salamandra marina"
 
 #. [advancement]: id=WTR_SAL_RES
 #: Era_of_Magic/units/Dark_Blood_Alliance/Salamander_Marine.cfg:20
@@ -1548,7 +1539,6 @@ msgstr "Hostigador, máx PV +2"
 
 #. [unit_type]: id=EoMa_Salamander_Marine, race=eoma_salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Salamander_Marine.cfg:71
-#, fuzzy
 msgid ""
 "Long ago in years long forgotten, the Blue Salamanders made a journey across "
 "the ocean to islands in the southeast of the Great Bog. There they "
@@ -1562,18 +1552,18 @@ msgid ""
 "long tradition of traversing the seas joining the ranks of the Salamander "
 "Marines."
 msgstr ""
-"Hace mucho tiempo en años olvidados, las Salamandras Azules hicieron un "
+"Hace mucho tiempo, en años olvidados, las salamandras azules hicieron un "
 "viaje a través del océano a las islas en el sureste del Gran Pantano. Allí "
 "se encontraron con una misteriosa raza de Atokpi que preparaba una gran "
 "invasión en la Jungla de la Vida. Los que lograron defenderse y regresar "
-"para advertir a los habitantes de la jungla del inminente ataque fueron los "
-"Salamander Marines. Después de la Gran Guerra, las Salamandras Azules "
+"para advertir a los habitantes de la jungla del inminente ataque fueron las "
+"salamandras marinas. Después de la Gran Guerra, las salamandras azules "
 "recibieron la tarea de patrullar en alta mar y protegerlos de cualquier "
 "ataque marítimo. Sin embargo, en años posteriores, los mares se volvieron "
 "más hostiles y los viajes demasiado peligrosos para la mayoría de los "
-"Salamandras. Ahora solo los Salamandras Azules más valientes y de élite "
+"salamandras. Ahora solo las salamandras azules más valientes y de élite "
 "retoman esta larga tradición de atravesar los mares uniéndose a las filas de "
-"los Salamander Marines."
+"las salamandras marinas."
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Salamander_Marine.cfg:134
@@ -1603,7 +1593,6 @@ msgstr "+20% resistencia al frío, +2 máx PV"
 
 #. [unit_type]: id=EoMa_Shadow_Salamander, race=eoma_salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shadow_Salamander.cfg:71
-#, fuzzy
 msgid ""
 "Skin as black as the eerie starless night sky reflecting from stagnated "
 "marshy waters. Only to be broken by two flaring demonic red eyes, tracking "
@@ -1617,18 +1606,18 @@ msgid ""
 "Chaos Wyverns cower in fear by the mere scent of impending death that the "
 "Shadow Salamanders emanate."
 msgstr ""
-"Piel tan negra como el espeluznante cielo nocturno sin estrellas que se "
-"refleja en las aguas pantanosas estancadas. Solo para ser interrumpido por "
-"dos llameantes ojos rojos demoníacos, rastreando a su presa desprevenida. Al "
+"Con una piel tan negra como el espeluznante cielo nocturno sin estrellas que "
+"se refleja en las aguas pantanosas estancadas. Sólo interrumpido por dos "
+"llameantes ojos rojos demoníacos, rastreando a su presa desprevenida. Al "
 "acecho en los rincones más oscuros bajo el dosel del Bosque de la Vida y las "
-"turbias aguas del Gran Pantano, acechan las escurridizas Salamandras de las "
-"Sombras. Rara vez se preguntan bajo la luz del día prefiriendo arrastrarse "
-"en las sombras, incluso la luz de la luna no se atreve a aliviarlos. Porque "
-"estas Salamandras Negras han entrado en un pacto perverso con los demonios "
-"que habitan en el Gran Pantano, otorgándoles un poder sobrenatural. Al "
-"convertirse en maestros de la espada y la noche, incluso los grandes Wyverns "
-"del Caos se encogen de miedo ante el mero olor a muerte inminente que emanan "
-"los Shadow Salamanders."
+"turbias aguas del Gran Pantano, acechan las escurridizas salamandras "
+"sombrías. Rara vez se dejan ver bajo la luz del día, prefiriendo arrastrarse "
+"en las sombras, eludiendo incluso los rayos de luz de la luna. Porque estas "
+"salamandras negras han entrado en un pacto perverso con los demonios que "
+"habitan en el Gran Pantano, otorgándoles un poder sobrenatural. Al "
+"convertirse en maestros de la espada y la noche, incluso los grandes "
+"guivernos del caos se encogen de miedo ante el mero olor a muerte inminente "
+"que emanan las salamandras sombrías."
 
 #. [unit_type]: id=EoMa_Shamanistic_Adept, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Adept.cfg:4
@@ -1694,7 +1683,6 @@ msgstr "Impávido, +2 PV máx"
 
 #. [unit_type]: id=EoMa_Swamp_Salamander, race=eoma_salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Swamp_Salamander.cfg:78
-#, fuzzy
 msgid ""
 "There are many stories about the Great Bog and the Forest of Life; the "
 "mysterious flow of magic, the hostile environment, and the beasts and "
@@ -1712,20 +1700,19 @@ msgid ""
 "brethren."
 msgstr ""
 "Hay muchas historias sobre el Gran Pantano y el Bosque de la Vida; el "
-"misterioso flujo de magia, el entorno hostil y las bestias y monstruos que "
+"misterioso flujo de magia, el entorno hostil, y las bestias y monstruos que "
 "llaman hogar a ese lugar. Numerosos cuentos de aventuras que regresan de ese "
 "lugar maldito, cuentos sobre terroríficos hombres del pantano cubiertos de "
-"follaje. Atrapar al desafortunado aventurero, arrastrarlo a las aguas "
-"turbias o ser izado al dosel. Luego atacando de todos lados, ya sea desde el "
-"ascenso del suelo acuático o desde el descenso de los árboles, sembrando el "
-"miedo y el pánico en la persona más atendida. Estas despreciables criaturas "
-"no son hombres sino una salamandra especializada, las salamandras de "
-"pantano. A diferencia de sus camaradas de las Salamandras Verdes que cubren "
-"sus cuerpos con follaje para ayudar a ocultarse, las Salamandras de Pantano "
-"enraízan intencionalmente follaje vivo en su cuerpo dándoles un camuflaje "
-"extraño que confunde y engaña a los enemigos más perspicaces. Incluso otras "
-"salamandras de pantano tienen dificultades para detectar a sus propios "
-"hermanos."
+"follaje. Atrapando desafortunados aventureros, arrastrándolos a las aguas "
+"turbias o izándolos entre la espesura. Luego atacando de todos lados, ya sea "
+"ascendiendo desde las aguas o descendiendo de los árboles, sembrando el "
+"miedo y el pánico hasta en los más valientes. Estas despreciables criaturas "
+"no son hombres sino una salamandra especializada, las salamandras del "
+"pantano. A diferencia de sus camaradas salamandras verdes, que cubren sus "
+"cuerpos con follaje para ocultarse, las salamandras del pantano enraízan "
+"intencionalmente follaje vivo en su cuerpo dándoles un extraño camuflaje que "
+"confunde y engaña a los enemigos más perspicaces. Incluso otras salamandras "
+"del pantano tienen dificultades para detectar a sus propios hermanos."
 
 #. [unit_type]: id=EoMa_Swamp_Spirit, race=eoma_magical, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Dark_Blood_Alliance/Swamp_Spirit.cfg:4
@@ -2014,6 +2001,7 @@ msgstr "Soldado Atokpi"
 
 #. [unit_type]: id=EoMa_Atokpi_Infantry, race=undead
 #: Era_of_Magic/units/Destroyers/Atokpi_Infantry.cfg:25
+#, fuzzy
 msgid ""
 "Before the fall of the Atokpi Empire the vast majority of Atokpis were Yari "
 "users. Equipped with these unusual spear-like weapons, proud Atokpi warriors "
@@ -2028,6 +2016,19 @@ msgid ""
 "to carry. The result was a more mobile but much less stronger version of a "
 "living Atokpi warrior."
 msgstr ""
+"Antes de la caída del Imperio Atokpi, la gran mayoría de los Atokpis eran "
+"usuarios de Yari. Equipados con estas inusuales armas parecidas a lanzas, "
+"los orgullosos guerreros Atokpi formaron legiones imparables, a menudo "
+"desplegadas en la guerra contra Darkblooded hace miles de años. El uso de 4 "
+"brazos combinado con su anatomía de exoesqueleto hizo que Atokpis fuera "
+"literalmente imbatible al usar estas poderosas armas de asta y casi lo lleva "
+"a la victoria sobre los habitantes de la Gran Selva. Desafortunadamente, la "
+"desaparición de Atokpis de las manos de los Destructores y la posterior "
+"transformación en un enjambre de muertos vivientes limitó severamente su "
+"potencial para manejar con eficacia estas armas legendarias. La falta de "
+"músculos obligó a los Atokpis no muertos a usar armas Yari mucho más "
+"pequeñas que las que solían llevar sus contrapartes vivas. El resultado fue "
+"una versión más móvil pero mucho menos fuerte de un guerrero Atokpi vivo."
 
 #. [unit_type]: id=EoMa_Atokpi_Master, race=undead, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Destroyers/Atokpi_Master.cfg:4
@@ -2046,6 +2047,7 @@ msgstr "Portal negro"
 
 #. [unit_type]: id=EoMa_Black_Portal, race=eoma_magical
 #: Era_of_Magic/units/Destroyers/Black_Portal.cfg:19
+#, fuzzy
 msgid ""
 "In most situations Dark Portals implode into Infernal Vortices, but "
 "sometimes they absorb surrounding black magic instead, transforming "
@@ -2060,6 +2062,19 @@ msgid ""
 "helps these bizarre units stabilize their singularities allowing them to "
 "last longer on battlefields."
 msgstr ""
+"En la mayoría de las situaciones, los portales oscuros implosionan en "
+"vórtices infernales, pero a veces absorben la magia negra circundante y se "
+"transforman en una mezcla de antimagia y magia negra: portales negros.\n"
+"\n"
+"Esto les otorga nuevas propiedades, como una velocidad mucho mayor, lo "
+"suficientemente rápida como para perseguir a enemigos muy ágiles, y la "
+"capacidad de usar chispas de magia negra para atacar directamente a los "
+"objetivos seleccionados.\n"
+"\n"
+"Se sabe que Black Portals puede devorar casi cualquier cosa que esté cerca, "
+"incluidos seres vivos, mágicos, muertos vivientes y mecánicos. La materia "
+"consumida ayuda a estas extrañas unidades a estabilizar sus singularidades, "
+"lo que les permite durar más en los campos de batalla."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Destroyers/Black_Portal.cfg:199
@@ -2131,6 +2146,7 @@ msgstr "Gigante de hueso"
 
 #. [unit_type]: id=EoMa_Bone_Giant, race=undead
 #: Era_of_Magic/units/Destroyers/Bone_Giant.cfg:25
+#, fuzzy
 msgid ""
 "Bone giants are gigantic necromantic constructs of bone, of varying heights: "
 "they've incorporated thousands of broken bones into their body, making it "
@@ -2139,6 +2155,12 @@ msgid ""
 "bone golems into giants is so large that seeing one means you will become "
 "part of him."
 msgstr ""
+"Los gigantes de hueso son gigantescas construcciones nigrománticas de hueso, "
+"de diferentes alturas: han incorporado miles de huesos rotos en su cuerpo, "
+"haciéndolo muy resistente al daño físico. Su tamaño es quizás uno de sus "
+"factores más limitantes: la cantidad de hueso necesaria para transformar los "
+"ya masivos golems de hueso en gigantes es tan grande que ver uno significa "
+"que te convertirás en parte de él."
 
 #. [unit_type]: id=EoMa_Bone_Golem, race=undead
 #: Era_of_Magic/units/Destroyers/Bone_Golem.cfg:4
@@ -2147,6 +2169,7 @@ msgstr "Golem de hueso"
 
 #. [unit_type]: id=EoMa_Bone_Golem, race=undead
 #: Era_of_Magic/units/Destroyers/Bone_Golem.cfg:25
+#, fuzzy
 msgid ""
 "As the dark forces of the destroyers tighten their grip around a "
 "civilization and exterminate it, some corpses of the former living race are "
@@ -2154,6 +2177,12 @@ msgid ""
 "upon the osseous matter of these fallen enemies, up until their skeletal "
 "mass doubles in size and strength, becoming golems in the process."
 msgstr ""
+"A medida que las fuerzas oscuras de los destructores aprietan su control "
+"sobre una civilización y la exterminan, algunos cadáveres de la antigua raza "
+"viviente están destinados a romperse más allá de los poderes nigrománticos "
+"para reanimarlos. Las bestias óseas se alimentan de la materia ósea de estos "
+"enemigos caídos, hasta que su masa esquelética se duplica en tamaño y "
+"fuerza, convirtiéndose en golems en el proceso."
 
 #. [unit_type]: id=EoMa_Chaotic_Observer, race=undead, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Destroyers/Chaotic_Observer.cfg:4
@@ -2174,6 +2203,7 @@ msgstr "Atokpi carmesí"
 
 #. [unit_type]: id=EoMa_Crimson_Atokpi, race=undead
 #: Era_of_Magic/units/Destroyers/Crimson_Atokpi.cfg:26
+#, fuzzy
 msgid ""
 "It is said that elite troops of the Atokpi Empire were capable of carrying "
 "legendary Doom Spears of astonishing length. Thanks to these powerful "
@@ -2187,6 +2217,19 @@ msgid ""
 "and assault weak spots in enemy defense lines, allowing the undead swarm to "
 "destroy even the most fortified targets from behind."
 msgstr ""
+"Se dice que las tropas de élite del Imperio Atokpi eran capaces de portar "
+"legendarias Lanzas de la Perdición de asombrosa longitud. Gracias a estas "
+"poderosas armas, eran capaces de matar a cualquier tipo de enemigo blindado "
+"con un solo golpe. Pero lamentablemente para Atokpi, sus mejores guerreros "
+"no fueron tan efectivos como se esperaba contra los enjambres de muertos "
+"vivientes. Los destructores intentaron equipar las lanzas de la perdición, "
+"pero ninguno de sus Atokpis muertos vivientes pudo siquiera llevar una de "
+"estas increíbles armas, es por eso que solo equiparon la versión más corta "
+"pero más portátil de Yari, que generalmente usan los novatos. Crimson "
+"Atokpis, aunque más pequeños que sus contrapartes samuráis, son muy ágiles e "
+"intentarán encontrar y atacar los puntos débiles en las líneas de defensa "
+"enemigas, permitiendo que el enjambre de muertos vivientes destruya incluso "
+"los objetivos más fortificados desde atrás."
 
 #. [unit_type]: id=EoMa_Cyclops_Necromancer, race=undead
 #: Era_of_Magic/units/Destroyers/Cyclops_Necromancer.cfg:4
@@ -5721,6 +5764,7 @@ msgstr "Invocador pesado"
 
 #. [unit_type]: id=EoMa_Heavy_Summoner, race=eoma_summoner
 #: Era_of_Magic/units/Summoners/Heavy_Summoner.cfg:22
+#, fuzzy
 msgid ""
 "A summoner trained in the ‘heavy arts’ holds a unique advantage over other "
 "summoners of the Third Degree: the knowledge of summoning a support-based "
@@ -5737,6 +5781,21 @@ msgid ""
 "summoners can call forth Rhamis from the Abyss through their summoning "
 "circles."
 msgstr ""
+"Un invocador entrenado en las \"artes pesadas\" posee una ventaja única "
+"sobre los demás invocadores del Tercer Grado: el conocimiento de la "
+"invocación de un círculo de apoyo alrededor de sí mismo y de sus aliados. "
+"Los círculos de resistencia repelerán los ataques mágicos entrantes, "
+"reduciendo su impacto y protegiendo a los compañeros del invocador pesado.\n"
+"\n"
+"Los invocadores pesados están disciplinados para luchar en peleas directas "
+"cara a cara, y cuentan con un físico construido para la resistencia y la "
+"fuerza. En lugar de centrar su entrenamiento en las artes de invocación, "
+"cultivan su fuerza física a lo largo de los años para dominar los combates "
+"cuerpo a cuerpo.\n"
+"\n"
+"Al igual que sus compañeros invocadores neutrales, que pueden invocar "
+"Genios, los invocadores pesados pueden invocar Rhamis del Abismo a través de "
+"sus círculos de invocación."
 
 #. [abilities]
 #: Era_of_Magic/units/Summoners/Heavy_Summoner.cfg:90
@@ -6222,6 +6281,7 @@ msgstr "Genio maravilloso"
 
 #. [unit_type]: id=EoMa_Wonderful_Jinn, race=eoma_magical
 #: Era_of_Magic/units/Summoners/Wonderful_Jinni.cfg:20
+#, fuzzy
 msgid ""
 "Wonderful jinn are sages in the summoners’ society, spreading their wisdom "
 "to any ear willing to listen. Their unequalled imagination and intellect of "
@@ -6233,6 +6293,16 @@ msgid ""
 "sated their immeasurable thirst, for they still follow the orders of their "
 "superiors and have not yet retired into the shadows of the world."
 msgstr ""
+"Los maravillosos jinn son sabios en la sociedad de los invocadores, que "
+"difunden su sabiduría a cualquier oído dispuesto a escuchar. Su inigualable "
+"imaginación e intelecto del mundo se hace evidente a través de su vasta "
+"multitud de hechizos elementales y arcanos. Los jinn de tan alto calibre han "
+"aprendido por sí mismos a realizar invocaciones ofensivas, un logro que les "
+"granjea un gran respeto entre sus pares humanos. Hace tiempo que los jinn "
+"maravillosos se independizaron y dejaron de ser siervos de sus amos. Es un "
+"misterio si han saciado o no su inconmensurable sed, pues aún siguen las "
+"órdenes de sus superiores y todavía no se han retirado a las sombras del "
+"mundo."
 
 #. [attack]: type=secret
 #: Era_of_Magic/units/Summoners/Wonderful_Jinni.cfg:112
@@ -6374,11 +6444,15 @@ msgstr "aura carmesí"
 
 #. [drains]: id=eoma_crimson_aura
 #: Era_of_Magic/units/Tharis/Crimson_Blade.cfg:37
+#, fuzzy
 msgid ""
 "All adjacent enemy units take damage equal to 15% of damage they deal. This "
 "ability cannot, of itself, kill a unit. It will remain on a battlefield with "
 "1 HP instead."
 msgstr ""
+"Todas las unidades enemigas adyacentes reciben un daño igual al 15% of de "
+"daño que infligen. Esta habilidad no puede, por sí misma, matar a una "
+"unidad. En su lugar, permanecerá en el campo de batalla con 1 PS."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -6581,6 +6655,7 @@ msgstr "Primera línea"
 
 #. [unit_type]: id=EoMa_Frontliner, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Frontliner.cfg:19
+#, fuzzy
 msgid ""
 "Unlike most Tharis troops, these warriors have been trained for direct "
 "combat rather than sneak tactics like poison or no counter attack "
@@ -6588,6 +6663,12 @@ msgid ""
 "They are noticeably more resilient than most, carrying two curved swords for "
 "melee combat and chakrams for ranged encounters."
 msgstr ""
+"A diferencia de la mayoría de las tropas Tharis, estos guerreros han sido "
+"entrenados para el combate directo en lugar de tácticas furtivas como el "
+"veneno o técnicas de contraataque inexistentes.\n"
+"Son notablemente más resistentes que la mayoría, ya que llevan dos espadas "
+"curvas para el combate cuerpo a cuerpo y chakrams para los encuentros a "
+"distancia."
 
 #. [unit_type]: id=EoMa_Great_Hunter, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Great_Hunter.cfg:4
@@ -6681,12 +6762,18 @@ msgstr "Hidra"
 
 #. [unit_type]: id=EoMa_Hydra, race=monster
 #: Era_of_Magic/units/Tharis/Hydra.cfg:19
+#, fuzzy
 msgid ""
 "Raised in the deepest and darkest parts of the underground tunnels beneath "
 "the Tharis country, Hydras are regenerative, three-headed beasts, capable of "
 "harming several foes standing side by side at one swoop. Worse still, these "
 "water snakes are merely youths – mature hydras are even more terrifying..."
 msgstr ""
+"Criadas en las partes más profundas y oscuras de los túneles subterráneos "
+"bajo el país de Tharis, las hidras son bestias regenerativas de tres "
+"cabezas, capaces de dañar a varios enemigos de un solo golpe. Peor aún, "
+"estas serpientes de agua no son más que crías: las hidras maduras son aún "
+"más aterradoras..."
 
 #. [unit_type]: id=EoMa_Master_of_Darkness, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:4
@@ -6695,6 +6782,7 @@ msgstr "Maestro de la oscuridad"
 
 #. [unit_type]: id=EoMa_Master_of_Darkness, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:21
+#, fuzzy
 msgid ""
 "While the title of Great Warlock is undoubtedly very prestigious, it's "
 "strongly overshadowed by that of a Master of Darkness. The Master of "
@@ -6706,6 +6794,16 @@ msgid ""
 "cast spells that shatter even the most robust structures with ease, shrug "
 "off heavy plows like minor bruises, and dissipate into bats."
 msgstr ""
+"Aunque el título de Gran Brujo es sin duda muy prestigioso, queda muy "
+"eclipsado por el de Maestro de las Tinieblas. El Maestro de las Tinieblas es "
+"el monarca de Tharis y una figura religiosa. Cada siglo, los grandes brujos "
+"más poderosos son seleccionados por los dioses oscuros como candidatos al "
+"título, y tienen que aventurarse en las profundidades malditas. El brujo que "
+"sobrevive a los rituales sin perder completamente la cordura es reconocido "
+"como el líder. Los dioses oscuros le conceden muchos poderes, entre ellos la "
+"capacidad de lanzar hechizos que destrozan con facilidad incluso las "
+"estructuras más robustas, encogerse de hombros ante arados pesados como si "
+"fueran pequeñas contusiones y disiparse en murciélagos."
 
 #. [attack]: type=cold
 #. [attack]: type=impact
@@ -6864,6 +6962,7 @@ msgstr "Bailarín de las espadas"
 
 #. [unit_type]: id=EoMa_Sworddancer, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Sword_Dancer.cfg:19
+#, fuzzy
 msgid ""
 "It is no secret that a chakram's main drawback as a melee weapon is its "
 "short length. Thus, when they are able to, experienced blade dancers always "
@@ -6874,6 +6973,15 @@ msgid ""
 "reflexes allow them to easily dodge most of enemy attacks, while mercilessly "
 "slicing their enemies into pieces."
 msgstr ""
+"No es ningún secreto que el principal inconveniente de un chakram como arma "
+"cuerpo a cuerpo es su corta longitud. Por eso, cuando pueden, los danzantes "
+"de espadas experimentados siempre cambian a espadas cortas para solucionar "
+"este problema. Sin embargo, siguen llevando chakrams para el combate a "
+"distancia, en el que han mejorado. Siguen utilizando las mismas sustancias "
+"psicodélicas antes del combate, por lo que su estilo de lucha con espadas no "
+"difiere mucho del que utilizaban cuando usaban chakrams. Sus reflejos "
+"mejorados les permiten esquivar fácilmente la mayoría de los ataques "
+"enemigos, mientras los cortan en pedazos sin piedad."
 
 #. [unit_type]: id=EoMa_Witch, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Witch.cfg:4
@@ -7101,12 +7209,18 @@ msgstr "muerte furiosa"
 
 #. [damage]: id=eoma_furiousdeath{DMG}{TYPE}
 #: Era_of_Magic/utils/abilities.cfg:162
+#, fuzzy
 msgid ""
 "Moments before this unit's death, it flies into a fury, dealing some impact "
 "damage to adjacent units, friend or foes alike. When a harmed adjacent unit "
 "goes to or below 0 HP, its HP are set to 1 instead of being killed.\n"
 "The amount of damage dealt:"
 msgstr ""
+"Momentos antes de la muerte de esta unidad, vuela con furia e inflige daño "
+"de impacto a las unidades adyacentes, ya sean amigas o enemigas. Cuando una "
+"unidad adyacente dañada llega a 0 PV o menos, sus PV se fijan en 1 en lugar "
+"de morir.\n"
+"La cantidad de daño infligido:"
 
 #. [dummy]: id=eoma_hardlanding{DMG}{TYPE}
 #: Era_of_Magic/utils/abilities.cfg:215
@@ -7115,11 +7229,15 @@ msgstr "aterrizaje forzoso"
 
 #. [dummy]: id=eoma_hardlanding{DMG}{TYPE}
 #: Era_of_Magic/utils/abilities.cfg:216
+#, fuzzy
 msgid ""
 "When this large unit is destroyed, it falls on a ground dealing damage to "
 "all adjacent units. When a harmed adjacent unit goes to or below 0 HP, its "
 "HP are set to 1 instead of being killed."
 msgstr ""
+"Cuando esta gran unidad es destruida, cae al suelo infligiendo daño a todas "
+"las unidades adyacentes. Cuando una unidad adyacente dañada llega a 0 PV o "
+"menos, sus PV se fijan en 1 en lugar de morir."
 
 #. [dummy]: id=eoma_parachute
 #: Era_of_Magic/utils/abilities.cfg:261
@@ -7128,10 +7246,14 @@ msgstr "paracaídas"
 
 #. [dummy]: id=eoma_parachute
 #: Era_of_Magic/utils/abilities.cfg:262
+#, fuzzy
 msgid ""
 "The pilot of this machine is equipped with a parachute, and he can survive "
 "the destruction of his vehicle, continuing to fight as a lvl0 unit."
 msgstr ""
+"El piloto de esta máquina está equipado con un paracaídas, y puede "
+"sobrevivir a la destrucción de su vehículo, continuando la lucha como una "
+"unidad lvl0."
 
 #. [damage]: id=eoma_areaeffect
 #: Era_of_Magic/utils/abilities.cfg:301
@@ -7180,12 +7302,17 @@ msgstr "coleccionista"
 
 #. [damage]: id=eoma_collector{VALUE}
 #: Era_of_Magic/utils/abilities.cfg:651
+#, fuzzy
 msgid ""
 "This unit gains some HP added to its current health whenever it kills a non-"
 "magical unit. It also gains +1 max HP with each successful kill of a non-"
 "magical unit. This special works only on offense.\n"
 "The amount of hitpoints gained:"
 msgstr ""
+"Esta unidad gana algunos PV añadidos a su vida actual cada vez que mata a "
+"una unidad no mágica. También gana +1 PS máximos con cada muerte exitosa de "
+"una unidad no mágica. Este especial sólo funciona a la ofensiva.\n"
+"La cantidad de puntos de vida ganados:"
 
 #. [floating_text]
 #: Era_of_Magic/utils/abilities.cfg:685
@@ -7298,10 +7425,14 @@ msgstr "deslumbrar"
 
 #. [damage]: id=eoma_dazzle
 #: Era_of_Magic/utils/abilities.cfg:1183
+#, fuzzy
 msgid ""
 "When used offensively, units hit with this attack suffer a 35% reduction in "
 "damage and a 10% reduction in defenses for 1 turn"
 msgstr ""
+"Cuando se utiliza ofensivamente, las unidades alcanzadas por este ataque "
+"sufren una reducción del daño de 35% r y una reducción de la defensa de 10% "
+"r durante 1 turno"
 
 #. [chance_to_hit]: id=eoma_stun
 #: Era_of_Magic/utils/abilities.cfg:1328
@@ -7310,11 +7441,15 @@ msgstr "aturdir"
 
 #. [chance_to_hit]: id=eoma_stun
 #: Era_of_Magic/utils/abilities.cfg:1329
+#, fuzzy
 msgid ""
 "This attack puts enormous pressure on the enemy, disrupting his ZOC if a hit "
 "is landed. Not active on defense. Does not work on units that do not have a "
 "ZoC."
 msgstr ""
+"Este ataque ejerce una enorme presión sobre el enemigo, interrumpiendo su "
+"ZOC si se acierta. No se activa en defensa. No funciona con unidades que no "
+"tengan ZoC."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:1367
@@ -7328,11 +7463,15 @@ msgstr "sed de sangre"
 
 #. [dummy]: id=eoma_bloodlust{VALUE}
 #: Era_of_Magic/utils/abilities.cfg:1453
+#, fuzzy
 msgid ""
 "This unit gains hitpoints added to its current health whenever it kills a "
 "living unit. This ability works only on offense.\n"
 "The amount of hitpoints gained:"
 msgstr ""
+"Esta unidad gana puntos de vida añadidos a su salud actual cada vez que mata "
+"a una unidad viva. Esta habilidad sólo funciona en ataque.\n"
+"La cantidad de puntos de vida ganados:"
 
 #. [damage]: id=eoma_supercharge
 #: Era_of_Magic/utils/abilities.cfg:1528
@@ -7341,6 +7480,7 @@ msgstr "súpercarga"
 
 #. [damage]: id=eoma_supercharge
 #: Era_of_Magic/utils/abilities.cfg:1529
+#, fuzzy
 msgid ""
 "When used offensively, this attack deals 150% damage to the target. It also "
 "causes this unit to take 150% damage from the target’s counterattack.\n"
@@ -7348,6 +7488,12 @@ msgid ""
 "When the opponent is defeated, the attacker with this ability moves to the "
 "opponent's location."
 msgstr ""
+"Cuando se usa ofensivamente, este ataque inflige 150% dde daño al objetivo. "
+"También hace que esta unidad reciba 150% dde daño del contraataque del "
+"objetivo.\n"
+"\n"
+"Cuando el oponente es derrotado, el atacante con esta habilidad se desplaza "
+"a la ubicación del oponente."
 
 #. [dummy]: id=eoma_scavenger{VALUE}
 #: Era_of_Magic/utils/abilities.cfg:1586
@@ -7485,11 +7631,15 @@ msgstr "alrededor"
 
 #. [dummy]: id=eoma_allaround
 #: Era_of_Magic/utils/allaround.cfg:76
+#, fuzzy
 msgid ""
 "This attack can hit some of adjacent enemy units (or even all depending on "
 "your luck) Works only on offense.\n"
 "This ability does not work on defense and against berserker units."
 msgstr ""
+"Este ataque puede golpear a algunas de las unidades enemigas adyacentes (o "
+"incluso a todas dependiendo de tu suerte) Funciona sólo a la ofensiva.\n"
+"Esta habilidad no funciona en defensa ni contra unidades berserker."
 
 #. [hides]: id=eoma_mountainambush
 #: Era_of_Magic/utils/ambush.cfg:5
@@ -7592,12 +7742,18 @@ msgstr "despertar"
 
 #. [dummy]: id=eoma_awake
 #: Era_of_Magic/utils/awake.cfg:6
+#, fuzzy
 msgid ""
 "If a friendly adjacent unit with more than one hitpoint dies, it is "
 "resurrected, gets +6 experience and remains in battle with one hitpoint. If "
 "it dies again (having one hitpoint), it will be killed for sure.\n"
 "Doesn't work on units attacked indirectly e.g. by area weapons."
 msgstr ""
+"Si una unidad amiga adyacente con más de un punto de vida muere, es "
+"resucitada, obtiene +6 de experiencia y permanece en batalla con un punto de "
+"vida. Si muere de nuevo (teniendo un punto de vida), morirá con seguridad.\n"
+"No funciona con unidades atacadas indirectamente, por ejemplo, por armas de "
+"área."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/awake.cfg:69
@@ -7654,6 +7810,7 @@ msgstr ""
 "daño (−40% nivel 0, −30% nivel 1, −15% nivel 2, −10% nivel 3)."
 
 #: Era_of_Magic/utils/awe.cfg:134
+#, fuzzy
 msgid ""
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
@@ -7666,6 +7823,17 @@ msgid ""
 "- Tharis race\n"
 "- cyclops"
 msgstr ""
+"Esta unidad puede asustar a las unidades enemigas que estén junto a ella, "
+"haciendo que luchen peor.\n"
+"\n"
+"Hay unidades inmunes a los efectos de esta habilidad. El pavor no funciona "
+"con\n"
+"- unidades no muertas\n"
+"- unidades mecánicas\n"
+"- unidades mágicas\n"
+"- unidades intrépidas\n"
+"- Raza Tharis\n"
+"- cíclopes"
 
 #. [leadership]: id=eoma_awe1
 #: Era_of_Magic/utils/awe.cfg:149
@@ -7694,12 +7862,17 @@ msgstr "desterrar"
 
 #. [damage]: id=eoma_banish
 #: Era_of_Magic/utils/banish.cfg:21
+#, fuzzy
 msgid ""
 "If this attack hits an enemy magical unit, the enemy will turn into a "
 "‘Dimensional Gate’, (this happens only if the target is of lower level in "
 "comparison to the owner of this weapon special). If the enemy is of the same "
 "level, then it won't be affected."
 msgstr ""
+"Si este ataque golpea a una unidad mágica enemiga, el enemigo se convertirá "
+"en una \"Puerta dimensional\", (esto sólo ocurre si el objetivo es de nivel "
+"inferior en comparación con el propietario de esta arma especial). Si el "
+"enemigo es del mismo nivel, entonces no se verá afectado."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/banish.cfg:237 Era_of_Magic/utils/drone-upgrades.cfg:547
@@ -7711,12 +7884,18 @@ msgstr "+3 exp"
 
 #. [damage]: id=eoma_beam
 #: Era_of_Magic/utils/beam.cfg:89
+#, fuzzy
 msgid ""
 "When this attack is used, the attacker can hurt a unit behind his primary "
 "target and a unit behind that unit (3 units total). Damage dealt to the "
 "second target equals to 2/3 of raw firepower. Damage dealt to the third "
 "target equals to 1/3 of raw firepower. This effect works only on offence."
 msgstr ""
+"Cuando se usa este ataque, el atacante puede dañar a una unidad detrás de su "
+"objetivo principal y a una unidad detrás de esa unidad (3 unidades en "
+"total). El daño infligido al segundo objetivo equivale a 2/3 de la potencia "
+"de fuego bruta. El daño infligido al tercer objetivo equivale a 1/3 de la "
+"potencia de fuego bruta. Este efecto sólo funciona en ataque."
 
 #. [damage]: id=eoma_bleed
 #: Era_of_Magic/utils/bleed.cfg:10
@@ -7725,12 +7904,17 @@ msgstr "sangra"
 
 #. [damage]: id=eoma_bleed
 #: Era_of_Magic/utils/bleed.cfg:11
+#, fuzzy
 msgid ""
 "This attack causes living targets to bleed. Bleeding units have their moves "
 "reduced by 2, damage reduced by 15% and lose random 1-5 HP every turn until "
 "they are cured or are reduced to 1 HP. Bleeding cannot, of itself, kill a "
 "unit."
 msgstr ""
+"Este ataque hace sangrar a los objetivos vivos. Las unidades sangrantes ven "
+"reducidos sus movimientos en 2, su daño en 15% ay pierden aleatoriamente "
+"entre 1 y 5 PS cada turno hasta que se curan o quedan reducidas a 1 PS. La "
+"hemorragia no puede, por sí misma, matar a una unidad."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/bleed.cfg:54 Era_of_Magic/utils/bleed.cfg:119
@@ -7878,11 +8062,15 @@ msgstr "contra magia"
 
 #. [chance_to_hit]: id=eoma_magic_counter
 #: Era_of_Magic/utils/chancetohit.cfg:141
+#, fuzzy
 msgid ""
 "This attack reduces magical chance to hit of opponents by 20% (down to 50%). "
 "It also reduces enchanted chance to hit of opponents by 10% (down to 50% as "
 "well)."
 msgstr ""
+"Este ataque reduce la probabilidad mágica de golpear de los oponentes en un "
+"20% (hasta un 50%). También reduce la probabilidad de golpe encantado de los "
+"oponentes en un 10% (hasta 50% as bien)."
 
 #. [chance_to_hit]: id=eoma_magic_counter_offensive
 #: Era_of_Magic/utils/chancetohit.cfg:165
@@ -7891,11 +8079,16 @@ msgstr "contra magia (ofensivo)"
 
 #. [chance_to_hit]: id=eoma_magic_counter_offensive
 #: Era_of_Magic/utils/chancetohit.cfg:166
+#, fuzzy
 msgid ""
 "When used offensively, this attack reduces magical chance to hit of "
 "opponents by 20% (down to 50%). It also reduces enchanted chance to hit of "
 "opponents by 10% (down to 50% as well)."
 msgstr ""
+"Cuando se utiliza ofensivamente, este ataque reduce la probabilidad mágica "
+"de golpear de los oponentes en un 20% (hasta un 50%). También reduce la "
+"probabilidad de golpe encantado de los oponentes en un 10% (hasta 50% as "
+"bien)."
 
 #. [dummy]: id=eoma_chronoaura
 #: Era_of_Magic/utils/chronoaura.cfg:5
@@ -7904,6 +8097,7 @@ msgstr "cronoaura"
 
 #. [dummy]: id=eoma_chronoaura
 #: Era_of_Magic/utils/chronoaura.cfg:6
+#, fuzzy
 msgid ""
 "Time flows slower around this unit. This has the following effects:\n"
 "- all adjacent friendly units receive +5% chance to hit bonus;\n"
@@ -7920,6 +8114,23 @@ msgid ""
 "\n"
 "To cast the spell right-click the unit and select 'Activate Aura'."
 msgstr ""
+"El tiempo fluye más despacio alrededor de esta unidad. Esto tiene los "
+"siguientes efectos\n"
+"- todas las unidades amigas adyacentes reciben una bonificación de +5% "
+"cprobabilidad de impacto;\n"
+"- todas las unidades enemigas adyacentes reciben una penalización de -5% "
+"cprobabilidad de impacto (excepto los ataques que siempre impactan)\n"
+"\n"
+"Además, esta unidad puede lanzar un poderoso hechizo de manipulación del "
+"tiempo con los siguientes efectos que duran un turno:\n"
+"- esta unidad y todas las unidades amigas adyacentes golpean primero y "
+"reciben una bonificación de +15% cde probabilidad de impacto;\n"
+"- todas las unidades enemigas adyacentes reciben una penalización de -15% "
+"chance to hit (excepto los ataques que siempre impactan);\n"
+"- el lanzador del hechizo obtiene la habilidad de escaramuzador.\n"
+"\n"
+"Para lanzar el hechizo, haz clic con el botón derecho en la unidad y "
+"selecciona \"Activar aura\"."
 
 #. [set_menu_item]: id=eoma_chronoaura_menu
 #: Era_of_Magic/utils/chronoaura.cfg:67
@@ -7943,12 +8154,18 @@ msgstr "cronoaura (activa)"
 
 #. [firststrike]: id=eoma_chronoauractive
 #: Era_of_Magic/utils/chronoaura.cfg:158
+#, fuzzy
 msgid ""
 "This unit and all adjacent friendly units strike first and receive +15% "
 "chance to hit bonus, while all adjacent enemy units receive -15% chance to "
 "hit penalty (except for attacks which always hit). The ability lasts one "
 "turn."
 msgstr ""
+"Esta unidad y todas las unidades amigas adyacentes golpean primero y reciben "
+"una bonificación de +15% cprobabilidad de impacto, mientras que todas las "
+"unidades enemigas adyacentes reciben una penalización de -15% cprobabilidad "
+"de impacto (excepto los ataques que siempre impactan). La habilidad dura un "
+"turno."
 
 #. [dummy]: id=eoma_cleave
 #. [dummy]: id=eoma_cleave{DISPLAYVALUE}
@@ -7958,14 +8175,19 @@ msgstr "atravesar"
 
 #. [dummy]: id=eoma_cleave
 #: Era_of_Magic/utils/cleave.cfg:129
+#, fuzzy
 msgid ""
 "A unit with this ability can hurt units that are adjacent to the attacker "
 "and the defender at the same time.\n"
 "This ability does not work against berserker units."
 msgstr ""
+"Una unidad con esta habilidad puede dañar a unidades que estén adyacentes al "
+"atacante y al defensor al mismo tiempo.\n"
+"Esta habilidad no funciona contra unidades berserker."
 
 #. [dummy]: id=eoma_cleave{DISPLAYVALUE}
 #: Era_of_Magic/utils/cleave.cfg:306
+#, fuzzy
 msgid ""
 "A unit with this ability can hurt units that are adjacent to the attacker "
 "and the defender at the same time. The damage dealt equals a specified % of "
@@ -7973,6 +8195,11 @@ msgid ""
 "This ability does not work against berserker units.\n"
 "Base damage multiplier:"
 msgstr ""
+"Una unidad con esta habilidad puede dañar al mismo tiempo a unidades "
+"adyacentes al atacante y al defensor. El daño infligido es igual a un % of "
+"especificado del daño base.\n"
+"Esta habilidad no funciona contra unidades berserker.\n"
+"Multiplicador del daño base:"
 
 #. [dummy]: id=eoma_cleavehalf
 #: Era_of_Magic/utils/cleave.cfg:490
@@ -7981,12 +8208,17 @@ msgstr "atravesar 50%"
 
 #. [dummy]: id=eoma_cleavehalf
 #: Era_of_Magic/utils/cleave.cfg:491
+#, fuzzy
 msgid ""
 "A unit with this ability can hurt units that are adjacent to the attacker "
 "and the defender at the same time. The damage dealt equals 50% of the base "
 "damage.\n"
 "This ability does not work against berserker units."
 msgstr ""
+"Una unidad con esta habilidad puede dañar al mismo tiempo a unidades "
+"adyacentes al atacante y al defensor. El daño infligido es igual al 50% of "
+"del daño base.\n"
+"Esta habilidad no funciona contra unidades berserker."
 
 #. [dummy]: id=splitfire
 #: Era_of_Magic/utils/doubleattack.cfg:9
@@ -8342,6 +8574,7 @@ msgstr ""
 "sus antiguas tierras hasta el día de hoy."
 
 #: Era_of_Magic/utils/faction_descriptions.cfg:25
+#, fuzzy
 msgid ""
 "Little is known about these powerful undead beings. They are fueled by anti-"
 "magic, and consist of the remnants of long-forgotten civilizations, once "
@@ -8353,6 +8586,15 @@ msgid ""
 "North Pole. It's rumored that these beings are the same ones the Tharis "
 "worship."
 msgstr ""
+"Poco se sabe de estos poderosos seres no muertos. Están alimentados por "
+"antimagia, y consisten en los restos de civilizaciones olvidadas hace mucho "
+"tiempo, una vez consumidas por el enjambre caótico. Se especula que los "
+"Destructores fueron creados hace mucho tiempo como un arma, que se "
+"descontroló en algún momento. Esto podría explicar el Cataclismo, un "
+"acontecimiento que casi acabó con toda la vida del planeta en la antigüedad. "
+"Aunque la mayoría de estas abominaciones han sido aniquiladas por los "
+"Runemaster, sus restos aún vagan por el Polo Norte. Se rumorea que estos "
+"seres son los mismos a los que adoran los Tharis."
 
 #. [damage]: id=eoma_growingfury{ARRAY}{ADD}
 #: Era_of_Magic/utils/growing-fury.cfg:10
@@ -8380,6 +8622,7 @@ msgstr "sana"
 
 #. [heals]: id=eoma_healing{VALUE}
 #: Era_of_Magic/utils/healing.cfg:80
+#, fuzzy
 msgid ""
 "Allows the unit to heal adjacent allied units at the beginning of its turn.\n"
 "\n"
@@ -8389,6 +8632,14 @@ msgid ""
 "care of a village or a unit that can cure.\n"
 "The amount of hitpoints healed:"
 msgstr ""
+"Permite a la unidad curar a las unidades aliadas adyacentes al comienzo de "
+"su turno.\n"
+"\n"
+"Una unidad atendida por este curandero puede curar hasta algunos PV por "
+"turno, o evitar que el veneno tenga efecto durante ese turno.\n"
+"Una unidad envenenada no puede ser curada de su veneno por un sanador, y "
+"debe buscar el cuidado de un pueblo o de una unidad que pueda curar.\n"
+"La cantidad de puntos de vida curados:"
 
 #. [regenerate]: id=eoma_regenerates{VALUE}
 #: Era_of_Magic/utils/healing.cfg:108
@@ -8402,11 +8653,15 @@ msgstr ""
 
 #. [regenerate]: id=eoma_regenerates{VALUE}
 #: Era_of_Magic/utils/healing.cfg:123
+#, fuzzy
 msgid ""
 "The unit will heal itself some HP per turn. If it is poisoned, it will "
 "remove the poison instead of healing.\n"
 "The amount of hitpoints restored:"
 msgstr ""
+"La unidad se curará algunos PS por turno. Si está envenenada, eliminará el "
+"veneno en lugar de curarse.\n"
+"Cantidad de puntos de vida recuperados:"
 
 #. [regenerate]: id=regen6
 #: Era_of_Magic/utils/healing.cfg:143
@@ -8464,12 +8719,17 @@ msgstr "regeneración acuática"
 
 #. [regenerate]: id=eoma_water_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:194
+#, fuzzy
 msgid ""
 "When standing on water (except ford and reef terrain), this unit will heal "
 "itself some HP per turn. If it is poisoned, it will remove the poison "
 "instead of healing.\n"
 "The amount of hitpoints restored:"
 msgstr ""
+"Cuando esté sobre el agua (excepto en terreno de vados y arrecifes), esta "
+"unidad se curará algunos PS por turno. Si está envenenada, eliminará el "
+"veneno en lugar de curarse.\n"
+"Cantidad de puntos de vida recuperados:"
 
 #. [regenerate]: id=eoma_nature_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:211
@@ -8478,12 +8738,17 @@ msgstr "regeneración natural"
 
 #. [regenerate]: id=eoma_nature_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:212
+#, fuzzy
 msgid ""
 "When standing on a forest or mushroom tile, this unit will heal itself some "
 "HP per turn. If it is poisoned, it will remove the poison instead of "
 "healing.\n"
 "The amount of hitpoints restored:"
 msgstr ""
+"Cuando esté sobre una loseta de bosque o de seta, esta unidad se curará "
+"algunos PS por turno. Si está envenenada, eliminará el veneno en lugar de "
+"curarse.\n"
+"Cantidad de puntos de vida recuperados:"
 
 #. [regenerate]: id=eoma_swamp_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:229
@@ -8492,11 +8757,15 @@ msgstr "regeneración en pantano"
 
 #. [regenerate]: id=eoma_swamp_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:230
+#, fuzzy
 msgid ""
 "When standing on a swamp tile, this unit will heal itself some HP per turn. "
 "If it is poisoned, it will remove the poison instead of healing.\n"
 "The amount of hitpoints restored:"
 msgstr ""
+"Cuando esté sobre una loseta de pantano, esta unidad se curará algunos PS "
+"por turno. Si está envenenada, eliminará el veneno en lugar de curarse.\n"
+"Cantidad de puntos de vida recuperados:"
 
 #. [regenerate]: id=eoma_fungal_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:247
@@ -8505,11 +8774,15 @@ msgstr "regeneración fangal"
 
 #. [regenerate]: id=eoma_fungal_regeneration{VALUE}
 #: Era_of_Magic/utils/healing.cfg:248
+#, fuzzy
 msgid ""
 "When standing on a mushroom grove, this unit will heal itself some HP per "
 "turn. If it is poisoned, it will remove the poison instead of healing.\n"
 "The amount of hitpoints restored:"
 msgstr ""
+"Cuando se encuentra en un bosquecillo de setas, esta unidad se cura algunos "
+"PS por turno. Si está envenenada, eliminará el veneno en lugar de curarse.\n"
+"Cantidad de puntos de vida recuperados:"
 
 #. [regenerate]: id=eoma_regeneratessolar1_{VALUE}_{VALUE2}
 #: Era_of_Magic/utils/healing.cfg:266
@@ -8518,12 +8791,18 @@ msgstr "regeneración solar"
 
 #. [regenerate]: id=eoma_regeneratessolar1_{VALUE}_{VALUE2}
 #: Era_of_Magic/utils/healing.cfg:267
+#, fuzzy
 msgid ""
 "The unit will heal itself some HP at dawn or dusk and some HP during day. If "
 "it is poisoned, it will remove the poison instead of healing.\n"
 "The amount of hitpoints restored during day (first value) and at dawn or "
 "dusk (second value):"
 msgstr ""
+"La unidad se curará algunos PS al amanecer o al anochecer y algunos PS "
+"durante el día. Si está envenenada, eliminará el veneno en lugar de "
+"curarse.\n"
+"La cantidad de puntos de vida restaurados durante el día (primer valor) y al "
+"amanecer o al anochecer (segundo valor):"
 
 #. [regenerate]: id=eoma_regeneratesnight1_{VALUE}
 #: Era_of_Magic/utils/healing.cfg:296
@@ -8532,11 +8811,15 @@ msgstr "regeneración nocturna"
 
 #. [regenerate]: id=eoma_regeneratesnight1_{VALUE}
 #: Era_of_Magic/utils/healing.cfg:297
+#, fuzzy
 msgid ""
 "The unit will heal itself some HP during night and when in caves or indoors. "
 "If it is poisoned, it will remove the poison instead of healing.\n"
 "The amount of hitpoints restored:"
 msgstr ""
+"La unidad se curará algunos PS durante la noche y cuando esté en cuevas o en "
+"interiores. Si está envenenada, eliminará el veneno en lugar de curarse.\n"
+"Cantidad de puntos de vida recuperados:"
 
 #. [heals]: id=undeadheal{VALUE}
 #: Era_of_Magic/utils/healing.cfg:315
@@ -8561,12 +8844,18 @@ msgstr "líder racial"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:8
+#, fuzzy
 msgid ""
 "This unit can lead units of the same race as the owner of this ability that "
 "are next to it, making them fight better.\n"
 "\n"
 "Adjacent units of the same race will do more damage in battle (20% more)."
 msgstr ""
+"Esta unidad puede guiar a las unidades de la misma raza que el propietario "
+"de esta habilidad que estén junto a ella, haciendo que luchen mejor.\n"
+"\n"
+"Las unidades adyacentes de la misma raza harán más daño en combate (un 20% "
+"más)."
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:26
@@ -8624,12 +8913,17 @@ msgstr "influencia guerrera"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:117
+#, fuzzy
 msgid ""
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
 "\n"
 "Adjacent friendly units will do 15% more damage in battle."
 msgstr ""
+"Esta unidad puede inspirar a las unidades amigas que estén junto a ella, "
+"haciendo que luchen mejor.\n"
+"\n"
+"Las unidades amigas adyacentes harán un 15% más de daño en batalla."
 
 #. [dummy]: id=eoma_painabsorb{VALUE}
 #. [dummy]: id=eoma_painabsorb_aura{VALUE}
@@ -8645,11 +8939,15 @@ msgstr "Cuando hiere a una unidad viva, esta unidad se cura por "
 
 #. [dummy]: id=eoma_painabsorb_aura{VALUE}
 #: Era_of_Magic/utils/pain_absorption.cfg:98
+#, fuzzy
 msgid ""
 "This unit gains some hitpoints added to its current health whenever an "
 "adjacent living unit is harmed.\n"
 "The amount of hitpoints gained:"
 msgstr ""
+"Esta unidad gana algunos puntos de vida añadidos a su salud actual cada vez "
+"que una unidad viva adyacente es dañada.\n"
+"La cantidad de puntos de vida ganados:"
 
 #. [dummy]: id=eoma_painabsorb_aura_strict{VALUE}
 #: Era_of_Magic/utils/pain_absorption.cfg:178
@@ -8658,11 +8956,16 @@ msgstr "absorción de dolor"
 
 #. [dummy]: id=eoma_painabsorb_aura_strict{VALUE}
 #: Era_of_Magic/utils/pain_absorption.cfg:179
+#, fuzzy
 msgid ""
 "This unit gains some hitpoints added to its current health whenever an "
 "adjacent living unit is harmed with its attacks (directly or indirectly).\n"
 "The amount of hitpoints gained:"
 msgstr ""
+"Esta unidad gana algunos puntos de vida añadidos a su salud actual cada vez "
+"que una unidad viva adyacente es dañada con sus ataques (directa o "
+"indirectamente).\n"
+"La cantidad de puntos de vida ganados:"
 
 #. [dummy]: id=eoma_recruit
 #: Era_of_Magic/utils/recruit.cfg:5
@@ -8671,6 +8974,7 @@ msgstr "reclutar"
 
 #. [dummy]: id=eoma_recruit
 #: Era_of_Magic/utils/recruit.cfg:6
+#, fuzzy
 msgid ""
 "This unit can recruit new units on adjacent tiles, but only when standing in "
 "villages.\n"
@@ -8678,6 +8982,12 @@ msgid ""
 "For more information, choose the 'Recruiting Help' rightclick option which "
 "appears when rightclicking on a unit with the 'recruit' ability."
 msgstr ""
+"Esta unidad puede reclutar nuevas unidades en losetas adyacentes, pero sólo "
+"cuando se encuentre en aldeas.\n"
+"\n"
+"Para más información, elige la opción \"Ayuda para reclutar\" que aparece al "
+"hacer clic con el botón derecho del ratón sobre una unidad con la habilidad "
+"\"reclutar\"."
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/recruit.cfg:209
@@ -8691,6 +9001,7 @@ msgstr "Ayuda de reclutamiento"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/recruit.cfg:240
+#, fuzzy
 msgid ""
 "To recruit a unit right-click on hexes adjacent to a selected recruiter.\n"
 "\n"
@@ -8703,6 +9014,18 @@ msgid ""
 "selected unit able to recruit, or if no recruiter has been selected, a "
 "recruiter next to the selected tile will be chosen randomly."
 msgstr ""
+"Para reclutar una unidad, haz clic con el botón derecho del ratón en los "
+"hexágonos adyacentes a un reclutador seleccionado.\n"
+"\n"
+"Necesitas todos los puntos de movimiento (y ataques restantes) para reclutar "
+"una criatura. Sólo puedes reclutar en aldeas. No se puede reclutar una nueva "
+"unidad en el agua.\n"
+"Cada reclutamiento añade +3 a la experiencia actual.\n"
+"\n"
+"Si hay 2 o más reclutadores, una nueva unidad será reclutada por la última "
+"unidad seleccionada capaz de reclutar, o si no se ha seleccionado ningún "
+"reclutador, se elegirá aleatoriamente un reclutador junto a la ficha "
+"seleccionada."
 
 #. [resistance]: id=eoma_defender
 #: Era_of_Magic/utils/resistance.cfg:8
@@ -8753,6 +9076,7 @@ msgstr "absorción de magia"
 
 #. [resistance]: id=eoma_magicabsorb
 #: Era_of_Magic/utils/resistance.cfg:67
+#, fuzzy
 msgid ""
 "Area around this unit is mostly purged from most kinds of magic (anti-shield "
 "attacks still work fine)\n"
@@ -8760,6 +9084,13 @@ msgid ""
 "and arcane resistances (up to a maximum of 70%),\n"
 "- healing and circle of susceptibility around this unit do not work."
 msgstr ""
+"El área alrededor de esta unidad está mayormente purgada de la mayoría de "
+"los tipos de magia (los ataques anti-escudo aún funcionan bien)\n"
+"- todas las unidades adyacentes (incluidos los enemigos) reciben una "
+"bonificación del 70 % a las resistencias al fuego, al frío y a los arcanos "
+"(hasta un máximo del 70 %).\n"
+"- La curación y el círculo de susceptibilidad alrededor de esta unidad no "
+"funcionan."
 
 #. [resistance]: id=eoma_coldaura
 #: Era_of_Magic/utils/resistance.cfg:88
@@ -8768,6 +9099,7 @@ msgstr "aura fría"
 
 #. [resistance]: id=eoma_coldaura
 #: Era_of_Magic/utils/resistance.cfg:89
+#, fuzzy
 msgid ""
 "- All water tiles around this unit turn to ice on this unit's next turn "
 "(this effect lasts 1 turn).\n"
@@ -8780,6 +9112,18 @@ msgid ""
 "- This ability does not affect other units with the same ability.\n"
 "- This ability does not work on tiles affected by the heat aura ability."
 msgstr ""
+"- Todas las casillas de agua alrededor de esta unidad se convierten en hielo "
+"en el próximo turno de esta unidad (este efecto dura 1 turno).\n"
+"- El propietario de esta habilidad inflige 4 daños por frío a los enemigos "
+"adyacentes cada turno.\n"
+"- Todas las unidades adyacentes con regeneración de agua (incluidos los "
+"elementales de agua y sus avances) se ralentizan.\n"
+"- El área alrededor de esta unidad proporciona una bonificación del 40 % (50 "
+"% máx.) a la resistencia al fuego y una reducción de −25 % (-75 % máx.) a la "
+"resistencia al frío.\n"
+"- Esta habilidad no afecta a otras unidades con la misma habilidad.\n"
+"- Esta habilidad no funciona en mosaicos afectados por la habilidad de aura "
+"de calor."
 
 #. [resistance]: id=eoma_heataura{VALUE}
 #: Era_of_Magic/utils/resistance.cfg:280
@@ -8788,11 +9132,16 @@ msgstr "aura de calor"
 
 #. [resistance]: id=eoma_heataura{VALUE}
 #: Era_of_Magic/utils/resistance.cfg:281
+#, fuzzy
 msgid ""
 "Area around this unit provides a bonus to cold resistance (max 50%). This "
 "ability does not affect other units with the same ability, fire elementals "
 "and Masters of Fire. This ability negates effects of the cold aura ability."
 msgstr ""
+"El área alrededor de esta unidad proporciona una bonificación a la "
+"resistencia al frío (máximo 50%). Esta habilidad no afecta a otras unidades "
+"con la misma habilidad, elementales de fuego y Maestros del Fuego. Esta "
+"habilidad niega los efectos de la habilidad de aura fría."
 
 #. [resistance]: id=eoma_dauntless
 #: Era_of_Magic/utils/resistance.cfg:310
@@ -8865,6 +9214,7 @@ msgstr "aura rúnica"
 
 #. [dummy]: id=eoma_runeaura
 #: Era_of_Magic/utils/runeaura.cfg:6
+#, fuzzy
 msgid ""
 "When this ability is activated, all Rune Masters create special auras.\n"
 "-all ajdacent enemy units get 20 damage,\n"
@@ -8876,6 +9226,18 @@ msgid ""
 "resistance,\n"
 "-the transformation lasts one turn."
 msgstr ""
+"Cuando se activa esta habilidad, todos los Rune Masters crean auras "
+"especiales.\n"
+"-todas las unidades enemigas adyacentes reciben 20 de daño,\n"
+"-unidades adyacentes en hexágonos: s, ne, nw reciben una bonificación del 99 "
+"% a la resistencia al fuego, al frío y a lo arcano,\n"
+"-otras unidades reciben una bonificación del -99 % a la resistencia al "
+"fuego, al frío y a lo arcano,\n"
+"-el aura se puede rotar una vez por turno para cubrir las unidades "
+"apropiadas,\n"
+"-Los Runemasters transformados no pueden atacar, pero tienen un 70% de "
+"resistencia mágica y física,\n"
+"-la transformación dura un turno."
 
 #. [set_menu_item]: id=eoma_runeaura_menu
 #: Era_of_Magic/utils/runeaura.cfg:35
@@ -8921,11 +9283,15 @@ msgstr "aura rúnica (inversa)"
 
 #. [resistance]: id=eoma_runeauraactive3
 #: Era_of_Magic/utils/runeaura.cfg:194
+#, fuzzy
 msgid ""
 "Adjacent units on hexes: n, se, sw receive a 99% bonus to fire, cold and "
 "arcane resistance. Other units receive a -99% bonus to fire, cold and arcane "
 "resistance."
 msgstr ""
+"Las unidades adyacentes en hexágonos: n, se, sw reciben una bonificación del "
+"99 % a la resistencia al fuego, al frío y arcana. Otras unidades reciben una "
+"bonificación del -99 % a la resistencia al fuego, al frío y a lo arcano."
 
 #. [petrifies]: id=sculpts
 #: Era_of_Magic/utils/sculpt.cfg:8
@@ -8962,6 +9328,7 @@ msgstr "clonar estatua"
 
 #. [dummy]: id=eoma_statuecopy
 #: Era_of_Magic/utils/statue-copy.cfg:6
+#, fuzzy
 msgid ""
 "This unit can create a living statue from any adjacent petrified unit (or "
 "any of your normal units, but the process ends the turn of both units). The "
@@ -8969,6 +9336,12 @@ msgid ""
 "be slightly weaker, slower and weak to arcane. Making a statue costs 50% of "
 "the original unit price."
 msgstr ""
+"Esta unidad puede crear una estatua viviente a partir de cualquier unidad "
+"petrificada adyacente (o cualquiera de tus unidades normales, pero el "
+"proceso finaliza el turno de ambas unidades). Las estatuas tienen "
+"estadísticas similares a las de la unidad en la que se basan, pero siempre "
+"serán un poco más débiles, más lentas y débiles a arcanos. Hacer una estatua "
+"cuesta el 50% del precio unitario original."
 
 #. [set_menu_item]: id=statuecopy
 #: Era_of_Magic/utils/statue-copy.cfg:61
@@ -8982,11 +9355,15 @@ msgstr "copiado"
 
 #. [then]
 #: Era_of_Magic/utils/statue-copy.cfg:149
+#, fuzzy
 msgid ""
 "<span color='red'>-50%</span> to arcane resistance\n"
 "<span color='red'>-20%</span> to all other resistances\n"
 "<span color='red'>-20%</span> to damage"
 msgstr ""
+"<span color='red'>-50 %</span> a la resistencia arcana\n"
+"<span color='red'>-20 %</span> a todas las demás resistencias\n"
+"<span color='red'>-20 %</span> de daño"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/statue-copy.cfg:188
@@ -9137,8 +9514,12 @@ msgstr "triple golpe"
 
 #. [dummy]: id=eoma_triplestrike
 #: Era_of_Magic/utils/triplestrike.cfg:8
+#, fuzzy
 msgid ""
 "This attack can hit some enemy units adjacent to a target (up to 3 harmed "
 "units total - depending on your luck).\n"
 "This ability does not work on defense and against berserker units."
 msgstr ""
+"Este ataque puede golpear a algunas unidades enemigas adyacentes a un "
+"objetivo (hasta 3 unidades dañadas en total, dependiendo de tu suerte).\n"
+"Esta habilidad no funciona en defensa y contra unidades berserker."
