@@ -878,7 +878,7 @@ msgstr "¿Me habéis llamado, maestro?"
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
 msgid "Hey!"
-msgstr "¡Ey!"
+msgstr "¡Eh!"
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
 msgid ""
@@ -5281,7 +5281,7 @@ msgstr ""
 
 #. [message]: speaker=Elder
 msgid "Hey! Come back, you coward!"
-msgstr "¡Ey! ¡Vuelve, cobarde!"
+msgstr "¡Eh! ¡Vuelve, cobarde!"
 
 #. [message]: speaker=Elder
 msgid ""
@@ -5808,7 +5808,7 @@ msgid ""
 "darkness lurking 'round here! But why the hell do ye need my precious "
 "battery?!"
 msgstr ""
-"<i>A Mejir.</i> ¡Ey, tú! ¡Finalmente, alguien diferente de los engendros "
+"<i>A Mejir.</i> ¡Eh, tú! ¡Finalmente, alguien diferente de los engendros "
 "de la oscuridad que acechan aquí! Pero, ¿por qué demonios necesitas mi preciosa "
 "batería?"
 
@@ -7009,7 +7009,7 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 msgid "Hey! Come back!"
-msgstr "¡Ey, volved!"
+msgstr "¡Eh, volved!"
 
 #. [message]: speaker=Instructor
 msgid ""
@@ -7059,7 +7059,7 @@ msgstr ""
 "En efecto. De todos modos, hace siglos, cuando el Culto Rojo se rebeló "
 "contra nuestra nación, los seres rojos eran su arma principal de guerra. En "
 "aquel entonces, el arte del destierro tuvo que desarrollarse para poder "
-"derrotar a las hordas de ifrits y darma’ramis. Hoy en día, los disipadores y "
+"derrotar a las hordas de ifrits y darma-ramis. Hoy en día, los disipadores y "
 "desterradores tratan principalmente con los seres rojos que ocasionalmente "
 "se sublevan de forma aislada, ya que las rebeliones organizadas a gran escala "
 "son poco comunes."
@@ -8176,7 +8176,7 @@ msgid ""
 "simply divine! You will adore it!"
 msgstr ""
 "Sí. Hoy serviremos un delicioso tipo de cangrejo de los acantilados "
-"occidentales de Caros. Lo llaman «cangrejo sagrado». ¡Y, en efecto, su sabor "
+"occidentales de Caros. Lo llaman “cangrejo sagrado”. ¡Y, en efecto, su sabor "
 "es realmente divino! ¡Lo adoraréis!"
 
 #. [message]: speaker=Mage
@@ -8922,7 +8922,7 @@ msgid ""
 "(to the goblin) Hey, you, midget! Calm down, I mean you no harm. Go to your "
 "chief and tell him I'm here to make a deal."
 msgstr ""
-"<i>Al goblin.</i> ¡Ey, tú, enano! Cálmate, no te haré daño. Ve donde tu jefe y "
+"<i>Al goblin.</i> ¡Eh, tú, enano! Cálmate, no te haré daño. Ve donde tu jefe y "
 "dile que estoy aquí para hacer un trato."
 
 #. [message]: speaker=Mehir
@@ -9467,7 +9467,7 @@ msgid ""
 "Ah, probably yet another promotion in recognition of my latest victories, "
 "hehe... let me see it."
 msgstr ""
-"Ah, probablemente otra promoción en reconocimiento de mis últimas victorias, "
+"Ah, probablemente otro ascenso en reconocimiento de mis últimas victorias, "
 "je, je... Permitidme verla."
 
 #. [message]: speaker=Mehir
@@ -10171,7 +10171,7 @@ msgstr "¡Todos, cubrid a Rashti-Rami y asegurad la entrada!"
 #. [message]: speaker=Mehir
 msgid ""
 "Excellent! Sounds like I am going to meet another psychopath! Tell me more!"
-msgstr "¡Excelente! ¡Parece que voy a conocer a otro psicópata! ¡Cuéntame más!"
+msgstr "¡Excelente! ¡Parece que voy a conocer a otro psicópata! ¡Proseguid!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10202,7 +10202,7 @@ msgid ""
 "trying banishment. Guildmaster, you may proceed."
 msgstr ""
 "Es bastante justo, haré la vista gorda ante la invocación ilegal en aras de "
-"probar el destierro. Guildmaster, puede proceder."
+"probar el destierro. Maestro de gremio, podéis proseguir."
 
 #. [message]: speaker=Mehir
 msgid "Finally a female abysmal likes me! But..."
@@ -10210,7 +10210,7 @@ msgstr "¡Finalmente, le gusto a una mujer avernal! Pero..."
 
 #. [message]: speaker=Mehir
 msgid "Finally!!! Time to get the hell out of here!"
-msgstr "¡Por fin! ¡Y ahora salgamos de este maldito lugar!"
+msgstr "¡¡¡Por fin!!! ¡Ahora, salgamos de este maldito lugar!"
 
 #. [message]: speaker=Mehir
 msgid "Follow me! Hurry!"
@@ -10224,11 +10224,11 @@ msgid ""
 "attacked for real? I talked to a fortune-telling jinni and he said that it "
 "might even be today!"
 msgstr ""
-"Por última vez, Alib, si te veo bebiendo <b> nuevamente </b>, puedes apostar "
-"tu trasero, te haré despedir, y tendrás que encontrar un trabajo real que "
-"requiera más esfuerzo que estar de pie en uno ¡lugar! ¿Qué pasa si realmente "
-"nos atacan de verdad? ¡Hablé con un genio de fortuna y él dijo que incluso "
-"podría ser hoy!"
+"Por última vez, Alib, si te veo bebiendo <b>otra vez</b>, puedes apostar "
+"tu trasero a que haré que te despidan y tendrás que encontrar un trabajo "
+"real que requiera más esfuerzo que estar de pie en un sitio! ¿Qué pasaría "
+"si nos atacan de verdad? ¡Hablé con un genio adivinador y dijo que incluso "
+"podría suceder hoy!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10238,37 +10238,37 @@ msgid ""
 "attacked for real? It should be common sense as a guard to at the least be "
 "somewhat ready for the worst, mind you!"
 msgstr ""
-"Por última vez, Alib, si te veo bebiendo <b> nuevamente </b>, puedes apostar "
-"tu trasero, te haré despedir, y tendrás que encontrar un trabajo real que "
-"requiera más esfuerzo que estar de pie en uno ¡lugar! ¿Qué pasa si realmente "
-"nos atacan de verdad? Debería ser sentido común como guardia, al menos estar "
-"un poco listo para lo peor, ¡eso sí!"
+"Por última vez, Alib, si te veo bebiendo <b>otra vez</b>, puedes apostar "
+"tu trasero a que haré que te despidan y tendrás que encontrar un trabajo "
+"real que requiera más esfuerzo que estar de pie en un sitio! ¿Qué pasaría "
+"si nos atacan de verdad? ¡Debiera ser sentido común para un guardia contar "
+"con un mínimo de preparación para lidiar con lo peor!"
 
 #. [message]: speaker=Mehir
 msgid "Forget about it, I've just got a new one. *makes an evil smile*"
-msgstr "Olvídate de ello, acabo de tener uno nuevo. *hace una sonrisa malvada*"
+msgstr "Olvidadlo: acabo de conseguir una nueva. <i>Sonríe de forma malvada.</i>"
 
 #. [message]: speaker=Mehir
 msgid ""
 "Geez, so much for intellect... What do you say about this: I'll teach you "
 "the basics of our magic *and* then you will kill me!"
 msgstr ""
-"Plop, criatura inteligente... ¿Qué dices sobre esto? Te enseñaré los "
-"conceptos básicos de nuestra magia <b>y</b> ¡entonces me matarás!"
+"Plop, criatura inteligente... ¿Qué opináis de esto? Os enseñaré los "
+"conceptos básicos de nuestra magia, <b>y</b> entonces me mataréis!"
 
 #. [message]: speaker=Mehir
 msgid "Get back here!"
-msgstr "¡Regresa aquí!"
+msgstr "¡Venid aquí!"
 
 #. [message]: speaker=Mehir
 msgid "Git gud, scrub."
-msgstr "Git Gud, Scrub."
+msgstr "Desinstala, <i>noob</i>."
 
 #. [message]: speaker=Mehir
 msgid ""
 "Glad to hear that. Let's go then, time to celebrate my promotion properly!"
 msgstr ""
-"Me alegro de escuchar eso. ¡Vamos entonces, es hora de celebrar mi promoción "
+"Me alegro de escuchar eso. ¡Vamos entonces, es hora de celebrar mi ascenso "
 "correctamente!"
 
 #. [message]: speaker=Mehir
@@ -10276,32 +10276,32 @@ msgid ""
 "Go far away, search some ruins, find that thing and bring it back — sounds "
 "fairly easy."
 msgstr ""
-"Viajar lejos, buscar unas ruinas, encontrar esa cosa y traerla aquí - parece "
-"fácil."
+"Viajar lejos, buscar unas ruinas, encontrar esa cosa y traerla aquí — suena "
+"bastante fácil."
 
 #. [message]: speaker=Mehir
 msgid "Good Nomolas! It..it’s... frrreezing c... c... ccold here!"
-msgstr "¡Buen Nomolas! ¡Aquí... hace... un... frrrrío... heladorrrr!"
+msgstr "¡Buen Nómolas! ¡A-aquí... Hace... de-demasiado frío... Brrr!"
 
 #. [message]: speaker=Mehir
 msgid "Good Nomolas! This is Jaffar's chest! How..."
-msgstr "¡Por dios! ¡Es el cofre de Yafar! ¿Como..."
+msgstr "¡Buen Nómolas! ¡Es el cofre de Yafar! ¿Cómo...?"
 
 #. [message]: speaker=Mehir
 msgid ""
 "Good idea. By the way, for your plentiful assistance, I'll give you some of "
 "my luxuries."
 msgstr ""
-"Buena idea. Por cierto, para su abundante ayuda, te daré algunos de mis "
-"lujos."
+"Buena idea. Por cierto, en honor a vuestra copiosa ayuda, os otorgaré algunos "
+"de mis propios lujos."
 
 #. [message]: speaker=Mehir
 msgid ""
 "Good idea. Since seeing how underequipped our city guard is, the enemy would "
 "gladly strike again, but with more troops."
 msgstr ""
-"Buena idea. Desde que vio lo poco insignado que es nuestro guardia de la "
-"ciudad, el enemigo golpearía con gusto nuevamente, pero con más tropas."
+"Buena idea. Consciente de lo mal equipada que está la guardia de nuestra ciudad, "
+"el enemigo atacaría con gusto nuevamente, pero con más tropas."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10309,9 +10309,9 @@ msgid ""
 "me a teleportation spell. We’d better find this battery and get out of this "
 "freezing hellhole as soon as possible..."
 msgstr ""
-"Buen trabajo. Por desgracia, ahora estamos atrapados, pero esos magos raros "
+"Buen trabajo. Por desgracia, ahora estamos atrapados; pero esos magos raros "
 "me dieron un hechizo de teletransporte. Será mejor que encontremos esa "
-"batería y huyamos de este horror cuanto antes..."
+"batería y huyamos de este infierno helado cuanto antes..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10320,26 +10320,26 @@ msgid ""
 "to work under Sharif, and besides, your wackiness got me on the way up the "
 "career ladder."
 msgstr ""
-"Buen tiempo. Verás, me falta un adjunto. Dime, ¿te gustaría asumir este rol? "
-"Ciertamente tienes experiencia con el trabajo, teniendo en cuenta "
-"que solías trabajar bajo Sharif, y además, tu locura me llevó a ascender "
-"el escalafón profesional."
+"Justo a tiempo. Sucede que me falta un adjunto. ¿Qué tal, os gustaría asumir "
+"este rol? Ciertamente poseéis experiencia en el trabajo, teniendo en cuenta "
+"que solíias trabajar bajo Sharif; además, es por vuestra locura que pude "
+"ascender en el escalafón profesional."
 
 #. [message]: speaker=Mehir
 msgid ""
 "Good. If I see you tomorrow with that outdated license, I'll confiscate all "
 "your wares. You have been warned."
 msgstr ""
-"Bien. Si te veo mañana con esa licencia caducada, confiscaré todas tus "
-"productos. Ya te he advertido."
+"Bien. Si os veo mañana con esa licencia caducada, confiscaré todos vuestros "
+"productos. Ya estáis advertido."
 
 #. [message]: speaker=Mehir
 msgid ""
 "Great! Any help from you will prove useful. I didn't expect that you would "
 "help us so much in the first place."
 msgstr ""
-"¡Excelente! Cualquier ayuda de usted resultará útil. No esperaba que nos "
-"ayudara tanto en primer lugar."
+"¡Excelente! Cualquier ayuda de vosotros resultará útil. No esperaba que nos "
+"ayudarías tanto en primer lugar."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10355,48 +10355,47 @@ msgid ""
 "bodyguard)* always need to walk with you? Couldn’t we be alone for a "
 "moment?... He distracts me."
 msgstr ""
-"Bien. ¿Pero ha de acompañarnos este «florero»? - mirando de reojo al "
-"guardaespaldas - ¿No podríamos estar un momento a solas?... Es que me "
-"distrae."
+"Bien. ¿Pero es necesario que este “girasol” (Kirios) te siga para todas "
+"partes? ¿No podríamos estar un momento a solas?... Es que me distrae."
 
 #. [message]: speaker=Mehir
 msgid "Ha, good luck with that."
-msgstr "Ja, buena suerte con eso."
+msgstr "¡Ja, buena suerte con eso!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "He can summon?! Just who the hell is this efreeti?! As if convincing an "
 "entire mob of red beings to join him wasn't astonishing enough..."
 msgstr ""
-"¿Puede invocar?! ¿Quién demonios es este ifrit? Como si convencer a toda una "
-"multitud de seres rojos para unirse a él no era lo suficientemente "
+"¡¿Puede invocar?! ¿Quién demonios es este ifrit? Como si convencer a toda "
+"una multitud de seres rojos para unirse a él no fuera lo suficientemente "
 "asombroso..."
 
 #. [message]: speaker=Mehir
 msgid "He evaporated again! What kind of sorcery is this?!"
-msgstr "¿Qué clase de horror es este?"
+msgstr "¡Se evaporó de nuevo! ¡¿Qué clase de brujería es esta?!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "He must’ve fainted! Quick, give the man some water! We need to bring him to "
 "Tar-Tabar immediately!"
 msgstr ""
-"Debe de estar sediento. Rápido, dadle algo de beber. ¡Debemos llevarle a Tar-"
-"Tabar!"
+"¡Se desmayó! ¡Rápido, dadle de beber! ¡Debemos llevarlo a Tar-Tabar "
+"de inmediato!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "He's gone... These creatures are more and more surprising by the moment."
-msgstr "Se ha ido... Estas criaturas son cada vez más sorprendentes."
+msgstr "Se ha ido... Estas criaturas no dejan de sorprender."
 
 #. [message]: speaker=Mehir
 msgid "Heh, been some time since I saw the process of banishment up-close!"
 msgstr ""
-"¡Heh, he pasado algún tiempo desde que vi el proceso de destierro de cerca!"
+"¡Je, hace un tiempo desde la última vez que vi un destierro de cerca!"
 
 #. [message]: speaker=Mehir
 msgid "Heh, glad to see that my help hasn't went unnoticed..."
-msgstr "Je, me alegra ver que mi ayuda no ha pasado desapercibida..."
+msgstr "¡Je! Me alegra ver que mi ayuda no ha pasado desapercibida..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10404,9 +10403,9 @@ msgid ""
 "eternity, I can sympathize. Well, you still look quite good after all these "
 "years."
 msgstr ""
-"Je, teniendo que pararse en un lugar como guardia de lo que se siente como "
-"una eternidad, puedo simpatizar. Bueno, todavía te ves bastante bien después "
-"de todos estos años."
+"¡Je! Eso de permanecer en un sitio como guardia obligatoriamente y por un "
+"tiempo prácticamente eterno... Puedo simpatizar. Pero bueno, todavía tenéis "
+"muy buen aspecto luego de todos estos años."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10415,29 +10414,28 @@ msgid ""
 "abyssal beings, does this mean that the existence of Dimensional Gate IIIs "
 "isn't merely one of the rumors spread at the bazaar?"
 msgstr ""
-"¡Je! Agradable... Y ahora, la última pregunta: dado que dijiste que el "
+"¡Je! Agradable... Y ahora, la última pregunta: dado que dijisteis que el "
 "Maestro de los Desterradores de Alcamiya podía desterrar a los dioses "
 "elementales y otros seres avernales poderosos, ¿esto significa que la "
-"existencia de la puerta dimensional III no es simplemente un rumor del "
+"existencia del portal dimensional III no es simplemente un rumor del "
 "bazar?"
 
 #. [message]: speaker=Mehir
 msgid "Heh, what can I say, fate works in mysterious ways."
-msgstr "Je, ¿qué puedo decir? El destino funciona de maneras misteriosas."
+msgstr "Je, ¿qué puedo decir? El destino obra de maneras misteriosas."
 
 #. [message]: speaker=Mehir
 msgid "Hell no! Get back here!"
-msgstr "¡Demonios no! ¡Regresa aquí!"
+msgstr "¡Demonios, no! ¡Volved aquí!"
 
 #. [message]: speaker=Mehir
 msgid "Hell no! I've had more than enough overpriced elementals for one day!"
 msgstr ""
-"¡Demonios no! ¡He tenido más que suficientes elementales demasiado caros por "
-"un día!"
+"¡Demonios, no! ¡Ya he pagado suficiente sobreprecio en elementales por hoy!"
 
 #. [message]: speaker=Mehir
 msgid "Hello Theivya. Any reports?"
-msgstr "Hola theivya. ¿Algún informes?"
+msgstr "Hola, Theivya. ¿Algún reporte?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10445,9 +10443,9 @@ msgid ""
 "can't move away from her post. You will have to ask the High Council to "
 "relieve her, if you want to take her for a walk."
 msgstr ""
-"Su nombre es Theivya. Ella está vigilando la puerta al bazar. Lástima que no "
-"pueda abandonar su puesto. Tendrás que pedirle al Alto Consejo que la "
-"releve si deseas salir con ella."
+"Su nombre es Theivya y ella vigila la puerta al bazar. Lástima que no "
+"pueda abandonar su puesto. Tendréis que pedirle al Alto Consejo que la "
+"releve si deseáis salir con ella."
 
 #. [message]: speaker=Mehir
 msgid "Here goes the first one..."
@@ -10459,14 +10457,14 @@ msgstr "Eh, tú..."
 
 #. [message]: speaker=Mehir
 msgid "Hey! I've just grown attached to this thing, you know!"
-msgstr "¡Ey! ¡Me acabo de haber apegado a esta cosa, ya sabes!"
+msgstr "¡Eh! ¡Me acabo de encariñar a esta cosa, lo sabías?"
 
 #. [message]: speaker=Mehir
 msgid ""
 "Hey, I think there's a salamander near my camp, calling me. I better take a "
 "look..."
 msgstr ""
-"Oye, creo que hay una salamandra cerca de mi campamento, llamándome. Será "
+"¿Eh? Creo que hay una salamandra cerca de mi campamento, llamándome. Será "
 "mejor que eche un vistazo..."
 
 #. [message]: speaker=Mehir
@@ -10474,28 +10472,31 @@ msgid ""
 "Hey, look! It's the very sphere he used to protect himself! We might be able "
 "to use it too."
 msgstr ""
-"¡Hey Mira! ¡Es la esfera que solía protegerse! Podríamos usarlo también."
+"¡Eh, mirad! ¡Es la misma esfera que usó para protegerse! Podríamos encontrar "
+"la manera de usarla también."
 
 #. [message]: speaker=Mehir
 msgid ""
 "Hey, look! Their forces are beginning to thin out! We might just be starting "
 "to win!"
 msgstr ""
-"¡Hey Mira! ¡Sus fuerzas están empezando a adelgazar! ¡Podríamos estar "
-"empezando a ganar!"
+"¡Eh, mirad! ¡Sus fuerzas se están reduciendo! ¡Podríamos estar cerca de la "
+"victoria!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "Hey, the plan seems to be working! Now time to strike against the barbarians "
 "with our combined forces!"
 msgstr ""
-"¡Oye, el plan parece estar funcionando! ¡Ahora es hora de atacar a los "
+"¡Eh, el plan parece estar funcionando! ¡Ahora es momento de atacar a los "
 "bárbaros con nuestras fuerzas combinadas!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "Hey, the whole thing was your idea! Anyway, everyone, run for your lives!"
-msgstr "¡Oye, todo fue tu idea! De todos modos, todos corren por sus vidas!"
+msgstr ""
+"¡Eh, todo por vuestra idea! De todos modos, todos, corred por "
+"vuestras vidas!"
 
 #. [message]: speaker=Mehir
 msgid "Hey, wait!"
@@ -10506,14 +10507,15 @@ msgid ""
 "Hey, who the hell are you?! Identify yourself immediately, or I'll have to "
 "take you into custody!"
 msgstr ""
-"Oye, ¿quién diablos eres? ¡Idéntate de inmediato, o tendré que detenerte!"
+"¡Eh! ¡¿quién diablos eres?! ¡Identificaos de inmediato o tendré que llevaros "
+"en custodia!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "Hmm, this sounds interesting. What do you mean by 'really soon' though, "
 "seconds? Minutes? Hours? Days?"
 msgstr ""
-"Hmm, esto suena interesante. ¿Pero qué quieres decir con “muy pronto”? "
+"Hmm, esto suena interesante. ¿Pero qué queréis decir con “muy pronto”? "
 "¿Segundos? ¿Minutos? ¿Horas? ¿Días?"
 
 #. [message]: speaker=Mehir
@@ -10529,8 +10531,8 @@ msgid ""
 "Hmmm... this better not be another trick of yours... By the way, I have so "
 "many questions I want to ask. Can I stay a little longer and do so?"
 msgstr ""
-"Mmmm. Esto es mejor que no sea otro truco tuyo... Por cierto, tengo "
-"tantas preguntas que quiero hacer. ¿Puedo quedarme un poco más y hacerlo?"
+"Mmmm. Mejor que esto no sea otro truco vuestro... Por cierto, tengo "
+"tantas preguntas que quiero hacer. ¿Podría quedarme un poco más y hacerlas?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10540,9 +10542,9 @@ msgid ""
 "queen of the Abyss, she has more important matters to attend to than looking "
 "for another dusty guardian in a forgotten cave."
 msgstr ""
-"Mmmm. <i>Miente.</i> Te estábamos buscando. Verás, soy un mensajero enviado "
-"por la propia Rashti. Ella me ordenó... Ehhh... Encontrarte y relevarte de "
-"tu puesto. Sí, estaba demasiado ocupada para hacer esto en persona. Después "
+"Mmmm. <i>Miente.</i> Os estábamos buscando. Veréis, soy un mensajero enviado "
+"por la propia Rashti. Ella me ordenó... Ehhh... Encontraros y relevaros de "
+"vuestro puesto. Sí, estaba demasiado ocupada para hacerlo en persona. Después "
 "de todo, siendo la reina del Averno, tiene asuntos más importantes que "
 "atender que buscar a otro guardián polvoriento en una cueva olvidada."
 
@@ -10555,16 +10557,16 @@ msgid ""
 "How should I show them the Abyss and fried lizards, I wonder? Never mind, "
 "I’ll try. Maybe we can avoid bloodshed..."
 msgstr ""
-"Me pregunto como podría mostrarles el Averno y lagartos fritos. Vale, de "
-"acuerdo, lo intentaré. Quizás nos evitemos problemas..."
+"Me pregunto como podría mostrarles el Averno y lagartijas fritas, ¿eh?. "
+"Da igual, lo intentaré. Quizás podamos evitar el derramamiento de sangre..."
 
 #. [message]: speaker=Mehir
 msgid "Huh, your nation must be quite young then."
-msgstr "Huh, tu nación debe ser bastante joven entonces."
+msgstr "Uh, vuestra nación ha de ser bastante joven, en ese caso."
 
 #. [message]: speaker=Mehir
 msgid "Huh... Anthi never mentioned it, wonder why..."
-msgstr "Huh... Anthi nunca lo mencionó, me pregunto por qué..."
+msgstr "Uh... Anthi nunca lo mencionó. Me pregunto por qué habrá sido..."
 
 #. [message]: speaker=Mehir
 #. [message]: id=boy
@@ -10573,7 +10575,7 @@ msgstr "¿Uh?"
 
 #. [message]: speaker=Mehir
 msgid "Huh? But they are closing in, fast."
-msgstr "¿Eh? Pero se están acercando, rápido."
+msgstr "¿Eh? Pero se están acercando <i>rápido</i>."
 
 #. [message]: speaker=Mehir
 msgid "Huh? He just disappeared!"
@@ -10581,19 +10583,19 @@ msgstr "¿Uh? ¿Qué está pasando? ¡Ha desaparecido!"
 
 #. [message]: speaker=Mehir
 msgid "Huh? Leaving already? But I have so many questions to ask..."
-msgstr "¿Eh? ¿Yendo ya? Pero tengo muchas preguntas que hacer..."
+msgstr "¿Eh? ¿Os marcháis tan pronto? Pero tengo tantas preguntas por hacer..."
 
 #. [message]: speaker=Mehir
 msgid "Huh? Rashti, where are you going?!"
-msgstr "¿Como? ¿Adonde vas, Rashti?"
+msgstr "¿Eh? Rashti, ¡¿a dónde vais?!"
 
 #. [message]: speaker=Mehir
 msgid "Huh? They are retreating?"
-msgstr "¿Como? ¿Se retiran? ¡Estamos a salvo!"
+msgstr "¿Eh? ¿Se retiran?"
 
 #. [message]: speaker=Mehir
 msgid "Huh? Why are you attacking air?"
-msgstr "¿Qué queréis decir?"
+msgstr "¿Eh? ¿Por qué cortáis el aire?"
 
 #. [message]: speaker=Mehir
 msgid "Hurray!"
@@ -10604,29 +10606,29 @@ msgid ""
 "I already had some dispellers under my command. Mind that I am holding my "
 "prestigious position not least because of vast experience!"
 msgstr ""
-"Ya tenía algunos disipadores bajo mi orden. ¡Tenga en cuenta que estoy "
-"sosteniendo mi prestigiosa posición sobre todo debido a la vasta experiencia!"
+"Ya tuve algunos disipadores bajo mis órdenes. ¡Apreciad que estoy en esta "
+"prestigiosa posición también debido a mi vasta experiencia!"
 
 #. [message]: speaker=Mehir
 msgid "I am here to see Guru over a very important matter."
-msgstr "Estoy aquí para ver a Guru sobre un asunto muy importante."
+msgstr "Estoy aquí para ver a Gurú respecto a un asunto muy importante."
 
 #. [message]: speaker=Mehir
 msgid "I am not sure you'd really want to know..."
-msgstr "No estoy seguro de que realmente quieras saber..."
+msgstr "No estoy seguro de que realmente queráis saber..."
 
 #. [message]: speaker=Mehir
 msgid "I am the leader of the city guard and I am on duty. Now get out!"
 msgstr ""
-"Soy el líder del guardia de la ciudad y estoy de servicio. ¡Vete fuera ahora!"
+"Soy el líder de la guardia de la ciudad y estoy de servicio. ¡Ahora, largo!"
 
 #. [message]: speaker=Mehir
 msgid ""
 "I am thinking... Well, uh wait. Is this a ceremonial pipe? May I smoke it "
 "for the last time before you cook us?"
 msgstr ""
-"Estoy pensando... bueno, espera. ¿Es esta una pipa ceremonial? ¿Puedo "
-"fumarlo por última vez antes de cocinarnos?"
+"Estoy pensando... Bueno, eh, espera. ¿Es una pipa ceremonial? ¿Podría "
+"fumarla por última vez antes de que nos cocinéis?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10634,18 +10636,16 @@ msgid ""
 "clearly not belonging to Tashkar’s expedition. They must have been "
 "unfortunate adventurers seeking treasures..."
 msgstr ""
-"Puedo ver algunos esqueletos desperdigados cerca de la entrada. Parecen ser "
-"muy antiguos, por lo que no pertenecen a la expedición de Tashkar. Debe "
-"tratarse de aventureros desafortunados que buscaban tesoros... Algo les "
-"ocurrió cuando corrían hacia la salida. Tengo un mal presentimiento..."
+"Puedo ver algunos esqueletos dispersos cerca de la entrada. Parecen ser "
+"muy antiguos y claramente no pertenecen a la expedición de Tashkar. "
+"Seguramente se trataba de aventureros desafortunados en busca de tesoros..."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I can’t summon more men; there won’t be enough room for them inside the "
 "circle!"
 msgstr ""
-"¡No puedo invocar más hombres: no hay sitio suficiente para ellos dentro del "
-"círculo!"
+"¡No puedo invocar más tropas o no cabrán dentro del círculo de teletransporte!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10653,15 +10653,15 @@ msgid ""
 "Like, say, an elemental god or Dharma'rhami?"
 msgstr ""
 "Sin embargo, me pregunto, ¿es posible desterrar un ser avernal muy poderoso? "
-"¿Como, digamos, un dios elemental o darma’rami?"
+"¿Como, digamos, un dios elemental o darma-rami?"
 
 #. [message]: speaker=Mehir
 msgid ""
 "I don't care. A fine is a fine. You can pay in the town hall standing in the "
 "queue for a whole day or..."
 msgstr ""
-"No me importa. Una multa es una multa. Puedes pagar en el ayuntamiento de "
-"pie en la cola por un día entero o..."
+"No me importa. Una multa es una multa. Podéis pagar en el ayuntamiento luego "
+"de hacer cola por un día entero o..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10669,30 +10669,28 @@ msgid ""
 "continents of this planet. When our ancestors had discovered the Abyss and "
 "settled in al-Kamija, they entirely gave up on world exploration."
 msgstr ""
-"No reconozco ninguna de estas tierras de este lado. Estos deben ser otros "
-"continentes de este planeta. Cuando nuestros ancestros ​​descubrieron el "
-"Averno y se establecieron en Alcamiya, se dieron por vencido por la "
-"exploración mundial."
+"No reconozco ninguna de las tierras de este lado: deben ser otros "
+"continentes del planeta. Cuando nuestros ancestros ​​descubrieron el "
+"Averno y se asentaron en Alcamiya, abandonaron completamente la "
+"exploración del mundo."
 
 #. [message]: speaker=Mehir
 msgid "I don't think we need to go there."
-msgstr "No creo que tengamos que ir allí."
+msgstr "No creo que sea necesario ir allí."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I doubt it. If that had been the case, they wouldn't have bothered bringing "
 "us here."
-msgstr ""
-"Lo dudo. Si ese hubiera sido el caso, no se habrían molestado en traernos "
-"aquí."
+msgstr "Lo dudo. Si ese fuera caso, no se habrían molestado en traernos aquí."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I guess we pissed him off. He must be one of those ancient summoners the "
 "Instructor told me about in Sud-Affar..."
 msgstr ""
-"Supongo que lo enojamos. Debe ser uno de esos antiguos invocadores del que "
-"me habló del instructor en Sud-Affar..."
+"Supongo que lo enojamos. Debe ser uno de los antiguos invocadores de quienes "
+"me habló el instructor en Sud-Affar..."
 
 #. [message]: speaker=Mehir
 msgid "I have a bad feeling about this... "
@@ -10703,8 +10701,8 @@ msgid ""
 "I have a strange feeling your Living Gate could just swallow all their "
 "troops single-handedly..."
 msgstr ""
-"Tengo la extraña sensación de que tu Portal Viviente podría tragar todas sus "
-"tropas sin ayuda..."
+"Tengo la extraña sensación de que vuestro Portal Viviente podría tragarse "
+"a todas sus tropas sin ayuda..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10714,12 +10712,12 @@ msgid ""
 "aiding distant relatives of our kind, he would probably ask me what I'm "
 "smoking, and where can he get some of it."
 msgstr ""
-"Nunca pensé que llegaría tan lejos. Si me dijera a mi yo pasado que peleará "
-"con tus hombres, se haría amigo de las lagartijas que querían cocinar con "
-"vida a Yafar, convertirse en el líder de Tar-Tabar y casi terminaron "
-"atrapado aquí para siempre después de ayudar a parientes distantes de "
-"nuestra especie, probablemente me preguntaría Lo que estoy fumando y dónde "
-"puede obtener algo de eso."
+"Nunca pensé que llegaría tan lejos. Si le dijera a mi yo pasado que "
+"pelearía con vuestros hombres, se haría amigo de las lagartijas que "
+"querrían cocinar vivo a Yafar, se convertiría en el líder de Tar-Tabar "
+"y que casi se quedaría atrapado aquí para siempre después de ayudar a "
+"unos parientes lejanos de los nuestros, probablemente me preguntaría "
+"qué estoy fumando y dónde obtener algo de eso."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10729,20 +10727,20 @@ msgid ""
 "aiding distant relatives of our kind, he would probably tell me to see a "
 "doctor..."
 msgstr ""
-"Nunca pensé que llegaría tan lejos. Si me dijera a mi yo pasado que peleará "
-"con tus hombres, se haría amigo de las lagartijas que querían cocinar con "
-"vida a Yafar, convertirse en el líder de Tar-Tabar y casi terminaron "
-"atrapado aquí para siempre después de ayudar a parientes distantes de "
-"nuestra especie, probablemente me lo diría. para ver a un médico..."
+"Nunca pensé que llegaría tan lejos. Si le dijera a mi yo pasado que "
+"pelearía con vuestros hombres, se haría amigo de las lagartijas que "
+"querrían cocinar vivo a Yafar, se convertiría en el líder de Tar-Tabar "
+"y que casi se quedaría atrapado aquí para siempre después de ayudar a "
+"unos parientes lejanos de los nuestros, probablemente me recomendaría "
+"visitar al médico..."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I have slain nightmarish beasts, encountered an army of mechanical monsters, "
 "brought this damn battery along with parts..."
 msgstr ""
-"¡He matado bestias pesadillescas, eliminado un ejército de monstruos "
-"mecánicos, traído esta maldita batería junto a pedazos de ese condenado "
-"lugar hasta aquí y...! ¿Me invitáis a cenar?"
+"¡He matado bestias pesadillescas, me he encontrado un ejército de monstruos "
+"mecánicos, traído esta maldita batería junto con parte...!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10753,13 +10751,13 @@ msgid ""
 "huge ball of fire. Well, they used more sophisticated words for it. 'Thermo-"
 "something' or 'plas-mah', I don't quite remember the exact wording he used."
 msgstr ""
-"Espero no ofenderte, pero no consideramos el sol como un ser divino. Para "
-"nosotros, es solo una fuente de calor mortal. Debido a nuestra ubicación, "
-"rara vez salimos de nuestras ciudades enfriadas. Incluso el genio místico, "
-"algunas de las entidades más sabias del Averno, cuando se le preguntó al "
-"respecto, nos dijo que el sol es solo una gran bola de fuego. Bueno, usaron "
-"palabras más sofisticadas para ello. “Termo-algo” o “plas-mas”, no recuerdo "
-"la redacción exacta que usó."
+"Espero no ofenderos, pero no consideramos al Sol como un ser divino. Para "
+"nosotros, es solo una fuente de calor letal. Debido a nuestra ubicación, "
+"rara vez salimos de nuestras ciudades refrigeradas. Incluso el genio místico, "
+"entre las entidades más sabias del Averno, al ser preguntados al respecto, "
+"nos dijo que el Sol es sólo una gran bola de fuego. Bueno, usó palabras "
+"más sofisticadas para ello: <i>“Termo-algo”</i> o <i>“plas-mas”</i>. No "
+"recuerdo las palabras exactas que usó."
 
 #. [message]: speaker=Mehir
 msgid "I hope I'm not dreaming."
@@ -10770,13 +10768,13 @@ msgid ""
 "I hope this works... Otherwise, we will be forced to stay here for the rest "
 "of our lives..."
 msgstr ""
-"Espero que esto funcione... de lo contrario, nos veremos obligados a "
-"quedarnos aquí por el resto de nuestras vidas..."
+"Espero que esto funcione... De lo contrario, nos veremos obligados a "
+"permanecer aquí de por vida..."
 
 #. [message]: speaker=Mehir
 msgid "I hope you're not fantasizing about her again... So, what about her?"
 msgstr ""
-"Espero que no estés fantaseando con ella otra vez... Entonces, ¿qué hay de "
+"Espero que no estéis fantaseando con ella otra vez... Por cierto, ¿qué hay de "
 "ella?"
 
 #. [message]: speaker=Mehir
@@ -10784,16 +10782,16 @@ msgid ""
 "I just feel responsible for you after what happened... I can hardly bear the "
 "thought of losing you again."
 msgstr ""
-"Me siento responsable de ti después de lo que sucedió... apenas puedo "
-"soportar la idea de volver a perderte."
+"Me siento responsable por ti después de lo sucedido... Apenas puedo soportar "
+"la idea de perderos de nuevo."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I knew you were able to do powerful things like controlling powers of "
 "nature, but this... is unbelievable!"
 msgstr ""
-"¡Sabía que erais capaces de hacer cosas tan poderosas como controlar las "
-"fuerzas de la naturaleza, pero esto... es increíble!"
+"Sabía que erais capaces de hacer cosas tan poderosas como controlar las "
+"fuerzas de la naturaleza, pero esto es... ¡Increíble!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10802,8 +10800,8 @@ msgid ""
 "Jaffar's to govern the city as usual."
 msgstr ""
 "Sé que soy el líder de una de nuestras ciudades y el dueño de Rashti, pero "
-"estoy seguro de que estará bien, ahora está en casa después de todo. Y tengo "
-"a mi adjunto Yafar para gobernar la ciudad como de costumbre."
+"estoy seguro de que estará bien— ahora está en casa después de todo. Y cuento "
+"con mi adjunto, Yafar, para gobernar la ciudad como de costumbre."
 
 #. [message]: speaker=Mehir
 msgid "I know, beauty. Thanks. Wait, so, are you... twins?"
@@ -10815,12 +10813,12 @@ msgid ""
 "told Guru could help me and my men return to our folks in the Abyss."
 msgstr ""
 "Lo sé. No llegué a tiempo y estoy atrapado en este mundo por ahora. Me "
-"dijeron que Guru podía ayudarme a mí y a mis hombres a regresar a nuestra "
+"dijeron que Gurú podría ayudarnos a mí y a mis hombres a regresar con nuestra "
 "gente en el Averno."
 
 #. [message]: speaker=Mehir
 msgid "I may or may not have been asleep in class during that lesson..."
-msgstr "Puede que haya estado dormido o no en clase durante esa lección..."
+msgstr "Quizás estuve o no estuve dormido en clase durante aquella lección..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10828,9 +10826,9 @@ msgid ""
 "the activation spell! Whew, I'd never forgive myself, if someone was left "
 "behind."
 msgstr ""
-"¡Debo llamar a Rashti, mis hombres y mi glominio dentro del círculo antes de "
-"lanzar el hechizo de activación! Vaya, nunca me perdonaría, si alguien se "
-"quedara atrás."
+"¡Debo llamar a Rashti, a mis hombres y a Glomin al interior del círculo antes "
+"de lanzar el hechizo de activación! ¡Uf! Nunca me perdonaría si alguien se "
+"quedara detrás."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10840,7 +10838,7 @@ msgid ""
 msgstr ""
 "Debo ganarme a esas lagartijas. El punto de partida más razonable sería "
 "matar a algunos bárbaros, mostrar que estamos del lado de las lagartijas. "
-"¡No ataques a las lagartijas, de lo contrario, el plan fallará por completo!"
+"¡No ataquéis a las lagartijas; de lo contrario, el plan fallará por completo!"
 
 #. [message]: speaker=Mehir
 msgid "I need to get to the nearby enchanter's workshop."
@@ -10849,7 +10847,7 @@ msgstr "Necesito llegar al taller del encantador cerca."
 #. [message]: speaker=Mehir
 msgid "I only have a fire elemental summoning scroll, but let’s give it a try."
 msgstr ""
-"Sólo tengo un pergamino de invocación elemental de fuego, pero intentemos."
+"Sólo tengo un pergamino de invocación elemental de fuego, pero intentémoslo."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10858,25 +10856,25 @@ msgid ""
 "finally rise once again as a mix of all of the above..."
 msgstr ""
 "Recuerdo ese momento. Al principio parecía un segundo sol en el cielo, luego "
-"se convirtió en un tornado, una cascada y luego cayó como una montaña para "
-"finalmente levantarse una vez más como una mezcla de todo lo anterior..."
+"se convirtió en un tornado y en una cascada, y entonces cayó como una montaña "
+"para luego alzarse una vez más como una mezcla de todo lo anterior..."
 
 #. [message]: speaker=Mehir
 msgid "I said, get out! I am confiscating your damn carpet! Now step aside..."
 msgstr ""
-"¡Dije, sal! ¡Estoy confiscando tu maldita alfombra! Ahora hace a un lado..."
+"¡Dije “largo”. Estoy confiscando vuestra maldita alfombra! Ahora, a un lado..."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I see something flying in our direction. Maintain defensive position, "
 "people! Do not rush forward!"
 msgstr ""
-"Veo algo volando en nuestra dirección. ¡Mantenga la posición defensiva, "
-"personas! ¡No te apresures!"
+"Veo algo volando en nuestra dirección. ¡Mantened la posición defensiva, "
+"gente! ¡No avancéis a tontas y locas!"
 
 #. [message]: speaker=Mehir
 msgid "I see. At least we can count on you, hehe..."
-msgstr "Veo. Al menos podemos contar contigo, jeje..."
+msgstr "Ya veo. Al menos podemos contar contigo, je, je..."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10885,10 +10883,10 @@ msgid ""
 "priestesses, Tharis warlocks, and even some of your kind as well use them, "
 "why is that?"
 msgstr ""
-"Veo. Pero si los magos adecuados pueden conjurar tan solo con su mente, ¿por "
-"qué casi la mitad de los magos extranjeros que encontré usan bastones? Los "
+"Ya veo. Pero si los magos propiamente pueden conjurar con nada más que su mente, "
+"¿por qué casi la mitad de los magos extranjeros que encontré usan bastones? Los "
 "chamanes goblins, las sacerdotisas carosanas, los brujos de Taris e incluso "
-"algunos de los tuyos también los usan, ¿por qué es eso?"
+"algunos de los vuestros también los usan, ¿por qué es eso?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10896,15 +10894,15 @@ msgid ""
 "have the opposite question: if staves are so good, why do so many of you "
 "choose to cast spells without them?"
 msgstr ""
-"Veo. Parece que las staves son más útiles de lo que pensé... en ese caso, "
-"ahora tengo la pregunta opuesta: si los staves son tan buenos, ¿por qué "
+"Ya veo. Parece que las bastones son más útiles de lo que pensé... En ese caso, "
+"ahora tengo la pregunta opuesta: si los bastones son tan buenos, ¿por qué "
 "tantos eligen lanzar hechizos sin ellos?"
 
 #. [message]: speaker=Mehir
 msgid ""
 "I see. So... would you tell me what will happen to me in the next hour or so?"
 msgstr ""
-"Veo. Entonces... ¿me dirías qué me pasará en la próxima hora más o menos?"
+"Ya veo. Entonces... ¿Me dirías qué me pasará en la próxima hora más o menos?"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10912,8 +10910,8 @@ msgid ""
 "Elders, but we do not have any Gurus. Are there any conflicts in your "
 "society? Who writes the law here?"
 msgstr ""
-"Veo. Este consejo tuyo parece ser similar a nuestro Alto Consejo de "
-"Ancianos, pero no tenemos ningún gurús. ¿Hay algún conflicto en su sociedad? "
+"Veo. Vuestro consejo parece similar a nuestro Alto Consejo de Ancianos, "
+"pero no tenemos ningún gurú. ¿Hay algún conflicto en vuestra sociedad? "
 "¿Quién escribe la ley aquí?"
 
 #. [message]: speaker=Mehir
@@ -10922,8 +10920,8 @@ msgid ""
 "rambling about the return of the 'Destroyers', who would 'spare them if they "
 "prove themselves worthy'. Sounds like just a myth, but I'd like to be sure."
 msgstr ""
-"Veo. Aunque hay una cosa más sobre ellos que quiero saber: han estado "
-"divagando sobre el regreso de los “destructores”, que “los perdonarían si "
+"Ya veo. Aunque hay una cosa más sobre ellos que quiero saber: han estado "
+"divagando sobre el regreso de los “destructores”, quienes los “perdonarán si "
 "son dignos”. Suena como un mito, pero me gustaría estar seguro."
 
 #. [message]: speaker=Mehir
@@ -10931,8 +10929,8 @@ msgid ""
 "I see. Well, forgive me, but may I ask you a question? It's not every day "
 "that I run into your kind, after all."
 msgstr ""
-"Veo. Bueno, perdóname, pero ¿puedo hacerte una pregunta? No todos los días "
-"me encuentro con tu especie, después de todo."
+"Ya veo. Bueno, perdonadme, pero ¿puedo haceros una pregunta? No todos los días "
+"me encuentro con alguien de vuestra especie, después de todo."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10941,9 +10939,9 @@ msgid ""
 "this time. In this case, I'd better get going, but once I finish my job, I "
 "am going to return here!"
 msgstr ""
-"Veo. Bueno, eso lo cambia todo. Todavía soy responsable de mi gente, más o "
-"menos. Además, sería bueno patear su trasero rojo una y durante todo este "
-"tiempo. En este caso, será mejor que me ponga en marcha, pero una vez que "
+"Ya veo. Bueno, eso lo cambia todo. Todavía soy responsable de mi gente, en "
+"mayor o menor medida. Además, sería bueno patear su trasero rojo de una vez "
+"por todas. En ese caso, será mejor que me ponga en marcha, pero una vez que "
 "termine mi trabajo, ¡voy a regresar aquí!"
 
 #. [message]: speaker=Mehir
@@ -10953,26 +10951,26 @@ msgid ""
 "ourselves to faith missions against faithless jinn. The Abyss gives us a "
 "great advan-"
 msgstr ""
-"Ya veo... en medio de tantos seres espirituales verdaderos, nuestro tipo "
-"está más desarrollado. ¿Guerra sobre “el único”? ¡Eso haría reír a los "
-"camellos! Nos limitamos a las misiones de fe contra Jinn Faithless. El "
-"Averno nos da una gran ventaja"
+"Ya veo... Entre tantos seres espirituales VERDADEROS, los nuestros estamos "
+"más desarrollados. ¿Guerra sobre “el único y auténtico”? ¡Eso haría reír "
+"hasta a los camellos! Nos limitamos a predicar a los genios sin credo. "
+"El Averno nos da una gran venta-..."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I see... Well, anyway, we helped you with those barbarians, so maybe you "
 "could untie us? We have nothing against you."
 msgstr ""
-"Ya veo... bueno, de todos modos, te ayudamos con esos bárbaros, ¿entonces "
-"tal vez podrías desatarnos? No tenemos nada en su contra."
+"Ya veo... Bien, de todos modos, os ayudamos contra esos bárbaros, así que "
+"¿tal vez podríais desatarnos? No tenemos nada en vuestra contra."
 
 #. [message]: speaker=Mehir
 msgid "I take back what I said... Am I hallucinating?!"
-msgstr "Recupero lo que dije... ¿estoy alucinando?"
+msgstr "Me retracto de lo que dije... ¡¿Estoy alucinando?!"
 
 #. [message]: speaker=Mehir
 msgid "I understand. Anyway, thank you for your help."
-msgstr "Forastero, Rhaxiz me ha enviado para agradecer tu ayuda."
+msgstr "Entiendo. De todos modos, gracias por vuestra ayuda."
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -10980,25 +10978,26 @@ msgid ""
 "didn’t have a carpet, yet his feet never touched the ground. I think his "
 "clothes might've been made from magic carpet fabric, but I'm not fully sure."
 msgstr ""
-"Estaba aquí como siempre cuando este extraño hombre llegó desde el noroeste. "
-"No tenía ninguna alfombra, aunque sus pies nunca llegaron a tocar el suelo. "
-"Nunca había visto nada igual."
+"Estaba aquí como siempre, cuando de pronto este extraño hombre llegó desde "
+"el noroeste. No tenía ninguna alfombra, pero sus pies nunca tocaron el suelo. "
+"Pienso que sus ropas podrían haber estado hechas de tela mágica para alfombras, "
+"pero no estoy completamente seguro."
 
 #. [message]: speaker=Mehir
 msgid "I will fight with my own men. Wish me luck, Jaffar."
-msgstr "Lucharé con mis propios hombres. Deseadme suerte, Yafar."
+msgstr "Lucharé empleando mis propios hombres. Deseadme suerte, Yafar."
 
 #. [message]: speaker=Mehir
 msgid "I will teach you... magic."
-msgstr "Te enseñaré... Magia."
+msgstr "Os enseñaré... Magia."
 
 #. [message]: speaker=Mehir
 msgid ""
 "I wonder, did this first civilization happen to live around the area that is "
 "now the Great Desert?"
 msgstr ""
-"Me pregunto, ¿vivió esta primera civilización en el área que ahora es el "
-"Gran Desierto?"
+"Me pregunto: ¿acaso esta primera civilización vivió en el área que ahora es "
+"el Gran Desierto?"
 
 #. [message]: speaker=Mehir
 msgid "I'd rather not talk about it..."
@@ -11738,11 +11737,11 @@ msgstr "Este era el último."
 
 #. [message]: speaker=Mehir
 msgid "Phew..."
-msgstr "Guau..."
+msgstr "¡Uf!..."
 
 #. [message]: speaker=Mehir
 msgid "Phew... That was one hell of a ride!"
-msgstr "Uf... ¡ese fue un viaje infernal!"
+msgstr "¡Uf!... ¡ese fue un viaje infernal!"
 
 #. [message]: speaker=Mehir
 msgid ""
@@ -12025,7 +12024,7 @@ msgid ""
 "for help instead of sending him to you. This is what I meant when asking the "
 "question."
 msgstr ""
-"Así que se llaman Tharis... Me pregunto, ¿por qué Anthi nos envió Atiros "
+"Así que se llaman Taris... Me pregunto, ¿por qué Anthi nos envió Atiros "
 "pidiéndole ayuda en lugar de enviarlo a usted? Esto es lo que quise decir al "
 "hacer la pregunta."
 
@@ -12447,7 +12446,7 @@ msgid ""
 "its current design becomes outdated. Our enchanters have spent hundreds of "
 "years discovering the formula. Inventing a new one would take centuries..."
 msgstr ""
-"La transformación de Rasti distorsiona el espacio multidimensional entre los "
+"La transformación de Rashti distorsionó el espacio multidimensional entre los "
 "mundos, por lo que el Gran Círculo ha de ser activado en el plazo de dos "
 "semanas: antes de que el diseño actual quede obsoleto. Nuestros científicos "
 "han tardado cientos de años en dar con esta configuración. Inventar una "
@@ -12549,7 +12548,7 @@ msgid ""
 "Those magi told that you're the person who can help me return to my people "
 "in the Abyss, and made me fight my way here, so it better be true..."
 msgstr ""
-"Me dijeron que vos sois la persona que podría ayudarme a unirme a mi gente "
+"Me dijeron que sois la persona que podría ayudarme a unirme a mi gente "
 "en el Averno..."
 
 #. [message]: speaker=Mehir
@@ -12749,7 +12748,7 @@ msgid ""
 "Wait a minute... you look an awful lot like the men who broke into our "
 "catacombs in Ka-Gatta!"
 msgstr ""
-"Y vos me resultáis familiar... Fue vuestra gente la que... irrumpió en "
+"Y me resultáis familiar... Fue vuestra gente la que... irrumpió en "
 "nuestras catacumbas de Ka-Gatta..."
 
 #. [message]: speaker=Mehir
@@ -13050,7 +13049,7 @@ msgstr ""
 "Bueno, bueno... la famosa cúpula de elementos. Trae de vuelta los recuerdos "
 "de la época en que vine aquí con mi padre cuando era niño... El santuario "
 "central de Sud-Affar parece aún más grande de lo que lo recuerdo... ¡un "
-"lugar sublime para la celebración de mi promoción!"
+"lugar sublime para la celebración de mi ascenso!"
 
 #. [message]: speaker=Mehir
 msgid "Well... they're basically uhh... arrogant mage scientists."
@@ -13887,7 +13886,7 @@ msgid ""
 "Elementals and level 2-3 blue beings like Great Jinn, Rhami'kai and Ho'rhami "
 "will never turn against you."
 msgstr ""
-"Todos los seres invocados del Averno Rojo, tales como los darma’ramis, "
+"Todos los seres invocados del Averno Rojo, tales como los darma-ramis, "
 "rami-datus e ifrits, lo traicionarán instantáneamente en este escenario.\n"
 "\n"
 "Los seres inteligentes de nivel 1, como genios y ramis, pueden optar por "
@@ -16097,7 +16096,7 @@ msgstr "Eso es todo, ¡te voy a reportar con los admins!"
 
 #. [message]: speaker=second_unit
 msgid "What the...?! Cheater!"
-msgstr "¿¡Pero qué...!? ¡Hacker!"
+msgstr "¿¡Pero qué...!? <i>¡Hacker!<i>"
 
 #. [message]: speaker=Sharif
 msgid ""
@@ -16120,7 +16119,7 @@ msgid ""
 msgstr ""
 "Apenas puedo creer que nomás hace un año Mejir era tan solo un oficial de bajo "
 "rango bajo mi orden, pero ahora somos pares. Mejir es un auténtico modelo a "
-"seguir para los ciudadanos de Alcamiya. ¡Felicitaciones por vuestra promoción, "
+"seguir para los ciudadanos de Alcamiya. ¡Felicitaciones por vuestro ascenso, "
 "Mejir, os deseo suerte con vuestro nuevo deber!"
 
 #. [message]: speaker=Sharif
