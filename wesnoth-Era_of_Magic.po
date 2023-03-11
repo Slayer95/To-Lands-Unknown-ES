@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-23 03:28 UTC\n"
-"PO-Revision-Date: 2023-03-10 19:27+0100\n"
+"PO-Revision-Date: 2023-03-11 09:43+0100\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -2910,7 +2910,6 @@ msgstr "Espadachín de Fuego"
 
 #. [unit_type]: id=EoMa_Fire_Swordsman, race=human
 #: Era_of_Magic/units/Kharos/Fire_Swordsman.cfg:21
-#, fuzzy
 msgid ""
 "When a slicer survives enough battles he get a fire sword as an addition to "
 "its normal blades. It is said that the magic that is bound onto the sword "
@@ -2920,7 +2919,7 @@ msgstr ""
 "Cuando un cortador sobrevive suficientes batallas, obtiene una espada de fuego "
 "como complemento a sus hojas normales. Se dice que la magia atada a la espada "
 "proviene de los misteriosos magos del Reino del Cielo, no muy diferente de las "
-"flechas encantadas de los Arqueros Elementales."
+"flechas encantadas de los arqueros elementales."
 
 #. [unit_type]: id=EoMa_Golden_Warrior, race=human
 #: Era_of_Magic/units/Kharos/Golden_Warrior.cfg:4
@@ -2977,17 +2976,16 @@ msgstr "Caballero pesado"
 
 #. [unit_type]: id=EoMa_Heavy_Cavalry_Archer, race=human
 #: Era_of_Magic/units/Kharos/Heavy_Cavalry.cfg:18
-#, fuzzy
 msgid ""
 "Those Cavalry Archers who don´t dabble with foreign magic armour their horses "
 "with good and solid metal instead. They are still fearsome archers and their "
 "horses are strong too, but theiy have given some mobility in exchange for "
 "their heavier armour."
 msgstr ""
-"Aquellos Arqueros a Caballería que no incursionan en la magia extranjera arman "
+"Aquellos arqueros a caballo que no incursionan en la magia extranjera arman "
 "sus caballos con un buen y sólido metal. Todavía son temibles arqueros y sus "
-"caballos también son fuertes, pero les han dado algo de movilidad a cambio de "
-"su armadura más pesada."
+"caballos también son fuertes, pero les dan algo de movilidad a cambio de su "
+"armadura más pesada."
 
 #. [unit_type]: id=EoMa_Protector, race=human
 #: Era_of_Magic/units/Kharos/Hoplite.cfg:4
@@ -3010,7 +3008,6 @@ msgstr "Inspirada"
 
 #. [unit_type]: id=EoMa_Inspired, race=human
 #: Era_of_Magic/units/Kharos/Inspired.cfg:21
-#, fuzzy
 msgid ""
 "When a Sister of light grows older and sees more of the harsh world she may "
 "not only be filled with more light, but also with courage and bravery. If this "
@@ -3021,12 +3018,12 @@ msgid ""
 "inexperienced soldiers of Kharos to fight ever harder for the light and the "
 "sun."
 msgstr ""
-"Cuando una Hermana de la luz envejece y ve más del duro mundo, es posible que "
+"Cuando una hermana de la luz envejece y ve más del duro mundo, es posible que "
 "no solo se llene de más luz, sino también de coraje y valentía. Si este es el "
-"caso, aprende el camino de la espada de los Guerreros Dorados y el camino del "
+"caso, aprende el camino de la espada de los guerreros dorados y el camino del "
 "arco de los arqueros. Mientras aprende esta forma del guerrero, todavía puede "
 "ejercer la magia arcana de la luz que unió a sus flechas. Junto con su coraje "
-"y valentía, inspira a los soldados más jóvenes e inexpertos de Kharos a luchar "
+"y valentía, inspira a los soldados más jóvenes e inexpertos de Caros a luchar "
 "cada vez más por la luz y el sol."
 
 #. [attack]: type=arcane
@@ -3062,7 +3059,6 @@ msgstr "Empalador carosiano"
 
 #. [unit_type]: id=EoMa_Kharosian_Impaler, race=human
 #: Era_of_Magic/units/Kharos/Kharosian_Impaler.cfg:28
-#, fuzzy
 msgid ""
 "The title of Impaler is given to the best javelineers of Kharos. Their light "
 "equipment allows them to be more agile and cover more area on a battlefield "
@@ -3070,12 +3066,11 @@ msgid ""
 "from enemy arrows very well while not limiting the movement. Additionally "
 "they're equipped with magic wards which absorb part of incoming magic damage."
 msgstr ""
-"El título de Empalador se otorga a los mejores jabalineros de Kharos. Su "
-"equipo liviano les permite ser más ágiles y cubrir más área en un campo de "
-"batalla, lo cual es muy útil en diversas situaciones tácticas. Sus abrigos los "
-"protegen muy bien de las flechas enemigas sin limitar el movimiento. Además, "
-"están equipados con protecciones mágicas que absorben parte del daño mágico "
-"entrante."
+"El título de empalador se otorga a los mejores jabalineros de Caros. Su equipo "
+"liviano les permite ser más ágiles y cubrir más área en un campo de batalla, "
+"lo cual es muy útil en diversas situaciones tácticas. Sus abrigos los protegen "
+"muy bien de las flechas enemigas sin limitar el movimiento. Además, están "
+"equipados con protecciones mágicas que absorben parte del daño mágico entrante."
 
 #. [unit_type]: id=EoMa_Kharosian_Javelineer, race=human
 #: Era_of_Magic/units/Kharos/Kharosian_Javelineer.cfg:4
@@ -3084,7 +3079,6 @@ msgstr "Jabalinero carosiano"
 
 #. [unit_type]: id=EoMa_Kharosian_Javelineer, race=human
 #: Era_of_Magic/units/Kharos/Kharosian_Javelineer.cfg:20
-#, fuzzy
 msgid ""
 "Not all Kharosians can afford expensive shields used by elite troops. That is "
 "why some of them decide to specialize in throwing light spears to decimate "
@@ -3095,16 +3089,16 @@ msgid ""
 "Kharosian armies often consist of multiple squads of Javelineers and more "
 "experienced Impalers to gain the upper hand in any battle."
 msgstr ""
-"No todos los kharosianos pueden permitirse los caros escudos que usan las "
-"tropas de élite. Es por eso que algunos de ellos deciden especializarse en "
-"lanzar lanzas ligeras para diezmar a sus enemigos. Esta forma tradicional de "
-"luchar se remonta a la antigüedad, cuando las tierras de Kharos estaban "
-"divididas entre muchas tribus y cultos diferentes que constantemente libraban "
-"guerras de dominación entre sí. Una de esas tribus era particularmente "
-"conocida por sus feroces jabalineros que causaban estragos en sus enemigos. "
-"Hoy en día, los ejércitos kharosianos a menudo consisten en múltiples "
-"escuadrones de jabalineros y empaladores más experimentados para ganar ventaja "
-"en cualquier batalla."
+"No todos los carosianos pueden permitirse los caros escudos que usan las "
+"tropas de élite. Es por ello que algunos deciden especializarse en arrojar "
+"lanzas ligeras para diezmar a sus enemigos. Esta forma tradicional de luchar "
+"se remonta a la antigüedad, cuando las tierras de Caros estaban divididas "
+"entre muchas tribus y cultos diferentes que constantemente libraban guerras de "
+"dominación entre sí. Una de esas tribus era particularmente conocida por sus "
+"feroces jabalineros que causaban estragos en sus enemigos. Hoy en día, los "
+"ejércitos carosianos a menudo consisten en múltiples escuadrones de los "
+"jabalineros y empaladores más experimentados para ganar ventaja en cualquier "
+"batalla."
 
 #. [unit_type]: id=EoMa_Kharosian_Legionnaire, race=human, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Kharos/Kharosian_Legionnaire.cfg:4
@@ -3178,7 +3172,6 @@ msgstr "Guerrero de platino"
 
 #. [unit_type]: id=EoMa_Platinum_Warrior, race=human
 #: Era_of_Magic/units/Kharos/Platinum_Warrior.cfg:22
-#, fuzzy
 msgid ""
 "In the old times when Kharos country was divided between warring factions, one "
 "of them had access to mines rich with high quality ores, allowing its people "
@@ -3189,15 +3182,15 @@ msgid ""
 "integral part of the new social structure of the Kharos, remaining the finest "
 "heavy infantry the nation has to offer."
 msgstr ""
-"En los viejos tiempos, cuando el país de Kharos estaba dividido entre "
-"facciones en guerra, una de ellas tenía acceso a minas ricas en minerales de "
-"alta calidad, lo que permitía a su gente fabricar equipos muy superiores a los "
-"de sus rivales. Esto les permitió subyugar a múltiples tribus más pequeñas y "
-"representar una seria amenaza para el Culto al Sol orientado a la magia. Al "
+"En los viejos tiempos, cuando el país de Caros estaba dividido entre facciones "
+"en guerra, una de ellas tenía acceso a minas ricas en minerales de alta "
+"calidad, lo que permitía a su gente fabricar equipos muy superiores a los de "
+"sus rivales. Esto les permitió subyugar a múltiples tribus más pequeñas y "
+"representar una seria amenaza para el Culto del Sol orientado a la magia. Al "
 "final, sin embargo, fue el Culto del Sol quien salió victorioso, pero el Clan "
 "Platino junto con su excelente equipo permaneció como parte integral de la "
-"nueva estructura social de los Kharos, siendo la mejor infantería pesada que "
-"la nación tiene para ofrecer."
+"nueva estructura social de Caros, siendo la mejor infantería pesada que la "
+"nación tiene para ofrecer."
 
 #. [unit_type]: id=EoMa_Prophet_of_Light, race=human, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Kharos/Prophet_of_Light.cfg:4
@@ -3216,7 +3209,6 @@ msgstr "Reclutador"
 
 #. [unit_type]: id=EoMa_Recruitment_Officer, race=human
 #: Era_of_Magic/units/Kharos/Recruitment_Officer.cfg:20
-#, fuzzy
 msgid ""
 "Some soldiers never truly shine enough to be recognized as heroes by the "
 "peasants, or join the sacred legions. Most just go back to their families when "
@@ -3230,7 +3222,7 @@ msgstr ""
 "simplemente regresa con sus familias cuando son relevados del servicio. Sin "
 "embargo, unos pocos eligen permanecer en el ejército para ayudar a educar y "
 "reclutar a más personas. Este trabajo, aunque no es tan glorioso ni imponente "
-"como las hazañas de la Guardia de Platino o Piadoso como la orden del Sol "
+"como las hazañas de la guardia de platino, o piadoso como la orden del Sol "
 "Sagrado, es sin embargo extremadamente importante."
 
 #. [abilities]
@@ -3353,7 +3345,6 @@ msgstr "Maestro solar"
 
 #. [unit_type]: id=EoMa_Master_of_Sun, race=human
 #: Era_of_Magic/units/Kharos/Solar_Master.cfg:20
-#, fuzzy
 msgid ""
 "The Solar Master is the most skilled golden warrior in the entire Kharosian "
 "nation. He can attack in the blink of an eye, making his enemies almost unable "
@@ -3361,7 +3352,7 @@ msgid ""
 "his opponents, easily dodge most non-magical attacks, and heal some of his "
 "wounds during daytime."
 msgstr ""
-"El Maestro Solar es el guerrero dorado más hábil de toda la nación Kharosiana. "
+"El maestro solar es el guerrero dorado más hábil de toda la nación carosiana. "
 "Puede atacar en un abrir y cerrar de ojos, haciendo que sus enemigos sean casi "
 "incapaces de esquivar sus golpes. También es capaz de disparar andanadas de "
 "misiles mágicos a sus oponentes, esquivar fácilmente la mayoría de los ataques "
@@ -3462,7 +3453,6 @@ msgstr "Helicóptero"
 
 #. [unit_type]: id=EoMa_Battlecopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/Battlecopter.cfg:18
-#, fuzzy
 msgid ""
 "Some veteran pilots prefer speed and agility more than anything else. To meet "
 "their demand, the brightest minds of the Dwarvish Kingdom of Ulsaria designed "
@@ -3478,15 +3468,15 @@ msgstr ""
 "Algunos pilotos veteranos prefieren la velocidad y la agilidad por encima de "
 "cualquier otra cosa. Para satisfacer su demanda, las mentes más brillantes del "
 "Reino Enano de Ulsaria diseñaron uno de los vehículos más sofisticados jamás "
-"creados: el Battlecopter. Si bien son mucho más pequeñas que otras máquinas "
+"creados: el helicóptero. Si bien son mucho más pequeños que otras máquinas "
 "voladoras de élite, estas obras maestras tecnológicas se adaptan "
 "específicamente a las expectativas de los pilotos con mejores reflejos y "
 "habilidades de navegación. Al ser una adición relativamente nueva al arsenal "
-"de Runemasters, los Battlecopters están equipados con motores, armamento y "
-"sistemas de guía de última generación, que no se encuentran en diseños más "
-"antiguos y tradicionales. Esto los hace increíblemente efectivos para "
-"patrullar grandes áreas y eliminar cualquier tipo de amenaza con sus misiles "
-"letales."
+"de los maestros rúnicos, los helicópteros están equipados con motores, "
+"armamento y sistemas de guía de última generación, que no se encuentran en "
+"diseños más antiguos y tradicionales. Esto los hace increíblemente efectivos "
+"para patrullar grandes áreas y eliminar cualquier tipo de amenaza con sus "
+"misiles letales."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/Battlecopter.cfg:81
@@ -3650,7 +3640,6 @@ msgstr "Cadete enano"
 
 #. [unit_type]: id=EoMa_Dwarvish_Cadet, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Cadet.cfg:19
-#, fuzzy
 msgid ""
 "Dwarvish warriors who don't find the tradition of runic warriors appealing "
 "enough often choose a different path and enroll for army to gain knowledge of "
@@ -3704,7 +3693,6 @@ msgstr "Torreta móvil enana"
 
 #. [unit_type]: id=EoMa_Mobile_Turret, race=mechanical
 #: Era_of_Magic/units/Runemasters/Dwarvish_Mobile_Turret.cfg:18
-#, fuzzy
 msgid ""
 "The devastating Destroyers' invasion on dwarvish lands forced Technologists "
 "and Technocrats to design new weapon systems to effectively deal with the "
@@ -3713,11 +3701,11 @@ msgid ""
 "robots, these extraordinary vehicles of war are equipped with state-of-the-art "
 "shockwave generators capable of decimating swarms of enemies with ease."
 msgstr ""
-"La devastadora invasión de los Destructores en las tierras de los enanos "
+"La devastadora invasión de los destructores en las tierras de los enanos "
 "obligó a los tecnólogos y tecnócratas a diseñar nuevos sistemas de armas para "
 "hacer frente con eficacia a la amenaza mortal. Así es como surgieron las "
-"Torretas Móviles y las Plataformas Defensivas. Basados en el chasis de una "
-"máquina de andar, operados por robots de vapor autónomos, estos "
+"torretas móviles y las plataformas defensivas. Basados en el chasis de una "
+"máquina andadora, operados por robots de vapor autónomos, estos "
 "extraordinarios vehículos de guerra están equipados con generadores de ondas "
 "de choque de última generación capaces de diezmar enjambres de enemigos con "
 "facilidad."
@@ -3763,16 +3751,15 @@ msgstr "Tanque enano"
 
 #. [unit_type]: id=EoMa_Dwarvish_Tank, race=mechanical
 #: Era_of_Magic/units/Runemasters/Dwarvish_Tank.cfg:17
-#, fuzzy
 msgid ""
 "Dwarvish Tanks are the heavier variety of the striding machines, equipped with "
 "cannons capable of easily shattering most kinds of fortifications or cover. "
 "They are used both as mobile siege engines, and to deal with small squads of "
 "infantry."
 msgstr ""
-"Los tanques enanos son la variedad más pesada de las máquinas zancudas, "
-"equipados con cañones capaces de destrozar fácilmente la mayoría de los tipos "
-"de fortificaciones o coberturas. Se utilizan tanto como máquinas de asedio "
+"Los tanques enanos son la variedad más pesada de las máquinas andadoras, "
+"equipados con cañones capaces de destrozar fácilmente la mayoría de "
+"fortificaciones o coberturas. Se utilizan tanto como máquinas de asedio "
 "móviles como para enfrentarse a pequeños escuadrones de infantería."
 
 #. [attack]: type=fire
@@ -3937,7 +3924,6 @@ msgstr "Dragón mecánico"
 
 #. [unit_type]: id=EoMa_Mechanical_Dragon, race=mechanical
 #: Era_of_Magic/units/Runemasters/Mechanical_Dragon.cfg:19
-#, fuzzy
 msgid ""
 "The Mechanical Dragon is a paragon of dwarven engineering which might never be "
 "superseded due to its intricate design. This marvelous contraption comes "
@@ -3947,13 +3933,13 @@ msgid ""
 "pilot to aim and shoot a devastating area of effect fire blast which can be "
 "the equivalent of the fire-breath of a true dragon."
 msgstr ""
-"El Dragón Mecánico es un modelo de ingeniería enana que quizás nunca sea "
+"El dragón mecánico es un modelo de ingeniería enana que quizás nunca sea "
 "superado debido a su intrincado diseño. Este maravilloso artilugio viene "
 "equipado con una función motorizada en su cabeza para replicar con precisión "
 "el ataque de mordida de un dragón real. Además, esta máquina incluye un "
 "sistema que consiste en una cámara de combustión y tubos de vapor que permite "
 "a su piloto apuntar y disparar una ráfaga de fuego devastadora que puede ser "
-"el equivalente al aliento de fuego de un dragón verdadero."
+"el equivalente al aliento de fuego de un verdadero dragón."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Mechanical_Dragon.cfg:74
@@ -4154,11 +4140,10 @@ msgstr ""
 #. [unit_type]: id=EoMa_Steamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steamcopter.cfg:4
 msgid "Steamcopter"
-msgstr "Helicóptero a vapor"
+msgstr "Vapocóptero"
 
 #. [unit_type]: id=EoMa_Steamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steamcopter.cfg:17
-#, fuzzy
 msgid ""
 "Pilots who are bored with traditional balloon-based aircraft and prefer higher "
 "mobility often pick Steamocopters as their next flying machine. Even with "
@@ -4168,7 +4153,7 @@ msgid ""
 "ready almost instantly if well maintained."
 msgstr ""
 "Los pilotos que están aburridos de los aviones tradicionales basados en globos "
-"y prefieren una mayor movilidad a menudo eligen Steamocopters como su próxima "
+"y prefieren una mayor movilidad a menudo eligen vapocópteros como su próxima "
 "máquina voladora. Incluso con armamento obsoleto, este vehículo inusual "
 "todavía se considera muy eficiente y fácil de mantener, lo que explica por qué "
 "todavía se produce en masa. En situaciones en las que los enanos tienen que "
@@ -4260,7 +4245,6 @@ msgstr "Tecnólogo"
 
 #. [unit_type]: id=EoMa_Technologist, race=dwarf
 #: Era_of_Magic/units/Runemasters/Technologist.cfg:18
-#, fuzzy
 msgid ""
 "Technologists belong to a special 'caste' of dwarfs responsible for designing "
 "advanced machinery and new weapons. Simply put: they do not create machines - "
@@ -4639,17 +4623,16 @@ msgstr "Maestro mago"
 
 #. [unit_type]: id=EoMa_Mastermage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_Mage.cfg:20
-#, fuzzy
 msgid ""
 "Though not as skilled with each element as the Elemental Masters, Master Magi "
 "have decent knowledge of most kinds of magic, giving them a lot of options in "
 "terms of spellcasting. When attacked, Master Magi create an energy shield "
 "around themselves, which absorbs some of the incoming damage."
 msgstr ""
-"Aunque no son tan hábiles con cada elemento como los Maestros Elementales, los "
-"Maestros Magos tienen un conocimiento decente de la mayoría de los tipos de "
+"Aunque no son tan hábiles con cada elemento como los maestros elementales, los "
+"maestros magos tienen un conocimiento decente de la mayoría de los tipos de "
 "magia, lo que les brinda muchas opciones en términos de lanzamiento de "
-"hechizos. Cuando son atacados, los Maestros Magos crean un escudo de energía a "
+"hechizos. Cuando son atacados, los maestros magos crean un escudo de energía a "
 "su alrededor, que absorbe parte del daño recibido."
 
 #. [attack]: type=impact
@@ -4716,13 +4699,12 @@ msgstr "desintoxicación natural"
 
 #. [heals]: id=eoma_detox_nature
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Earth.cfg:56
-#, fuzzy
 msgid ""
 "When standing on a forest tile, this unit can cure adjacent friendly units of "
 "poison, although these units will receive no additional healing on the turn "
 "they are cured of the poison."
 msgstr ""
-"Cuando se encuentra en una loseta de bosque, esta unidad puede curar a las "
+"Cuando se encuentra en un hexágono de bosque, esta unidad puede curar a las "
 "unidades aliadas adyacentes del veneno, aunque estas unidades no recibirán "
 "curación adicional en el turno en que se curan del veneno."
 
@@ -4809,7 +4791,6 @@ msgstr "Maestro de fuego"
 
 #. [unit_type]: id=EoMa_Master_of_Fire, race=eoma_magical
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Fire.cfg:20
-#, fuzzy
 msgid ""
 "After some time, extremely talented Fire Magi transcend their mortal bodies, "
 "becoming beings of pure flame. While they no longer have a physical body "
@@ -4820,14 +4801,15 @@ msgid ""
 "generally involve overseeing the security of the floating isles, but they also "
 "gladly participate in extremely dangerous expeditions."
 msgstr ""
-"Después de un tiempo, Magos de Fuego extremadamente talentosos trascienden sus "
-"cuerpos mortales, convirtiéndose en seres de pura llama. Si bien ya no tienen "
-"un cuerpo físico además de las túnicas ignífugas, aún conservan su mente y "
-"alma. También tienen aumentos mágicos que les permiten hablar, pero no son "
-"exactamente conocidos por ser habladores, solo dicen lo que sea necesario. Su "
-"control del fuego es legendario y su ira es terrible de contemplar. Sus "
-"deberes generalmente implican supervisar la seguridad de las islas flotantes, "
-"pero también participan gustosamente en expediciones extremadamente peligrosas."
+"Después de un tiempo, algunos piromantes extremadamente talentosos trascienden "
+"sus cuerpos mortales, convirtiéndose en seres de pura llama. Si bien ya no "
+"tienen un cuerpo físico aparte de sus túnicas ignífugas, aún conservan su "
+"mente y alma. También tienen aumentos mágicos que les permiten hablar, pero no "
+"son exactamente conocidos por ser habladores, solo dicen aquello que sea "
+"necesario. Su control del fuego es legendario y su ira es terrible de "
+"contemplar. Sus deberes generalmente implican supervisar la seguridad de las "
+"islas flotantes, pero también participan gustosamente en expediciones "
+"extremadamente peligrosas."
 
 #. [abilities]
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Fire.cfg:25
@@ -4860,7 +4842,6 @@ msgstr "Maestro de agua"
 
 #. [unit_type]: id=EoMa_Master_of_Water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Water.cfg:41
-#, fuzzy
 msgid ""
 "The most talented Water Magi eventually become Masters of Water. They are "
 "powerful healers, whose powerful water heals their own wounds, even while the "
@@ -4868,8 +4849,8 @@ msgid ""
 "can also summon magical beings made of pure water, and are able to cast "
 "powerful frost spells for self-defense."
 msgstr ""
-"Los Magos del Agua más talentosos eventualmente se convierten en Maestros del "
-"Agua. Son poderosos sanadores, cuya poderosa agua cura sus propias heridas, "
+"Los hidromantes más talentosos eventualmente se convierten en maestros del "
+"agua. Son expertos sanadores, cuya poderosa agua cura sus propias heridas, "
 "incluso cuando el mago está inconsciente, y los vuelve inmunes a la mayoría de "
 "las enfermedades conocidas. También pueden invocar seres mágicos hechos de "
 "agua pura y pueden lanzar poderosos hechizos de escarcha para la autodefensa."
@@ -4908,7 +4889,6 @@ msgstr "desviar magia"
 
 #. [dummy]: id=eoma_deflectmagic
 #: Era_of_Magic/units/Sky_Kingdom/Mirrorshield.cfg:13
-#, fuzzy
 msgid ""
 "Enemy magical attacks (fire, cold and arcane with the magical or enchanted "
 "special) deal two thirds of the base damage (rounded up) back to the attackers "
@@ -4917,8 +4897,8 @@ msgid ""
 msgstr ""
 "Los ataques mágicos enemigos (fuego, frío y arcanos con el especial mágico o "
 "encantado) infligen dos tercios del daño base (redondeado hacia arriba) a los "
-"atacantes (aplicando las resistencias del atacante). Cuando el atacante llega "
-"a o por debajo de 0 HP, no muere, sino que su HP se establece en 1."
+"atacantes (aplicando las resistencias del atacante). Cuando el atacante pierde "
+"toda su vida, no muere y se queda en 1 PV."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Sky_Kingdom/Mirrorshield.cfg:82
@@ -5131,7 +5111,7 @@ msgstr ""
 "de dar golpes bien dados con sus hechizos de ataque. Sin embargo, su dejadez "
 "en el ejercicio físico diario ha debilitado su habilidad con las armas de "
 "combate cuerpo a cuerpo. Algunos hechiceros, dado el suficiente talento, "
-"incluso alcanzan el rango de maestro de los magos…"
+"incluso alcanzan el rango de maestro mago…"
 
 #. [unit_type]: id=EoMa_Subversive_Mage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Subversive_Mage.cfg:4
@@ -5344,7 +5324,6 @@ msgstr "Desterrador"
 
 #. [unit_type]: id=EoMa_Banisher, race=eoma_summoner
 #: Era_of_Magic/units/Summoners/Banisher.cfg:21
-#, fuzzy
 msgid ""
 "Banishers represent the greatest level of skill a dispeller can achieve. They "
 "can send to the Abyss magical beings that are too powerful for their less "
@@ -5356,14 +5335,14 @@ msgid ""
 "Banishers' task."
 msgstr ""
 "Los desterradores representan el mayor nivel de habilidad que puede alcanzar "
-"un disipador. Pueden enviar al Abismo seres mágicos que son demasiado "
+"un disipador. Pueden enviar al abismo seres mágicos que son demasiado "
 "poderosos para sus colegas menos experimentados, mucho más poderosos que los "
-"que puede enviar un compañero Dispeller. Como la mayoría de los Invocadores "
-"experimentados, los Desterradores marchan a la batalla con círculos mágicos, "
+"que puede enviar un compañero disipador. Como la mayoría de los invocadores "
+"experimentados, los desterradores marchan a la batalla con círculos mágicos, "
 "pero usando la magia de disipación. No está claro cómo o por qué funcionan los "
 "círculos de destierro, pero los exploradores de campo informan múltiples "
 "avistamientos de entidades mágicas que tienden a desestabilizarse cuando están "
-"cerca de ellos, contribuyendo así a la tarea de los Desterradores."
+"cerca de ellos, contribuyendo así a la tarea de los desterradores."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/Banisher.cfg:124
@@ -5516,7 +5495,6 @@ msgstr "Darma-rami"
 
 #. [unit_type]: id=EoMa_DharmaRhami, race=eoma_magical
 #: Era_of_Magic/units/Summoners/Dharma_rhami.cfg:21
-#, fuzzy
 msgid ""
 "With skin as red as blood, armed with more weapons than a human could hold, "
 "and carrying a cup of raging fire, Dharma'rhami's appearance is likened to "
@@ -5526,13 +5504,13 @@ msgid ""
 "lust for bloodshed. Always keen to show off their remarkable skill with their "
 "weaponry, they are said to be capable of crushing any opposition with ease."
 msgstr ""
-"Con la piel tan roja como la sangre, armado con más armas de las que un humano "
-"podría sostener y llevando una copa de fuego furioso, la apariencia de "
-"Dharma'rhami se asemeja a la de un dios de la guerra frenético. Si bien "
-"generalmente se cree que tienen un temperamento extremadamente caliente debido "
-"a esto, en realidad son bastante tranquilos y juiciosos, usan sus "
-"demostraciones de poder como una táctica de intimidación y luchan sin ansias "
-"de derramamiento de sangre. Siempre deseosos de mostrar su notable habilidad "
+"Con la piel tan roja como la sangre, pertrechada con más armas de las que un "
+"humano podría sostener, y llevando una copa de fuego furioso, la apariencia de "
+"una darma-rami se asemeja a la de una diosa de la guerra frenética. Si bien "
+"generalmente se cree que tienen un temperamento extremadamente iracundo debido "
+"a ello, en realidad son bastante tranquilas y juiciosas, usan sus "
+"demostraciones de poder como una táctica de intimidación, y luchan sin ansias "
+"de derramamiento de sangre. Siempre deseosas de mostrar su notable habilidad "
 "con el armamento, se dice que son capaces de aplastar cualquier oposición con "
 "facilidad."
 
@@ -5592,7 +5570,6 @@ msgstr "Portal dimensional II"
 
 #. [unit_type]: id=EoMa_Dimensional_Gate_II, race=eoma_magical
 #: Era_of_Magic/units/Summoners/Dimensional_Gate_2.cfg:29
-#, fuzzy
 msgid ""
 "Dimensional Gate II is a more sophisticated variant of a typical blue gate. It "
 "can be created only by summons experts or via the process of banishing a more "
@@ -5601,12 +5578,12 @@ msgid ""
 "to the Abyss which allows summoning much more powerful beings in exchange for "
 "a living or magical being's soul."
 msgstr ""
-"Dimensional Gate II es una variante más sofisticada de una típica puerta azul. "
-"Solo puede ser creado por expertos en invocaciones o mediante el proceso de "
-"desterrar a un ser mágico más poderoso como Rhami'datu o Great Jinni. Los "
-"invocadores consideran que Dimensional Gates II es extremadamente valioso "
-"debido a su conexión mejorada con el Abismo, lo que permite invocar seres "
-"mucho más poderosos a cambio del alma de un ser vivo o mágico."
+"El portal dimensional II es una variante más sofisticada de una típica puerta "
+"azul. Sólo puede ser creado por expertos en invocaciones o mediante el proceso "
+"de desterrar a un ser mágico más poderoso como un rami-datu o un gran genio. "
+"Los invocadores consideran que el portal dimensional II es extremadamente "
+"valioso debido a su conexión mejorada con el abismo, lo que permite invocar "
+"seres mucho más poderosos a cambio del alma de un ser vivo o mágico."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/Dimensional_Gate_2.cfg:234
@@ -5620,7 +5597,6 @@ msgstr "Disipador"
 
 #. [unit_type]: id=EoMa_Dispeller, race=eoma_summoner
 #: Era_of_Magic/units/Summoners/Dispeller.cfg:18
-#, fuzzy
 msgid ""
 "Some summoners choose the opposite path of the summoning: the art of "
 "banishment. Instead of bringing magical beings to this world, they specialize "
@@ -5630,8 +5606,8 @@ msgid ""
 msgstr ""
 "Algunos invocadores eligen el camino opuesto al de la invocación: el arte del "
 "destierro. En lugar de traer seres mágicos a este mundo, se especializan en "
-"enviarlos de regreso a Abyss. Normalmente, tal habilidad sería bastante "
-"redundante, pero debido a las frecuentes rebeliones de los Efreet, es crucial "
+"enviarlos de regreso al abismo. Normalmente, tal habilidad sería bastante "
+"redundante, pero debido a las frecuentes rebeliones de los ifrit, es crucial "
 "para mantener el orden en la sociedad de invocadores."
 
 #. [unit_type]: id=EoMa_Earth_Avatar, race=eoma_magical
@@ -5770,7 +5746,6 @@ msgstr "Camellero de élite"
 
 #. [unit_type]: id=EoMa_Heavy_Camel_Rider, race=eoma_summoner
 #: Era_of_Magic/units/Summoners/Elite_Camel_Rider.cfg:20
-#, fuzzy
 msgid ""
 "With each battle, cameleers become more versed in fighting from camel-back, "
 "outstanding skill is the criteria for a promotion to the next rank. Elite "
@@ -5780,14 +5755,14 @@ msgid ""
 "vanguard, riding ahead of summoners and their elementals. The best of the best "
 "even reach the rank of Camel Master..."
 msgstr ""
-"Con cada batalla, los camelleros se vuelven más versados ​​en la lucha a lomos "
-"de camellos, una habilidad sobresaliente es el criterio para una promoción al "
-"siguiente rango. Los jinetes de camellos de élite distinguen su estatus "
-"adornando su montura y ellos mismos con ropa colorida, amuletos y abalorios. "
-"En tiempos de paz, entrenan a pequeños grupos de jinetes menos experimentados, "
-"mientras que en la guerra desempeñan el papel de vanguardia, cabalgando por "
-"delante de los invocadores y sus elementales. Lo mejor de lo mejor llega "
-"incluso al rango de Camel Master..."
+"Con cada batalla, los camelleros se vuelven más versados en la lucha a lomos "
+"de camellos y para una promoción al siguiente rango una habilidad "
+"sobresaliente es el criterio. Los jinetes de camellos de élite distinguen su "
+"estatus adornando su montura y a ellos mismos con ropa colorida, amuletos y "
+"abalorios. En tiempos de paz, entrenan a pequeños grupos de jinetes menos "
+"experimentados, mientras que en la guerra desempeñan el papel de vanguardia, "
+"cabalgando por delante de los invocadores y sus elementales. Los mejores entre "
+"los mejores llegan incluso al rango de maestro camellero..."
 
 #. [unit_type]: id=EoMa_Fire_Avatar, race=eoma_magical
 #: Era_of_Magic/units/Summoners/Fire_Avatar.cfg:126
@@ -5954,7 +5929,6 @@ msgstr "Gran genio"
 
 #. [unit_type]: id=EoMa_Great_Jinn, race=eoma_magical
 #: Era_of_Magic/units/Summoners/Great_Jinni.cfg:20
-#, fuzzy
 msgid ""
 "New summoners learn early on that jinn are much different from the elementals "
 "they have summoned from the Abyss. Jinn bear an insatiable thirst for "
@@ -5967,7 +5941,7 @@ msgid ""
 "still search for answers to life’s questions, despite the position they have."
 msgstr ""
 "Los nuevos invocadores aprenden desde el principio que los genios son muy "
-"diferentes de los elementales que han convocado desde el Abismo. Los genios "
+"diferentes de los elementales que han convocado desde el abismo. Los genios "
 "tienen una sed insaciable de conocimiento que pronto hará que se conviertan en "
 "grandes genios. Más sabios que sus propios maestros y con algunos fundamentos "
 "de invocación, los grandes genios son tratados de manera similar a los "
@@ -5993,7 +5967,6 @@ msgstr "Invocador pesado"
 
 #. [unit_type]: id=EoMa_Heavy_Summoner, race=eoma_summoner
 #: Era_of_Magic/units/Summoners/Heavy_Summoner.cfg:22
-#, fuzzy
 msgid ""
 "A summoner trained in the ‘heavy arts’ holds a unique advantage over other "
 "summoners of the Third Degree: the knowledge of summoning a support-based "
@@ -6010,7 +5983,7 @@ msgid ""
 "summoners can call forth Rhamis from the Abyss through their summoning circles."
 msgstr ""
 "Un invocador entrenado en las \"artes pesadas\" posee una ventaja única sobre "
-"los demás invocadores del Tercer Grado: el conocimiento de la invocación de un "
+"los demás invocadores del tercer grado: el conocimiento de la invocación de un "
 "círculo de apoyo alrededor de sí mismo y de sus aliados. Los círculos de "
 "resistencia repelerán los ataques mágicos entrantes, reduciendo su impacto y "
 "protegiendo a los compañeros del invocador pesado.\n"
@@ -6021,8 +5994,8 @@ msgstr ""
 "cultivan su fuerza física a lo largo de los años para dominar los combates "
 "cuerpo a cuerpo.\n"
 "\n"
-"Al igual que sus compañeros invocadores neutrales, que pueden invocar Genios, "
-"los invocadores pesados pueden invocar Rhamis del Abismo a través de sus "
+"Al igual que sus compañeros invocadores neutrales, que pueden invocar genios, "
+"los invocadores pesados pueden invocar ramis del abismo a través de sus "
 "círculos de invocación."
 
 #. [abilities]
@@ -6502,7 +6475,6 @@ msgstr "Genio maravilloso"
 
 #. [unit_type]: id=EoMa_Wonderful_Jinn, race=eoma_magical
 #: Era_of_Magic/units/Summoners/Wonderful_Jinni.cfg:20
-#, fuzzy
 msgid ""
 "Wonderful jinn are sages in the summoners’ society, spreading their wisdom to "
 "any ear willing to listen. Their unequalled imagination and intellect of the "
@@ -6514,15 +6486,16 @@ msgid ""
 "immeasurable thirst, for they still follow the orders of their superiors and "
 "have not yet retired into the shadows of the world."
 msgstr ""
-"Los maravillosos jinn son sabios en la sociedad de los invocadores, que "
+"Los maravillosos genios son sabios en la sociedad de los invocadores, que "
 "difunden su sabiduría a cualquier oído dispuesto a escuchar. Su inigualable "
 "imaginación e intelecto del mundo se hace evidente a través de su vasta "
-"multitud de hechizos elementales y arcanos. Los jinn de tan alto calibre han "
+"multitud de hechizos elementales y arcanos. Los genios de tan alto calibre han "
 "aprendido por sí mismos a realizar invocaciones ofensivas, un logro que les "
-"granjea un gran respeto entre sus pares humanos. Hace tiempo que los jinn "
+"granjea un gran respeto entre sus pares humanos. Hace tiempo que los genios "
 "maravillosos se independizaron y dejaron de ser siervos de sus amos. Es un "
-"misterio si han saciado o no su inconmensurable sed, pues aún siguen las "
-"órdenes de sus superiores y todavía no se han retirado a las sombras del mundo."
+"misterio si han saciado o no su inconmensurable sed de conocimiento, pues aún "
+"siguen las órdenes de sus superiores y todavía no se han retirado a las "
+"sombras del mundo."
 
 #. [attack]: type=secret
 #: Era_of_Magic/units/Summoners/Wonderful_Jinni.cfg:112
@@ -6664,7 +6637,6 @@ msgstr "aura carmesí"
 
 #. [drains]: id=eoma_crimson_aura
 #: Era_of_Magic/units/Tharis/Crimson_Blade.cfg:37
-#, fuzzy
 msgid ""
 "All adjacent enemy units take damage equal to 15% of damage they deal. This "
 "ability cannot, of itself, kill a unit. It will remain on a battlefield with 1 "
@@ -6672,7 +6644,7 @@ msgid ""
 msgstr ""
 "Todas las unidades enemigas adyacentes reciben un daño igual al 15% of de daño "
 "que infligen. Esta habilidad no puede, por sí misma, matar a una unidad. En su "
-"lugar, permanecerá en el campo de batalla con 1 PS."
+"lugar, permanecerá en el campo de batalla con 1 PV."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -6873,7 +6845,6 @@ msgstr "Primera línea"
 
 #. [unit_type]: id=EoMa_Frontliner, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Frontliner.cfg:19
-#, fuzzy
 msgid ""
 "Unlike most Tharis troops, these warriors have been trained for direct combat "
 "rather than sneak tactics like poison or no counter attack techniques.\n"
@@ -6882,7 +6853,7 @@ msgid ""
 msgstr ""
 "A diferencia de la mayoría de las tropas Tharis, estos guerreros han sido "
 "entrenados para el combate directo en lugar de tácticas furtivas como el "
-"veneno o técnicas de contraataque inexistentes.\n"
+"veneno o técnicas de anti-contraataque.\n"
 "Son notablemente más resistentes que la mayoría, ya que llevan dos espadas "
 "curvas para el combate cuerpo a cuerpo y chakrams para los encuentros a "
 "distancia."
@@ -6978,7 +6949,6 @@ msgstr "Hidra"
 
 #. [unit_type]: id=EoMa_Hydra, race=monster
 #: Era_of_Magic/units/Tharis/Hydra.cfg:19
-#, fuzzy
 msgid ""
 "Raised in the deepest and darkest parts of the underground tunnels beneath the "
 "Tharis country, Hydras are regenerative, three-headed beasts, capable of "
@@ -6986,7 +6956,7 @@ msgid ""
 "water snakes are merely youths – mature hydras are even more terrifying..."
 msgstr ""
 "Criadas en las partes más profundas y oscuras de los túneles subterráneos bajo "
-"el país de Tharis, las hidras son bestias regenerativas de tres cabezas, "
+"el país de Taris, las hidras son bestias regenerativas de tres cabezas, "
 "capaces de dañar a varios enemigos de un solo golpe. Peor aún, estas "
 "serpientes de agua no son más que crías: las hidras maduras son aún más "
 "aterradoras..."
@@ -6998,7 +6968,6 @@ msgstr "Maestro de la oscuridad"
 
 #. [unit_type]: id=EoMa_Master_of_Darkness, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:21
-#, fuzzy
 msgid ""
 "While the title of Great Warlock is undoubtedly very prestigious, it's "
 "strongly overshadowed by that of a Master of Darkness. The Master of Darkness "
@@ -7010,16 +6979,16 @@ msgid ""
 "even the most robust structures with ease, shrug off heavy plows like minor "
 "bruises, and dissipate into bats."
 msgstr ""
-"Aunque el título de Gran Brujo es sin duda muy prestigioso, queda muy "
-"eclipsado por el de Maestro de las Tinieblas. El Maestro de las Tinieblas es "
-"el monarca de Tharis y una figura religiosa. Cada siglo, los grandes brujos "
-"más poderosos son seleccionados por los dioses oscuros como candidatos al "
-"título, y tienen que aventurarse en las profundidades malditas. El brujo que "
-"sobrevive a los rituales sin perder completamente la cordura es reconocido "
-"como el líder. Los dioses oscuros le conceden muchos poderes, entre ellos la "
-"capacidad de lanzar hechizos que destrozan con facilidad incluso las "
-"estructuras más robustas, encogerse de hombros ante arados pesados como si "
-"fueran pequeñas contusiones y disiparse en murciélagos."
+"Aunque el título de gran brujo es sin duda muy prestigioso, queda muy "
+"eclipsado por el de maestro de la oscuridad. El maestro de la oscuridad es el "
+"monarca de Taris y una figura religiosa. Cada siglo, los grandes brujos más "
+"poderosos son seleccionados por los dioses oscuros como candidatos al título, "
+"y tienen que aventurarse en las profundidades malditas. El brujo que sobrevive "
+"a los rituales sin perder completamente la cordura es reconocido como el "
+"líder. Los dioses oscuros le conceden muchos poderes, entre ellos la capacidad "
+"de lanzar hechizos que destrozarían con facilidad incluso las estructuras más "
+"robustas, menospreciar terribles impactos como si fueran contusiones menores, "
+"y disiparse en murciélagos."
 
 #. [attack]: type=cold
 #. [attack]: type=impact
@@ -7176,7 +7145,6 @@ msgstr "Bailarín de las espadas"
 
 #. [unit_type]: id=EoMa_Sworddancer, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Sword_Dancer.cfg:19
-#, fuzzy
 msgid ""
 "It is no secret that a chakram's main drawback as a melee weapon is its short "
 "length. Thus, when they are able to, experienced blade dancers always switch "
@@ -8283,7 +8251,6 @@ msgstr "cronoaura"
 
 #. [dummy]: id=eoma_chronoaura
 #: Era_of_Magic/utils/chronoaura.cfg:6
-#, fuzzy
 msgid ""
 "Time flows slower around this unit. This has the following effects:\n"
 "- all adjacent friendly units receive +5% chance to hit bonus;\n"
@@ -8301,19 +8268,19 @@ msgid ""
 "To cast the spell right-click the unit and select 'Activate Aura'."
 msgstr ""
 "El tiempo fluye más despacio alrededor de esta unidad. Esto tiene los "
-"siguientes efectos\n"
-"- todas las unidades amigas adyacentes reciben una bonificación de +5% "
-"cprobabilidad de impacto;\n"
-"- todas las unidades enemigas adyacentes reciben una penalización de -5% "
-"cprobabilidad de impacto (excepto los ataques que siempre impactan)\n"
+"siguientes efectos:\n"
+"- Todas las unidades amigas adyacentes reciben una bonificación de +5% de "
+"probabilidad de impacto.\n"
+"- Todas las unidades enemigas adyacentes reciben una penalización de -5% de "
+"probabilidad de impacto (excepto los ataques que siempre impactan).\n"
 "\n"
 "Además, esta unidad puede lanzar un poderoso hechizo de manipulación del "
 "tiempo con los siguientes efectos que duran un turno:\n"
-"- esta unidad y todas las unidades amigas adyacentes golpean primero y reciben "
-"una bonificación de +15% cde probabilidad de impacto;\n"
-"- todas las unidades enemigas adyacentes reciben una penalización de -15% "
-"chance to hit (excepto los ataques que siempre impactan);\n"
-"- el lanzador del hechizo obtiene la habilidad de escaramuzador.\n"
+"- Esta unidad y todas las unidades amigas adyacentes golpean primero y reciben "
+"una bonificación de +15% de probabilidad de impacto.\n"
+"- Todas las unidades enemigas adyacentes reciben una penalización de -15% de "
+"probabilidad de impacto (excepto los ataques que siempre impactan).\n"
+"- El lanzador del hechizo obtiene la habilidad de hostigador.\n"
 "\n"
 "Para lanzar el hechizo, haz clic con el botón derecho en la unidad y "
 "selecciona \"Activar aura\"."
@@ -8750,7 +8717,6 @@ msgstr ""
 "el día de hoy."
 
 #: Era_of_Magic/utils/faction_descriptions.cfg:25
-#, fuzzy
 msgid ""
 "Little is known about these powerful undead beings. They are fueled by anti-"
 "magic, and consist of the remnants of long-forgotten civilizations, once "
@@ -8764,12 +8730,12 @@ msgstr ""
 "Poco se sabe de estos poderosos seres no muertos. Están alimentados por "
 "antimagia, y consisten en los restos de civilizaciones olvidadas hace mucho "
 "tiempo, una vez consumidas por el enjambre caótico. Se especula que los "
-"Destructores fueron creados hace mucho tiempo como un arma, que se descontroló "
+"destructores fueron creados hace mucho tiempo como un arma, que se descontroló "
 "en algún momento. Esto podría explicar el Cataclismo, un acontecimiento que "
 "casi acabó con toda la vida del planeta en la antigüedad. Aunque la mayoría de "
-"estas abominaciones han sido aniquiladas por los Runemaster, sus restos aún "
-"vagan por el Polo Norte. Se rumorea que estos seres son los mismos a los que "
-"adoran los Tharis."
+"estas abominaciones han sido aniquiladas por los maestros rúnicos, sus restos "
+"aún vagan por el Polo Norte. Se rumorea que estos seres son los mismos a los "
+"que adoran los Taris."
 
 #. [damage]: id=eoma_growingfury{ARRAY}{ADD}
 #: Era_of_Magic/utils/growing-fury.cfg:10
@@ -8797,7 +8763,6 @@ msgstr "sana"
 
 #. [heals]: id=eoma_healing{VALUE}
 #: Era_of_Magic/utils/healing.cfg:80
-#, fuzzy
 msgid ""
 "Allows the unit to heal adjacent allied units at the beginning of its turn.\n"
 "\n"
@@ -8807,14 +8772,14 @@ msgid ""
 "care of a village or a unit that can cure.\n"
 "The amount of hitpoints healed:"
 msgstr ""
-"Permite a la unidad curar a las unidades aliadas adyacentes al comienzo de su "
+"Permite a la unidad sanar a las unidades aliadas adyacentes al comienzo de su "
 "turno.\n"
 "\n"
-"Una unidad atendida por este curandero puede curar hasta algunos PV por turno, "
-"o evitar que el veneno tenga efecto durante ese turno.\n"
+"Una unidad atendida por este sanador puede regenerar algunos PV por turno, o "
+"evitar que el veneno tenga efecto durante ese turno.\n"
 "Una unidad envenenada no puede ser curada de su veneno por un sanador, y debe "
-"buscar el cuidado de un pueblo o de una unidad que pueda curar.\n"
-"La cantidad de puntos de vida curados:"
+"buscar la curación de un pueblo o de una unidad que pueda curar.\n"
+"La cantidad de puntos de vida sanados:"
 
 #. [regenerate]: id=eoma_regenerates{VALUE}
 #: Era_of_Magic/utils/healing.cfg:108
@@ -9135,7 +9100,6 @@ msgstr "reclutar"
 
 #. [dummy]: id=eoma_recruit
 #: Era_of_Magic/utils/recruit.cfg:6
-#, fuzzy
 msgid ""
 "This unit can recruit new units on adjacent tiles, but only when standing in "
 "villages.\n"
@@ -9143,7 +9107,7 @@ msgid ""
 "For more information, choose the 'Recruiting Help' rightclick option which "
 "appears when rightclicking on a unit with the 'recruit' ability."
 msgstr ""
-"Esta unidad puede reclutar nuevas unidades en losetas adyacentes, pero sólo "
+"Esta unidad puede reclutar nuevas unidades en hexágonos adyacentes, pero sólo "
 "cuando se encuentre en aldeas.\n"
 "\n"
 "Para más información, elige la opción \"Ayuda para reclutar\" que aparece al "
@@ -9162,7 +9126,6 @@ msgstr "Ayuda de reclutamiento"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/recruit.cfg:240
-#, fuzzy
 msgid ""
 "To recruit a unit right-click on hexes adjacent to a selected recruiter.\n"
 "\n"
@@ -9178,14 +9141,14 @@ msgstr ""
 "hexágonos adyacentes a un reclutador seleccionado.\n"
 "\n"
 "Necesitas todos los puntos de movimiento (y ataques restantes) para reclutar "
-"una criatura. Sólo puedes reclutar en aldeas. No se puede reclutar una nueva "
-"unidad en el agua.\n"
-"Cada reclutamiento añade +3 a la experiencia actual.\n"
+"una criatura. Sólo puedes reclutar estando en aldeas. No se puede reclutar una "
+"nueva unidad en el agua.\n"
+"Cada reclutamiento añade +3 a la experiencia.\n"
 "\n"
 "Si hay 2 o más reclutadores, una nueva unidad será reclutada por la última "
 "unidad seleccionada capaz de reclutar, o si no se ha seleccionado ningún "
-"reclutador, se elegirá aleatoriamente un reclutador junto a la ficha "
-"seleccionada."
+"reclutador, se elegirá aleatoriamente un reclutador junto al hexágono "
+"seleccionado."
 
 #. [resistance]: id=eoma_defender
 #: Era_of_Magic/utils/resistance.cfg:8
@@ -9236,7 +9199,6 @@ msgstr "absorción de magia"
 
 #. [resistance]: id=eoma_magicabsorb
 #: Era_of_Magic/utils/resistance.cfg:67
-#, fuzzy
 msgid ""
 "Area around this unit is mostly purged from most kinds of magic (anti-shield "
 "attacks still work fine)\n"
@@ -9246,9 +9208,9 @@ msgid ""
 msgstr ""
 "El área alrededor de esta unidad está mayormente purgada de la mayoría de los "
 "tipos de magia (los ataques anti-escudo aún funcionan bien)\n"
-"- todas las unidades adyacentes (incluidos los enemigos) reciben una "
-"bonificación del 70 % a las resistencias al fuego, al frío y a los arcanos "
-"(hasta un máximo del 70 %).\n"
+"- Todas las unidades adyacentes (incluidos enemigos) reciben una bonificación "
+"del 70% a las resistencias al fuego, al frío y arcana (hasta un máximo del "
+"70%).\n"
 "- La curación y el círculo de susceptibilidad alrededor de esta unidad no "
 "funcionan."
 
@@ -9259,7 +9221,6 @@ msgstr "aura fría"
 
 #. [resistance]: id=eoma_coldaura
 #: Era_of_Magic/utils/resistance.cfg:89
-#, fuzzy
 msgid ""
 "- All water tiles around this unit turn to ice on this unit's next turn (this "
 "effect lasts 1 turn).\n"
@@ -9274,16 +9235,16 @@ msgid ""
 msgstr ""
 "- Todas las casillas de agua alrededor de esta unidad se convierten en hielo "
 "en el próximo turno de esta unidad (este efecto dura 1 turno).\n"
-"- El propietario de esta habilidad inflige 4 daños por frío a los enemigos "
+"- El propietario de esta habilidad inflige 4 de daño por frío a los enemigos "
 "adyacentes cada turno.\n"
-"- Todas las unidades adyacentes con regeneración de agua (incluidos los "
+"- Todas las unidades adyacentes con regeneración acuática (incluidos los "
 "elementales de agua y sus avances) se ralentizan.\n"
-"- El área alrededor de esta unidad proporciona una bonificación del 40 % (50 % "
-"máx.) a la resistencia al fuego y una reducción de −25 % (-75 % máx.) a la "
+"- El área alrededor de esta unidad proporciona una bonificación del 40% (50% "
+"máx.) a la resistencia al fuego y una reducción de -25% (-75% máx.) a la "
 "resistencia al frío.\n"
 "- Esta habilidad no afecta a otras unidades con la misma habilidad.\n"
-"- Esta habilidad no funciona en mosaicos afectados por la habilidad de aura de "
-"calor."
+"- Esta habilidad no funciona en hexágonos afectados por la habilidad de aura "
+"de calor."
 
 #. [resistance]: id=eoma_heataura{VALUE}
 #: Era_of_Magic/utils/resistance.cfg:280
@@ -9373,7 +9334,6 @@ msgstr "aura rúnica"
 
 #. [dummy]: id=eoma_runeaura
 #: Era_of_Magic/utils/runeaura.cfg:6
-#, fuzzy
 msgid ""
 "When this ability is activated, all Rune Masters create special auras.\n"
 "-all ajdacent enemy units get 20 damage,\n"
@@ -9385,18 +9345,18 @@ msgid ""
 "resistance,\n"
 "-the transformation lasts one turn."
 msgstr ""
-"Cuando se activa esta habilidad, todos los Rune Masters crean auras "
+"Cuando se activa esta habilidad, todos los maestros rúnicos crean auras "
 "especiales.\n"
-"-todas las unidades enemigas adyacentes reciben 20 de daño,\n"
-"-unidades adyacentes en hexágonos: s, ne, nw reciben una bonificación del 99 % "
-"a la resistencia al fuego, al frío y a lo arcano,\n"
-"-otras unidades reciben una bonificación del -99 % a la resistencia al fuego, "
-"al frío y a lo arcano,\n"
-"-el aura se puede rotar una vez por turno para cubrir las unidades "
+"- Todas las unidades enemigas adyacentes reciben 20 de daño,\n"
+"- Unidades adyacentes en los hexágonos: s, ne y no reciben una bonificación "
+"del 99 % a la resistencia al fuego, al frío y arcana,\n"
+"- Otras unidades reciben una bonificación del -99 % a la resistencia al fuego, "
+"al frío y arcana,\n"
+"- El aura se puede rotar una vez por turno para cubrir las unidades "
 "apropiadas,\n"
-"-Los Runemasters transformados no pueden atacar, pero tienen un 70% de "
+"- Los maestros rúnicos transformados no pueden atacar, pero tienen un 70% de "
 "resistencia mágica y física,\n"
-"-la transformación dura un turno."
+"- La transformación dura un turno."
 
 #. [set_menu_item]: id=eoma_runeaura_menu
 #: Era_of_Magic/utils/runeaura.cfg:35
