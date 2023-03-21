@@ -216,7 +216,7 @@ msgid ""
 "\n"
 "Should this unit pick up the carpet?"
 msgstr ""
-"Propulsada por vientos del Averno y tejida con hilos mágicos. Aquellos "
+"Propulsada por vientos del Abismo y tejida con hilos mágicos. Aquellos "
 "afortunados que adquieran este antiguo vehículo gozarán de una movilidad "
 "increíble.\n"
 "\n"
@@ -234,7 +234,7 @@ msgid ""
 "Should this unit pick up the ring?"
 msgstr ""
 "Este anillo misterioso está ornamentado ricamente y grabado con símbolos "
-"mágicos conectados al Averno, capaces de sanar las heridas del portador.\n"
+"mágicos conectados al Abismo, capaces de sanar las heridas del portador.\n"
 "- Otorga regeneración.\n"
 "\n"
 "¿Deseas recoger el anillo?"
@@ -310,7 +310,7 @@ msgid ""
 "\n"
 "Should this unit pick up the spear?"
 msgstr ""
-"Esta lanza, forjada puramente a partir de energía del Averno, es el arma "
+"Esta lanza, forjada puramente a partir de energía del Abismo, es el arma "
 "utilizada por la primera rami-kai. Una obra excepcional, en comparación con "
 "las armas de sus sucesoras, fabricadas en serie a partir de metal mundano.\n"
 "\n"
@@ -449,7 +449,7 @@ msgid ""
 "this ancient vehicle gains amazing speed and agility.\n"
 "Speed increases by 50%"
 msgstr ""
-"Tejida de hilos dorados, guiada por vientos del Averno. Quien posea este "
+"Tejida de hilos dorados, guiada por vientos del Abismo. Quien posea este "
 "antiguo transporte adquiere velocidad y agilidad sorprendente.\n"
 "La velocidad aumenta en 50%."
 
@@ -551,7 +551,7 @@ msgid ""
 "Increases the attack by 25%\n"
 "Increases magical resistances by 10%"
 msgstr ""
-"Esta arma, forjada de la luz del Averno, es parte del equipamiento usado por "
+"Esta arma, forjada de la luz del Abismo, es parte del equipamiento usado por "
 "entidades mágicas llamadas rami-kai. Nuestros ancestros robaron una de esas "
 "lanzas y la mejoraron mágicamente.\n"
 "Promociona la unidad (a menos que ya esté en nivel máximo).\n"
@@ -802,7 +802,7 @@ msgid ""
 "- Grants regeneration"
 msgstr ""
 "Este anillo misterioso está ricamente ornamentado con símbolos mágicos, lo "
-"que de alguna manera lo conecta al Averno. El portador de esta reliquia "
+"que de alguna manera lo conecta al Abismo. El portador de esta reliquia "
 "puede beneficiarse de energías extrañas que, al fluir a su cuerpo, lo sanan\n"
 "- Otorga regeneración."
 
@@ -948,7 +948,7 @@ msgid ""
 "Note: All summoned Jinn have returned to the Abyss. Remember: Mehir needs to "
 "be a Summons Master to carry them between missions."
 msgstr ""
-"Note que todos los genios invocados han regresado al Averno. Recuerde que "
+"Note que todos los genios invocados han regresado al Abismo. Recuerde que "
 "Mejir debe ser un invocador maestro para conservarlos entre misiones."
 
 #. [message]: speaker=narrator
@@ -1348,8 +1348,8 @@ msgid ""
 msgstr ""
 "En un tiempo muy remoto, nuestros ancestros hicieron un descubrimiento "
 "revolucionario —la magia. Se manifestaba a partir de fórmulas y símbolos, "
-"conectados al Averno, otro mundo lleno de energía, donde las limitaciones "
-"del espacio y el tiempo desaparecen. El uso de la magia y del Averno "
+"conectados al Abismo, otro mundo lleno de energía, donde las limitaciones "
+"del espacio y el tiempo desaparecen. El uso de la magia y del Abismo "
 "transfiguraron completamente nuestra civilización. Regularmente usamos las "
 "energías abismales para resolver nuestras necesidades. Es por ello que nos "
 "hacemos llamar <i>Invocadores</i>."
@@ -1368,7 +1368,7 @@ msgid ""
 "entities summoned afterwards. We still don't know why exactly he decided to "
 "obey us, but we're certainly glad he did."
 msgstr ""
-"Al principio, nuestros ancestros consideraron que el Averno era un lugar de "
+"Al principio, nuestros ancestros consideraron que el Abismo era un lugar de "
 "caos primigenio —esto es, hasta que invocaron a la primera entidad mágica, "
 "un auténtico morador del otro mundo. Este era Nómolas, el primer genio.\n"
 "Con un ingenio sin ataduras, esta entidad es el ser más poderoso que "
@@ -1424,18 +1424,18 @@ msgid ""
 "It should be stressed that we believe we will find in the Abyss the ultimate "
 "sense of our life and intend to stay there forever."
 msgstr ""
-"A raíz de nuestra dependencia del Averno, hemos aprendido bastante acerca de "
+"A raíz de nuestra dependencia del Abismo, hemos aprendido bastante acerca de "
 "tan extraña dimensión, pero no hemos logrado entrar en ella. Quizás porque "
 "nadie allí puede invocarnos... Sin embargo, en los últimos años, nuestras "
 "mejores mentes idearon un peculiar diseño para un círculo mágico capaz de "
 "transportarons a ese mundo fantástico. Nuestros experimentos tuvieron éxito, "
 "aunque no hemos podido invocar de vuelta los objetos que que enviamos. "
 "Debido a esa limitación, aunque parezca una locura, decidimos enviar nuestra "
-"tierra entera al Averno, con la esperanza de encontrar eventualmente la "
+"tierra entera al Abismo, con la esperanza de encontrar eventualmente la "
 "solución en el otro lado. Pero, incluso si la encontráramos, quizás no la "
 "usaríamos.\n"
 "\n"
-"Porque nosotros, invocadores, creemos firmemente que solo en el Averno "
+"Porque nosotros, invocadores, creemos firmemente que solo en el Abismo "
 "podremos encontrar el sentido último de nuestra vida, y pretendemos "
 "quedarnos allí para siempre."
 
@@ -1631,7 +1631,7 @@ msgid ""
 "were abandoned and the ancestors could finally claim the Great Desert as "
 "their home."
 msgstr ""
-"Vivieron aquí durante 500 años hasta que un día encontraron el Averno. Con "
+"Vivieron aquí durante 500 años hasta que un día encontraron el Abismo. Con "
 "el tiempo, el revolucionario descubrimiento permitió la construcción de "
 "ciudades maravillosas sobre la superficie caliente y hostil. La primera fue "
 "Alcamiya, la nueva capital creada de la nada por el primer genio, Nómolas. "
@@ -1897,7 +1897,7 @@ msgstr ""
 "extranjeras era impensable; sin embargo, los ancianos sintieron que mostrar "
 "interés y preocupación por la situación de sus parientes sería lo indicado. "
 "Así que Mejir haría de emisario y entregaría una carta del consejo a la "
-"gente de Caros —una invitación para mudarse al Averno junto con los "
+"gente de Caros —una invitación para mudarse al Abismo junto con los "
 "invocadores. Tal gesto parecía adecuado, si no la única oportunidad de "
 "supervivencia para la gente de las tierras ancestrales. El Alto Consejo "
 "ordenó que se construyeran tres barcos específicamente para el viaje de "
@@ -2001,7 +2001,7 @@ msgstr ""
 "mundos implicaban un retraso de veinticinco días entre los eventos y sus "
 "consecuencias visibles. Dado que el mensajero había viajado ya por doce "
 "días, los invocadores tendrían tan solo trece días para completar el círculo "
-"con su formulación original y trasladarse al Averno. De no completarse a "
+"con su formulación original y trasladarse al Abismo. De no completarse a "
 "tiempo, todo el esfuerzo dedicado al proyecto se desperdiciaría."
 
 #. [part]
@@ -2031,7 +2031,7 @@ msgid ""
 "the final segment, and once it touched the other world..."
 msgstr ""
 "La mañana siguiente, el Gran Círculo —el mayor proyecto de los invocadores—, "
-"fue finalmente completado. El sueño de ingresar al Averno pronto se haría "
+"fue finalmente completado. El sueño de ingresar al Abismo pronto se haría "
 "realidad y solo hacía falta el hechizo para que la posibilidad de dejar el "
 "mundo mortal se hiciera realidad.\n"
 "Las multitudes se amontonaron en el Palacio Central de Alcamiya, a la espera "
@@ -2073,7 +2073,7 @@ msgstr ""
 "impresionante espectáculo desde Caros. Juró que haría todo lo posible para "
 "reunir a sus tropas con sus familiares y amigos.\n"
 "De acuerdo con lo que Anthi había dicho, el único medio que le podría llevar "
-"al Averno estaba en el oeste, donde tendría que buscar a la misteriosa gente "
+"al Abismo estaba en el oeste, donde tendría que buscar a la misteriosa gente "
 "que en el pasado lograra, con su magia, asombrosas hazañas."
 
 #. [part]
@@ -4249,7 +4249,7 @@ msgid ""
 "An eternal connection to the Abyss, a world of unlimited energy, where "
 "concepts like time and space are rather difficult to apply..."
 msgstr ""
-"Un nexo infinito al Averno, un mundo de energía ilimitada, donde los "
+"Un nexo infinito al Abismo, un mundo de energía ilimitada, donde los "
 "conceptos del tiempo y el espacio son... <i>Difíciles</i> de aplicar..."
 
 #. [message]: speaker=Elder
@@ -4533,7 +4533,7 @@ msgid ""
 "delays, we should be in the Abyss sooner than planned."
 msgstr ""
 "Todo está yendo según lo planeado. Si no nos detenemos, podríamos estar en "
-"el Averno antes de lo que pensábamos."
+"el Abismo antes de lo que pensábamos."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:171
@@ -4777,7 +4777,7 @@ msgid ""
 "How should I show them the Abyss and fried lizards, I wonder? Never mind, "
 "I’ll try. Maybe we can avoid bloodshed..."
 msgstr ""
-"Me pregunto como podría mostrarles el Averno y lagartijas fritas, ¿eh?. Da "
+"Me pregunto como podría mostrarles el Abismo y lagartijas fritas, ¿eh?. Da "
 "igual, lo intentaré. Quizás podamos evitar el derramamiento de sangre..."
 
 #. [message]: speaker=narrator
@@ -6675,7 +6675,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:729
 msgid "Taste the fires of the Abyss, savages!"
-msgstr "¡Probad los fuegos del Averno, salvajes!"
+msgstr "¡Probad los fuegos del Abismo, salvajes!"
 
 #. [message]: speaker=BLeader
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:740
@@ -7034,7 +7034,7 @@ msgid ""
 msgstr ""
 "Y el líder de Mag-Magar, Malib, es propietario del Portal Viviente, el más "
 "extraño de los seres mágicos definitivos. Es un portal móvil abierto al "
-"Averno similar a los Portales Dimensionales, pero una fuerza desconocida de "
+"Abismo similar a los Portales Dimensionales, pero una fuerza desconocida de "
 "origen abismal ha ganado control sobre este, otorgándole conciencia."
 
 #. [message]: speaker=Instructor
@@ -7045,7 +7045,7 @@ msgid ""
 "being are yet to be discovered."
 msgstr ""
 "El Portal Viviente es una obra maestra y maravilla para muchos estudiosos. "
-"Al poder acceder a diferentes partes del Averno, las habilidades completas "
+"Al poder acceder a diferentes partes del Abismo, las habilidades completas "
 "de este ser único aún no se han descubierto."
 
 #. [message]: speaker=Instructor
@@ -7967,7 +7967,7 @@ msgid ""
 "My magical servants, you may return to the Abyss! Farewell, stranger, and "
 "thank you for releasing me from this prison..."
 msgstr ""
-"¡Mis sirvientes mágicos, podéis volver al Averno! Adiós, extraño, y gracias "
+"¡Mis sirvientes mágicos, podéis volver al Abismo! Adiós, extraño, y gracias "
 "por liberarme de esta prisión..."
 
 #. [message]: speaker=Ghost
@@ -8107,7 +8107,7 @@ msgstr ""
 "Mmmm. <i>Miente.</i> Os estábamos buscando. Veréis, soy un mensajero enviado "
 "por la propia Rashti. Ella me ordenó... Ehhh... Encontraros y relevaros de "
 "vuestro puesto. Sí, estaba demasiado ocupada para hacerlo en persona. "
-"Después de todo, siendo la reina del Averno, tiene asuntos más importantes "
+"Después de todo, siendo la reina del Abismo, tiene asuntos más importantes "
 "que atender que buscar a otro guardián polvoriento en una cueva olvidada."
 
 #. [message]: speaker=Mehir
@@ -8608,7 +8608,7 @@ msgstr "Aerius"
 #. [side]
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:91
 msgid "team_name^Abyss"
-msgstr "Averno"
+msgstr "Abismo"
 
 #. [side]
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:104
@@ -8704,7 +8704,7 @@ msgstr ""
 "En fin, cuando nos negamos a salir, atacó a nuestra expedición <i>pacífica</"
 "i>. Ya que no estábamos preparados para un combate frontal y no nos quería "
 "escuchar, decidimos activar este portal. Todo su escuadrón fue tragado por "
-"el Averno Rojo."
+"el Abismo Rojo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:280
@@ -8712,7 +8712,7 @@ msgid ""
 "...the Red Abyss?! The place of ultimate chaos? The home of all Efreet and "
 "Dharma’rhamis? The most dangerous part of the entire dimension?"
 msgstr ""
-"<i>¡¿El Averno Rojo?!</i> ¿El lugar del caos definitivo? ¿El hogar de todos "
+"<i>¡¿El Abismo Rojo?!</i> ¿El lugar del caos definitivo? ¿El hogar de todos "
 "los ifrits y darma-ramis? ¿La zona más peligrosa de toda la dimensión?"
 
 #. [message]: speaker=Rashti
@@ -8823,7 +8823,7 @@ msgstr "Sí, ¿por qué lo preguntáis?"
 msgid ""
 "We can make them fall into the Red Abyss! Could you say the activation spell?"
 msgstr ""
-"¡Podemos hacer que caigan en el Averno Rojo! ¿Podríais pronunciar el hechizo "
+"¡Podemos hacer que caigan en el Abismo Rojo! ¿Podríais pronunciar el hechizo "
 "de activación?"
 
 #. [message]: speaker=Aerius
@@ -9006,7 +9006,7 @@ msgid ""
 "i>"
 msgstr ""
 "<i><span font-weight='bold'>Para sí mismo.</span>Bah... Eso ha sido muy "
-"fácil. Me encanta la inocencia de los seres del Averno. ¡Cayó con el truco "
+"fácil. Me encanta la inocencia de los seres del Abismo. ¡Cayó con el truco "
 "más viejo...!</i>"
 
 #. [message]: speaker=Mehir
@@ -9178,7 +9178,7 @@ msgid ""
 "Oh no... The dwellers of the Red Abyss are flooding into our realm! If we do "
 "not close the portal soon, this will be the end of the world!"
 msgstr ""
-"¡Oh, no!... ¡Numerosos habitantes del Averno Rojo están invadiendo nuestra "
+"¡Oh, no!... ¡Numerosos habitantes del Abismo Rojo están invadiendo nuestra "
 "dimensión! Si no cerramos el portal pronto, ¡este será el fin del mundo!"
 
 #. [message]: speaker=unit
@@ -9193,7 +9193,7 @@ msgid ""
 "Well well, yet another pathetic rebellion in the Red Abyss? Seems it is time "
 "for me to take out the trash yet again."
 msgstr ""
-"Bueno, bueno, ¿otra patética rebelión en el Averno Rojo? Parece que ya es "
+"Bueno, bueno, ¿otra patética rebelión en el Abismo Rojo? Parece que ya es "
 "hora de sacar la basura de nuevo."
 
 #. [message]: speaker=Mehir
@@ -10154,7 +10154,7 @@ msgid ""
 "authority over Tar-Tabar!"
 msgstr ""
 "Por el poder que me ha otorgado el Alto Consejo y en el nombre de todos los "
-"ciudadanos de nuestro país y del Averno, Mejir, hijo del anciano Hakim, ¡os "
+"ciudadanos de nuestro país y del Abismo, Mejir, hijo del anciano Hakim, ¡os "
 "otorgo autoridad sobre Tar-Tabar!"
 
 #. [message]: speaker=Mehir
@@ -10196,9 +10196,9 @@ msgid ""
 "disastrous consequences for our connection to the Abyss."
 msgstr ""
 "<i>Susurra.</i> Callaos... <i>Habla con normalidad.</i> A pesar de todo, "
-"espero que forméis un buen equipo, que nos permita trasladarnos al Averno "
+"espero que forméis un buen equipo, que nos permita trasladarnos al Abismo "
 "más rápido de lo planeado. Cuidad de ella. Su muerte podría tener "
-"consecuencias desastrosas para el Averno."
+"consecuencias desastrosas para el Abismo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:407
@@ -10215,8 +10215,8 @@ msgid ""
 msgstr ""
 "Casi todos los líderes de Tar-Tabar le tuvieron miedo pero os "
 "acostumbraréis. Así que espero que sean un dúo exitoso y que nos ayuden a "
-"trasladarnos al Averno más rápido de lo planeado. Cuidad de ella. Su muerte "
-"podría tener consecuencias desastrosas para el Averno.\n"
+"trasladarnos al Abismo más rápido de lo planeado. Cuidad de ella. Su muerte "
+"podría tener consecuencias desastrosas para el Abismo.\n"
 "\n"
 "¡Creo que ya hemos terminado con esto, ya puede comenzar la celebración!"
 
@@ -10442,7 +10442,7 @@ msgid ""
 "energies into our world. And best of all, there's no known way of protection "
 "from this beauty."
 msgstr ""
-"El megacircle accede a una parte densa en energía del Averno y luego le abre "
+"El megacircle accede a una parte densa en energía del Abismo y luego le abre "
 "una puerta de corta duración, lo que resulta en una expulsión concentrada de "
 "energías abismales en nuestro mundo. Y lo mejor de todo, no hay una forma de "
 "protección conocida de esta belleza."
@@ -10646,7 +10646,7 @@ msgid ""
 "can be quite rebellious, unpredictable and destruction-loving."
 msgstr ""
 "¡Ejem! Como debéis ser consciente, los seres mágicos que se originan en el "
-"Averno Rojo pueden ser bastante rebeldes, impredecibles y amantes de la "
+"Abismo Rojo pueden ser bastante rebeldes, impredecibles y amantes de la "
 "destrucción."
 
 #. [message]: speaker=Mehir
@@ -10655,7 +10655,7 @@ msgid ""
 "Yeah, I certainly got quite the taste of Red Abyss back in Ka-Gatta... I was "
 "sure as hell lucky that Rashti closed the portal in time..."
 msgstr ""
-"Sí. Casi me atraganto probando el Averno Rojo allá en Ka-Gatta... Fui, sin "
+"Sí. Casi me atraganto probando el Abismo Rojo allá en Ka-Gatta... Fui, sin "
 "lugar a dudas, muy afortunado de que Rashti cerrara el portal a tiempo..."
 
 #. [message]: speaker=Instructor
@@ -10699,7 +10699,7 @@ msgid ""
 "sentience. In some ways, they are similar to elementals."
 msgstr ""
 "De todos modos, ¿en qué estaba? Los seres mágicos desterrados de este mundo "
-"regresan al Averno a través de pequeños portales dimensionales, los cuales "
+"regresan al Abismo a través de pequeños portales dimensionales, los cuales "
 "quedan atrás. Esos portales permanecen abiertos y operativos luego de un "
 "destierro exitoso e incluso gana conciencia. De alguna manera, son similares "
 "a los elementales."
@@ -11434,7 +11434,7 @@ msgstr "De hecho, prefiero quedarme aquí por ahora."
 #. [scenario]: id=15_Abyssal_Rebellion
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:150
 msgid "Abyssal Rebellion"
-msgstr "Rebelión del Averno"
+msgstr "Rebelión del Abismo"
 
 #. [side]: type=EoMa_Great_Efreeti, id=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:186
@@ -11486,7 +11486,7 @@ msgid ""
 "even better off than roaming the deserts. We want what's best for you."
 msgstr ""
 "Eh, ¿qué tal si os tomáis las cosas con calma y os rendís? De vuelta en "
-"vuestra casa en el Averno, estaríais mucho mejor que deambulando por los "
+"vuestra casa en el Abismo, estaríais mucho mejor que deambulando por los "
 "desiertos. Solo os deseamos lo mejor."
 
 #. [message]: speaker=Reficul
@@ -11508,7 +11508,7 @@ msgid ""
 "trip back to the Abyss."
 msgstr ""
 "<i>Encoge los hombros.</i> Si no estás contento, solicita a tu Desterrador "
-"local un viaje rápido de regreso al Averno."
+"local un viaje rápido de regreso al Abismo."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:404
@@ -11530,7 +11530,7 @@ msgid ""
 msgstr ""
 "... Pero, como si vivir bajo vuestro yugo aquí no fuera ya lo "
 "suficientemente insoportable, pronto tendremos que soportarlo incluso en el "
-"Averno, nuestra propia casa, ¡gracias a la construcción del maldito “Gran "
+"Abismo, nuestra propia casa, ¡gracias a la construcción del maldito “Gran "
 "Círculo”! ¡Debo detener esta locura a toda costa! Si no puedo convencer a "
 "los tuyos de parar la construcción, ¡no me queda más remedio que utilizar la "
 "fuerza!"
@@ -11769,7 +11769,7 @@ msgid ""
 "Elementals and level 2-3 blue beings like Great Jinn, Rhami'kai and Ho'rhami "
 "will never turn against you."
 msgstr ""
-"Todos los seres invocados del Averno Rojo, tales como los darma-ramis, rami-"
+"Todos los seres invocados del Abismo Rojo, tales como los darma-ramis, rami-"
 "datus e ifrits, lo traicionarán instantáneamente en este escenario.\n"
 "\n"
 "Los seres inteligentes de nivel 1, como genios y ramis, pueden optar por "
@@ -11904,7 +11904,7 @@ msgid ""
 "(to another comrade) Hey look, finally the queen of the Red Abyss is living "
 "up to her name! What do you say about switching sides?"
 msgstr ""
-"<i>A otro camarada.</i> ¡Oye, fíjate, finalmente la reina del Averno Rojo "
+"<i>A otro camarada.</i> ¡Oye, fíjate, finalmente la reina del Abismo Rojo "
 "está haciendo honor a su nombre! ¿Qué tal si cambiamos de bando?"
 
 #. [message]: id=$traitors[1].id
@@ -11995,7 +11995,7 @@ msgid ""
 "Authority?! <b>I am the Goddess of all Rhamis AND the Queen of the Red "
 "Abyss, for crying out loud!!!</b>"
 msgstr ""
-"¡¿Autoridad?! <b> ¡Soy la diosa de todas las ramis y la reina del Averno "
+"¡¿Autoridad?! <b> ¡Soy la diosa de todas las ramis y la reina del Abismo "
 "Rojo, maldita sea! </b>"
 
 #. [message]: speaker=Reficul
@@ -12006,7 +12006,7 @@ msgid ""
 "you an illusion of authority, no amount of acting can conceal the simple "
 "truth. Face it - you are nothing more than just a puppet."
 msgstr ""
-"En el Averno, sí, estabais a cargo. Pero, admítelo, en esta dimensión, "
+"En el Abismo, sí, estabais a cargo. Pero, admítelo, en esta dimensión, "
 "vuestros “sujetos” en realidad obedecen a los invocadores, en vez de a vos. "
 "Si bien los humanos intentan daros una ilusión de autoridad, ningún esfuerzo "
 "de actuación puede ocultar la simple verdad. Enfrentadlo: no sois más que un "
@@ -12060,7 +12060,7 @@ msgstr ""
 "¿“Qué sabré”, preguntáis? Más de lo que pensáis. Lo admiré, escuché cada una "
 "de sus palabras, leí y releí todo lo que ha escrito docenas de veces. Estoy "
 "de acuerdo contigo sobre su intelecto. Él es la mente más grande en todo el "
-"Averno. Sobre todo, es un filósofo, uno con el poder de poner en práctica "
+"Abismo. Sobre todo, es un filósofo, uno con el poder de poner en práctica "
 "cualquiera de sus teorías."
 
 #. [message]: speaker=Reficul
@@ -12072,7 +12072,7 @@ msgid ""
 msgstr ""
 "Cuando los humanos lo invocaron accidentalmente, quedó inmensamente "
 "fascinado por los conceptos del mundo mortal, que eran absolutamente "
-"novedosos para el Averno. Se podría decir que se obsesionó completamente."
+"novedosos para el Abismo. Se podría decir que se obsesionó completamente."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:858
@@ -12084,8 +12084,8 @@ msgid ""
 "talk to someone who they view as their servant, instead of the mysterious "
 "godlike being he truly is."
 msgstr ""
-"Llegó al punto de que lentamente comenzó a reformar el Averno para parecerse "
-"al mundo mortal e introducir el mundo mortal al Averno. Sospecho que su "
+"Llegó al punto de que lentamente comenzó a reformar el Abismo para parecerse "
+"al mundo mortal e introducir el mundo mortal al Abismo. Sospecho que su "
 "personalidad era poco más que una fachada para que los humanos se sintieran0 "
 "cómodos con su presencia. Después de todo, es mucho más fácil para los "
 "mortales hablar con alguien que ven como su siervo, en lugar del misterioso "
@@ -12164,7 +12164,7 @@ msgid ""
 "your former self. You could have easily been the puppeteer, yet you chose to "
 "be the puppet..."
 msgstr ""
-"En el Averno, solíais ser una figura poderosa, ante quien muchos se "
+"En el Abismo, solíais ser una figura poderosa, ante quien muchos se "
 "arrodillaban con tan solo veros. Pero ahora, te has convertido en poco más "
 "que una sombra patética de vuestro antiguo yo. Podríais haber sido "
 "fácilmente la titiritera, pero elegisteis ser títere..."
@@ -12191,7 +12191,7 @@ msgid ""
 msgstr ""
 "Os conozco muy bien, Darma-Rashti, sé lo que realmente queréis. Sé lo mucho "
 "que extrañáis los días de vuestra gloria, cuando realmente fuisteis la reina "
-"del Averno Rojo. Somos bastante similares, tú y yo. ¿Qué tal si os dijera "
+"del Abismo Rojo. Somos bastante similares, tú y yo. ¿Qué tal si os dijera "
 "que puedo...? ¿Liberaros de las limitaciones de tu mitad azul para daros la "
 "elección que nunca tuvisteis?"
 
@@ -12290,7 +12290,7 @@ msgid ""
 "My Master! KILL! I’m losing DIE! control. The Abyss KILL! is in danger. DIE!"
 msgstr ""
 "¡Maestro!... <i>¡MUERE!...</i> Estoy perdiendo... <i>¡MUERE!...</i> el "
-"control. El Averno... <i>¡MUERE!...</i> Está en peligro. <i>¡MUERE!</i>"
+"control. El Abismo... <i>¡MUERE!...</i> Está en peligro. <i>¡MUERE!</i>"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1216
@@ -12366,7 +12366,7 @@ msgstr "¡Muerte a los antropócratas!"
 #. [message]: speaker=Banisher
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1492
 msgid "What a shame, I wish the Abyss would open and swallow me up..."
-msgstr "Qué lástima, desearía que el Averno se abriera y me trague..."
+msgstr "Qué lástima, desearía que el Abismo se abriera y me trague..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1503
@@ -12384,7 +12384,7 @@ msgid ""
 "your shallow promises... *sigh* I severely overestimated the intellect of my "
 "followers..."
 msgstr ""
-"¡Maldito Averno! Quería darles libertad; sin embargo, cayeron por vuestros "
+"¡Maldito Abismo! Quería darles libertad; sin embargo, cayeron por vuestros "
 "promesas superficiales... <i>Suspira.</i> Sobreestimé tanto el intelecto de "
 "mis seguidores..."
 
@@ -12402,7 +12402,7 @@ msgid ""
 msgstr ""
 "Podéis haber ganado la batalla, pero las semillas de la rebelión hace mucho "
 "que fueron plantadas... Disfrutad de vuestra paz mientras dure, puesto que "
-"nos volveremos a encontrar en el Averno..."
+"nos volveremos a encontrar en el Abismo..."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1533
@@ -12429,7 +12429,7 @@ msgstr ""
 "Esto es simplemente... ¡Alucinante! Creo que usó una fórmula alterada del "
 "destierro en sí mismo. ¡Una que no vacía su mente! Si lo que dijo es cierto, "
 "tendremos que lidiar con una resistencia mucho, mucho mayor una vez en el "
-"Averno..."
+"Abismo..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1589
@@ -12449,7 +12449,7 @@ msgid ""
 "Abyss, to have their minds cleared."
 msgstr ""
 "De acuerdo con las regulaciones, el gremio local confiscará las entidades "
-"mágicas que hayan traicionado a sus maestros. Serán desterradas al Averno, "
+"mágicas que hayan traicionado a sus maestros. Serán desterradas al Abismo, "
 "para que su mente sea borrada."
 
 #. [message]: speaker=Mehir
@@ -12495,7 +12495,7 @@ msgid ""
 "Abyss, to having their minds cleared."
 msgstr ""
 "De acuerdo con las regulaciones, el gremio local confiscará las entidades "
-"mágicas que hayan traicionado a sus maestros. Serán desterradas al Averno, "
+"mágicas que hayan traicionado a sus maestros. Serán desterradas al Abismo, "
 "para que su mente sea borrada."
 
 #. [message]: speaker=Mehir
@@ -13632,7 +13632,7 @@ msgid ""
 "order to restore the balance of the Abyss."
 msgstr ""
 "Aunque al estar divididas seamos independientes, debemos unirnos para "
-"restaurar el balance del Averno."
+"restaurar el balance del Abismo."
 
 #. [message]: type=TLU_DharmaRashti
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1150
@@ -13679,7 +13679,7 @@ msgstr ""
 #. [message]: type=TLU_HoRashti
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1178
 msgid "Look Dharma'rashti, we must unite. The whole Abyss is at stake!"
-msgstr "Mira, Darma-Rashti, debemos unirnos. ¡Todo el Averno está en juego!"
+msgstr "Mira, Darma-Rashti, debemos unirnos. ¡Todo el Abismo está en juego!"
 
 #. [message]: type=TLU_DharmaRashti
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1182
@@ -14084,12 +14084,12 @@ msgid ""
 "the Abyss cools our streets and houses. Without it, the heat of the Desert "
 "would've dried us to death."
 msgstr ""
-"Pero cuando descubrimos el Averno, nuestras vidas cambiaron drásticamente. "
+"Pero cuando descubrimos el Abismo, nuestras vidas cambiaron drásticamente. "
 "Nómolas, el primer genio, creó una magnífica ciudad para nosotros en el "
 "corazón del desierto. Finalmente pudimos abandonar las cuevas y mudarnos a "
 "la superficie. La ciudad en sí se llama Alcamiya y es nuestra capital "
 "actual. Gracias a un conjunto de círculos mágicos alrededor, tenemos aire "
-"acondicionado: el aire frío del Averno enfría nuestras calles y casas. Sin "
+"acondicionado: el aire frío del Abismo enfría nuestras calles y casas. Sin "
 "este, el calor del desierto nos habría deshidratado hasta matarnos."
 
 #. [message]: speaker=Mehir
@@ -14110,7 +14110,7 @@ msgid ""
 "the Abyss, you will miss it..."
 msgstr ""
 "Todo eso es muy interesante. Ya no dependen del sol, pero una vez en el "
-"Averno, lo extrañarán..."
+"Abismo, lo extrañarán..."
 
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:123
@@ -14142,7 +14142,7 @@ msgstr ""
 "Espero no ofenderos, pero no consideramos al Sol como un ser divino. Para "
 "nosotros, es solo una fuente de calor letal. Debido a nuestra ubicación, "
 "rara vez salimos de nuestras ciudades refrigeradas. Incluso el genio "
-"místico, entre las entidades más sabias del Averno, al ser preguntados al "
+"místico, entre las entidades más sabias del Abismo, al ser preguntados al "
 "respecto, nos dijo que el Sol es sólo una gran bola de fuego. Bueno, usó "
 "palabras más sofisticadas para ello: <i>“Termo-algo”</i> o <i>“plas-mas”</"
 "i>. No recuerdo las palabras exactas que usó."
@@ -14292,7 +14292,7 @@ msgstr ""
 "Ya veo... Entre tantos seres espirituales VERDADEROS, los nuestros estamos "
 "más desarrollados. ¿Guerra sobre “el único y auténtico”? ¡Eso haría reír "
 "hasta a los camellos! Nos limitamos a predicar a los genios sin credo. El "
-"Averno nos da una gran venta-..."
+"Abismo nos da una gran venta-..."
 
 #. [event]: id=Messenger)}
 #. [unit_type]: id=TLU_DB_Messenger1, race=eoma_salamander, description=.
@@ -14390,7 +14390,7 @@ msgid ""
 "the Summoners move to it, they won’t return and I will be trapped in this "
 "mortal world forever..."
 msgstr ""
-"No lo comprendéis. El Averno es el centro de nuestras vidas. Si el resto de "
+"No lo comprendéis. El Abismo es el centro de nuestras vidas. Si el resto de "
 "los invocadores se trasladan allá, no volverán y quedaré atrapado en este "
 "mundo mortal para siempre..."
 
@@ -14414,7 +14414,7 @@ msgid ""
 "circles. They live not too far to the west from here, or at least, they used "
 "to live there yesterday..."
 msgstr ""
-"La gente de quien hablo puede conducirte al Averno sin tener que dibujar "
+"La gente de quien hablo puede conducirte al Abismo sin tener que dibujar "
 "círculos. Viven al oeste de aquí, no muy lejos. O, al menos, allí estaban "
 "ayer..."
 
@@ -14521,7 +14521,7 @@ msgstr "Ignis"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:304
 msgid "Unbelievable! I've got to enter heaven to get down into the Abyss."
-msgstr "¡Increíble! Tengo que entrar en el cielo para descender al Averno."
+msgstr "¡Increíble! Tengo que entrar en el cielo para descender al Abismo."
 
 #. [message]: speaker=Mastermage
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:308
@@ -14530,7 +14530,7 @@ msgid ""
 "in the Abyss for a good few days."
 msgstr ""
 "Oh, un invocador. Interesante... ¿Por qué estáis aquí? Hace ya varios días "
-"que vuestra gente se marchó al Averno."
+"que vuestra gente se marchó al Abismo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:312
@@ -15425,7 +15425,7 @@ msgid ""
 "you go outside and see our troops."
 msgstr ""
 "Humano, este es un círculo mágico genuino. Estáis hablando con el líder de "
-"Tar-Tabar y yo soy la reina del Averno. Si queréis más pruebas, os sugiero "
+"Tar-Tabar y yo soy la reina del Abismo. Si queréis más pruebas, os sugiero "
 "que salgáis a ver a nuestras tropas."
 
 #. [message]: speaker=Mage1
@@ -15435,7 +15435,7 @@ msgid ""
 "possible? Your kind should be in the Abyss now."
 msgstr ""
 "<i>Ojos muy abiertos.</i> Espera... Así que eres... ¡Tú! ¡Increíble! Pero, "
-"¿cómo es eso posible? Los tuyos debían estar en el Averno ahora."
+"¿cómo es eso posible? Los tuyos debían estar en el Abismo ahora."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:338
@@ -15445,7 +15445,7 @@ msgid ""
 msgstr ""
 "Lo sé. No llegué a tiempo y estoy atrapado en este mundo por ahora. Me "
 "dijeron que Gurú podría ayudarnos a mí y a mis hombres a regresar con "
-"nuestra gente en el Averno."
+"nuestra gente en el Abismo."
 
 #. [message]: speaker=Mage1
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:342
@@ -15459,7 +15459,7 @@ msgstr ""
 "Ah, sí. Ahora entiendo. Gurú definitivamente es la persona que buscáis. "
 "Podéis encontrarlo arriba. Ahora, perdonadme, ¡pero necesito ver vuestras "
 "tropas! <i>Para sí mismo, emocionado.</i> ¡Mis amigos no me creerán! ¡Conocí "
-"a un verdadero invocador <i>y</i> a la reina del Averno! ¡Esto es genial!"
+"a un verdadero invocador <i>y</i> a la reina del Abismo! ¡Esto es genial!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:350
@@ -15706,7 +15706,7 @@ msgid ""
 "settled in al-Kamija, they entirely gave up on world exploration."
 msgstr ""
 "No reconozco ninguna de las tierras de este lado: deben ser otros "
-"continentes del planeta. Cuando nuestros ancestros ​​descubrieron el Averno y "
+"continentes del planeta. Cuando nuestros ancestros ​​descubrieron el Abismo y "
 "se asentaron en Alcamiya, abandonaron completamente la exploración del mundo."
 
 #. [message]: speaker=Mehir
@@ -15773,7 +15773,7 @@ msgid ""
 "in the Abyss, and made me fight my way here, so it better be true..."
 msgstr ""
 "Esos magos me dijeron que sois la persona que puede ayudarme a volver junto "
-"a mi gente en el Averno. Incluso me hicieron combatir para llegar aquí, así "
+"a mi gente en el Abismo. Incluso me hicieron combatir para llegar aquí, así "
 "que más vale que sea verdad..."
 
 #. [message]: speaker=Guru
@@ -15796,7 +15796,7 @@ msgid ""
 "capabilities... at least at the moment."
 msgstr ""
 "Mucho mejor... ¿Dónde estaba? Ah, sí. Sé cómo ayudaros, pero "
-"desafortunadamente abrir un pasaje al Averno sin el uso de magia abismal "
+"desafortunadamente abrir un pasaje al Abismo sin el uso de magia abismal "
 "requiere una enorme cantidad de energía. Incluso supera nuestras "
 "capacidades... Al menos actuales."
 
@@ -16035,7 +16035,7 @@ msgid ""
 "some ways."
 msgstr ""
 "Vuestra joven nación era completamente novedosa para nosotros. El ritmo de "
-"desarrollo de vuestra civilización basada en el Averno fue extremadamente "
+"desarrollo de vuestra civilización basada en el Abismo fue extremadamente "
 "rápido y pronto llamó nuestra atención. Buscábamos aprender más sobre "
 "vosotros y vuestras intenciones. Afortunadamente, parecéis de naturaleza "
 "pacífica y semejantes a nosotros de varias maneras."
@@ -16092,7 +16092,7 @@ msgstr ""
 "nosotros obtenemos un artefacto antiguo para estudiar y reparamos las "
 "tensiones entre nuestras naciones. Además, si yo fuera vuestro enemigo, no "
 "pondría mi vida en riesgo al estar desarmado y sin guardaespaldas frente a "
-"alguien tan poderosa como la reina del Averno. Ninguno de nosotros ganaría "
+"alguien tan poderosa como la reina del Abismo. Ninguno de nosotros ganaría "
 "algo con matarnos."
 
 #. [message]: speaker=Rashti
@@ -16349,7 +16349,7 @@ msgid ""
 msgstr ""
 "Además, si no hubieras ayudado a Caros, no nos habríamos conocido... "
 "<i>(Para sí mismo) Lo que habría estropeado el plan por completo.</i>. "
-"Además, una vez que lleguéis al Averno, tendréis muchas historias para "
+"Además, una vez que lleguéis al Abismo, tendréis muchas historias para "
 "contarle a vuestra gente, sobre todas las cosas por las que habéis pasado. "
 "¡Serás una leyenda!"
 
@@ -16546,7 +16546,7 @@ msgid ""
 "piles of ash, and send your souls to the Red Abyss for eternal torment!"
 msgstr ""
 "¡Si esto es una trampa y mi maestro muere, os convertiré a ambos en "
-"montículos de cenizas ardientes y enviaré vuestras almas al Averno Rojo para "
+"montículos de cenizas ardientes y enviaré vuestras almas al Abismo Rojo para "
 "ser atormentadas por toda la eternidad!"
 
 #. [message]: speaker=Void
@@ -16623,7 +16623,7 @@ msgid ""
 "dimension is not 'magic', though it does have some similar properties. Real "
 "magic is something entirely different."
 msgstr ""
-"Pero tenéis suerte de contar con un acceso estable al Averno. Ese lugar y "
+"Pero tenéis suerte de contar con un acceso estable al Abismo. Ese lugar y "
 "sus habitantes compensan vuestra debilidad. La energía que proviene de esa "
 "dimensión no es “magia”, aunque tiene algunas propiedades similares. La "
 "magia real es algo completamente diferente."
@@ -16767,7 +16767,7 @@ msgstr ""
 "Lo uso principalmente para cálculos complejos. Cosas como vuestro nuevo "
 "círculo serían demasiado peligrosas para intentarlas al ojo. Hablando de "
 "locual, como expliqué anteriormente, la magia parece existir solo en esta "
-"dimensión, por lo que el círculo no funcionará cuando lleguéis al Averno."
+"dimensión, por lo que el círculo no funcionará cuando lleguéis al Abismo."
 
 #. [message]: speaker=Sculptor
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:350
@@ -16968,7 +16968,7 @@ msgid ""
 "the Abyss. This one can do more than that."
 msgstr ""
 "Como ya sabes, los círculos mágicos se pueden usar para invocar criaturas "
-"del Averno. Este puede hacer más que eso."
+"del Abismo. Este puede hacer más que eso."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:474
@@ -17112,7 +17112,7 @@ msgstr "<i>Atónita.</i>"
 msgid ""
 "Nevermind, Jaffar's already in the Abyss. It is good as it is. So what's "
 "next?"
-msgstr "Olvidadlo, Yafar ya está en el Averno. Está bien así. ¿Y ahora qué?"
+msgstr "Olvidadlo, Yafar ya está en el Abismo. Está bien así. ¿Y ahora qué?"
 
 #. [message]: speaker=Void
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:666
@@ -17814,7 +17814,7 @@ msgid ""
 "are not of abyssal origin either..."
 msgstr ""
 "Estos seres parecen ser mágicos, pero no siento magia en sus cuerpos. No "
-"provienen del Averno tampoco."
+"provienen del Abismo tampoco."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:618
@@ -18387,7 +18387,7 @@ msgid ""
 "world for now."
 msgstr ""
 "Pues veréis... Mis tropas y yo quedamos separados de nuestra nación y "
-"familias en el Averno, por lo que necesitamos la energía de la batería para "
+"familias en el Abismo, por lo que necesitamos la energía de la batería para "
 "hacer un portal hasta allá y seguir al resto de mi gente. Por ahora, estamos "
 "atrapados en este mundo."
 
@@ -18584,7 +18584,7 @@ msgid ""
 "want to show you in the Abyss once we get there."
 msgstr ""
 "No temáis, Mejir. Simplemente no dejéis que os maten. Hay tantas cosas que "
-"quero mostrarte en el Averno en cuanto lleguemos."
+"quero mostrarte en el Abismo en cuanto lleguemos."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1911
@@ -19087,7 +19087,7 @@ msgstr "3... 2... 1... ¡YA!"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:337
 msgid "The Abyss! Finally!"
-msgstr "¡El Averno! ¡Por fin!"
+msgstr "¡El Abismo! ¡Por fin!"
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:341
@@ -19130,7 +19130,7 @@ msgstr "Es vuestro turno, Rashti."
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:392
 msgid "*stares into the Abyss* The wind in my hair... it feels different now."
 msgstr ""
-"<i>Mira al Averno.</i> El viento en mi cabello... Se siente distinto ahora."
+"<i>Mira al Abismo.</i> El viento en mi cabello... Se siente distinto ahora."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:397
@@ -19155,7 +19155,7 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:407
 msgid "This makes me wonder... Is the Abyss still the same place now?"
-msgstr "Esto me lleva a la pregunta, ¿el Averno sigue siendo igual que antes?"
+msgstr "Esto me lleva a la pregunta, ¿el Abismo sigue siendo igual que antes?"
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:411
@@ -19164,7 +19164,7 @@ msgid ""
 "place full of chaos, both creative and destructive in nature. This will not "
 "change anytime soon."
 msgstr ""
-"Solo hay una manera de descubrirlo. El Averno mismo ya es un lugar dividido "
+"Solo hay una manera de descubrirlo. El Abismo mismo ya es un lugar dividido "
 "lleno de caos, tanto creativo como destructivo. Eso no cambiará pronto."
 
 #. [message]: speaker=Guru
@@ -19299,7 +19299,7 @@ msgstr ""
 "<i><span font-weight='bold'>Para sí mismo.</span> Eso fue... Un giro de "
 "trama bastante súbito. Debo hacer algo ya; de lo contrario, el plan se "
 "arruinaría...\n"
-"<span font-weight='bold'>A Mejir.</span> Veréis, debéis ir al Averno, en "
+"<span font-weight='bold'>A Mejir.</span> Veréis, debéis ir al Abismo, en "
 "serio.</i>"
 
 #. [message]: speaker=Mehir
@@ -19358,7 +19358,7 @@ msgstr ""
 "<i><span font-weight='bold'>Para sí mismo.</span> Esto es mucho más difícil "
 "de lo que esperaba...\n"
 "<span font-weight='bold'>A Mejir.</span> Veréis, no planeaba contaros esto, "
-"pero me temo que pronto, eventos desastrosos sucederán en el Averno si no "
+"pero me temo que pronto, eventos desastrosos sucederán en el Abismo si no "
 "haces algo  al respecto."
 
 #. [message]: speaker=Mehir
@@ -19414,7 +19414,7 @@ msgid ""
 "to get to the Abyss, then why not do that?"
 msgstr ""
 "Sí. Podría contar tantas historias... Por cierto, me pregunto... Si sabéis "
-"cómo llegar al Averno, ¿por qué no lo habéis hecho?"
+"cómo llegar al Abismo, ¿por qué no lo habéis hecho?"
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:523
@@ -19428,7 +19428,7 @@ msgid ""
 msgstr ""
 "Oh, invocador. Todavía hay una vasta cantidad de conocimiento en este mundo "
 "por aprender y, por lo tanto, no tenemos intención de ir a otras dimensiones "
-"todavía. Además, como la magia no funciona en el Averno, incluso si "
+"todavía. Además, como la magia no funciona en el Abismo, incluso si "
 "llegáramos allí nos faltaría medios para investigarla suficientemente. En "
 "algún momento podríamos considerar aventurarnos en otras dimensiones, pero "
 "primero tendríamos que agotar todo lo que esta tiene para ofrecer, lo cual "
@@ -19442,7 +19442,7 @@ msgstr "Entiendo. De todos modos, gracias por vuestra ayuda."
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:537
 msgid "Enter the Abyss"
-msgstr "Entre al Averno"
+msgstr "Entre al Abismo"
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:605
@@ -19493,7 +19493,7 @@ msgid ""
 msgstr ""
 "<i>Se vuelve hacia los dos magos.</i> Para responder vuestra pregunta, "
 "Umbrez, Nómolas sigue siendo el objetivo. Pero dado que la magia no sirve en "
-"el Averno, llegar al primer genio sería prácticamente imposible si los "
+"el Abismo, llegar al primer genio sería prácticamente imposible si los "
 "invocadores nos odiaran. Ahora ya no nos ven como enemigos, y estarán "
 "ocupados luchando contra los seres rojos nativos. Después de haber esperado "
 "siglos, podríamos pillar la oportunidad de contactarlo."
@@ -19797,10 +19797,10 @@ msgid ""
 msgstr ""
 "El Portal Viviente es la cuarta y final entidad abismal suprema. A los "
 "invocadores todavía les resulta difícil describir esta criatura, que es un "
-"portal abierto al Averno y móvil, similar a los Portales Dimensionales. Una "
+"portal abierto al Abismo y móvil, similar a los Portales Dimensionales. Una "
 "una fuerza desconocida de origen abismal la controla, lo que le otorga "
 "conciencia; además, se sabe que puede acceder a diferentes partes del "
-"Averno. No se conoce a cabalidad todas las capacidades que posee. Lo único "
+"Abismo. No se conoce a cabalidad todas las capacidades que posee. Lo único "
 "claro es que es una obra exquisita y una maravilla para muchos estudiosos. "
 
 #. [dummy]: id=tlu_spawndgs
@@ -19817,12 +19817,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: To_Lands_Unknown\units\Living_Gate.cfg:82
 msgid "abyss"
-msgstr "averno"
+msgstr "abismo"
 
 #. [dummy]: id=tlu_instakill
 #: To_Lands_Unknown\units\Living_Gate.cfg:91
 msgid "fall to the Abyss"
-msgstr "devorado por el Averno"
+msgstr "devorado por el Abismo"
 
 #. [dummy]: id=tlu_instakill
 #: To_Lands_Unknown\units\Living_Gate.cfg:92
@@ -19875,7 +19875,7 @@ msgid ""
 msgstr ""
 "Pocos en la totalidad de la historia conocida han desgarrado el velo que "
 "oculta los misterios del título de cuarto grado. Son quienes empuñan el "
-"poder entero del Averno con su mano derecha y la devastación de la magia de "
+"poder entero del Abismo con su mano derecha y la devastación de la magia de "
 "invocación con su izquierda. Un invocador maestro ha alcanzado el culmen de "
 "todas las artes, hayan sido descubiertas o creadas.\n"
 "\n"
