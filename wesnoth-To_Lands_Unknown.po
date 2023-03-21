@@ -1334,7 +1334,7 @@ msgstr ""
 "tiempo y la arena. No hay escasez de bienes, porque aquí se puede conseguir "
 "cualquier cosa.\n"
 "\n"
-"¿Cómo es eso posible?"
+"¿Cómo es todo eso posible?"
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:303
@@ -1428,19 +1428,18 @@ msgid ""
 "sense of our life and intend to stay there forever."
 msgstr ""
 "A raíz de nuestra dependencia del Abismo, hemos aprendido bastante acerca de "
-"tan extraña dimensión, pero no hemos logrado entrar en ella. Quizás porque "
-"nadie allí puede invocarnos... Sin embargo, en los últimos años, nuestras "
+"tan extraña dimensión, pero no hemos logrado entrar en ella —quizás porque "
+"nadie allí puede invocarnos—. Sin embargo, en los últimos años, nuestras "
 "mejores mentes idearon un peculiar diseño para un círculo mágico capaz de "
 "transportarnos a ese mundo fantástico. Nuestros experimentos tuvieron éxito, "
-"aunque no hemos podido invocar de vuelta los objetos que que enviamos. "
-"Debido a esa limitación, aunque parezca una locura, decidimos enviar nuestra "
-"tierra entera al Abismo, con la esperanza de encontrar eventualmente la "
-"solución en el otro lado. Pero, incluso si la encontráramos, quizás no la "
-"usaríamos.\n"
+"aunque no hemos podido invocar de vuelta los objetos que enviamos. Por ello "
+"aunque parezca una locura, decidimos enviar nuestra tierra entera al Abismo, "
+"con la esperanza de encontrar un día la solución en el otro lado.\n"
 "\n"
-"Porque nosotros, invocadores, creemos firmemente que solo en el Abismo "
-"podremos encontrar el sentido último de nuestra vida, por lo que pretendemos "
-"quedarnos allí para siempre."
+"Pero, incluso si la encontráramos, quizás no la usaríamos. Porque nosotros, "
+"invocadores, creemos firmemente que solo en el Abismo podremos encontrar el "
+"sentido último de nuestra vida, por lo que pretendemos quedarnos allí para "
+"siempre."
 
 #. [part]
 #. This string originally had "2000 km"; we eventually came to feel that it was a sort of anachronism, so we decided to convert it to marahil (singular: marhala).
@@ -1464,6 +1463,7 @@ msgstr ""
 "la mayor parte del desierto. Para facilitar la construcción, alzamos tres "
 "ciudades equidistantes, denominadas Mag-Magar, Tar-Tabar y Sud-Affar. En sus "
 "líderes recae la responsabilidad de supervisar las labores de construcción."
+"\n\n\n\n\n "
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:340
@@ -1478,7 +1478,7 @@ msgstr ""
 "desempeñaría un rol muy importante en el período que los escolares denominan "
 "la “Era de la Magia”. Pero, antes de ello, tendrá que ascender en la jerarquía "
 "de los invocadores. Así, antes de llegar a la acción, revisemos sus humildes "
-"comienzos, en un día como cualquier otro de su vida..."
+"comienzos, en un día como cualquier otro de su vida...\n\n\n\n "
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:348
