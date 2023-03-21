@@ -1270,16 +1270,16 @@ msgid ""
 "- Halos, unit animations, etc. are used extremely often here. You'd miss a "
 "large part of TLU-unique experience with those disabled."
 msgstr ""
-"- Esta campaña es bastante diferente de Wesnoth normal, así que no esperes "
-"que otras campañas sean algo así.\n"
+"- Esta campaña es bastante diferente de Wesnoth normal. No espere que otras "
+"campañas sean similares.\n"
 "- La campaña se desarrolla en un universo diferente de la historia principal "
 "de Battle for Wesnoth, y no se pretende que se relacionen.\n"
-"- Para simular la altura, algunos (o incluso la mayoría, en algunos "
-"escenarios) hexágonos son <i>intransitables</i> o <i>impenetrables</i> (lo "
-"que significa que solo las unidades voladoras o ninguna pueda acceder a "
-"ellos, respectivamente)- Los halos y animaciones de unidades, etc. se usan "
-"extremadamente a menudo aquí. En caso de desactivarlos, perderías de una "
-"gran parte de la experiencia propia de “En Tierras Ignotas”."
+"- Para simular la altura, algunos hexágonos (a veces la mayoría) son "
+"<i>intransitables</i> o <i>impenetrables</i> (lo que significa que solo las "
+"unidades voladoras o ninguna podrán acceder a ellos, respectivamente)."
+"- Los halos y animaciones de unidades y otras se usan extremadamente a menudo "
+"aquí. En caso de desactivarlos, se perdería de una gran parte de la experiencia "
+"propia de “En Tierras Ignotas”."
 
 #: To_Lands_Unknown\macros\storytxt.cfg:14
 msgid "Technical warning:"
@@ -1294,7 +1294,7 @@ msgid ""
 msgstr ""
 "Esta campaña utiliza efectos visuales sofisticados, que pueden no funcionar "
 "correctamente en algunos equipos. Si encuentra errores gráficos o pantallas "
-"negras, deje el juego y ejecútelo una vez más. Si los problemas son "
+"negras, salga de la aplicación y ejecútela una vez más. Si los problemas son "
 "persistentes, intente deshabilitar las animaciones de unidades y/o los halos "
 "en la configuración del juego."
 
@@ -1329,12 +1329,12 @@ msgid ""
 "How is this possible, one may ask?"
 msgstr ""
 "Entre una infinidad de dunas, en el centro de nuestra sagrada tierra, se "
-"yergue una legendaria ciudad palacio —nuestra capital, Alcamiya.\n"
+"yergue una legendaria ciudad palacio —nuestra capital, Alcamiya—.\n"
 "Es un lugar fuera de lo común, indemne frente a los efectos destructores del "
 "tiempo y la arena. No hay escasez de bienes, porque aquí se puede conseguir "
 "cualquier cosa.\n"
 "\n"
-"¿Como es esto posible?"
+"¿Cómo es esto posible?"
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:303
@@ -1347,7 +1347,7 @@ msgid ""
 "reason we're called Summoners."
 msgstr ""
 "En un tiempo muy remoto, nuestros ancestros hicieron un descubrimiento "
-"revolucionario —la magia. Se manifestaba a partir de fórmulas y símbolos, "
+"revolucionario —la magia—. Se manifestaba a partir de fórmulas y símbolos, "
 "conectados al Abismo, otro mundo lleno de energía, donde las limitaciones "
 "del espacio y el tiempo desaparecen. El uso de la magia y del Abismo "
 "transfiguraron completamente nuestra civilización. Regularmente usamos las "
@@ -1370,7 +1370,7 @@ msgid ""
 msgstr ""
 "Al principio, nuestros ancestros consideraron que el Abismo era un lugar de "
 "caos primigenio —esto es, hasta que invocaron a la primera entidad mágica, "
-"un auténtico morador del otro mundo. Este era Nómolas, el primer genio.\n"
+"un auténtico morador del otro mundo—. Este era Nómolas, el primer genio.\n"
 "Con un ingenio sin ataduras, esta entidad es el ser más poderoso que "
 "conocemos hasta la fecha. Nómolas era como un dios, capaz de torcer las "
 "leyes de la naturaleza a voluntad, pero prefería observar la naturaleza de "
@@ -1585,7 +1585,7 @@ msgid ""
 msgstr ""
 "Transcurrieron seis meses, en los que la construcción terminó en Sud-Affar. "
 "Los trabajadores de Tar-Tabar continuaron con una nueva etapa de la "
-"construcción —conectar las ciudades de la Trinidad con un gran triángulo. "
+"construcción —conectar las ciudades de la Trinidad con un gran triángulo—. "
 "Mientras tanto, Mejir mejoraba sus habilidades tomando lecciones de "
 "invocadores veteranos.\n"
 "\n"
@@ -1898,7 +1898,7 @@ msgstr ""
 "interés y preocupación por la situación de sus parientes sería lo indicado. "
 "Así que Mejir haría de emisario y entregaría una carta del consejo a la "
 "gente de Caros —una invitación para mudarse al Abismo junto con los "
-"invocadores. Tal gesto parecía adecuado, si no la única oportunidad de "
+"invocadores—. Tal gesto parecía adecuado, si no la única oportunidad de "
 "supervivencia para la gente de las tierras ancestrales. El Alto Consejo "
 "ordenó que se construyeran tres barcos específicamente para el viaje de "
 "Mejir, con un diseño similar a aquel en que Atiros había navegado. Mejir "
@@ -4543,7 +4543,7 @@ msgid ""
 "you waiting for?"
 msgstr ""
 "Ciertamente. Los trabajadores de Sud-Affar son muy laboriosos, pero también "
-"hay que agradecer de ello a su supervisor —yo. ¡Ahora, de vuelta al trabajo! "
+"hay que agradecer de ello a su supervisor —yo—. ¡Ahora, de vuelta al trabajo! "
 "¿A qué estáis esperando?"
 
 #. [message]: speaker=Bakha
@@ -6670,7 +6670,7 @@ msgid ""
 "there."
 msgstr ""
 "¡Rápido! Debemos apoderarnos de esta avanzada —podremos invocar a nuestros "
-"elementales desde ahí."
+"elementales desde allí—."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:729
@@ -9201,7 +9201,7 @@ msgstr ""
 msgid "You sound... calmer than usual for your half, Your Highness."
 msgstr ""
 "Vuestra Alteza parece estar... Más calmada que de costumbre —incluso para "
-"esta mitad."
+"esta mitad—."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1308
@@ -9744,7 +9744,7 @@ msgid ""
 "costs — it may be our only chance to stop this invasion."
 msgstr ""
 "Ahora, cada cimitarra cuenta. Hemos de matar a esas brujas a toda costa —"
-"podría ser nuestra única oportunidad para repeler la invasión."
+"podría ser nuestra única oportunidad para repeler la invasión—."
 
 #. [message]: speaker=Malib
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:511
@@ -11582,7 +11582,7 @@ msgstr ""
 "Los grandes genios podrían ser de excelente utilidad, pues su intelecto "
 "superior los protegerá de las mentiras del ifrit; en cambio, los genios y "
 "ramis comunes podrían fácilmente ser engañados y unírsele —aunque, hay una "
-"posibilidad de que no suceda, ciertamente. Desafortunadamente, ahora solo "
+"posibilidad de que no suceda, ciertamente—. Desafortunadamente, ahora solo "
 "podemos invocar directamente genios de bajo nivel, lo que sería peligroso, "
 "pero tengo una solución."
 
@@ -11692,7 +11692,7 @@ msgid ""
 msgstr ""
 "Mi señor, usad elementales. No pueden pensar, por lo que es imposible "
 "engañarlos. También podéis usar entes azules de nivel alto, como las rami-"
-"kais, jo-ramis y grandes genios —nunca nos traicionarían. Usad a los "
+"kais, jo-ramis y grandes genios —nunca nos traicionarían—. Usad a los "
 "disipadores y desterradores tanto como podáis. Además, permaneced cerca de "
 "vuestras tropas, para fortalecerlas y curarlas con el poder de vuestro "
 "megacírculo."
@@ -15133,7 +15133,7 @@ msgstr ""
 #. [message]: speaker=Mastermage
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1494
 msgid "As you can see, you cannot kill us here — only slow us down."
-msgstr "Ya lo veis, no podéis matarnos aquí —solo ralentizarnos."
+msgstr "Ya lo veis, no podéis matarnos aquí —solo ralentizarnos—."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1499
@@ -15410,7 +15410,7 @@ msgid ""
 msgstr ""
 "¡E incluso tienes un círculo mágico! Pensé que estos dispositivos eran "
 "exclusivos de los invocadores. Nunca he visto a alguien más usarlos aquí. "
-"Debe ser un hechizo de ilusión —uno muy inteligente. ¡Buen trabajo!"
+"Debe ser un hechizo de ilusión —uno muy inteligente—. ¡Buen trabajo!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:325
@@ -15764,7 +15764,7 @@ msgstr ""
 "estoy por encima de cosas tan mezquinas como el entretenimiento, debo "
 "admitir que me habéis impresionado. Eres el primer visitante de la "
 "superficie en llegar al palacio, lo cual no es una hazaña pequeña —si me "
-"permites el halago."
+"permites el halago—."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:771
@@ -15892,7 +15892,7 @@ msgid ""
 "civilization that perished thousands of years ago."
 msgstr ""
 "Debes traernos una de las “baterías” de los maestros rúnicos —una antigua "
-"civilización que pereció hace miles de años."
+"civilización que pereció hace miles de años—."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:842
@@ -15900,7 +15900,7 @@ msgid ""
 "Go far away, search some ruins, find that thing and bring it back — sounds "
 "fairly easy."
 msgstr ""
-"Viajar lejos, buscar unas ruinas, encontrar esa cosa y traerla aquí — suena "
+"Viajar lejos, buscar unas ruinas, encontrar esa cosa y traerla aquí: suena "
 "bastante fácil."
 
 #. [message]: speaker=Rashti
@@ -16275,7 +16275,7 @@ msgid ""
 msgstr ""
 "Y, en segundo lugar, los carosanos saben que tenemos una postura neutral. "
 "Sabían que no los ayudaríamos. Pero la parte más irónica es que ni siquiera "
-"necesitaban ayuda —ni siquiera la tuya..."
+"necesitaban ayuda —ni siquiera la tuya—..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:1008
@@ -17059,7 +17059,7 @@ msgid ""
 msgstr ""
 "Pero somos profesionales, ¿verdad? Verifiquemos nuestras teorías. Pensad en "
 "reclutar o reincorporar una tropa específica o un ser abismal. Debiera "
-"llegar momentáneamente —espero..."
+"llegar momentáneamente —espero—..."
 
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:530
@@ -17331,7 +17331,7 @@ msgid ""
 "some kind of disaster that wiped out nearly all of their territory. Your "
 "story seems to match unusually well with his..."
 msgstr ""
-"Hace un tiempo, hablé con los “sangreoscuras” —como se llaman a sí mismos. "
+"Hace un tiempo, hablé con los “sangreoscuras” —como se llaman a sí mismos—. "
 "Su líder habló de una antigua civilización humana, que accidentalmente causó "
 "algún tipo de desastre que aniquiló casi todo su territorio. Extrañamente, "
 "vuestra historia parece coincidir con la suya..."
@@ -17580,7 +17580,7 @@ msgid ""
 "room. Good luck - you will need it back on earth again."
 msgstr ""
 "No temáis, pues la barca voladora puede manejar el peso. Nomás tiene espacio "
-"limitado. Buena suerte —la necesitaréis de vuelta en tierra."
+"limitado. Buena suerte —la necesitaréis de vuelta en tierra—."
 
 #. [message]: speaker=Void
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:1027
@@ -18482,7 +18482,7 @@ msgid ""
 msgstr ""
 "Eh, dijisteis que no podéis separaros de la batería porque no podríais "
 "sobrevivir sin ella aquí. Pero, ¿qué tal si os traigo conmigo para que "
-"viváis junto con — digamos — mis aliados?"
+"viváis junto con —digamos— mis aliados?"
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1778
@@ -19286,7 +19286,7 @@ msgid ""
 "Jaffar's to govern the city as usual."
 msgstr ""
 "Sé que soy el líder de una de nuestras ciudades y el dueño de Rashti, pero "
-"estoy seguro de que estará bien— ahora está en casa después de todo. Y "
+"estoy seguro de que estará bien —ahora está en casa, después de todo—. Y "
 "cuento con mi adjunto, Yafar, para gobernar la ciudad como de costumbre."
 
 #. [message]: speaker=Guru
@@ -19590,7 +19590,7 @@ msgstr ""
 "Los ancianos son invocadores eméritos. Aunque son demasiado viejos para un "
 "servicio activo, guían y efectivamente gobiernan la sociedad de los "
 "invocadores. Los ancianos más reconocidos conforman el Alto Consejo —el "
-"órgano de gobierno más importante del Gran Desierto."
+"órgano de gobierno más importante del Gran Desierto—."
 
 #. [unit_type]: id=TLU_Enchanter, race=eoma_summoner
 #: To_Lands_Unknown\units\Enchanter.cfg:4
@@ -19768,7 +19768,7 @@ msgstr ""
 "Esta unidad esta equipada con el tipo más poderoso de círculo mágico. El "
 "dueño puede reclutar y reincorporar unidades sin estar en un torreón (no "
 "funciona en bosques). Todas las unidades amigas adyacentes luchan mejor "
-"(+125%, +100%, +75%, +50%, +25% — para niveles 0, 1, 2, 3, 4 "
+"(+125%, +100%, +75%, +50% y +25% para los niveles 0, 1, 2, 3 y 4, "
 "respectivamente), se sanan 8 PV, y reciben una bonificación de +20% para sus "
 "resistencias contra el fuego, el frío y lo arcano. Al inicio de cada turno, "
 "todos los enemigos adyacentes son ralentizados y reciben 8 puntos de daño."
