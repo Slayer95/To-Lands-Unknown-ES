@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-17 19:26 UTC\n"
 "PO-Revision-Date: 2023-02-12 11:05-0500\n"
-"Last-Translator: \n"
+"Last-Translator: Leonardo Julca Salazar\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -3490,8 +3490,8 @@ msgid ""
 "Hmph, fine, how about 20 gold? But I won't reduce the price any further, "
 "mind you, I still need to make a profit, don't forget that."
 msgstr ""
-"¡Jum! Bien, ¿qué tal 20 de oro? Pero no reduciré el precio más, eso sí. "
-"Todavía necesito obtener ganancias; no lo olvidéis."
+"¡Jum! Bien, ¿qué tal 20 monedas de oro? Pero no reduciré el precio más, "
+"¿vale? Todavía necesito obtener ganancias; no lo olvidéis."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1360
@@ -5065,7 +5065,7 @@ msgstr "Se ha ido... Estas criaturas no dejan de sorprender."
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:77
 msgid "Received 750 gold, as well as two Efreet lamps!"
-msgstr "¡Recibió 750 de oro, así como las lámparas de dos ifrits!"
+msgstr "¡Recibió 750 monedas de oro, así como las lámparas de dos ifrits!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:81
@@ -6472,7 +6472,7 @@ msgid ""
 "So you must be the one in charge here. Look, I am here for those lizards you "
 "captured not so long go."
 msgstr ""
-"Así que eres el mandamás aquí. Verás, vine por las lagartijas que capturaste "
+"Así que sois el mandamás aquí. Veréis, vine por las lagartijas que capturaste "
 "hace no mucho."
 
 #. [message]: speaker=BLeader
@@ -6803,17 +6803,17 @@ msgstr "¡AAAARGH!"
 #. [message]: id=GLeader
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:1276
 msgid "Me not impressed. Drunk human think I am trapped? Rocs will rescue me!"
-msgstr ""
+msgstr "Yo no impresionado. ¿Humano borracho pensar yo atrapado? ¡Los rocs me rescatarán!"
 
 #. [message]: id=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:1280
 msgid "Good. You're going to live to tell the tale. Now excuse me... *pukes*"
-msgstr ""
+msgstr "Bueno. Viviréis para contar esta historia. Ahora, perdonadme... <i>Vomita.</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:1361
 msgid "At least the booze was really good *hic*"
-msgstr "Al menos el alcohol estaba magnífico. ¡Hip!"
+msgstr "Al menos el alcohol estuvo magnífico. ¡Hip!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:1366
@@ -10292,7 +10292,7 @@ msgstr "Un nombre inusual, pero suena bastante bien. Muy bien."
 #. [then]
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:463
 msgid "Edward"
-msgstr "Eduardo"
+msgstr "Edward"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:469
