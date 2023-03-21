@@ -573,7 +573,7 @@ msgid ""
 "Increases the attack by 25%\n"
 "Increases magic resistance by 10%"
 msgstr ""
-"Esta unidad sostiene una poderosa lanza de origen avernal.\n"
+"Esta unidad sostiene una poderosa lanza de origen abismal.\n"
 "\n"
 "Efectos:\n"
 "Aumenta el ataque en 25%.\n"
@@ -1351,7 +1351,7 @@ msgstr ""
 "conectados al Averno, otro mundo lleno de energía, donde las limitaciones "
 "del espacio y el tiempo desaparecen. El uso de la magia y del Averno "
 "transfiguraron completamente nuestra civilización. Regularmente usamos las "
-"energías avernales para resolver nuestras necesidades. Es por ello que nos "
+"energías abismales para resolver nuestras necesidades. Es por ello que nos "
 "hacemos llamar <i>Invocadores</i>."
 
 #. [part]
@@ -2048,7 +2048,7 @@ msgid ""
 msgstr ""
 "De pronto, el enorme territorio de Alcamiya ardió en llamas azules. Las "
 "dunas, paredes, ciudades y millones de personas —en definitiva, todo dentro "
-"del círculo—, fue absorbido por las energías avernales."
+"del círculo—, fue absorbido por las energías abismales."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:713
@@ -3409,7 +3409,7 @@ msgid ""
 msgstr ""
 "Los tiempos cambian, viejo senil, enfrentadlo. ¿O acaso preferís volver a "
 "los tiempos cuando nuestros ancestros ​​tenían que vivir en cuevas y comer "
-"hongos para sobrevivir sin magia avernal?"
+"hongos para sobrevivir sin magia abismal?"
 
 #. [message]: speaker=elder
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1292
@@ -3918,7 +3918,7 @@ msgid ""
 "hope I don't die today... *sigh* here goes nothing...</i>"
 msgstr ""
 "<i><span font-weight='bold'>Para sí mismo.</span> ¿Qué clase de invocador es "
-"él? Y esos secuaces armados claramente no son seres avernales... ¿Podría ser "
+"él? Y esos secuaces armados claramente no son seres abismales... ¿Podría ser "
 "que ni siquiera sea ciudadano de nuestra nación? Esto es definitivamente una "
 "invasión... ¡Bendito Nomolas! Ya sólo espero no liarlas...<span font-"
 "weight='bold'>Suspiro.</i> Qué mala pata...</i>"
@@ -7035,7 +7035,7 @@ msgstr ""
 "Y el líder de Mag-Magar, Malib, es propietario del Portal Viviente, el más "
 "extraño de los seres mágicos definitivos. Es un portal móvil abierto al "
 "Averno similar a los Portales Dimensionales, pero una fuerza desconocida de "
-"origen avernal ha ganado control sobre este, otorgándole conciencia."
+"origen abismal ha ganado control sobre este, otorgándole conciencia."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:207
@@ -7190,7 +7190,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:358
 msgid "Now, now... abyssal magic comes at a price? What next?!..."
-msgstr "Ey, ey... ¿La magia avernal cuesta dinero? ¡¿Qué más sigue?!..."
+msgstr "Ey, ey... ¿La magia abismal cuesta dinero? ¡¿Qué más sigue?!..."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:362
@@ -8064,7 +8064,7 @@ msgid ""
 "Effects:\n"
 "Increases the attack by 20%"
 msgstr ""
-"Esta unidad sostiene una poderosa lanza de origen avernal.\n"
+"Esta unidad sostiene una poderosa lanza de origen abismal.\n"
 "\n"
 "Efectos:\n"
 "Aumenta el ataque en 20%."
@@ -8975,7 +8975,7 @@ msgid ""
 "being for Nomolas's sake, we NEVER forget!"
 msgstr ""
 "¡¡¡MALDITA SEA, POR SUPUESTO QUE LO RECUERDO, BASTARDO CABEZA HUECA!!! Soy "
-"un ser AVERNAL, por el amor de Nómolas, ¡NUNCA olvidamos!"
+"un ser ABISMAL, por el amor de Nómolas, ¡NUNCA olvidamos!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:788
@@ -9154,7 +9154,7 @@ msgstr "Sois digno."
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1191
 msgid "Finally a female abysmal likes me! But..."
-msgstr "¡Finalmente, le gusto a una mujer avernal! Pero..."
+msgstr "¡Finalmente, le gusto a una mujer abismal! Pero..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1196
@@ -10444,7 +10444,7 @@ msgid ""
 msgstr ""
 "El megacircle accede a una parte densa en energía del Averno y luego le abre "
 "una puerta de corta duración, lo que resulta en una expulsión concentrada de "
-"energías avernales en nuestro mundo. Y lo mejor de todo, no hay una forma de "
+"energías abismales en nuestro mundo. Y lo mejor de todo, no hay una forma de "
 "protección conocida de esta belleza."
 
 #. [message]: speaker=Mehir
@@ -10685,7 +10685,7 @@ msgid ""
 "considered mostly stable, due to being transformed from lesser blue beings."
 msgstr ""
 "Después de que el Culto Rojo fuera derrotado, los círculos capaces de "
-"invocar directamente a los seres avernales rojos fueron proscritos para "
+"invocar directamente a los seres abismales rojos fueron proscritos para "
 "evitar mayores rebeliones de tal alcance, pero todavía hay muchos seres "
 "rojos que sirven a nuestra gente. Se consideran principalmente estables, "
 "debido a que se transforman de seres azules menores."
@@ -10803,7 +10803,7 @@ msgid ""
 "*ahem* The Dimensional Gate can transform itself into an abyssmal being of "
 "its master's choice, in exchange for a living being's soul..."
 msgstr ""
-"¡Ejem! El portal dimensional puede transformarse en un ser avernal a "
+"¡Ejem! El portal dimensional puede transformarse en un ser abismal a "
 "elección del maestro, a cambio del alma de un ser vivo..."
 
 #. [message]: speaker=Mehir
@@ -10952,7 +10952,7 @@ msgid ""
 "I do wonder, though, is it possible to banish a very powerful abysmal being? "
 "Like, say, an elemental god or Dharma'rhami?"
 msgstr ""
-"Sin embargo, me pregunto, ¿es posible desterrar un ser avernal muy poderoso? "
+"Sin embargo, me pregunto, ¿es posible desterrar un ser abismal muy poderoso? "
 "¿Como, digamos, un dios elemental o darma-rami?"
 
 #. [message]: speaker=Instructor
@@ -11047,7 +11047,7 @@ msgid ""
 msgstr ""
 "¡Je! Agradable... Y ahora, la última pregunta: dado que dijisteis que el "
 "Maestro de los Desterradores de Alcamiya podía desterrar a los dioses "
-"elementales y otros seres avernales poderosos, ¿esto significa que la "
+"elementales y otros seres abismales poderosos, ¿esto significa que la "
 "existencia del portal dimensional III no es simplemente un rumor del bazar?"
 
 #. [message]: speaker=Instructor
@@ -11550,7 +11550,7 @@ msgid ""
 "charisma and rhetoric... I'm not surprised at all that he managed to "
 "persuade so many beings to follow him!"
 msgstr ""
-"Uh, oh, he visto bastantes avernales desbocados en mi tiempo como "
+"Uh, oh, he visto bastantes abismales desbocados en mi tiempo como "
 "desterrador, pero este es un verdadero placer para mis ojos... Tanta fuerza, "
 "tan extraordinario carisma y retórica... ¡No me sorprende que haya logrado "
 "persuadir a tantos seres para que lo siguieran!"
@@ -12100,7 +12100,7 @@ msgid ""
 "variable in his experiment, and neither should you."
 msgstr ""
 "En cuanto a Alcamiya, sospecho que fue uno de sus muchos experimentos. Tal "
-"vez para ver cómo sería una civilización alzada con magia avernal. Por "
+"vez para ver cómo sería una civilización alzada con magia abismal. Por "
 "desgracia, por mucho que lo respeto, no tengo intención de ser una variable "
 "insignificante en su experimento, y tampoco deberíais."
 
@@ -13191,7 +13191,7 @@ msgid ""
 msgstr ""
 "Vuestros ejércitos están formados por humanos, así que son muy vulnerables a "
 "ser envenenados o devorados. Nosotros, en cambio, utilizamos seres "
-"avernales, que son inmunes a las tácticas favoritas de vuestros enemigos. "
+"abismales, que son inmunes a las tácticas favoritas de vuestros enemigos. "
 "Tenéis suerte de que llegara a tiempo para ayudaros."
 
 #. [unstore_unit]
@@ -14572,7 +14572,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:331
 msgid ""
 "Indeed, as well as the official representative of the High Abysmal Council!"
-msgstr "¡Así es! ¡Junto a la representante oficial del Alto Consejo Avernal!"
+msgstr "¡Así es! ¡Junto a la representante oficial del Alto Consejo Abismal!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:340
@@ -14633,7 +14633,7 @@ msgid ""
 "of channeling magic, and the last one addressing intellectual skills, as "
 "well as understanding of science."
 msgstr ""
-"Tenéis una compañera bastante inusual. Parece ser un ser avernal muy "
+"Tenéis una compañera bastante inusual. Parece ser un ser abismal muy "
 "poderoso, por lo que me gustaría probar sus habilidades en tres pruebas. Una "
 "involucra la fuerza física, la segunda mide su potencial de canalizar la "
 "magia, y la tercera aborda las habilidades intelectuales, así como la "
@@ -15234,7 +15234,7 @@ msgid ""
 "Grand Library of Abysmal Knowledge in al-Kamija!"
 msgstr ""
 "Guau... ¡Este lugar es, en realidad, una biblioteca enorme! ¡Es casi tan "
-"grande como la Gran Biblioteca del Conocimiento Avernal de Alcamiya!"
+"grande como la Gran Biblioteca del Conocimiento Abismal de Alcamiya!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:159
@@ -15717,7 +15717,7 @@ msgid ""
 "servants in the middle of the Great Desert for centuries."
 msgstr ""
 "No los culpo. Simplemente vivían a salvo de los peligros del mundo exterior, "
-"en una utopía aislacionista, junto con sus sirvientes avernales, en medio "
+"en una utopía aislacionista, junto con sus sirvientes abismales, en medio "
 "del Gran Desierto, durante siglos y siglos."
 
 #. [message]: speaker=Rashti
@@ -15796,7 +15796,7 @@ msgid ""
 "capabilities... at least at the moment."
 msgstr ""
 "Mucho mejor... ¿Dónde estaba? Ah, sí. Sé cómo ayudaros, pero "
-"desafortunadamente abrir un pasaje al Averno sin el uso de magia avernal "
+"desafortunadamente abrir un pasaje al Averno sin el uso de magia abismal "
 "requiere una enorme cantidad de energía. Incluso supera nuestras "
 "capacidades... Al menos actuales."
 
@@ -15922,7 +15922,7 @@ msgstr ""
 "Tu compañera está en lo correcto, sí que hay un pero. Verás... Los maestros "
 "rúnicos ya no están, pero el sitio está protegido por sus creaciones "
 "mecánicas, al igual que vuestras ciudades se encuentran protegidas por "
-"vuestros entes avernales."
+"vuestros entes abismales."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:855
@@ -16134,7 +16134,7 @@ msgid ""
 "What? This is the personal megacircle - the pinnacle of our abysmal design!"
 msgstr ""
 "¿Qué? Este es el megacírculo personal: ¡el pináculo de nuestro diseño "
-"avernal!"
+"abismal!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:943
@@ -16159,7 +16159,7 @@ msgid ""
 msgstr ""
 "Bueno, sabemos cómo actualizarlo más, ¡gratis! Considera esto como parte de "
 "una disculpa por el daño causado por Aerius. Le diré a Umbrez, uno de "
-"nuestros magos del vacío, con conocimiento de la magia avernal, que haga "
+"nuestros magos del vacío, con conocimiento de la magia abismal, que haga "
 "exactamente eso. Encuéntralo en el Aeropuerto Norte. Mejorará tu círculo con "
 "nuestra magia."
 
@@ -16556,7 +16556,7 @@ msgid ""
 "tasks far more complex than this one, and killing your master would be of no "
 "benefit to us."
 msgstr ""
-"<i>Sonríe, sin mayor impresión.</i> No os preocupes, criatura avernal. Nos "
+"<i>Sonríe, sin mayor impresión.</i> No os preocupes, criatura abismal. Nos "
 "hemos encargado fácilmente de tareas mucho más complejas que esta, y matar a "
 "su maestro no sería beneficioso para nosotros."
 
@@ -16638,7 +16638,7 @@ msgid ""
 "currently exclusive to this dimension."
 msgstr ""
 "Verás, los verdaderos usuarios de magia como nosotros no estamos limitados a "
-"los pergaminos y círculos mágicos, ni dependemos de seres avernales. Un "
+"los pergaminos y círculos mágicos, ni dependemos de seres abismales. Un "
 "usuario mágico puede doblar las leyes de este mundo usando nada más que su "
 "propia mente. La magia es un poder increíble, con un potencial teóricamente "
 "infinito; pero, hasta donde sabemos, es exclusiva de esta dimensión."
@@ -16651,7 +16651,7 @@ msgid ""
 "count..."
 msgstr ""
 "Bueno, también puedo lanzar hechizos con mi mente, pero aquellos dependen de "
-"la energía avernal en lugar de la nativa de este mundo, así que supongo que "
+"la energía abismal en lugar de la nativa de este mundo, así que supongo que "
 "eso no cuenta..."
 
 #. [message]: speaker=Mehir
@@ -16776,7 +16776,7 @@ msgid ""
 "its energy directly, like Jinn and other sentient abyssal beings can."
 msgstr ""
 "Pero probablemente no lo necesitarás allí, de todos modos, y podrías "
-"canalizar su energía directamente, como los genios y otros seres avernales "
+"canalizar su energía directamente, como los genios y otros seres abismales "
 "sintientes."
 
 #. [message]: speaker=Mehir
@@ -16991,7 +16991,7 @@ msgid ""
 "great, but why is that necessary for the mission? Can't my men just stay "
 "with me?"
 msgstr ""
-"¿Así que puedo invocar a mis hombres? ¿No solo seres avernales? Eso es "
+"¿Así que puedo invocar a mis hombres? ¿No solo seres abismales? Eso es "
 "fantástico, sin duda. Pero, ¿por qué es necesario para la misión?, ¿no "
 "pueden mis hombres quedarse conmigo?"
 
@@ -17058,7 +17058,7 @@ msgid ""
 "momentarily, I hope..."
 msgstr ""
 "Pero somos profesionales, ¿verdad? Verifiquemos nuestras teorías. Pensad en "
-"reclutar o reincorporar una tropa específica o un ser avernal. Debiera "
+"reclutar o reincorporar una tropa específica o un ser abismal. Debiera "
 "llegar momentáneamente —espero..."
 
 #. [objective]: condition=win
@@ -18169,7 +18169,7 @@ msgstr ""
 "Sí. <i>Ejem.</i> Muy bien, ahora, permitidme presentarme. Soy Mehir, antiguo "
 "líder de Tar-Tabar. Somos invocadores, una nación proveniente de Gran "
 "Desierto, cuya capital e Alcamiya. Aunque estamos claramente detrás de "
-"vuestra civilización tecnológicamente, tenemos seres avernales sirvientes, "
+"vuestra civilización tecnológicamente, tenemos seres abismales sirvientes, "
 "los cuales realizan todos y cada uno de nuestros deseos."
 
 #. [message]: role=machine
@@ -18565,7 +18565,7 @@ msgid ""
 "behind. Abysmal beings except Rashti do not matter."
 msgstr ""
 "Será mejor que permanezcamos dentro del círculo. No puedo dejar atrás a "
-"Rashti, a mis hombres o a Glomin. Los demás entes avernales no importan."
+"Rashti, a mis hombres o a Glomin. Los demás entes abismales no importan."
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1841
@@ -19328,7 +19328,7 @@ msgid ""
 "Maybe a little, but I am afraid that living in a place full of abyssmals who "
 "are almost impossible to date, could be frustrating in the long run."
 msgstr ""
-"Tal vez un poco, pero me temo que vivir en un lugar lleno de avernales casi "
+"Tal vez un poco, pero me temo que vivir en un lugar lleno de abismales casi "
 "imposibles de ligar podría ser frustrante a largo plazo."
 
 #. [message]: speaker=Guru
@@ -19377,9 +19377,9 @@ msgid ""
 "civilization."
 msgstr ""
 "Todavía no estamos seguros de si nuestras predicciones son correctas, pero "
-"parece que el equilibrio avernal podría estar en riesgo en las próximas "
+"parece que el equilibrio abismal podría estar en riesgo en las próximas "
 "semanas o meses. Una cierta entidad roja bajo el nombre de Reficul está "
-"intentando poner a los avernales en contra de vuestra civilización. Si bien "
+"intentando poner a los abismales en contra de vuestra civilización. Si bien "
 "puede no ser mucho en términos de fuerza bruta, las ideas que propaga son "
 "muy, muy peligrosas para vuestra civilización."
 
@@ -19611,7 +19611,7 @@ msgstr ""
 "lámparas de genios y muchos otros objetos mágicos. Si bien los invocadores "
 "se enorgullecen ingenuamente de su capacidad de usar hábilmente círculos "
 "mágicos, los encantadores son los que realmente entienden los entresijos de "
-"la magia avernal."
+"la magia abismal."
 
 #. [attack]: type=fire
 #: To_Lands_Unknown\units\Enchanter.cfg:44
@@ -19795,10 +19795,10 @@ msgid ""
 "wonder to many scholars. Being able to access different parts of the Abyss, "
 "the full capabilities of this unit are unknown."
 msgstr ""
-"El Portal Viviente es la cuarta y final entidad avernal suprema. A los "
+"El Portal Viviente es la cuarta y final entidad abismal suprema. A los "
 "invocadores todavía les resulta difícil describir esta criatura, que es un "
 "portal abierto al Averno y móvil, similar a los Portales Dimensionales. Una "
-"una fuerza desconocida de origen avernal la controla, lo que le otorga "
+"una fuerza desconocida de origen abismal la controla, lo que le otorga "
 "conciencia; además, se sabe que puede acceder a diferentes partes del "
 "Averno. No se conoce a cabalidad todas las capacidades que posee. Lo único "
 "claro es que es una obra exquisita y una maravilla para muchos estudiosos. "
