@@ -2286,7 +2286,7 @@ msgid ""
 "actually afford, feel free to have a look."
 msgstr ""
 "No es sorprendente. De todos modos, si hay algo a la venta que <b>podáis</"
-"b>realmente permitiros, no dudéis en echar un vistazo."
+"b> realmente permitiros, no dudéis en echar un vistazo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:35
@@ -2300,7 +2300,7 @@ msgid ""
 "have, but on the other, a water elemental can be a great asset to have on "
 "duty...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Mmmm. Por un lado, me está "
+"(Para sí mismo). <i>Mmmm. Por un lado, me está "
 "cobrando la mayor parte del dinero que tengo, pero por otra parte, un "
 "elemental de agua puede ser un sirviente muy útil...</i>"
 
@@ -2433,7 +2433,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:163
 msgid ""
 "By the way, you haven't told me what happened with this carpet of yours..."
-msgstr "Por cierto, no me contentaste lo que le pasó a tu alfombra..."
+msgstr "Por cierto, no me contasteis lo que le pasó a tu alfombra..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:167
@@ -2443,7 +2443,7 @@ msgstr "No estoy seguro de que realmente queráis saber..."
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:171
 msgid "Oh, come on. Was it damaged during an important mission?"
-msgstr "Oh vamos. ¿Fue dañado durante una misión importante?"
+msgstr "Oh, vamos. ¿Fue dañado durante una misión importante?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:175
@@ -2566,7 +2566,7 @@ msgstr "Preferiría no hablar de ello..."
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:290
 msgid "All right, forget I asked."
-msgstr "Bien, olvida mi pregunta."
+msgstr "Vale, olvidad mi pregunta."
 
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:297
@@ -2574,13 +2574,13 @@ msgid ""
 "Ah, Mehir, my old friend! Long time no see! Let me guess, you're here "
 "because your enchanted glove broke again?"
 msgstr ""
-"¡Ah, Mejir, mi viejo amigo! ¡Mucho tiempo sin verte! Déjame adivinar, ¿estás "
-"aquí porque tu guante encantado se rompió de nuevo?"
+"¡Ah, Mejir, mi viejo amigo! ¡Mucho tiempo sin verte! Dejadme adivinar, ¿estáis "
+"aquí porque vuestro guante encantado se rompió de nuevo?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:301
 msgid "Yeah, that piece of junk can barely hold together."
-msgstr "Sí, ese pedazo de chatarra apenas resiste nada."
+msgstr "Sí, es que ese pedazo de chatarra apenas resiste nada."
 
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:305
@@ -2593,13 +2593,14 @@ msgid ""
 "the glove again, but you know what? It'll be easier to just make you a new "
 "one. This will take a few minutes."
 msgstr ""
-"No es sorprendente. La basura que le dan a la guardia de la ciudad hoy en "
-"día no se compara con la utilizada por el ejército. Aunque, siendo justos, "
-"no hay razón para equiparlos, después de todo. No es como si alguien se "
-"fuera a atrever a atacar la capital. Al fin y al cabo, la guardia de la "
-"ciudad misma no es más que un desesperado intento de darle a la población "
-"humana un quehacer. Arreglaría el guante de nuevo, pero ¿sabes?. Será más "
-"fácil simplemente hacer uno nuevo. Esto tomará unos pocos minutos."
+"No me sorprende: las baratijas que le dan a la guardia de la ciudad hoy en "
+"día no se compara con lo que utiliza el ejército. Aunque, siendo justos, "
+"no hay razón para equiparlos; después de todo, no es como si alguien se "
+"fuera a atrever a atacar la capital, y la guardia de la ciudad en sí no "
+"es más que un desesperado intento por parte del Alto Consejo para darle a "
+"la población humana un quehacer.\n"
+"\nArreglaría el guante de nuevo; pero, —¿sabéis?— Será más fácil "
+"simplemente hacer uno nuevo. Esto tomará unos pocos minutos."
 
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:311
@@ -2615,7 +2616,7 @@ msgid ""
 "all! I bet that is the very reason they get assigned here in the first "
 "place..."
 msgstr ""
-"Como de costumbre, en guardia en un lugar por horas y ¡al mando de las "
+"Como de costumbre, de guardia en un lugar por horas y ¡al mando de las "
 "tropas más incompetentes de toda la ciudad! Tengo que arrancarlos de las "
 "posadas cada tarde, ¡porque apenas tienen disciplina! Apuesto a que esa es "
 "la razón por la que se les asigna aquí en primer lugar..."
@@ -2627,9 +2628,9 @@ msgid ""
 "service in the army but just barely tough enough to deal with petty crime, "
 "what little of it exists at least."
 msgstr ""
-"De hecho, el personal de la guardia de la ciudad está compuesta de lo más "
+"De hecho, el personal de la guardia de la ciudad está compuesto de lo más "
 "tirado. Tropas no aptas para servir en el ejército, pero suficientes para "
-"lidiar con el crimen común, o al menos lo poco que existe de él."
+"lidiar con el crimen común o, al menos, lo que queda de él."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:323
@@ -2715,7 +2716,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:399
 msgid "Sure, here you go."
-msgstr "Bien, aquí tenéis."
+msgstr "Vale, aquí tenéis."
 
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:413
@@ -2723,8 +2724,8 @@ msgid ""
 "Want to try the glove in action? How about I summon an air elemental, and "
 "you shoot it down?"
 msgstr ""
-"¿Quieres probar el guante en acción? ¿Qué tal si invoco a un elemental de "
-"aire y le disparas?"
+"¿Queréis probar el guante en acción? ¿Qué tal si invoco a un elemental de "
+"aire y le disparáis?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:417
@@ -2760,7 +2761,7 @@ msgstr "¡Muy bien, gracias por la ayuda! Me pondré en marcha."
 #. [message]: speaker=enchanter
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:470
 msgid "Good luck on your duty!"
-msgstr "¡Buena suerte en tu deber!"
+msgstr "¡Buena suerte en vuestro deber!"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:476
@@ -2924,7 +2925,7 @@ msgstr ""
 msgid ""
 "I see. So... would you tell me what will happen to me in the next hour or so?"
 msgstr ""
-"Ya veo. Entonces... ¿Me dirías qué me pasará en la próxima hora más o menos?"
+"Ya veo. Entonces... ¿Me diríais qué me pasará en la próxima hora más o menos?"
 
 #. [message]: speaker=wjinn
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:572
@@ -3119,12 +3120,12 @@ msgstr "Ciudadanos"
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:792
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1524
 msgid "Carpet Ferryman"
-msgstr "Taxista de alfombra"
+msgstr "Taxialfombra"
 
 #. [side]: id=ferryman, id=gate_guardian, id=merchant, id=waterelemental, id=elder
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:797
 msgid "Gate Guardian Theivya"
-msgstr "Guardián de la puerta Theivya"
+msgstr "Guardiana de la puerta Theivya"
 
 #. [side]: id=ferryman, id=gate_guardian, id=merchant, id=waterelemental, id=elder
 #. [event]
@@ -3240,7 +3241,7 @@ msgid ""
 msgstr ""
 "Esta campaña ofrece dos formas diferentes de jugar. Puede proceder con un "
 "modo normal (en el que Mejir se comporta, por lo general, razonablemente) o "
-"activar un modo especial de “rudo/genial”, que ofrece un desarrollo "
+"activar un modo especial de “rudo/genial” que ofrece un desarrollo "
 "alternativo de la historia, con diferentes diálogos, eventos y objetivos de "
 "misión (Mejir actúa mucho menos razonable en este modo).\n"
 "\n"
@@ -3257,7 +3258,7 @@ msgid ""
 "Badass Mode (choose it if you know the campaign well or you seek a less "
 "serious gameplay)"
 msgstr ""
-"Modo genial/duro (para veteranos de la campaña y/o una experiencia cómica)."
+"Modo genial/duro (para veteranos de la campaña y/o una experiencia cómica)"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1089
@@ -3304,8 +3305,8 @@ msgid ""
 "Nothing worth reporting happened during nighttime, everything is calm as "
 "usual."
 msgstr ""
-"No sucedió nada que valga la pena informar durante la noche. Todo está "
-"tranquilo como de costumbre."
+"Anoche no sucedió nada que valga la pena informar. Todo está tranquilo, "
+"como de costumbre."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1219
@@ -3318,7 +3319,7 @@ msgstr ""
 "La rutina aburrida de siempre, ¿eh? A estas alturas, parte de mí casi desea "
 "que algo vaya mal; así, al menos ya no estaría aburrido... Por cierto, "
 "siempre me pregunté... ¿Cuánto hace que vigilas esta ubicación? Todo "
-"eltiempo te he visto aquí."
+"el tiempo te he visto aquí."
 
 #. [message]: speaker=gate_guardian
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1223
@@ -3333,7 +3334,7 @@ msgid ""
 "years."
 msgstr ""
 "¡Je! Eso de permanecer en un sitio como guardia obligatoriamente y por un "
-"tiempo prácticamente eterno... Puedo simpatizar. Pero bueno, todavía tenéis "
+"tiempo prácticamente eterno... Puedo simpatizar. Pero, bueno, todavía tenéis "
 "muy buen aspecto luego de todos estos años."
 
 #. [message]: speaker=gate_guardian
@@ -3391,7 +3392,7 @@ msgstr ""
 #. [message]: speaker=gate_guardian
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1263
 msgid "Have a nice day too."
-msgstr "Que tengáis un buen día también."
+msgstr "Que tengáis un buen día, igualmente."
 
 #. [message]: speaker=elder
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1283
@@ -3502,7 +3503,7 @@ msgid ""
 "enchanter's workshop. I need my enchanted glove to be fixed. Without this "
 "weapon working I won't be able to guard the streets effectively.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Ahora que compré lo que "
+"(Para sí mismo). <i>Ahora que compré lo que "
 "necesitaba, es hora de acudir el taller de un encantador. Necesito arreglar "
 "mi guante encantado. Sin mi arma operativa, no podría proteger las calles de "
 "manera efectiva.</i>"
@@ -3511,7 +3512,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1364
 msgid "<i>*to himself* Hmm... I need a flying carpet to get there.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Mmmm. Necesito una "
+"(Para sí mismo). <i>Mmmm. Necesito una "
 "alfombra voladora para llegar allí.</i>"
 
 #. [objective]: condition=win
@@ -3528,7 +3529,7 @@ msgstr "Cambiasteis de opinión sobre el elemental?"
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1401
 msgid "<i>*to himself* I don't think I need to buy anything else.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Creo que no necesito  "
+"(Para sí mismo). <i>Creo que no necesito  "
 "comprar nada más.</i>"
 
 #. [message]: speaker=narrator
@@ -3539,7 +3540,7 @@ msgstr "¿Dejar el bazar para visitar el encantador?"
 #. [option]
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1434
 msgid "Not yet"
-msgstr "Aún no"
+msgstr "Aún no."
 
 #. [option]
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1440
@@ -3631,9 +3632,9 @@ msgid ""
 "Listen pal, talk about intrinsic value crap all you want, but I need to feed "
 "my family. We are from the lower tiers, and life is harsh there, you know."
 msgstr ""
-"Escuchad amigo. Podéis hablar todo el día sobre esa basura de valor "
+"Escuchad, amigo. Podéis hablar todo el día sobre esa basura de valor "
 "intrínseco, pero necesito alimentar a mi familia. Somos de los niveles "
-"inferiores y la vida es dura allí, ya sabes."
+"inferiores y la vida es dura allí, ¿vale?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1544
@@ -3641,8 +3642,8 @@ msgid ""
 "*sigh* Fine, how about this: I'll pay you 3 coins, but instead of just one "
 "trip I want your services for a whole hour."
 msgstr ""
-"<i>Suspira.</i> Bien, ¿qué tal esto? Os pagaré 3 monedas. Pero, en lugar de "
-"solo un viaje, requiero tus servicios durante una hora entera."
+"<i>(Suspiro).</i> Bien, ¿qué tal esto? Os pagaré 3 monedas. Pero, en lugar de "
+"solo un viaje, requiero vuestros servicios durante una hora entera."
 
 #. [message]: speaker=ferryman
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1548
@@ -3777,7 +3778,7 @@ msgstr "Refuerzos"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:494
 msgid "Time to check how my men are doing..."
-msgstr "Es hora de revisar cómo están mis hombres..."
+msgstr "Es hora de revisar el estado de mis hombres..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:509
@@ -3797,7 +3798,7 @@ msgstr "¡Alib!"
 #. [message]: speaker=Alib
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:522
 msgid "(visibly drunk) I'm 'ere! *hic* Heehee!"
-msgstr "<i>Visiblemente borracho.</i> ¡Ya llegué! ¡Hip! ¡Je, je!"
+msgstr "<i>(Visiblemente borracho).</i> ¡Ya llegué! ¡Hip! ¡Je, je!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:530
@@ -3885,13 +3886,13 @@ msgid ""
 "They drank too much while in the inn and blacked out yesterday, sir. I "
 "strongly doubt they'll show up anytime soon."
 msgstr ""
-"Bebieron demasiado mientras estaban en la posada y se oscurecieron ayer, "
-"señor. Dudo mucho que aparezcan pronto."
+"Ayer bebieron demasiado mientras estaban en la posada y quedaron "
+"inconscientes, señor. Dudo mucho que aparezcan pronto."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:594
 msgid "*sigh* I hate my job... This can't possibly get any worse..."
-msgstr "<i>Suspira.</i> Odio mi trabajo... Esto no podría empeorar..."
+msgstr "<i>(Suspiro).</i> Odio mi trabajo... Esto no podría empeorar..."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:600
@@ -3908,7 +3909,7 @@ msgstr "¿Qué...? ¡¿Qué está sucediendo?!"
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:643
 msgid "*to himself* <i>This spot looks good. Now for that portal spell...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Este lugar se ve bien. "
+"(Para sí mismo). <i>Este lugar se ve bien. "
 "Ahora, el hechizo de portal...</i>"
 
 #. [message]: speaker=Mehir
@@ -3919,11 +3920,11 @@ msgid ""
 "citizen of our nation? This is clearly an invasion... dear Nomolas, I just "
 "hope I don't die today... *sigh* here goes nothing...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> ¿Qué clase de invocador es "
-"él? Y esos secuaces armados claramente no son seres abismales... ¿Podría ser "
-"que ni siquiera sea ciudadano de nuestra nación? Esto es definitivamente una "
-"invasión... ¡Bendito Nomolas! Ya sólo espero no liarlas...<span font-"
-"weight='bold'>Suspiro.</i> Qué mala pata...</i>"
+"(Para sí mismo). <i>¿Qué clase de invocador es él? Y esos secuaces "
+"armados claramente no son seres abismales... ¿Podría ser que ni siquiera "
+"sea ciudadano de nuestra nación? Esto es definitivamente una invasión... "
+"¡Bendito Nomolas! Ya sólo espero no liarlas...</i> (Suspiro). <i>Qué mala "
+"pata...</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:741
@@ -3931,7 +3932,7 @@ msgid ""
 "Hey, who the hell are you?! Identify yourself immediately, or I'll have to "
 "take you into custody!"
 msgstr ""
-"¡Eh! ¡¿quién diablos eres?! ¡Identificaos de inmediato o tendré que llevaros "
+"¡Eh! ¡¿quiénes diablos sois?! ¡Identificaos de inmediato o tendré que llevaros "
 "en custodia!"
 
 #. [message]: speaker=Aerius
@@ -3941,10 +3942,9 @@ msgid ""
 "as the lamp of Nomolas, the security is absolutely pathetic. Well, I could "
 "certainly use some entertainment...</i>"
 msgstr ""
-"<i>(Risas)</i> ¡Espero verte intentarlo! <i><span font-weight='bold'>Para sí "
-"mismo.</span> Para ser algo tan apreciado como la lámpara de Nómolas, la "
-"seguridad es absolutamente patética. Bueno, ciertamente podría hacerme con "
-"algo de entretenimiento...</i>"
+"<i>(Risas).</i> ¡Espero verte intentarlo! (Para sí mismo). <i>Para ser algo "
+"tan preciado como la lámpara de Nómolas, la seguridad es absolutamente "
+"patética. Bueno, ciertamente podría hacerme con algo de entretenimiento...</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:750
@@ -3955,7 +3955,7 @@ msgid ""
 msgstr ""
 "¡Todos, preparaos! Es posible que no vivamos para ver el día siguiente, pero "
 "es nuestro deber proteger el palacio a toda costa, ¡sin importar a qué "
-"amenaza desconocida nos enfrementemos!"
+"amenaza desconocida nos enfrentemos!"
 
 #. [message]: speaker=Safay
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:760
@@ -3992,7 +3992,7 @@ msgid ""
 "*to himself* <i>Compensating their incompetence with strength in numbers, eh?"
 "</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Así que están compensando "
+"(Para sí mismo). <i>Así que están compensando "
 "su incompetencia a fuerza de números, ¿eh?</i>"
 
 #. [message]: speaker=Aerius
@@ -4024,7 +4024,7 @@ msgid ""
 "*to himself* <i>Huh... never thought the guards would actually put up a "
 "fight. Now time to run before they catch up to me...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Eh... Nunca imaginé que "
+"(Para sí mismo). <i>Eh... Nunca imaginé que "
 "los guardias  opondrían resistencia. Sería oportuno marcharme antes de que "
 "me alcancen...</i>"
 
@@ -4186,7 +4186,7 @@ msgid ""
 "<i>*to himself* Hmmm... on one hand, I don't want to get killed, on the "
 "other, I don't want to lose my job. I guess I'll just keep fighting...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Mmmm. Por un lado, no "
+"(Para sí mismo). <i>Mmmm. Por un lado, no "
 "quiero que me maten; por otro, no quiero perder mi trabajo. Supongo que "
 "seguiré peleando...</i>"
 
@@ -8530,7 +8530,7 @@ msgid ""
 "here, fast...</i> Uh... (to his troops) I have some urgent business with "
 "Aerius to attent to. As for you all, keep fighting."
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Maldita sea, las cosas no "
+"(Para sí mismo). <i>Maldita sea, las cosas no "
 "se ven bien. Debo salir de aquí, rápido...\n"
 "<span font-weight='bold'>A sus tropas.</span> Tengo que atender asuntos "
 "urgentes con Aerius. En cuanto a vosotros, seguid luchando.</i>"
@@ -9007,7 +9007,7 @@ msgid ""
 "I can barely believe that she just fell for the oldest trick in the book...</"
 "i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span>Bah... Eso ha sido muy "
+"<i>(Para sí mismo).Bah... Eso ha sido muy "
 "fácil. Me encanta la inocencia de los seres del Abismo. ¡Cayó con el truco "
 "más viejo...!</i>"
 
@@ -12640,7 +12640,7 @@ msgid ""
 "suspiciously inactive, mind you. I need to flee while they're still "
 "preparing whatever devious plan they have in store...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Esto está tomando "
+"(Para sí mismo). <i>Esto está tomando "
 "demasiado tiempo. El enemigo está demasiado pasivo, sospechosamente pasivo, "
 "sí.Debo huir mientras todavía están preparándose para ejecutar su plan...</i>"
 
@@ -13357,7 +13357,7 @@ msgid ""
 "pleased.... time for a REAL BLOODBATH!!!"
 msgstr ""
 "Parece que las tres hermanas eran demasiado débiles para lidiar algunos "
-"gusanos de arena. <i>(Para sí mismo). </i> Tal como estaba planeado.</i> Por "
+"gusanos de arena. (Para sí mismo). <i></i> Tal como estaba planeado.</i> Por "
 "el lado bueno, con tantas presas, ¡podríamos hacer una montaña de cuerpos! "
 "Nuestros dioses estarán complacidos... ¡Es hora de un verdadero BAÑO DE "
 "SANGRE!"
@@ -16060,7 +16060,7 @@ msgid ""
 "apologize for all the harm caused by Aerius's actions."
 msgstr ""
 "Entiendo vuestra ira. La decisión del Consejo Maestro de elegir a Aerius fue "
-"un fracaso. <i><span font-weight='bold'>Para sí mismo.</span> Pero también "
+"un fracaso. (Para sí mismo). <i>Pero también "
 "un éxito extraordinario...</i> No anticipamos cuán violentos serían sus... "
 "métodos de investigación. Me disculpo sinceramente por todo el daño causado "
 "por las acciones de Aerius."
@@ -17243,7 +17243,7 @@ msgid ""
 "Y-yes, exactly. <i>*to himself* good thing I didn't tell him how long the "
 "second civilization has been around...</i>"
 msgstr ""
-"Sí, sí, exacto. <i><span font-weight='bold'>Para sí mismo.</span> Lo bueno "
+"Sí, sí, exacto. (Para sí mismo). <i>Lo bueno "
 "es que no le dije cuánto tiempo hace que la segunda civilización existe...</"
 "i>"
 
@@ -17344,7 +17344,7 @@ msgid ""
 "<i>*to himself* I really hope The Keeper didn't tell him about the Eye of "
 "Darkness...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Más vale que el Guardián "
+"(Para sí mismo). <i>Más vale que el Guardián "
 "no le haya hablado del Ojo de la Oscuridad...</i>"
 
 #. [message]: speaker=Void
@@ -17356,7 +17356,7 @@ msgid ""
 msgstr ""
 "<i>Suspira.</i> A decir verdad, ¡ay!, el Cataclismo fue de hecho "
 "desencadenado por uno de los experimentos fallidos de nuestros ancestros.\n"
-"<i><span font-weight='bold'>Para sí mismo.</span> Necesito que alguien "
+"(Para sí mismo). <i>Necesito que alguien "
 "cambie el tema y rápido...</i>"
 
 #. [message]: speaker=mage2
@@ -18754,7 +18754,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2148
 msgid "<i>*to himself* Finally, someone 'ere with some manners...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Finalmente, alguien que "
+"(Para sí mismo). <i>Finalmente, alguien que "
 "conoce algo de modales...</i>"
 
 #. [message]: speaker=Historian
@@ -19244,7 +19244,7 @@ msgid ""
 msgstr ""
 "Bueno, el destino ciertamente puede actuar de manera extraña. Pero "
 "ciertamente valió la pena: podrías haber sido fácilmente otra persona común. "
-"<i><span font-weight='bold'>Para sí mismo.</span> Si no hubiera sido por mi "
+"(Para sí mismo). <i>Si no hubiera sido por mi "
 "interferencia...</i>\n"
 "¡Sin embargo, ahora eres una leyenda andante!"
 
@@ -19298,7 +19298,7 @@ msgid ""
 "something immediately, else the plan would be ruined...</i> (to Mehir) Look, "
 "you must go to the Abyss. Really."
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Eso fue... Un giro de "
+"(Para sí mismo). <i>Eso fue... Un giro de "
 "trama bastante súbito. Debo hacer algo ya; de lo contrario, el plan se "
 "arruinaría...\n"
 "<span font-weight='bold'>A Mejir.</span> Veréis, debéis ir al Abismo, en "
@@ -19357,7 +19357,7 @@ msgid ""
 "things are going to happen in the Abyss soon if you don't do something about "
 "it."
 msgstr ""
-"<i><span font-weight='bold'>Para sí mismo.</span> Esto es mucho más difícil "
+"(Para sí mismo). <i>Esto es mucho más difícil "
 "de lo que esperaba...\n"
 "<span font-weight='bold'>A Mejir.</span> Veréis, no planeaba contaros esto, "
 "pero me temo que pronto, eventos desastrosos sucederán en el Abismo si no "
