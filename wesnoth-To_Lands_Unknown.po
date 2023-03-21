@@ -1334,7 +1334,7 @@ msgstr ""
 "tiempo y la arena. No hay escasez de bienes, porque aquí se puede conseguir "
 "cualquier cosa.\n"
 "\n"
-"¿Cómo es esto posible?"
+"¿Cómo es eso posible?"
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:303
@@ -1351,6 +1351,7 @@ msgstr ""
 "conectados al Abismo, otro mundo lleno de energía, donde las limitaciones "
 "del espacio y el tiempo desaparecen. El uso de la magia y del Abismo "
 "transfiguraron completamente nuestra civilización.\n"
+"\n"
 "Ahora, regularmente usamos las energías abismales para resolver nuestras "
 "necesidades. Es por ello que nos hacemos llamar <i>“invocadores”</i>."
 
@@ -1371,6 +1372,7 @@ msgstr ""
 "Al principio, nuestros ancestros consideraron que el Abismo era un lugar de "
 "caos primigenio. Esa idea cambió cuando invocaron a la primera entidad mágica, "
 "un auténtico morador del otro mundo.\n"
+"\n"
 "Se trataba de Nómolas, el primer genio. Dotado de un ingenio sin restricciones, "
 "esta entidad es el ser más poderoso que conocemos hasta la fecha. "
 "Era como un dios, capaz de torcer las leyes de la naturaleza a voluntad, "
@@ -1398,15 +1400,15 @@ msgid ""
 msgstr ""
 "En teoría, no había deseo alguno que Nómolas no pudiera satisfacer. Para "
 "medir su potencial, los antiguos le pidieron que creara la más hermosa "
-"ciudad del mundo,y que la situara en medio del desierto, para convertirse en "
-"su nuevo hogar y la capital de su país. En breves instantes, las torres de "
-"Alcamiya surgieron desde las arenas.\n"
+"ciudad del mundo y que la situara en medio del desierto. Esta se convertiría "
+"en su nuevo hogar y la capital de la nación. En breves instantes, las torres "
+"de Alcamiya surgieron de entre las arenas.\n"
 "\n"
-"Desde entonces, han pasado varios siglos. Nómolas duerme en el Palacio "
+"Desde entonces, han pasado varios siglos. Ahora, Nómolas duerme en el Palacio "
 "Central, sin interferir con nuestras vidas. Solo lo despertamos cuando no "
 "tenemos otra elección. Aunque el poder de las entidades mágicas invocadas "
-"después de Nomalas palidecía comparado con el de este, aquel no puede ser "
-"subestimado y es absolutamente suficiente para atender nuestras necesidades."
+"después de Nómolas palidecía comparado con el de este, aquellas no pueden ser "
+"subestimadas y son plenamente suficientes para atender nuestras necesidades."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:320
@@ -1461,8 +1463,7 @@ msgstr ""
 "El círculo tendría un diámetro de 50 <i>marahil</i>, suficiente para abarcar "
 "la mayor parte del desierto. Para facilitar la construcción, alzamos tres "
 "ciudades equidistantes, denominadas Mag-Magar, Tar-Tabar y Sud-Affar. En sus "
-"líderes recae la responsabilidad de supervisar las labores de sus "
-"subordinados."
+"líderes recae la responsabilidad de supervisar las labores de construcción."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:340
@@ -3161,7 +3162,7 @@ msgstr ""
 "Un día más, y yo aquí, destinado a pasarlo de pie en un solo sitio, "
 "protegiendo una ciudad palacio cuyos atacantes existen únicamente en la "
 "imaginación. Estamos en medio del desierto, sin amenazas en millas a la "
-"redonda, y el único entretenimiento que me queda es comandar a estos tontos "
+"redonda, y el único entretenimiento que me queda es comandar a unos tontos "
 "y parar riñas en las tabernas."
 
 #. [message]: speaker=Mehir
@@ -3190,7 +3191,7 @@ msgid ""
 "and maybe get my enchanted glove fixed..."
 msgstr ""
 "De todos modos, probablemente sea buena idea comprar algunas cosas en el "
-"bazar, y tal vez reparar mi guante encantado..."
+"bazar y, tal vez, reparar mi guante encantado..."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1002
@@ -3218,7 +3219,7 @@ msgid ""
 msgstr ""
 "Este escenario no es de combate:\n"
 " -Los movimientos de Mejir son ilimitados.\n"
-" -No puedes saltar el turno."
+" -No puede saltar el turno."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1028
