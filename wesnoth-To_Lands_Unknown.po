@@ -1791,9 +1791,9 @@ msgid ""
 msgstr ""
 "Este escenario no es de combate:\n"
 "-Los movimientos de Mejir son ilimitados.\n"
-"-No puedes saltar el turno.\n"
-"-Interactúa con NPC con signos de exclamación amarillos al acercarte.\n"
-"-Rashti te seguirá automáticamente."
+"-No puede saltar el turno.\n"
+"-Acérquese a los PNJ con signos de exclamación amarillos para interactuar.\n"
+"-Rashti le seguirá automáticamente."
 
 #. [objectives]
 msgid ""
@@ -1805,25 +1805,25 @@ msgid ""
 msgstr ""
 "Este es un escenario que no es de combate:\n"
 "-Los movimientos de Mejir son ilimitados.\n"
-"-No puedes saltar el turno.\n"
-"-Interactúa con NPC con signos de exclamación amarillos al acercarte."
+"-No puede saltar el turno.\n"
+"-Acérquese a los PNJ con signos de exclamación amarillos para interactuar."
 
 #. [objectives]
 msgid "Unlike in most scenarios, running out turns counts as a victory."
 msgstr ""
-"A diferencia de la mayoría de escenarios, al fin de los turnos ganarás."
+"A diferencia de la mayoría de escenarios, ganará al final de los turnos."
 
 #. [objectives]
 msgid ""
 "You won't be able to recall Semir after this scenario, as he will remain in "
 "Tar-Tabar."
 msgstr ""
-"No podrás reincorporar a Semir después de este escenario, ya que permanecerá en "
+"No podrá reincorporar a Semir después de este escenario, ya que permanecerá en "
 "Tar-Tabar."
 
 #. [objectives]
 msgid "Your units cost no upkeep during this scenario."
-msgstr "Las unidades no costarán mantenimiento hasta el final del escenario."
+msgstr "Sus unidades no costarán mantenimiento hasta el final del escenario."
 
 #. [option]
 msgid " for later use (on recruit/recall of a unit)"
@@ -1840,7 +1840,7 @@ msgstr ""
 msgid ""
 "Buy the elemental anyway (costs 20 gold, carries over to the next scenarios)"
 msgstr ""
-"Compre el elemental de todos modos (cuesta 20 oro, se mantiene al final del escenario)."
+"Comprar el elemental de todos modos (cuesta 20 oro y puede ser reincorporado)."
 
 #. [option]
 msgid "Check the merchant's license."
@@ -1893,7 +1893,7 @@ msgstr "Aquella Vez Que Reencarné Como Un Mu"
 
 #. [option]
 msgid "Use a trick"
-msgstr "Use una artimaña"
+msgstr "Usar una artimaña"
 
 #. [option]
 msgid "Yes"
@@ -1960,7 +1960,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "ring^Take it"
-msgstr "Tómalo"
+msgstr "Tomarlo"
 
 #. [option]
 msgid "spear^Leave it for another unit"
@@ -1969,7 +1969,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "spear^Take it"
-msgstr "Tómala"
+msgstr "Tomarla"
 
 #. [option]
 msgid "sphere^Leave it for another unit"
@@ -1977,7 +1977,7 @@ msgstr "Saltar"
 
 #. [option]
 msgid "sphere^Take it"
-msgstr "Tómala"
+msgstr "Tomarla"
 
 #. [option]
 msgid "staff^Leave it for another unit"
@@ -1986,7 +1986,7 @@ msgstr "Saltar"
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 msgid "staff^Take it"
-msgstr "Tómalo"
+msgstr "Tomarlo"
 
 #. [part]
 msgid ""
@@ -1997,8 +1997,8 @@ msgid ""
 "division to follow him, as he knew them quite well. Initially, things went "
 "smoothly, but not for too long..."
 msgstr ""
-"Unas semanas después de ser promovido, Mejir fue enviado por Sharif con "
-"el encargo de vigilar la construcción en los territorios al este de Sud-"
+"Unas semanas después de ser promovido, Mejir fue asignado por Sharif a "
+"la tarea de vigilar la construcción en los territorios al este de Sud-"
 "Affar y al sur de Mag-Magar. Finalmente pasó a tener una labor más interesante, "
 "con mejores tropas a su disposición. También convenció de seguirlo a algunos de "
 "sus subordinados de la guardia de la ciudad, ya que los conocía muy bien. "
@@ -2013,16 +2013,13 @@ msgid ""
 "use the abyssal energies for our needs on a daily basis, which is the very "
 "reason we're called Summoners."
 msgstr ""
-"En un tiempo muy lejano, cuando nuestros antepasados vivían en los aledaños "
-"del desierto, hicieron un descubrimiento sumamente poderoso - la magia. "
-"Oculta en forma de símbolos y patrones, la magia controlaba nuestro "
-"destino.\n"
-"Mucho tiempo atrás, nuestros ancestros realizaron un descubrimiento revolucionaro —"
-"la magia, manifestada por fórmulas y símbolos enlazados al Averno, otro mundo lleno "
-"de energía, donde las limitaciones del espacio y el tiempo desaparecen. El"
-"uso de la magia y del Averno transfiguraron completamente nuestra civilización. "
-"Regularmente usamos las energías avernales para resolver nuestras necesidades. "
-"Es por ello que nos hacemos llamar <i>Invocadores</i>."
+"En un tiempo muy remoto, nuestros ancestros hicieron un descubrimiento "
+"revolucionario —la magia. Se manifestaba a partir de fórmulas y símbolos, "
+"conectados al Averno, otro mundo lleno de energía, donde las limitaciones del "
+"espacio y el tiempo desaparecen. El uso de la magia y del Averno transfiguraron "
+"completamente nuestra civilización. Regularmente usamos las energías avernales "
+"para resolver nuestras necesidades. Es por ello que nos hacemos llamar "
+"<i>Invocadores</i>."
 
 #. [part]
 msgid ""
@@ -2083,7 +2080,7 @@ msgid ""
 "Circle on Darkblooded territory."
 msgstr ""
 "Luego de su victoria, Mehir volvió a la jungla. En la frontera, el Guardián "
-"se reunió personalmente con él. Yafar recobró su libertad. En cuanto a la obra, "
+"se reunió personalmente con él, y Yafar recobró su libertad. En cuanto a la obra, "
 "a los invocadores se les autorizó empezar la construcción del Gran Círculo "
 "en el territorio sangreoscura."
 
@@ -2101,7 +2098,7 @@ msgid ""
 "in hopes that the city was still standing..."
 msgstr ""
 "Tras recuperar Degos, Mejir, Dedylos y sus tropas partieron a Caros, "
-"con la esperanza de que la ciudad aún permaneciera."
+"con la esperanza de que la ciudad aún permaneciera..."
 
 #. [part]
 msgid ""
