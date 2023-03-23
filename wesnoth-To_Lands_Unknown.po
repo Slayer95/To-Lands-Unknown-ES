@@ -411,7 +411,7 @@ msgstr ""
 #. [option]
 #: To_Lands_Unknown\macros\items.cfg:58
 msgid " for later use (on recruit/recall of a unit)"
-msgstr " para uso posterior (al reclutar o reincorporar una unidad)."
+msgstr " para uso posterior (al reclutar o reincorporar una unidad)"
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\macros\items.cfg:103
@@ -562,7 +562,7 @@ msgstr ""
 #: To_Lands_Unknown\macros\items.cfg:577
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1366
 msgid "spear of rhami"
-msgstr "primera lanza"
+msgstr "lanza del origen"
 
 #. [value]: id=spearrhami
 #: To_Lands_Unknown\macros\items.cfg:578
@@ -745,8 +745,8 @@ msgid ""
 "- increases magical resistances by 10%"
 msgstr ""
 "- Promociona la unidad (a menos que ya esté en nivel máximo).\n"
-"- El ataque de destierro nunca falla\n"
-"- El ataque de portal congelado gana +2 de daño.\n"
+"- El ataque “destierro” nunca falla.\n"
+"- El ataque “portal congelado” gana +2 de daño.\n"
 "- Aumenta las resistencias mágicas en 10%."
 
 #. [value]: id=staffbanisher
@@ -1490,7 +1490,7 @@ msgid ""
 msgstr ""
 "La aparición del invasor aéreo sorprendió al Alto Consejo. Paranoicos por "
 "una inminente invasión, incrementaron significativamente el gasto militar y "
-"entrenaron nuevos reclutas tan pronto como podían permitírselo. Pero "
+"entrenaron nuevos reclutas tan pronto como podían permitírselo. Pero, "
 "volvamos a la historia de Mejir..."
 
 #. [part]
@@ -1557,7 +1557,7 @@ msgid ""
 "summoners were granted permission to continue the construction of the Great "
 "Circle on Darkblooded territory."
 msgstr ""
-"Luego de su victoria, Mehir volvió a la jungla. En la frontera, el Guardián "
+"Luego de su victoria, Mejir volvió a la jungla. En la frontera, el Guardián "
 "se reunió personalmente con él, y Yafar recobró su libertad. En cuanto a la "
 "obra, a los invocadores se les autorizó empezar la construcción del Gran "
 "Círculo en el territorio sangreoscura."
@@ -1569,7 +1569,7 @@ msgid ""
 "experience, Sharif promoted him by multiple ranks. The dream of a young city "
 "guard came true..."
 msgstr ""
-"Debido a que el logro de Mejir fue más que excepcional con su falta de "
+"Debido a que el logro de Mejir fue más que excepcional para su nula "
 "experiencia, Sharif lo promovió en múltiples rangos. Así, el sueño de un "
 "joven guardia de la ciudad se hizo realidad..."
 
@@ -1591,8 +1591,8 @@ msgstr ""
 "Mientras tanto, Mejir mejoraba sus habilidades tomando lecciones de "
 "invocadores veteranos.\n"
 "\n"
-"Pero solo era una breve calma antes de la tormenta. Mejir fue convocado a "
-"Alcamiya de urgencia."
+"Pero solo era una breve calma antes de la tormenta. Un día, Mejir fue "
+"convocado a Alcamiya de urgencia."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:464
@@ -1605,9 +1605,9 @@ msgid ""
 msgstr ""
 "Allí, el Alto Consejo se había reunido para una reunión secreta. Llegó a los "
 "oídos de Mejir que Tashkar, la cabeza de Tar-Tabar, había desaparecido luego "
-"de partir, acompañado de algunos de sus soldados, a Ka-Gatta con fines "
+"de partir a Ka-Gatta, acompañado de algunos de sus soldados, con fines "
 "confidenciales. Mejir, para su sorpresa, fue elegido para encontrar y, de "
-"ser necesario, rescatar allíder y a sus tropas."
+"ser necesario, rescatar al líder y a sus tropas."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:467
@@ -1618,7 +1618,7 @@ msgid ""
 "the sands. They were cool and spacious, so the ancestors decided to stay."
 msgstr ""
 "Ka-Gatta es un sitio arcaico, que data de casi 1000 años atrás. Nuestros "
-"ancestros vivían aquí antes de que fuera creada Alcamiya. En los primeros "
+"ancestros vivían allí antes de que fuera creada Alcamiya. En los primeros "
 "tiempos, mientras vivían nomádas el desierto, los fundadores dieron con un "
 "complejo de cuevas ocultas en las profundidades. Eran lo bastante frescas y "
 "espaciosas, así que nuestros antecesores decidieron quedarse."
@@ -1649,7 +1649,7 @@ msgid ""
 "power, protected by ancient guardians. There were a few who dared to try "
 "confirm that, but none returned..."
 msgstr ""
-"Luego de la creación de Alcamiya, Ka-Gatta se convirtió en las catacumbas, y "
+"Luego de la creación de Alcamiya, Ka-Gatta devino en catacumbas, y "
 "albergó por más de 400 años las tumbas de los primeros invocadores. Ahora "
 "circulan leyendas sobre mausoleos antiguos, repletos de artefactos olvidados "
 "con un poder inmenso y protegidos por antiguos guardianes. Algunos se "
@@ -3922,9 +3922,10 @@ msgid ""
 msgstr ""
 "(Para sí mismo). <i>¿Qué clase de invocador es él? Y esos secuaces "
 "armados claramente no son seres abismales... ¿Podría ser que ni siquiera "
-"sea ciudadano de nuestra nación? Esto es definitivamente una invasión... "
-"¡Bendito Nomolas! Ya sólo espero no liarlas...</i> (Suspiro). <i>Qué mala "
-"pata...</i>"
+"sea ciudadano de nuestra nación?\n"
+"\n"
+"Entonces, esto es definitivamente una invasión, ¡bendito Nomolas!... "
+"Ya sólo espero no liarlas</i> (Suspiro). <i>¡Qué mala pata!</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:741
@@ -3953,8 +3954,8 @@ msgid ""
 "our duty to protect the palace at all costs, no matter what unknown threat "
 "we face!"
 msgstr ""
-"¡Todos, preparaos! Es posible que no vivamos para ver el día siguiente, pero "
-"es nuestro deber proteger el palacio a toda costa, ¡sin importar a qué "
+"¡Todos, preparaos! Es posible que no vivamos para ver el próximo amanecer, "
+"pero es nuestro deber proteger el palacio a toda costa, ¡sin importar a qué "
 "amenaza desconocida nos enfrentemos!"
 
 #. [message]: speaker=Safay
@@ -3969,7 +3970,7 @@ msgid ""
 "reinforcements, and hurry up!"
 msgstr ""
 "Dado que aquí sois el único que trae una alfombra al trabajo, ¡volad y "
-"conseguidnos refuerzos. Y daos prisa!"
+"conseguidnos refuerzos! ¡Y daos prisa!"
 
 #. [message]: speaker=Safay
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:769
@@ -3979,7 +3980,7 @@ msgstr "¡Sí, señor!"
 #. [message]: speaker=backup1
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:838
 msgid "Middle Tier Squad reporting for duty!"
-msgstr "¡Escuadra de los niveles intermedios a su servicio!"
+msgstr "¡Escuadra de los niveles intermedios a vuestro servicio!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:843
@@ -4010,7 +4011,7 @@ msgid ""
 "Middle Tier, East Side Squad reporting for duty! We took carpets and flew as "
 "fast as we could."
 msgstr ""
-"¡Escuadra este de los niveles intermedios a su servicio! Hemos usado "
+"¡Escuadra este de los niveles intermedios a vuestro servicio! Hemos usado "
 "alfombras para llegar lo más pronto posible."
 
 #. [message]: speaker=Mehir
@@ -4034,7 +4035,7 @@ msgid ""
 "The strange blue constructs have broken down! This is our chance! Everyone, "
 "after the flying human! Do not let him escape!"
 msgstr ""
-"¡Los constructos azules extraños ya no funcionan! ¡Es nuestra oportunidad! "
+"¡Los extraños constructos azules ya no funcionan! ¡Es nuestra oportunidad! "
 "¡Todos, perseguid al humano volador! ¡No dejéis que escape!"
 
 #. [message]: speaker=Mehir
@@ -4110,7 +4111,7 @@ msgid ""
 "We cannot let that man inside the palace! Mehir, you need to get inside and "
 "catch him, fast!"
 msgstr ""
-"¡No podemos permitirle que esté a sus anchas en el palacio! Mejir, debes "
+"¡No podemos permitirle que esté a sus anchas en el palacio! Mejir, debéis "
 "entrar y atraparlo. ¡Rápido!"
 
 #. [message]: speaker=Mehir
@@ -4140,7 +4141,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:1191
 msgid "...open Sezam..."
-msgstr "<i>Ábrete sésamo...</i>"
+msgstr "<i>Ábrete, sésamo...</i>"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:1231
@@ -4257,7 +4258,7 @@ msgstr ""
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:208
 msgid "Just who the hell are you?"
-msgstr "¿Quién diablos eres?"
+msgstr "¿Quién diablos sois?"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:212
@@ -4281,7 +4282,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:220
 msgid "You wouldn't mind if I take a closer look, would you? *smirks*"
 msgstr ""
-"No os importaría si le echara un vistazo más de cerca, ¿verdad? <i>Sonríe</i>"
+"No os importaría si le echara un vistazo más de cerca, ¿verdad? <i>Sonríe.</i>"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:224
@@ -4336,7 +4337,7 @@ msgid ""
 "Luckily, he’s gone. Mehir, as the one patrolling this area since dawn, tell "
 "me what happened here."
 msgstr ""
-"Afortunadamente, se ha ido. Mejir, habéis estado patrullando esteaárea desde "
+"Afortunadamente, se ha ido. Mejir, habéis estado patrullando esta área desde "
 "el alba. Decidme qué es lo que realmente pasó."
 
 #. [message]: speaker=Mehir
@@ -4359,10 +4360,10 @@ msgid ""
 "statues and flying magical eyes started coming from, alongside spear-"
 "wielding midgets."
 msgstr ""
-"Tan pronto se detuvo, aparecieron esferas azules misteriosas a su alrededor. "
-"Pareciera que esas esferas eran funcionalmente portales, de donde comenzaron "
-"a salir extrañas estatuas animadas y ojos mágicos voladores, junto a unos "
-"enanos con lanzas."
+"Tan pronto se detuvo, aparecieron misteriosas esferas azules a su alrededor. "
+"Pareciera que esas esferas funcionaban como portales, y de allí comenzaron "
+"a salir extrañas estatuas animadas y ojos voladores mágicos, junto a unos "
+"duendes con lanzas."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:307
@@ -4378,8 +4379,8 @@ msgstr ""
 "hombres eran incompetentes, mi deber como guardia de la ciudad era defender "
 "el palacio, incluso a costa de mi vida. Lúgubremente determinado, ataqué y "
 "rompí esos constructos mágicos en pedazos uno tras otro. Al presenciar mi "
-"poderío, el atrevido intruso escapó hacia la entrada del palacio y ehhh... "
-"Bueno, estuvisteis allí para entonces, señor, sabéis lo que sucedió después."
+"poderío, el avezado intruso escapó hacia la entrada del palacio y ehhh... "
+"Cierto... Entonces llegásteis, señor. Sabéis lo que sucedió después."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:311
@@ -4392,9 +4393,9 @@ msgid ""
 "urgently reform the city guard by enlisting experienced summoners into it, "
 "given today's incident."
 msgstr ""
-"Ciertamente eres bastante capaz, lo tendré en cuenta. Mmmm. La situación es "
+"Sin duda, eres bastante capaz, lo tendré en cuenta. Mmmm. La situación es "
 "preocupante. La última vez que tuvimos una guerra real fue hace varios "
-"siglos, contra el Culto Rojo. Este humano ciertamente no es un rebelde, sino "
+"siglos, contra el Culto Rojo. Sin duda, este humano no es un rebelde, sino "
 "un agente de un poder extranjero desconocido. Con este incidente, debo "
 "convocar al Alto Consejo lo antes posible, tanto para informarles de la "
 "amenaza como para reformar la guardia de la ciudad y alistar invocadores "
@@ -4461,7 +4462,7 @@ msgstr ""
 #. [message]: speaker=Sharif
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:412
 msgid "Good idea. Tell me your name, young man."
-msgstr "Umm, ¡Una gran idea! Decidme vuestro nombre, joven."
+msgstr "Mmm, ¡Una gran idea! Decidme vuestro nombre, joven."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:416
@@ -4551,7 +4552,7 @@ msgstr ""
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:175
 msgid "You see, there's a slight obstacle for the construction ahead."
-msgstr "Verá, hay un ligero obstáculo para la construcción que se avecina."
+msgstr "Veréis, hay un ligero obstáculo para la construcción que se avecina."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:179
@@ -4741,12 +4742,12 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:514
 msgid "Ah, yes, well... Welcome, we come in peace."
 msgstr ""
-"Ah, sí, bien... <i>A las lagartijas.</i> Bienvenidos, venimos en son de paz."
+"Ah, sí, vale... <i>A las lagartijas.</i> Bienvenidos, venimos en son de paz."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:518
 msgid "(whispers)...though everything will go up in smoke soon..."
-msgstr "<i>Susurra.</i> Aunque todo se hará humo muy pronto..."
+msgstr "(Susurra). <i>Aunque todo se hará humo muy pronto...</i>"
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:522
@@ -4779,7 +4780,7 @@ msgid ""
 "How should I show them the Abyss and fried lizards, I wonder? Never mind, "
 "I’ll try. Maybe we can avoid bloodshed..."
 msgstr ""
-"Me pregunto como podría mostrarles el Abismo y lagartijas fritas, ¿eh?. Da "
+"Me pregunto cómo podría mostrarles el Abismo y lagartijas fritas, ¿eh? Da "
 "igual, lo intentaré. Quizás podamos evitar el derramamiento de sangre..."
 
 #. [message]: speaker=narrator
@@ -4924,7 +4925,7 @@ msgid ""
 "might actually make it out of here in one piece!"
 msgstr ""
 "No, esperad. Aún quedan algunos de ellos. ¡Todos, seguid luchando y pronto "
-"podreamos salir de aquí en una sola pieza!"
+"podremos salir de aquí en una sola pieza!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:966
@@ -4960,7 +4961,7 @@ msgid ""
 "Send someone to the city for machetes and saws. We can forget about fire "
 "elementals for the time being."
 msgstr ""
-"¡Enviad alguien a la ciudad a por machetes y sierras. Por el momento, "
+"¡Enviad alguien a la ciudad a por machetes y sierras! Por el momento, "
 "olvidémonos de los elementales de fuego."
 
 #. [message]: speaker=Mehir
@@ -4971,7 +4972,7 @@ msgstr "Eh... ¿Hola? ¿Quién sois?"
 #. [message]: speaker=messenger
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:9
 msgid "Ssstranger, Rhaxizzzz hassss ssssent me to thank you for your aid."
-msgstr "Forassstero, Rhaxiz me ha enviado para agradecer tu ayuda."
+msgstr "Forasstero, Rhaxizz me ha enviado para agradecer tu ayuda."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:13
@@ -4989,8 +4990,8 @@ msgid ""
 "There iss no time for exssplanationss. Rhaxiz ordered me to find a way to "
 "sssupport you, so I ssstole this chest from your master's tent."
 msgstr ""
-"No hay tiempo para explicacionesss. Rhaxiz me ordenó que encontrara la forma "
-"de ayudarte, asssí que robé essste cofre de la tienda de tu comandante."
+"No hay tiempo para explicacioness. Rhaxiz me ordenó que encontrara la forma "
+"de ayudarte, assí que robé esste cofre de la tienda de tu comandante."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:30
@@ -5003,7 +5004,7 @@ msgid ""
 "Hisss power is inssside. I am sure you will ussse it in a better way than he "
 "doesss. Take it."
 msgstr ""
-"Sssu poder essstá dentro. Ssseguro que tú harásss mejor ussso de él. Tómalo."
+"Ssu poder esstá dentro. Sseguro que tú haráss mejor usso de él. Tómalo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:40
@@ -5020,8 +5021,8 @@ msgid ""
 "On top of that, I found thessse two demonsss' cansss. I'm sssure they can "
 "prove ussseful to you."
 msgstr ""
-"Essso no esss todo. También encontré essstasss dosss vasijasss demoníacasss. "
-"Ssseguro que te ssservirán."
+"Esso no ess todo. También encontré esstass doss vasijass demoníacass. "
+"Sseguro que te sservirán."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:48
@@ -5039,10 +5040,10 @@ msgid ""
 "reinforcements coming from the northwessst. They should arrrrive sssoon, so "
 "better sstay alert."
 msgstr ""
-"Sssin embargo, también traigo malasss noticiasss: nuessstrosss "
-"exploradoresss han visssto venir refuerzosss enemigosss volando desde el "
-"noroessste. Ellosss llegarán pronto, así que tendremosss que essstar "
-"alertasss."
+"Ssin embargo, también traigo malass noticiass: nuesstross "
+"exploradoress han vissto venir refuerzoss enemigoss volando desde el "
+"noroesste. Elloss llegarán pronto, así que tendremoss que esstar "
+"alertass."
 
 #. [message]: speaker=messenger
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:56
@@ -5050,8 +5051,8 @@ msgid ""
 "I mussst return to Rhaxiz. Take care, and know that we're grateful for what "
 "you're doing."
 msgstr ""
-"Debo regressar con Rhaxiz. Cuídate, por cuanto estamos agradecidos por lo "
-"que estás haciendo."
+"Debo regressar con Rhaxiz. Cuídate, por cuanto esstamos agradecidos por lo "
+"que esstáss haciendo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:60
@@ -5219,7 +5220,7 @@ msgstr "Ejército de Sud-Affar"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:579
 msgid "This place seems quiet, suspiciously quiet..."
-msgstr "Este lugar parece tranquilo, sospechosamente tranquilo..."
+msgstr "Este lugar parece estar tranquilo, sospechosamente tranquilo..."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:583
@@ -5228,7 +5229,7 @@ msgid ""
 "this jungle for a week, and there's not been a trace of them!"
 msgstr ""
 "Ciertamente. Aquellas bestias debieran habernos comido hace mucho tiempo. Ya "
-"hemos pasado una semana esta jungla y no hay rastro suyo."
+"hemos pasado una semana en esta jungla y no hay rastro suyo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:587
@@ -5456,7 +5457,7 @@ msgstr "Lucharé empleando mis propios hombres. Deseadme suerte, Yafar."
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:782
 msgid "You'll certainly need a lot of it to make this absurd plan work..."
-msgstr "Ciertamente, necesitaréis mucho para que este plan absurdo funcione..."
+msgstr "Sin duda, necesitaréis mucho para que ese plan absurdo funcione..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:794
@@ -5629,8 +5630,8 @@ msgid ""
 "Damn you, lizard-loving bastards!!! You may have won today, but mark my "
 "words, the horde will avenge my death!!!"
 msgstr ""
-"¡Maldita sea, bastardos amantes de la lagartija! Puede que hayas ganado hoy, "
-"pero marca mis palabras, ¡la horda vengará mi muerte!"
+"¡Maldita sea, bastardos amantes de las lagartijas! Puede que hayas ganado hoy, "
+"pero escucha mis palabras, ¡la horda vengará mi muerte!"
 
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1259
@@ -5858,22 +5859,22 @@ msgid ""
 "(bows) <i>*in the saurian language* I have brought the humansss, as you "
 "requesssted, o mighty Keeper.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Hace una venia y habla en saurio.</span> He "
-"traído a los humanosss, como usssted sssolicitó, oh, poderossso Guardián.</i>"
+"(Hace una venia y habla en saurio). <i>He "
+"traído a los humanoss, como ussted ssolicitó, oh, poderosso Guardián.</i>"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:270
 msgid ""
 "<i>*in the saurian language* Very well, my aprentisss. You may leave.</i>"
 msgstr ""
-"<i><span font-weight='bold'>En el idioma saurio.</span> Muy bien, mi "
-"aprendiz. Puedes irte.</i>"
+"(En el idioma saurio). <i>Muy bien, mi "
+"aprendizz. Puedess irte.</i>"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:281
 msgid "Sssso you are, indeed, the devilsss from the desssert. *spits*"
 msgstr ""
-"Asssí que realmente ssson losss demoniosss del desssierto. <i>Escupe.</i>"
+"Assí que realmente sson loss demonioss del dessierto. <i>Escupe.</i>"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:286
@@ -5881,9 +5882,9 @@ msgid ""
 "Greetingsss, sssons of the desssert. I mussst admit, we are exsstremely "
 "grateful for your asssistance against those tree-cutting brutesss."
 msgstr ""
-"Saludos, hijosss del desssierto. Debo admitirlo: essstamosss muy "
-"agradecidosss con ssssu ayuda contra lossss brutosss que cortan "
-"losssárbolesss."
+"Ssaludoss, hijoss del dessierto. Debo admitirlo: esstamoss muy "
+"agradecidoss con ssu ayuda contra loss brutoss que cortan "
+"loss árboless."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:291
@@ -5897,8 +5898,8 @@ msgid ""
 "them. Your people not only sssssslain our loyal guardianssss near the "
 "Jungle'sss border..."
 msgstr ""
-"Esss bueno conocer el lenguaje de losss enemigosss; y cuentan entre ellosss. "
-"Ustedes no sssolo asssesssinaron a nuesssstrosss lealesss guardianessss  en "
+"Ess bueno conocer el lenguaje de loss enemigoss; y ustedes cuentan entre "
+"elloss. No ssolo assessinaron a nuesstross lealess guardianess en "
 "la frontera..."
 
 #. [message]: speaker=Keeper
@@ -5913,9 +5914,9 @@ msgid ""
 "was perssssonally responsible for thisss dessspicable deed, thusss I'm "
 "uncertain which of you to punish..."
 msgstr ""
-"Desssafortunadamente, aún no sssabemos cuál esss la abominación sssin alma "
-"en cuerpo humano persssonalmente resssponsssable de essse acto "
-"dessspreciable, asssí que no essstoy ssseguro a quién ajusssticiar..."
+"Dessafortunadamente, aún no ssabemos cuál ess la abominación con cuerpo "
+"humano pero ssin alma que ess perssonalmente ressponssable de esse acto "
+"desspreciable, assí que no esstoy sseguro a quién ajussticiar..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:312
@@ -5925,7 +5926,7 @@ msgstr "<i>Suspira aliviado.</i>"
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:316
 msgid "...ssso we we will kill you both, jussst to be sure."
-msgstr "Así que losss matamosss a los dosss y nosss assseguramosss."
+msgstr "Así que loss mataremoss a los doss, así noss asseguramoss."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:321
@@ -5961,8 +5962,8 @@ msgid ""
 "ENOUGH! We will do to you the sssame thing you did to them. Any lassst wish, "
 "degeneratesss?"
 msgstr ""
-"¡SUFICIENTE! Haremosss con ussstedesss lo misssmo que hicieron con ellosss. "
-"¿Algún último dessseo, degeneradosss?"
+"¡SUFICIENTE! Haremoss con usstedess lo missmo que hicieron con elloss. "
+"¿Algún último desseo, degeneradoss?"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:342
@@ -5987,8 +5988,8 @@ msgid ""
 "ancient waysss of conversssation... That wasss... ummm... unexxpected. Fine, "
 "you may try it. I will sssmoke it with you. *hands the pipe*"
 msgstr ""
-"¿Como esssta? <i>La extrae de su bolsillo.</i> Mmmm. Asssí que conocesss "
-"nuestrasss cossstumbresss antiguasss.... Inesssperado. Bien, puedessss "
+"¿Como essta? <i>La extrae de ssu bolssillo.</i> Mmmm. Assí que conocess "
+"nuestrass cosstumbress antiguass.... Inessperado. Bien, puedess "
 "intentarlo. Fumaré contigo. <i>Entrega la pipa.</i>"
 
 #. [message]: speaker=Jaffar
@@ -6027,8 +6028,8 @@ msgid ""
 "Hmmmm... You certainly make quite the court jessster. Not bad, not bad at "
 "all. I don't think I'll cook you quite yet... "
 msgstr ""
-"Mmmmm... Ciertamente eresss un buen bromisssta cortesssano. No essstá mal, "
-"no essstá nada mal. No creo que te vaya a cocinar todavía..."
+"Mmmmm... Sin duda eress un gran bufón cortessano. No esstá mal, "
+"no esstá nada mal. No creo que te vaya a cocinar todavía..."
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:380
@@ -6042,10 +6043,10 @@ msgid ""
 "They adopted a crude version of yoursss as their own, to help unify their "
 "ssscattered racesss and tribesss, who each had their own disssstinct dialect."
 msgstr ""
-"Esss bueno conocer el lenguaje de losss enemigosss; los bárbarosss, no tú. "
-"Ellosss adoptaron una versssión cruda del tuyo como propia, para unificar "
-"sssusss razassss y tribusss dispersssasss; antesss cada una tenía sssu "
-"propio dialecto."
+"Ess bueno conocer el lenguaje de loss enemigoss; quiero decir, los "
+"bárbaross, no tú. Elloss adoptaron una verssión cruda del tuyo como "
+"propia, para unificar ssuss razass y tribuss disperssass. Antess "
+"de esso, cada una tenía ssu propio dialecto."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:391
@@ -6053,8 +6054,8 @@ msgid ""
 "But we know nothing about them, nor do they know anything about us. We've "
 "just discovered both of your species!"
 msgstr ""
-"Pero no sabemos nada de ellos. Ni ellos de nosotros. ¡Acabamos de descubrir "
-"ambas especies!"
+"Pero no sabemos nada de ellos, ni ellos de nosotros. ¡Acabamos de descubrir "
+"a vuestras dos especies!"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:395
@@ -6066,13 +6067,13 @@ msgid ""
 "what I know, the cyclopes adopted the human language as their own, and their "
 "dessscendantsss ssspread the language among the barbariansss."
 msgstr ""
-"Tu essspecie tiene raícesss mucho, mucho másss profundasss que lo que te "
-"imaginasss. Tuvimosss la amargura de ser invadidosss por ellos hace mucho "
-"tiempo, cuando nos robaron un poderossso artefacto mágico. En aquel tiempo "
-"los cíclopessss eran un imperio vasssto y poderossso en vez de los brutos "
-"tontosss que conocesss. Entiendo que los cíclopesss adoptaron el lenguaje "
-"humano como sssuyo y sssusss dessscendientesss propagaron el lenguaje entre "
-"losss bárbarosss."
+"Tu esspecie tiene raícess mucho, mucho máss profundass que lo que te "
+"imaginass. Antaño, tuvimoss la amargura de ser invadidoss por ellos, "
+"entonces nos robaron un poderosso artefacto mágico. En aquel tiempo, "
+"los cíclopess eran un imperio vassto y poderosso en vezz de los brutoss "
+"tontoss que conocess. Entiendo que los cíclopess adoptaron el lenguaje "
+"humano como ssuyo y ssuss desscendientess propagaron el lenguaje entre "
+"loss bárbaross."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:399
@@ -6088,10 +6089,10 @@ msgid ""
 "their kind and turning the onccce green north into the barren dessert you "
 "now inhabit."
 msgstr ""
-"Según la leyenda, ssssu hibrissss trajo su némesssisss. Sssu intento de "
-"usssar el artefacto robado falló catassstróficamente, matando a casssi toda "
-"sssu esssspecie y convirtiendo el antaño verde norte en el essstéril "
-"dessssierto que ahora habitan."
+"Según la leyenda, ssu hibriss trajo su némessiss. Ssu intento de "
+"ussar el artefacto robado falló catasstróficamente, matando a cassi toda "
+"ssu esspecie y convirtiendo el antaño verde norte en el esstéril "
+"dessierto que ahora habitan."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:407
@@ -6111,11 +6112,11 @@ msgid ""
 "we ssspeak, your men are murdering them by the hundreds to make room for the "
 "conssstruction of the devil's path! You mussst ssstop it!"
 msgstr ""
-"Aunque hasss sssalvado a Rhaxiz, todavía no confiamosss en ti. Tu tipo "
-"parece de la misma madera que tusss ancessstrosss ladronesss y, al igual que "
-"losss bárbarosss, tu tipo no tiene reparosss en matar árbolesss inocentesss. "
-"¡Mientrasss hablamosss, tusss hombresss los asssesssinan por cientosss para "
-"la construcción del sendero del diablo! ¡Debesss detenerla!"
+"Aunque hass ssalvado a Rhaxiz, todavía no confiamoss en ti. Tu tipo "
+"parece de la misma calaña que tuss ancesstross ladroness y, al igual que "
+"loss bárbaross, tu tipo no tiene repaross en matar árboless inocentess. "
+"¡Mientrass hablamoss, tuss hombress los assessinan por cientoss para "
+"la construcción del sendero del diablo! ¡Debess detenerla!"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:416
@@ -6125,8 +6126,8 @@ msgid ""
 "full of them!"
 msgstr ""
 "Pero, pero... ¡La construcción del círculo es crucial para nosotros! Además, "
-"¿a quién le importan dos o tres árboles talados? ¡Tienes toda una "
-"junglallena de ellos!"
+"¿a quién le importan dos o tres árboles talados? ¡Tenéis toda una "
+"jungla llena de ellos!"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:420
@@ -6139,13 +6140,13 @@ msgid ""
 "down ssso many treesss without planting a sssingle new one isss an "
 "intolerable insssult to the whole Jungle!"
 msgstr ""
-"<i>Sisea.</i> Mantén esssosss labios blasssfemosss juntosss, pobre tonto! La "
-"jungla de la vida esss sssagrada. Losss árbolesss nosss protegen del sssol "
-"abrasssador, nosss da frutassss para comer, ssssu aire húmedo protege "
-"nuessstra piel, y nossss da saposss y guivernosss para domar. Esss nuessstro "
-"deber sssagrado pagar sssu bondad protegiéndola con nuesssstras vidassss. "
-"Tantosss árbolessss cortadosss sssin plantar sssiquiera uno nuevo. "
-"Inadmisssible. Un insssulto a toda la jungla!"
+"<i>Sisea.</i> Mantén essoss labios blassfemoss juntoss, pobre tonto! La "
+"jungla de la vida ess ssagrada. Loss árboless noss protegen del ssol "
+"abrassador, noss da frutass para comer, ssu aire húmedo protege "
+"nuesstra piel, y noss da saposs y guivernoss para domar. Ess nuesstro "
+"deber ssagrado pagar ssu bondad protegiéndola con nuesstras vidass. "
+"Tantoss árboless cortadoss ssin plantar ssiquiera uno nuevo. "
+"Inadmissible. Un inssulto a toda la jungla!"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:424
@@ -6154,9 +6155,9 @@ msgid ""
 "the Jungle's heart. It has its sssecrets, very dark sssecrets that no being "
 "should dare learn."
 msgstr ""
-"Además, no podemosss permitir miradasss indissscretasss de extrañosss cerca "
-"del corazón de la jungla. Tiene sssusss sssecretos; muy osssscurosss "
-"sssecretosssque nadie debe atreverssse a aprender."
+"Ademáss, no podemoss permitir miradass indisscretass de extrañoss "
+"cerca del corazón de la jungla. Tiene ssuss ssecretos; muy osscuross "
+"ssecretoss que nadie debe atreversse a aprender."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:428
@@ -6180,13 +6181,13 @@ msgid ""
 "you to dessstroy one of the barbarian fortresssesss in the Fire Canyon, "
 "which is dangerousssly clossse to the temple."
 msgstr ""
-"Mmmm. Tal vez sssí. Como pueden ver, por sssiglos, nosssotrosss –los "
-"“sangreoscuras”– hemosss essstado defendiéndonosss de lasss hordassss "
-"bárbarasss de Wastelandsss. Desssafortunadamente, no podemosss dividirnosss "
-"para hacer un contraataque, pues todasss nuessstrasss fuerzasss essstán "
-"ocupadasss en defender lasss fronterasss de la jungla. Necesssitamosss que "
-"dessstruyasss una de lasss fortalezasss bárbarasss en el Cañón del Fuego, "
-"que essstá muy cerca y amenaza el templo."
+"Mmmm. Tal vezz ssí. Como pueden ver, por ssigloss, nossotross –los "
+"“ssangreoscurass”– hemoss esstado defendiéndonoss de lass hordass "
+"bárbarass de loss Yermoss. Dessafortunadamente, no podemoss dividirnoss "
+"para hacer un contraataque, pues todass nuesstrass fuerzass esstán "
+"ocupadass en defender lass fronterass de la jungla. Necessitamoss que "
+"desstruyass una de lass fortalezass bárbarass en el Cañón del Fuego, "
+"que esstá muy cerca y amenaza el templo."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:437
@@ -6206,10 +6207,10 @@ msgid ""
 "their ability to endure torture. And remember, you are in <b>our</b> domain, "
 "and at <b>our</b> mercy."
 msgstr ""
-"Para cuando su “consejo” envíe tropasss, ssserá demasiado tarde. Losss "
-"bárbarosss capturaron a uno de nuestros mísssticosss en una incursssión "
-"reciente, ssseguro para interrogarlo sssobre la ubicación del Templo. No "
-"esssstoy dissspuesssto a apossstar por sssu capacidad para sssoportar la "
+"Para cuando su “consejo” envíe tropass, sserá demasiado tarde. Loss "
+"bárbaross capturaron a uno de nuestros míssticoss en una incurssión "
+"reciente, sseguro para interrogarlo ssobre la ubicación del Templo. No "
+"esstoy disspuessto a aposstar por ssu capacidad para ssoportar la "
 "tortura. Y, recuerden, están en <b>nuestro</b> dominio y a <b>nuestra</b> "
 "merced."
 
@@ -6228,9 +6229,9 @@ msgid ""
 "dessstroyed, I will. As much as I dessspise the devil's path, the damage "
 "that would be causssed by trying to fight a two-front war is even worssse..."
 msgstr ""
-"Sssí. Por másss que me duela permitir que parte de la jungla sssea "
-"dessstruida, lo haré. Por más que desprecio el sendero del diablo, el daño "
-"que sssería causssado por luchar una guerra en dosss frentesss sssería "
+"Ssí. Por máss que me duela permitir que parte de la jungla ssea "
+"desstruida, lo haré. Por más que desprecio el sendero del diablo, el daño "
+"que ssería caussado por luchar una guerra en doss frentess ssería "
 "peor... "
 
 #. [message]: speaker=Mehir
@@ -6242,7 +6243,7 @@ msgstr "<i>Suspira.</i> Supongo que no tenemos otra opción..."
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:457
 msgid ""
 "Very well, though your sssuperior will have to... ssstay with usss for now."
-msgstr "Muy bien, aunque tu sssuperior deberá... Acompañarnosss por ahora."
+msgstr "Muy bien, aunque tu ssuperior deberá... Acompañarnoss por ahora."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:463
@@ -6279,11 +6280,11 @@ msgid ""
 "wastelandsss. Unfortunately, we can't ssspare anything for a counter-attack, "
 "as all our forces are occupied with defending the jungle's borders."
 msgstr ""
-"Mmmm. Tal vez sssí. Como pueden ver, por sssiglos, nosssotrosss –los "
-"“sangreoscuras”– hemosss essstado defendiéndonosss de lasss hordassss "
-"bárbarasss de Wastelandsss. Desssafortunadamente, no podemosss dividirnosss "
-"para hacer un contraataque, pues todasss nuessstrasss fuerzasss essstán "
-"ocupadasss en defender lasss fronterasss de la jungla."
+"Mmmm. Tal vezz ssí. Como pueden ver, por ssiglos, nossotross –los "
+"“ssangreoscurass”– hemoss esstado defendiéndonoss de lass hordass "
+"bárbarass de loss Yermoss. Dessafortunadamente, no podemoss dividirnoss "
+"para hacer un contraataque, pues todass nuesstrass fuerzass esstán "
+"ocupadass en defender lass fronterass de la jungla."
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:537
@@ -6295,12 +6296,12 @@ msgid ""
 "companions. If you do thisssss, we will pardon you, and might allow you to "
 "resume your conssstruction work."
 msgstr ""
-"Recientemente, los bárbaros capturaron uno de nuestros mísssticosss en una "
-"incursssión. Ssse lo llevaron a lasss fortalezasss bárbarasss en el Cañón de "
-"Fuego, que essstá amenazantemente cerca del templo. Sssin duda, lo "
-"interrogarán sssobre la ubicación del Templo. Necesssitasss traerlo de "
-"vuelta con sssusss compañerosss. Si hacesss esssto, losss perdonaremosss y "
-"podríamosss permitirless continuar ssssu conssstrucción."
+"Recientemente, los bárbaros capturaron uno de nuestros míssticoss en una "
+"incurssión. Sse lo llevaron a lass fortalezass bárbarass en el Cañón de "
+"Fuego, que esstá amenazantemente cerca del templo. Ssin duda, lo "
+"interrogarán ssobre la ubicación del Templo. Necessitass traerlo de "
+"vuelta con ssuss compañeross. Si hacess essto, loss perdonaremoss y "
+"podríamoss permitirless continuar ssu consstrucción."
 
 #. [message]: type=EoMa_Jungle_Guardian
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:542
@@ -6308,15 +6309,15 @@ msgid ""
 "(in saurian) <i>Thisss isss outrageousss! Your Highnesss, thessse humansss "
 "deserve death!</i>"
 msgstr ""
-"<i><span font-weight='bold'>En saurio.</span> Esssto essss essscandalossso! "
-"¡Vuestra Alteza, essstos humanosss merecen la muerte!</i>"
+"(En saurio). <i>Essto ess esscandalosso! "
+"¡Vuestra Alteza, esstos humanoss merecen la muerte!</i>"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:546
 msgid "(visibly faded, in saurian) <i>Calm down, I know what I'm doing.</i>"
 msgstr ""
-"*<i><span font-weight='bold'>Visiblemente trastocado, en saurio.</span> "
-"Calma, ssssé lo que hago.</i>"
+"(Visiblemente trastocado, en saurio). <i>"
+"Calma, ssé lo que hago.</i>"
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:551
@@ -6334,8 +6335,8 @@ msgid ""
 "Very well, then, you may leave. *unties Mehir* But your friend will ssstay "
 "with ussss for now..."
 msgstr ""
-"Muy bien, entoncesss, puedesss irte. <i>Desata a Mejir.</i> Pero tu amigo "
-"permanecerá con nosssotrosss por ahora..."
+"Muy bien, entoncess, puedess irte. <i>Desata a Mejir.</i> Pero tu amigo "
+"permanecerá con nossotross por ahora..."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:567
@@ -6362,12 +6363,12 @@ msgid ""
 "and return the hostage to you in one piece. If not, we will add him to the "
 "lissst of ingredientsss in the sssoup."
 msgstr ""
-"Sssí, es una precaución para asssegurar que no nosss abandonesss tan pronto "
-"como te liberemosss; aparte de eso él no tiene mayor valor. Essscucha. Sssi "
-"cumplesss tu parte del trato, te otorgaremosss permissso para cortar unosss "
-"pocosss árboles para el sssendero del diablo y devolveremosss al "
-"prisssionero en una sssola pieza. Sssino, lo agregaremosss a la lisssta de "
-"ingredientesss de la sssopa."
+"Ssí, es una precaución para assegurar que no noss abandoness tan pronto "
+"como te liberemoss; aparte de esso, él no tiene mayor valor. Esscucha. Ssi "
+"cumpless tu parte del trato, te otorgaremoss permisso para cortar unoss "
+"pocoss árboles para el ssendero del diablo y devolveremoss al "
+"prissionero en una ssola pieza. Ssino, lo agregaremoss a la lissta de "
+"ingredientess de la ssopa."
 
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:581
@@ -6375,8 +6376,8 @@ msgid ""
 "*gives an evil stare* You should hurry. I cannot guarantee thisss branch "
 "will withssstand the weight of your deliciousss friend for long."
 msgstr ""
-"<i>Mira maléficamente.</i> Debesss darte prisssa. No puedo garantizar que "
-"esssta rama resssissstirá el peso de tu deliciossso amigo por mucho tiempo."
+"<i>Mira maléficamente.</i> Debess darte prissa. No puedo garantizar que "
+"essta rama ressisstirá el peso de tu deliciosso amigo por mucho tiempo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:591
@@ -6386,7 +6387,7 @@ msgstr "¡Voy en camino, señor!"
 #. [message]: speaker=Keeper
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:596
 msgid "Very well, then, you may leave. *unties Mehir*"
-msgstr "Muy bien, entoncesss, puedesss irte. <i>Desata a Mejir.</i>"
+msgstr "Muy bien, entoncess, puedess irte. <i>Desata a Mejir.</i>"
 
 #. [scenario]: id=06_Fire_Canyon
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:6
@@ -6709,8 +6710,8 @@ msgstr ""
 msgid ""
 "Freedom, at lassst! I am eternally grateful to you. Who are you, my sssavior?"
 msgstr ""
-"¡Libre! ¡Al fin! Te essstoy agradecido. Eternamente. ¿Quién esss usssted, mi "
-"sssalvador?"
+"¡Libre! ¡Al fin! Te esstoy agradecido. Eternamente. ¿Quién ess ussted, mi "
+"ssalvador?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:773
@@ -6727,8 +6728,8 @@ msgid ""
 "I believe you. Pleassse, take usss from thiss place. This cursssed desssert "
 "almossst dried usss to death."
 msgstr ""
-"Le creo. Por favor, sssáquenosss de essste lugar. Essste maldito desssierto "
-"casssi nosss ssseca hasssta la muerte."
+"Le creo. Por favor, ssáquenoss de esste lugar. Esste maldito dessierto "
+"cassi noss sseca hassta la muerte."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:844
@@ -6866,9 +6867,9 @@ msgid ""
 "Affar seems even larger than how I remember it... A sublime place for the "
 "celebration of my promotion!"
 msgstr ""
-"Vaya, vaya... La famosa Cúpula de los Elementos. Trae de vuelta los "
+"Vaya, vaya... La famosa Cúpula de los Elementos. Me da nostalgia por tantos "
 "recuerdos de la época en que vine aquí con mi padre cuando era niño... El "
-"santuario central de Sud-Affar parece aún más grande que en mi memoria... "
+"santuario central de Sud-Affar se ve aún más grande que en mis memorias... "
 "¡Un escenario sublime para celebrar mi ascenso!"
 
 #. [message]: speaker=Mehir
@@ -6905,7 +6906,7 @@ msgid ""
 "That's right. Mehir, commander of the second degree, in person! And who "
 "might you be?"
 msgstr ""
-"Así es. Mejir, comandante de segundo grado, en persona! ¿Y quién es Vuestra "
+"Así es. ¡Mejir, comandante de segundo grado, en persona! ¿Y quién es Vuestra "
 "Merced?"
 
 #. [message]: speaker=Instructor
@@ -6916,7 +6917,7 @@ msgid ""
 "believe it's my responsibility to teach you how to use this prestigious "
 "object, and the things you need to keep in mind when doing so."
 msgstr ""
-"Un instructor de uso del círculo. Verá, con su nuevo rango, tiene el "
+"Un instructor de uso del círculo. Veréis, vuestro nuevo rango os da el "
 "privilegio de poseer un círculo mágico personal, del tipo orientado al "
 "combate. Creo que es mi responsabilidad enseñaros cómo usar este prestigioso "
 "objeto y las cosas que debéis tener en cuenta al hacerlo."
@@ -6933,7 +6934,7 @@ msgid ""
 "the column lies the Elemental Bird - one of the four ultimate beings and the "
 "most powerful elemental ever summoned."
 msgstr ""
-"Bien... Esta cúpula hace un lugar hermoso, ¿no es cierto? Aquí, en la parte "
+"Bien... Esta cúpula es un lugar hermoso, ¿no es cierto? Aquí, en la parte "
 "superior de la columna, yace el Pájaro Elemental, uno de los cuatro seres "
 "finales y el elemental más poderoso jamás invocado."
 
@@ -6955,8 +6956,8 @@ msgid ""
 "celebrate the beginning of our greatest endeavor - the Great Circle's "
 "construction."
 msgstr ""
-"Sharif, nuestro líder, es dueño de esta criatura ahora. Lo lanzó sólo una "
-"vez para celebrar el comienzo de nuestro mayor esfuerzo: la construcción del "
+"Sharif, nuestro líder, es dueño de esta criatura ahora. Lo invocó sólo una "
+"vez, para celebrar el inicio de nuestro mayor esfuerzo: la construcción del "
 "Gran Círculo."
 
 #. [message]: speaker=Mehir
@@ -6989,9 +6990,9 @@ msgid ""
 "the hot-tempered Dharma'rashti. Because of her dual nature, Rashti's "
 "personality tends to change quite often, making her very unpredictable."
 msgstr ""
-"Tashkar, el líder de Tar-Tabar, posee Rashti-Rami, la diosa de todos los "
+"Tashkar, el líder de Tar-Tabar, posee a Rashti-Rami, la diosa de todos los "
 "Rhamis. Ella consiste en dos entidades poderosas: la calma y sabia Jo-Rashti "
-"y la Dharma’Rashti de temperatura caliente. Debido a su doble naturaleza, la "
+"y la Darma-Rashti de temperamento colérico. Debido a su doble naturaleza, la "
 "personalidad de Rashti tiende a cambiar con bastante frecuencia, haciéndola "
 "muy impredecible."
 
@@ -7021,9 +7022,9 @@ msgstr ""
 "Durante la guerra contra el Culto Rojo, pudo matar a docenas de tropas "
 "enemigas sola. Además de eso, es bastante buena para motivar a los soldados "
 "a luchar, debido al carisma y la experiencia táctica de su mitad azul y a "
-"las amenazas de la roja. Con ella, cualquier posible desertor sabe bien que "
-"morir en la batalla es un mejor destino que lo que tiene en mente si "
-"huyeran..."
+"las amenazas de la roja. Con ella a cargo, cualquier posible desertor sabe "
+"bien que morir en la batalla sería un mejor destino que lo que tiene en mente "
+"por si huyera..."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:203
@@ -7035,9 +7036,10 @@ msgid ""
 "awareness."
 msgstr ""
 "Y el líder de Mag-Magar, Malib, es propietario del Portal Viviente, el más "
-"extraño de los seres mágicos definitivos. Es un portal móvil abierto al "
-"Abismo similar a los Portales Dimensionales, pero una fuerza desconocida de "
-"origen abismal ha ganado control sobre este, otorgándole conciencia."
+"extraño de los seres mágicos definitivos. Es un portal móvil abierto, que "
+"conduce al Abismo, similar a los Portales Dimensionales, pero una fuerza "
+"desconocida de origen abismal ha ganado control sobre este, otorgándole "
+"conciencia."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:207
@@ -7046,9 +7048,9 @@ msgid ""
 "access different parts of the Abyss, the full capabilities of this unique "
 "being are yet to be discovered."
 msgstr ""
-"El Portal Viviente es una obra maestra y maravilla para muchos estudiosos. "
-"Al poder acceder a diferentes partes del Abismo, las habilidades completas "
-"de este ser único aún no se han descubierto."
+"El Portal Viviente es una obra maestra y una maravilla para muchos académicos. "
+"Ya que puede acceder a diferentes partes del Abismo, las habilidades completas "
+"de este ser singular aún no se han descubierto."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:216
@@ -7057,12 +7059,12 @@ msgid ""
 "Here it is."
 msgstr ""
 "De todos modos, eso debiera ser suficiente charla por ahora. Tengo vuestro "
-"círculo. Aquí lo tienes."
+"círculo. Aquí lo tenéis."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:227
 msgid "Now you have to step in."
-msgstr "Ahora tenéis que posicionaros en el círculo."
+msgstr "Ahora debéis posicionaros en el círculo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:245
@@ -7090,8 +7092,8 @@ msgid ""
 msgstr ""
 "Probablemente hayáis visto a algunas de vuestras tropas empleando sus "
 "propios círculos. Esas finas herramientas tienen muchos usos. El vuestro "
-"está orientado al combate, capaz de hacer dos cosas: ¡destruir enemigos con "
-"precisión mortal y invocar elementales básicos!"
+"está orientado al combate y es capaz de hacer dos cosas: ¡destruir enemigos "
+"con precisión mortal e invocar elementales básicos!"
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:263
@@ -7133,7 +7135,7 @@ msgstr "Haga clic derecho en Mejir para obtener ayuda"
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:300
 msgid "Wow, summoning with a circle is certainly far easier than with scrolls!"
 msgstr ""
-"¡Guau! ¡Invocar con un círculo es ciertamente mucho más fácil que con los "
+"¡Guau! ¡Invocar con un círculo es, sin duda, mucho más fácil que con los "
 "pergaminos!"
 
 #. [message]: speaker=Instructor
@@ -7597,7 +7599,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:376
 msgid "Well, this piece of art certainly seen better days..."
-msgstr "Sin duda, esta obra de arte vio mejores días..."
+msgstr "Sin duda, esta obra de arte vio tiempos mejores..."
 
 #. [scenario]: id=08_Ka-gatta
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:379
@@ -7607,9 +7609,9 @@ msgid ""
 "demise there! Do not touch the...</span> *the writing ends with a blood "
 "stain*"
 msgstr ""
-"<i>Texto descuidado, escrito por algún aventurero.</i> <span font-"
+"<i>(Texto descuidado, escrito por algún aventurero).</i> <span font-"
 "weight='bold'>Aviso, no sigáis. ¡Solo hallaréis la muerte aquí! No tocar "
-"la... </span> <i>la escritura termina con una mancha de sangre.</i>"
+"la... </span> <i>(La escritura termina con una mancha de sangre).</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:382
@@ -7666,7 +7668,7 @@ msgstr "Muévase a la siguiente cámara"
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:423
 msgid "(optional) Search the caves for treasure"
-msgstr "(Opcional) Busca tesoros en las cuevas"
+msgstr "(Opcional) Busque tesoros en las cuevas"
 
 #. [objectives]
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:436
@@ -7676,9 +7678,9 @@ msgid ""
 "-Explore as much as possible. The items found in this scenario will be quite "
 "useful later on."
 msgstr ""
-"-Puede saquear oro de los esqueletos en el suelo.\n"
-"-Explore tanto como sea posible. Los artefactos de este escenario serán muy "
-"útiles más adelante."
+"- Puede saquear oro de los esqueletos en el suelo.\n"
+"- Explore tanto como sea posible. Los artefactos de este escenario serán "
+"muy útiles más adelante."
 
 #. [message]: speaker=scout
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:458
@@ -8045,7 +8047,7 @@ msgstr "¡Solo una rami o rami-kai puede usar este objeto!"
 #. [object]
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1301
 msgid "Spear of the Rhami"
-msgstr "Primera lanza"
+msgstr "Lanza del origen"
 
 #. [object]
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1304
@@ -8280,7 +8282,7 @@ msgid ""
 "point of his whole expedition..."
 msgstr ""
 "Parece que Tashkar y sus tropas abandonaron esta área. Aún así, me pregunto "
-"cuál fue el punto de toda su expedición..."
+"cuál fue el propósito de toda su expedición..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2105
@@ -8290,8 +8292,8 @@ msgid ""
 "listen to us. I fear we will have to fight our way through..."
 msgstr ""
 "Estos deben ser los antiguos guardianes de este lugar. Tashkar los despertó, "
-"pero ¿por qué? Esto no se ve bien. Lo peor es que no nos escucharán. Me temo "
-"que tendremos que abrirnos camino luchando..."
+"pero ¿por qué?... Esto no se ve bien. Lo peor es que no nos escucharán. Me "
+"temo que tendremos que abrirnos camino luchando..."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2140
@@ -8387,7 +8389,7 @@ msgid ""
 "You can throw golems at me all day long for all I care, and it won't change "
 "a thing."
 msgstr ""
-"Puedes lanzarme golems todo el día si quieres. No me importa y no cambiará "
+"Podéis lanzarme golems todo el día si queréis. No me importa y no cambiará "
 "nada."
 
 #. [message]: speaker=Mehir
@@ -8532,7 +8534,7 @@ msgid ""
 msgstr ""
 "(Para sí mismo). <i>Maldita sea, las cosas no "
 "se ven bien. Debo salir de aquí, rápido...\n"
-"<span font-weight='bold'>A sus tropas.</span> Tengo que atender asuntos "
+"(A sus tropas). <i>Tengo que atender asuntos "
 "urgentes con Aerius. En cuanto a vosotros, seguid luchando.</i>"
 
 #. [message]: id=deputy
@@ -8663,7 +8665,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:250
 msgid ""
 "You killed Tashkar, didn't you?! That damn grin on your face just screams it!"
-msgstr "Matasteis a Tashkar, ¿cierto? ¡Esa maldita sonrisa lo evidencia!"
+msgstr "¡Matasteis a Tashkar!, ¿cierto? ¡Esa maldita sonrisa lo evidencia!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:254
@@ -8703,10 +8705,10 @@ msgid ""
 "listen to us, so we decided to activate this gate. It sucked his whole squad "
 "into the Red Abyss."
 msgstr ""
-"En fin, cuando nos negamos a salir, atacó a nuestra expedición <i>pacífica</"
-"i>. Ya que no estábamos preparados para un combate frontal y no nos quería "
-"escuchar, decidimos activar este portal. Todo su escuadrón fue tragado por "
-"el Abismo Rojo."
+"En fin, cuando nos negamos a “marcharnos”, atacó a nuestra expedición "
+"<i>pacífica</i>. Ya que no estábamos preparados para un combate frontal y "
+"no nos quería escuchar, decidimos activar este portal. Todo su escuadrón "
+"fue tragado por el Abismo Rojo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:280
@@ -8779,7 +8781,7 @@ msgid ""
 "Well, I guess you're not changing your mind anytime soon. Seems like I'll "
 "have to do this the old-fashioned way."
 msgstr ""
-"Bueno, no parece que vayais a cambiar de opinión, así que tendré que hacer "
+"Vale, no parece que vayáis a cambiar de opinión, así que tendré que hacer "
 "esto a la antigua."
 
 #. [message]: speaker=narrator
@@ -8787,7 +8789,7 @@ msgstr ""
 msgid ""
 "Hexes with carpets on them act like keeps. Use them to recruit your troops."
 msgstr ""
-"Puedes reclutar tropas desde los hexágonos con alfombras (funcionan como "
+"Puede reclutar tropas desde los hexágonos con alfombras (funcionan como "
 "torreones)."
 
 #. [message]: speaker=narrator
@@ -8804,7 +8806,7 @@ msgstr ""
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:332
 msgid "Kill Aerius"
-msgstr "Aerius"
+msgstr "Mate a Aerius"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:571
@@ -8984,7 +8986,7 @@ msgstr ""
 msgid ""
 "Oh, really? I don't believe you. If you truly remember the spell, prove it."
 msgstr ""
-"¿De verdad? No te creo. Si de verdad recordáis el conjuro, demuéstralo."
+"¿De verdad? No te creo. Si de verdad recuerdas el conjuro, demuéstralo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:792
@@ -9027,13 +9029,13 @@ msgid ""
 "You can reflect on your mistake later. What matters now is killing the true "
 "culprit - the human."
 msgstr ""
-"Podéis reflexionar sobre vuestro error más tarde. Lo que importa ahora es "
+"Puedes reflexionar sobre vuestro error más tarde. Lo que importa ahora es "
 "matar al verdadero culpable: el humano."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:823
 msgid "Yes... you're right."
-msgstr "Sí... Tenéis razón..."
+msgstr "Sí... Tienes razón..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:827
@@ -9043,7 +9045,7 @@ msgstr "Mejir, debo subir a donde está y ¡¡¡DESCUARTIZARLO!!!"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:840
 msgid "You better hurry up before we get sucked into this hell!"
-msgstr "¡Será mejor que os apures antes de que el infierno nos trague!"
+msgstr "¡Será mejor que os apuréis antes de que el infierno nos trague!"
 
 #. [object]
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:858
@@ -9187,7 +9189,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1291
 msgid "A world of MORTALS! How nice! It's time to lay it to RUIN!"
 msgstr ""
-"¡Un mundo de mortales! ¡Que agradable! ¡Es hora de ponerlo para arruinar!"
+"¡Un mundo de MORTALES! ¡Qué emocionante! ¡Es hora de reducirlo a CENIZAS!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1299
@@ -9318,7 +9320,7 @@ msgid ""
 "deserved. Though I do wonder, who were they?"
 msgstr ""
 "No culpemos a Rashti por la muerte de Tashkar. La ingenuidad es una de las "
-"características de los entes del Avenro. Por fortuna, los verdaderos "
+"características de los entes del Abismo. Por fortuna, los verdaderos "
 "culpables recibieron su castigo. Pero me pregunto, ¿quiénes eran realmente?"
 
 #. [message]: speaker=Mehir
@@ -9360,8 +9362,8 @@ msgid ""
 "the least."
 msgstr ""
 "Ehh. <i>Tose.</i>. Quiero decir: debemos ser extremadamente cautelosos al "
-"lidiar con ellos. Su comportamiento difícilmente podría ser descrito como de "
-"una nación pacífica, por decir lo menos."
+"lidiar con ellos. Su comportamiento difícilmente podría ser descrito como el "
+"de una nación pacífica, por decir lo menos."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\11_Message.cfg:333
@@ -9380,7 +9382,7 @@ msgid ""
 "<i>*to herself* Damn it, whether or not I can get Mehir to be my master "
 "depends on these old farts...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí misma.</span> Maldita sea, el que logre "
+"(Para sí misma). <i>Maldita sea, el que logre "
 "o no que Mejir se vuelva mi maestro depende de estos vejestorios...</i>"
 
 #. [message]: speaker=Rashti
@@ -9390,14 +9392,14 @@ msgid ""
 "Nomolas don't say your thoughts out loud now, I beg you, and let me do the "
 "talking.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí misma.</span> Créeme, comparto tu "
+"(Para sí misma). <i>Créeme, comparto tu "
 "preocupación; pero, por el amor de Nomolas, no digas tus pensamientos en voz "
 "alta ahora, te lo suplico, y déjame hablar.</i>"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:348
 msgid "<i>*to herself* Fine...</i>"
-msgstr "<i><span font-weight='bold'>Para sí misma.</span> Bien...</i>"
+msgstr "(Para sí misma). <i>Bien...</i>"
 
 #. [message]: speaker=Elder2
 #: To_Lands_Unknown\scenarios\11_Message.cfg:352
@@ -9417,15 +9419,15 @@ msgid ""
 "<i>*to herself* They want that incompetent gate-collector to be my master?! "
 "Dammit, dammit, I need to do something fast...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí misma.</span> ¡Quieren que ese "
+"(Para sí misma). <i>¡Quieren que ese "
 "incompetente coleccionista de puertas sea mi maestro? Maldita sea, maldita "
-"sea, necesito hacer algo rápido.../i>"
+"sea, necesito hacer algo rápido...</i>"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:366
 msgid "<i>*to herself* Calm down, I have an idea.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí misma.</span> Cálmate, tengo una idea.</"
+"(Para sí misma). <i>Cálmate, tengo una idea.</"
 "i>"
 
 #. [message]: speaker=Rashti
@@ -9487,7 +9489,7 @@ msgstr "Mmmmm... ¿Sabéis? Es una buena idea."
 #: To_Lands_Unknown\scenarios\11_Message.cfg:396
 msgid "<i>*to herself* Whew, bought myself some time...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí misma.</span> Vaya, conseguí algo de "
+"(Para sí misma). <i>Vaya, conseguí algo de "
 "tiempo...</i>"
 
 #. [message]: speaker=Elder2
@@ -9503,7 +9505,7 @@ msgstr "Mag-Magar está siendo ataca..."
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\11_Message.cfg:484
 msgid "Aaaaaaah! We're under attack! Somebody help!"
-msgstr "¡Aaaaaaah! ¡Estamos bajo ataque! ¡Alguien ayuda!"
+msgstr "¡Aaaaaaah! ¡Estamos bajo ataque! ¡Que alguien ayude!"
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\11_Message.cfg:500
@@ -9600,10 +9602,10 @@ msgid ""
 "Tashkar?"
 msgstr ""
 "¡Tashkar! ¡Finalmente habéis venido en nuestra ayuda! ¡Oh, qué suerte! No "
-"podría haber sostenido la ciudad por más tiempo. ¡Unas criaturas oscuras nos "
-"caen encima como un enjambre de langostas...! ¡El horror puro! ¡Un momento! "
+"podría haber sostenido la ciudad por más tiempo. ¡Unas criaturas tenebrosas nos "
+"asaltan como un enjambre de langostas...! ¡Es puro horror! ¡Un momento! "
 "No sois Tashkar... ¿Cuál es vuestro nombre, rango y puesto? Además, ¿por qué "
-"está la santa Rashti-Rami contigo en vez de con Tashkar?"
+"la santa Rashti-Rami os acompaña en vez de a Tashkar?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:367
@@ -9957,8 +9959,8 @@ msgid ""
 "Your futile resistance only delays the inevitable. Our gods will most "
 "certainly reward me for nearly razing this place to the ground..."
 msgstr ""
-"Su resistencia inútil solo retrasa lo inevitable. Nuestros dioses "
-"ciertamente me recompensarán por casi arrasar este lugar al suelo..."
+"Su resistencia inútil solo retrasa lo inevitable. Sin duda, nuestros "
+"dioses me recompensarán por arrasar este lugar casi por completo..."
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:909
@@ -11061,7 +11063,7 @@ msgid ""
 "inability of banishment. Thus it will most likely remain as a mystery for "
 "now as to how those gates look."
 msgstr ""
-"Ciertamente, no es un rumor, mi señor. El Maestro de los Desterradores tiene "
+"Efectivamente; no es un rumor, mi señor. El Maestro de los Desterradores tiene "
 "una colección completa de tales portales dimensionales en su mansión, aunque "
 "no se los muestra a nadie, debido a su paranoia e irremplazabilidad: porque "
 "es <i>incapaz de desterrar</i>. Por lo tanto, la apariencia de tales "
@@ -11210,8 +11212,9 @@ msgid ""
 "*sigh* Some people have a hard time understanding the simplest things... Get "
 "a move on, Mehir! Shall I give you a piece of my mind?"
 msgstr ""
-"<i><span font-weight='bold'>Suspira y reflexiona.</span> Algunas personas "
+"(Suspira y reflexiona). <i>Algunas personas "
 "tienen dificultades para comprender las cosas más sencillas.</i>\n"
+"\n"
 "¡Rápido, Mejir! ¿O esperas a que te diga lo que pienso?"
 
 #. [message]: speaker=Jaffar
@@ -11333,7 +11336,7 @@ msgstr "¿Se supone que esto es una broma?"
 #. [event]
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1203
 msgid "It's certainly not a funny one."
-msgstr "Ciertamente no es de buen gusto."
+msgstr "Sin duda, no es de buen gusto."
 
 #. [event]
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1205
@@ -16487,7 +16490,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:123
 msgid "<i>*to herself* Hmph, pompous know-it-alls just like the rest...</i>"
 msgstr ""
-"<i><span font-weight='bold'>Para sí misma.</span> ¡Jum! Pomposos sabelotodos "
+"(Para sí misma). ¡Jum! Pomposos sabelotodos "
 "como todos los demás...</i>"
 
 #. [message]: speaker=Mehir
@@ -18199,7 +18202,7 @@ msgid ""
 "*eyes become red* <i>Hostile intentions detected. Initiating defense "
 "protocols. Sending activation signal to other combat models.</i>"
 msgstr ""
-"<i><span font-weight='bold'>Ojos enrojecidos.</span> Intenciones hostiles "
+"(Ojos enrojecidos). <i>Intenciones hostiles "
 "detectadas. Inicializando protocolos de defensa. Enviando señal de "
 "activación a los otros modelos de combate.</i>"
 
@@ -19300,8 +19303,8 @@ msgid ""
 msgstr ""
 "(Para sí mismo). <i>Eso fue... Un giro de "
 "trama bastante súbito. Debo hacer algo ya; de lo contrario, el plan se "
-"arruinaría...\n"
-"<span font-weight='bold'>A Mejir.</span> Veréis, debéis ir al Abismo, en "
+"arruinaría...</i>\n"
+"(A Mejir). <i>Veréis, debéis ir al Abismo, en "
 "serio.</i>"
 
 #. [message]: speaker=Mehir
@@ -19318,11 +19321,11 @@ msgid ""
 "<i>*to himself* A belief that is among the biggest nonsense I have heard in "
 "years...</i> (to Mehir) Are you not curious what lies there?"
 msgstr ""
-"Lo sé, pero ¿qué hay de la filosofía de tu nación? ¿No creían vosotros que "
-"allí encontrarían el sentido último de vuestras vidas? <i><span font-"
-"weight='bold'>Para sí mismo.</span> Una creencia que se encuentra entre las "
-"mayores chorradas que he escuchado en años... </i>\n"
-"<i>A Mejir.</i> ¿No tenéis curiosidad por saber qué hay allí?"
+"Lo sé, pero ¿qué hay de la filosofía de tu nación? ¿Vosotros no creíais que "
+"allí encontraríais el sentido último de vuestras vidas? (Para sí mismo). "
+"<i>Una creencia que se encuentra entre las mayores chorradas que he "
+"escuchado en años... </i>\n"
+"(A Mejir). <i>¿No tienes curiosidad por saber qué hay allí?</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:486
@@ -19358,10 +19361,10 @@ msgid ""
 "it."
 msgstr ""
 "(Para sí mismo). <i>Esto es mucho más difícil "
-"de lo que esperaba...\n"
-"<span font-weight='bold'>A Mejir.</span> Veréis, no planeaba contaros esto, "
+"de lo que esperaba...</i>\n"
+"(A Mejir). <i>Veréis, no planeaba contaros esto, "
 "pero me temo que pronto, eventos desastrosos sucederán en el Abismo si no "
-"haces algo  al respecto."
+"haces algo al respecto.</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:502
@@ -19404,10 +19407,10 @@ msgid ""
 "Good. <i>*to himself* We even count on the last part...</i> (to Mehir) You "
 "should hurry. The portal might to collapse anytime soon."
 msgstr ""
-"Bien. <i><span font-weight='bold'>Para sí mismo</span> Incluso contamos con "
+"Bien. (Para sí mismo). <i>Incluso contamos con "
 "la última parte...</i>\n"
-"<span font-weight='bold'>A Mejir</span> Debes apresurarte. El portal podría "
-"colapsar en el corto plazo."
+"(A Mejir). <i>Debes apresurarte. El portal podría "
+"colapsar en el corto plazo.</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:519
