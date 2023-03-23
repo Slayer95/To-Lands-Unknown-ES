@@ -16490,7 +16490,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:123
 msgid "<i>*to herself* Hmph, pompous know-it-alls just like the rest...</i>"
 msgstr ""
-"(Para sí misma). ¡Jum! Pomposos sabelotodos "
+"(Para sí misma). <i>¡Jum! Pomposos sabelotodos "
 "como todos los demás...</i>"
 
 #. [message]: speaker=Mehir
@@ -19884,7 +19884,7 @@ msgstr ""
 "invocación con su izquierda. Un invocador maestro ha alcanzado el culmen de "
 "todas las artes, hayan sido descubiertas o creadas.\n"
 "\n"
-"En torno a un invocador maestro circula su <i>magnum opus</i>, el "
+"En torno a un invocador maestro circula su magnum opus, el "
 "megacírculo. En este abundan magias de todo tipo: para empoderar, reparar, "
 "bendecir, curar, destruir, crear y rehacer. Dentro del vasto y místico "
 "megacírculo, el aire mismo grita mientras los elementales cargan desde su "
