@@ -970,7 +970,7 @@ msgid ""
 "himself."
 msgstr ""
 "Note que, por ahora, el gran invocador no puede ser promocionado a su "
-"siguiente etapa. Sin embargo, si alguno obtuviese un ASNM, se volverá "
+"siguiente etapa. Sin embargo, si alguno obtuviese un ASMN, se volverá "
 "invocador maestro tan pronto como un invocador maestro los reincorpore a su "
 "ejército."
 
@@ -1791,7 +1791,7 @@ msgstr ""
 "El misterioso peregrino se encontraba en un estado crítico. Claramente, no "
 "era un ciudadano de la nación de invocadores, pero tampoco se parecía al "
 "intruso volador. En Tar-Tabar, el extranjero fue trasladado a un hospital. "
-"Todo el mundo quería saber de quién se trataba y que es lo que quería."
+"Todo el mundo quería saber de quién se trataba y que∙ es lo que quería."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:591
@@ -1803,12 +1803,14 @@ msgid ""
 "Desert, had left the Ancestral Lands empty. Atiros said that the nation "
 "inhabiting that land is now called Kharos, and is in grave danger."
 msgstr ""
-"Tres días después, el viajero finalmente volvió en sí. Atiros (así llamaba), "
+"Tres días después, el viajero finalmente volvió en sí. Atiros —así se llamaba— "
 "provenía de una tierra abandonada por los invocadores hacía miles de años. "
 "Tales palabras sorprendieron al Alto Consejo, dado que por siglos creyeron "
 "que, cuando sus antepasados se dirigieron al Gran Desierto, habían "
-"abandonado por completo las tierras ancestrales. Según Atiros, la nación que "
-"ahora puebla esas tierras se denomina Caros, y está en grave peligro."
+"abandonado por completo las tierras ancestrales.\n"
+"\n"
+"Según Atiros, la nación que "
+"ahora puebla esas tierras se denomina Caros y está en grave peligro."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:596
@@ -1870,7 +1872,7 @@ msgid ""
 "he was ordered to find."
 msgstr ""
 "Atiros, quien era uno de los dos guerreros más poderosos de Caros, fue "
-"enviado para encontrarlos. Partió desde el puerto más al sur, Saffaros, y "
+"enviado para buscarlos. Partió desde el puerto más al sur, Saffaros, y "
 "navegó surcando el mar hacia el Gran Desierto. Unos pocos días después de "
 "desembarcar, notó la vaga de silueta de una ciudad a lo lejos. Aunque "
 "inicialmente pensó que era un espejismo, se dirigió en esa dirección, hacia "
@@ -3206,8 +3208,8 @@ msgid ""
 "Level Advancements), but as the story progresses he may advance by receiving "
 "promotions due to his actions (like in real life)."
 msgstr ""
-"Note que, aunque Mejir no puede ser promocionado normalmente, sí posee ASNM "
-"personalizados (avances sobre el nivel máximo). A medida que avance la "
+"Note que, aunque Mejir no puede ser promocionado normalmente, sí posee ASMN "
+"personalizados (avances sobre el máximo nivel). A medida que avance la "
 "historia, no obstante, será promocionado según sus acciones (como en la vida "
 "real)."
 
@@ -5484,7 +5486,7 @@ msgid ""
 "settings."
 msgstr ""
 "Si la próxima batalla transcurre con mucha lentitud, puede modificar la "
-"configuración para incrementar la velocidad del juego."
+"configuración para incrementar el rendimiento del juego."
 
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:808
@@ -11448,7 +11450,7 @@ msgstr "De hecho, prefiero quedarme aquí por ahora."
 #. [scenario]: id=15_Abyssal_Rebellion
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:150
 msgid "Abyssal Rebellion"
-msgstr "Rebelión del Abismo"
+msgstr "Rebelión Abisal"
 
 #. [side]: type=EoMa_Great_Efreeti, id=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:186
@@ -11707,9 +11709,9 @@ msgstr ""
 "Mi señor, usad elementales. No pueden pensar, por lo que es imposible "
 "engañarlos. También podéis usar entes azules de nivel alto, como las rami-"
 "kais, jo-ramis y grandes genios —nunca nos traicionarían—. Usad a los "
-"disipadores y desterradores tanto como podáis. Además, permaneced cerca de "
-"vuestras tropas, para fortalecerlas y curarlas con el poder de vuestro "
-"megacírculo."
+"disipadores y desterradores tanto como podáis. Además, será mejor si "
+"permanecéis cerca de vuestras tropas para fortalecerlas y curarlas con "
+"el poder de vuestro megacírculo."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:492
@@ -11765,7 +11767,7 @@ msgid ""
 msgstr ""
 "Puede promocionar sus grandes invocadores a invocadores maestros ahora.\n"
 "\n"
-"Todos sus grandes invocadores que hayan recibido ASNM en escenarios previos "
+"Todos sus grandes invocadores que hayan recibido ASMN en escenarios previos "
 "serán promovidos al ser reincorporados.\n"
 "\n"
 "Usted y sus invocadores neutrales pueden invocar genios y mantenerlos entre "
@@ -11858,8 +11860,8 @@ msgid ""
 "Looks like I'm now starting to grow a dimensional gate collection of my "
 "own..."
 msgstr ""
-"Parece que ahora estoy empezando a armar mi propia colección de portales "
-"dimensionales..."
+"Parece que es el momento en que mi propia colección de portales "
+"dimensionales empieza..."
 
 #. [message]: speaker=Banisher
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:688
@@ -11869,8 +11871,8 @@ msgid ""
 "them against us."
 msgstr ""
 "En efecto. Sin embargo, tomad en cuenta, mi señor: no transforme la puerta "
-"en un genio o rami de nivel uno en frente de este gran ifrit: podría "
-"volverse fácilmente contra nosotros."
+"en un genio o rami de nivel inicial en frente de este gran ifrit: podría "
+"fácilmente volverlo contra nosotros."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:708
@@ -11999,7 +12001,7 @@ msgid ""
 "like to call yourself a goddess, but last time I checked the dictionary, the "
 "word wasn't exactly synonymous with 'slave'. No authority whatsoever..."
 msgstr ""
-"Uh, oh, ¿a quién tenemos aquí? ¿No es esta la mismísima “Santa” Rashti-Rami? "
+"Uh, oh, ¿a quién tenemos aquí? ¿No es esta la “Santa” Rashti-Rami en persona? "
 "Os gusta llamaros “diosa”, pero la última vez que revisé el diccionario, la "
 "palabra no era exactamente sinónima de “esclava”. Ningún tipo de autoridad..."
 
@@ -12020,11 +12022,11 @@ msgid ""
 "you an illusion of authority, no amount of acting can conceal the simple "
 "truth. Face it - you are nothing more than just a puppet."
 msgstr ""
-"En el Abismo, sí, estabais a cargo. Pero, admítelo, en esta dimensión, "
+"En el Abismo, sí, estabais a cargo. Pero, admitidlo, en esta dimensión, "
 "vuestros “sujetos” en realidad obedecen a los invocadores, en vez de a vos. "
-"Si bien los humanos intentan daros una ilusión de autoridad, ningún esfuerzo "
-"de actuación puede ocultar la simple verdad. Enfrentadlo: no sois más que un "
-"títere."
+"Si bien los humanos intentan daros una ilusión de autoridad, ninguna "
+"pantomima puede ocultar la simple verdad. Enfrentadlo: no sois más que una "
+"marioneta."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:832
@@ -12048,7 +12050,7 @@ msgid ""
 "Ask yourself, my dogmatic foe - why would The First Jinni stoop so low as to "
 "obey the whims of mortals to begin with?"
 msgstr ""
-"Preguntaos, mi enemiga dogmática, ¿por qué el Primer Genio caería tan bajo "
+"Preguntaos, mi antagonista dogmática, ¿por qué el Primer Genio caería tan bajo "
 "como para obedecer los caprichos de los mortales, para empezar?"
 
 #. [message]: speaker=Rashti
@@ -12100,7 +12102,7 @@ msgid ""
 msgstr ""
 "Llegó al punto de que lentamente comenzó a reformar el Abismo para parecerse "
 "al mundo mortal e introducir el mundo mortal al Abismo. Sospecho que su "
-"personalidad era poco más que una fachada para que los humanos se sintieran0 "
+"personalidad era poco más que una fachada para que los humanos se sintieran "
 "cómodos con su presencia. Después de todo, es mucho más fácil para los "
 "mortales hablar con alguien que ven como su siervo, en lugar del misterioso "
 "ser divino que realmente es."
@@ -12116,7 +12118,7 @@ msgstr ""
 "En cuanto a Alcamiya, sospecho que fue uno de sus muchos experimentos. Tal "
 "vez para ver cómo sería una civilización alzada con magia abismal. Por "
 "desgracia, por mucho que lo respeto, no tengo intención de ser una variable "
-"insignificante en su experimento, y tampoco deberíais."
+"insignificante en su experimento, y vos tampoco deberíais."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:899
@@ -12179,20 +12181,20 @@ msgid ""
 "be the puppet..."
 msgstr ""
 "En el Abismo, solíais ser una figura poderosa, ante quien muchos se "
-"arrodillaban con tan solo veros. Pero ahora, te has convertido en poco más "
+"arrodillaban con tan solo veros. Pero ahora, os habéis convertido en poco más "
 "que una sombra patética de vuestro antiguo yo. Podríais haber sido "
-"fácilmente la titiritera, pero elegisteis ser títere..."
+"fácilmente la titiritera, pero elegisteis ser el títere..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1068
 msgid "*panting* When...will...<b>you</b>...JUST...<b>DIE</b>!!!"
 msgstr ""
-"<i>Jadeando.</i> Cuándo... <b>Vas</b>... A... SIMPLEMENTE... <b>MORIR</b>!!!"
+"<i>Jadeando.</i> Simplemente... ¡¡¡Cuándo <b>vas... A... <i>MORIR</i></b>!!!"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1072
 msgid "Not anytime soon, that I can assure you."
-msgstr "No en el corto plazo. Eso puedo aseguraros."
+msgstr "No sucederá en el corto plazo. Eso os lo puedo asegurar."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1080
@@ -12205,9 +12207,9 @@ msgid ""
 msgstr ""
 "Os conozco muy bien, Darma-Rashti, sé lo que realmente queréis. Sé lo mucho "
 "que extrañáis los días de vuestra gloria, cuando realmente fuisteis la reina "
-"del Abismo Rojo. Somos bastante similares, tú y yo. ¿Qué tal si os dijera "
-"que puedo...? ¿Liberaros de las limitaciones de tu mitad azul para daros la "
-"elección que nunca tuvisteis?"
+"del Abismo Rojo. Somos bastante similares —tú y yo—. ¿Qué tal si os dijera "
+"que puedo...? ¿Liberaros de las limitaciones de vuestra mitad azul para daros "
+"la elección que nunca tuvisteis?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1085
@@ -12232,7 +12234,7 @@ msgstr "¡No, parad! ¿Qué me está ocurriendo? Mejir, no quiero..."
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1113
 msgid "...TO SEE YOU ALIVE!!!"
-msgstr "... ¡¡¡VERTE VIVO!!!"
+msgstr "... ¡¡¡VERTE RESPIRAR!!!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1118
@@ -12296,20 +12298,20 @@ msgstr "¡No te permitiré que hieras a nuesto maestro!"
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1194
 msgid "I DARE YOU, YOU STUPID HUMAN-LOVER!!!"
-msgstr "¡¡¡OS RETO, ESTÚPIDA FILÁNTROPA!!!"
+msgstr "¡¡¡TE RETO, ESTÚPIDA FILÁNTROPA!!!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1207
 msgid ""
 "My Master! KILL! I’m losing DIE! control. The Abyss KILL! is in danger. DIE!"
 msgstr ""
-"¡Maestro!... <i>¡MUERE!...</i> Estoy perdiendo... <i>¡MUERE!...</i> el "
+"¡Maestro!... <i>¡MUERE!...</i> Estoy perdiendo... <i>¡MUERE!...</i> El "
 "control. El Abismo... <i>¡MUERE!...</i> Está en peligro. <i>¡MUERE!</i>"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1216
 msgid "Help... me... YOU PIECE OF... I am DIE!!! ...ing..."
-msgstr "¡Ayudadme... PEDAZO DE...! Me estoy... MURIEN-... DO..."
+msgstr "¡Ayudadme... PEDAZO DE...! Me es-toy... <b>MU-RIEN</b>-do..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1285
@@ -12469,7 +12471,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1609
 msgid "Rashti, are you alright?"
-msgstr "Rashti, ¿estás bien?"
+msgstr "Rashti, ¿estáis bien?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1618
@@ -12684,7 +12686,7 @@ msgstr ""
 "apreciable lentitud en los equipos menos potentes.\n"
 "\n"
 "Tenga en cuenta que estos efectos pueden ser desactivados en cualquier "
-"momento, para este escenario, presionando clic derecho para abrir el menú "
+"momento, para este escenario, si presiona clic derecho y abre el menú "
 "contextual."
 
 #. [option]
@@ -12704,9 +12706,9 @@ msgid ""
 "click anywhere on the map and choose which effects you want to enable/"
 "disable."
 msgstr ""
-"Puede desactivar los efectos climátics siempre que quiera. Para hacerlo, "
-"clique con el botón derecho en cualquier sitio del mapa y seleccione cuáles "
-"son los efectos que desea activar o desactivar."
+"Puede activar o desactivar los efectos climáticos siempre que lo desee. "
+"Para hacerlo, clique con el botón derecho en cualquier sitio del mapa y "
+"seleccione la configuración indicada."
 
 #. [side]: type=EoMa_Platinum_Warrior, id=Dedylos
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:69
@@ -12760,7 +12762,7 @@ msgid ""
 msgstr ""
 "Estamos en la frontera de dos climas diferentes. Las fuertes lluvias son "
 "recomunes aquí durante la estación húmeda. Seguro que vos estás extrañado "
-"por ver tanta agua y vegetación"
+"por ver tanta agua y vegetación."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:356
@@ -12802,7 +12804,7 @@ msgid ""
 "trying to flank us! Prepare the troops! NOW!"
 msgstr ""
 "¡¿Qué?! ¡Al sur no hay más que un desierto sin vida! ¡Debe ser que el "
-"enemigo intenta rodear nuestras defensas! ¡Preparad las tropas! ¡AHORA!"
+"enemigo intenta rodear nuestras defensas! ¡Preparen las tropas! ¡AHORA!"
 
 #. [message]: speaker=Atiros
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:432
@@ -12835,7 +12837,7 @@ msgstr ""
 "¡Fijate, pibe, nuestros legendarios hermanos existen! Se llaman a sí mismos "
 "invocadores porque pueden conjurar demonios o algo por el estilo. ¡¿Podés "
 "creerlo?! Mirá, te presento a Mejir: un maestro de este tipo de magia, líder "
-"de una ciudad y el embajador de los descendientes de nuestros ancestros."
+"de una ciudad y el embajador de aquellos descendientes de nuestros ancestros."
 
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:448
@@ -12847,7 +12849,7 @@ msgid ""
 msgstr ""
 "¡Por el Sol! Habría sacado la alfombra roja, si al principio no te hubiera "
 "confundido con los invasores. ¡Son bienvenidos y muy solicitados aquí, "
-"parientes! ¡Esos malditos engendros de la oscuridad ya han destruido la "
+"familia! ¡Esos malditos engendros de la oscuridad ya han destruido la "
 "mayoría de nuestras ciudades!"
 
 #. [message]: speaker=Mehir
@@ -12888,7 +12890,7 @@ msgstr ""
 #. [message]: speaker=Atiros
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:513
 msgid "So only three cities remain..."
-msgstr "Entonces solo quedan tres ciudades..."
+msgstr "Entonces, solo quedan tres ciudades..."
 
 #. [message]: speaker=Rider2
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:522
@@ -16627,7 +16629,7 @@ msgstr ""
 "Hemos mejorado vuestro círculo con nuestra magia. Antes de comenzar a "
 "explicar qué hace qué, me gustaría aclararos algunas cuestiones básicas. Lo "
 "que vosotros llamáis “magia” no lo es realmente, sino que es una imitación "
-"de tal."
+"de ella."
 
 #. [message]: speaker=Void
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:297
@@ -17713,7 +17715,7 @@ msgid ""
 "experience spent on this particular AMLA as a Summons Master, Mehir receives "
 "80 experience points."
 msgstr ""
-"Usted escogió otorgarle a Mejir el ASNM de “círculo de resistencia”. Con su "
+"Usted escogió otorgarle a Mejir el ASMN de “círculo de resistencia”. Con su "
 "nuevo círculo, sin embargo, Mejir tiene esta habilidad automáticamente. Como "
 "compensación por la inversión de experiencia en esa elección, Mejir gana 80 "
 "PX."
@@ -19330,10 +19332,10 @@ msgid ""
 "<i>*to himself* A belief that is among the biggest nonsense I have heard in "
 "years...</i> (to Mehir) Are you not curious what lies there?"
 msgstr ""
-"Lo sé, pero ¿qué hay de la filosofía de tu nación? ¿Vosotros no creíais que "
-"allí encontraríais el sentido último de vuestras vidas? (Para sí mismo). "
-"<i>Una creencia que se encuentra entre las mayores chorradas que he "
-"escuchado en años... </i>\n"
+"Lo sé, pero ¿qué hay de la filosofía de vuestra nación? ¿Acaso vosotros "
+"no creíais que allí encontraríais el sentido último de vuestras vidas? "
+"(Para sí mismo). <i>Una creencia que se encuentra entre las mayores "
+"chorradas que he escuchado en años... </i>\n"
 "(A Mejir). <i>¿No tienes curiosidad por saber qué hay allí?</i>"
 
 #. [message]: speaker=Mehir
