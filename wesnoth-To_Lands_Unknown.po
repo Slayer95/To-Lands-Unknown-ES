@@ -12977,9 +12977,9 @@ msgid ""
 "here, full of those miserable humans. I love the way they scream - it is "
 "like a music to my ears..."
 msgstr ""
-"Los exploradores estaban en lo correcto: hay, de hecho, otro pueblo intacto "
-"al sur de aquí, lleno de esos miserables humanos. Me encanta la forma en que "
-"gritan, ¡es como música para mis oídos...!"
+"Los exploradores estaban en lo correcto: hay, efectivamente, otro pueblo "
+"intacto al sur de aquí, lleno de esos miserables humanos. Me encanta la forma "
+"en que gritan, ¡es como música para mis oídos...!"
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:641
@@ -13024,7 +13024,7 @@ msgid ""
 "strengthening the city walls..."
 msgstr ""
 "La fortaleza es demasiado pequeña... Se me ocurre que si tuviera tres "
-"genios, colocados en los torreones de las murallas externas, estos podrían "
+"genios, colocados en los torreones de las murallas externas, ellos podrían "
 "transformarse para conectar los torreones entre sí. Así reforzaríamos los "
 "muros de la ciudad..."
 

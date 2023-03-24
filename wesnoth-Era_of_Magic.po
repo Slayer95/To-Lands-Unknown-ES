@@ -2182,7 +2182,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Chaotic_Observer, race=undead, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic\units\Destroyers\Chaotic_Observer.cfg:4
 msgid "Chaotic Observer"
-msgstr "Ovservador caótico"
+msgstr "Observador caótico"
 
 #. [attack]: type=fire
 #: Era_of_Magic\units\Destroyers\Chaotic_Observer.cfg:38
@@ -6800,7 +6800,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Dark_Observer, race=mechanical, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic\units\Tharis\Dark_Observer.cfg:4
 msgid "Dark Observer"
-msgstr "Ovservador oscuro"
+msgstr "Observador oscuro"
 
 #. [unit_type]: id=EoMa_Dark_Slayer, race=eoma_tharis, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic\units\Tharis\Dark_Slayer.cfg:4
