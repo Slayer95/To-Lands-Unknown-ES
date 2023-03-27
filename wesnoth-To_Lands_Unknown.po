@@ -13099,12 +13099,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:548
-#, fuzzy
-#| msgid ""
-#| "After this scenario, leveling up Dimensional Gates will cost you a fee. Keep "
-#| "that in mind."
 msgid ""
-"This is the last time you can level up your Dimensional Gates for free. Keep "
+"After this scenario, leveling up Dimensional Gates will cost you a fee. Keep "
 "that in mind."
 msgstr ""
 "Después de este escenario, promocionar portales dimensionales le costará una "
@@ -19727,12 +19723,12 @@ msgstr "Ciudadano"
 msgid "female^Citizen"
 msgstr "Ciudadana"
 
-#~ msgid ""
-#~ "Each captured village will provide support for two Level 3 units during this "
-#~ "scenario."
-#~ msgstr ""
-#~ "En este escenario, cada aldea capturada proveerá el mantenimiento para dos "
-#~ "unidades de nivel 3."
+msgid ""
+"Each captured village will provide support for two Level 3 units during this "
+"scenario."
+msgstr ""
+"En este escenario, cada aldea capturada proveerá el mantenimiento para dos "
+"unidades de nivel 3."
 
 #~ msgid ""
 #~ "*raises an eyebrow* Misbehavior happens in other places too, eh? Well, Efreet "
