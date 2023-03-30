@@ -8591,10 +8591,10 @@ msgid ""
 "leaders in cold blood like it's nobody's business! Just who on earth are you?!!!"
 "</b>"
 msgstr ""
-"... <b>¡No... No me lo puedo creer! Atacasteis nuestra capital, intentasteis "
-"robar una de nuestras reliquias sagradas, y después entrasteis en nuestras "
-"catacumbas y sin reparo matasteis a uno de nuestros líderes! ¿Quiénes os habéis "
-"creído que sois?</b>"
+"... <b>¡No... No me lo puedo creer!</b> <i>Atacasteis nuestra capital, "
+"intentasteis robar una de nuestras reliquias sagradas, y después entrasteis en "
+"nuestras catacumbas y sin reparo matasteis a uno de nuestros líderes!</i> "
+"<b>¿Quiénes os habéis creído que sois?</b>"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:298
@@ -12972,7 +12972,7 @@ msgstr "5"
 #. [scenario]: id=17_Siege_of_Kharos
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:5
 msgid "Siege of Kharos"
-msgstr "Puertas de Caros"
+msgstr "Asedio de Caros"
 
 #. [side]: type=EoMa_Master_of_Darkness, id=Master
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:62
@@ -17804,7 +17804,7 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:803
 msgid "It doesn't. Your ultimate circle translates its voice for you."
-msgstr "No lo habla. Vuestro círculo definitivo os traduce su voz."
+msgstr "No es cierto. En realidad, vuestro círculo definitivo os traduce su voz."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:808
