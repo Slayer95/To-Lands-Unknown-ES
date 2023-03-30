@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-30 05:25 UTC\n"
+"POT-Creation-Date: 2023-03-30 07:37 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,7 +125,7 @@ msgstr ""
 #. [value]: id=metamorph
 #: TLU\macros\abilities.cfg:7
 #: TLU\macros\items.cfg:777
-#: TLU\scenarios\08_Ka-gatta.cfg:1636
+#: TLU\scenarios\08_Ka-gatta.cfg:1603
 msgid "metamorph"
 msgstr ""
 
@@ -551,13 +551,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:317
-#: TLU\scenarios\08_Ka-gatta.cfg:719
+#: TLU\scenarios\08_Ka-gatta.cfg:686
 msgid "carpet^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:321
-#: TLU\scenarios\08_Ka-gatta.cfg:721
+#: TLU\scenarios\08_Ka-gatta.cfg:688
 msgid "Golden Carpet"
 msgstr ""
 
@@ -570,13 +570,13 @@ msgstr ""
 
 #. [value]: id=gcarpet
 #: TLU\macros\items.cfg:350
-#: TLU\scenarios\08_Ka-gatta.cfg:754
+#: TLU\scenarios\08_Ka-gatta.cfg:721
 msgid "golden carpet"
 msgstr ""
 
 #. [value]: id=gcarpet
 #: TLU\macros\items.cfg:351
-#: TLU\scenarios\08_Ka-gatta.cfg:755
+#: TLU\scenarios\08_Ka-gatta.cfg:722
 msgid ""
 "This unit flies on the ancient Golden Carpet.\n"
 "\n"
@@ -592,13 +592,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:412
-#: TLU\scenarios\08_Ka-gatta.cfg:863
+#: TLU\scenarios\08_Ka-gatta.cfg:830
 msgid "cloak^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:416
-#: TLU\scenarios\08_Ka-gatta.cfg:865
+#: TLU\scenarios\08_Ka-gatta.cfg:832
 msgid "Desert Cloak"
 msgstr ""
 
@@ -612,13 +612,13 @@ msgstr ""
 
 #. [value]: id=dcloak
 #: TLU\macros\items.cfg:449
-#: TLU\scenarios\08_Ka-gatta.cfg:901
+#: TLU\scenarios\08_Ka-gatta.cfg:868
 msgid "desert cloak"
 msgstr ""
 
 #. [value]: id=dcloak
 #: TLU\macros\items.cfg:450
-#: TLU\scenarios\08_Ka-gatta.cfg:902
+#: TLU\scenarios\08_Ka-gatta.cfg:869
 msgid ""
 "This unit wears the famous Desert Cloak of ancients.\n"
 "\n"
@@ -634,7 +634,7 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:511
-#: TLU\scenarios\08_Ka-gatta.cfg:1332
+#: TLU\scenarios\08_Ka-gatta.cfg:1299
 msgid "spear^Take it"
 msgstr ""
 
@@ -654,7 +654,7 @@ msgstr ""
 
 #. [value]: id=spearrhami
 #: TLU\macros\items.cfg:577
-#: TLU\scenarios\08_Ka-gatta.cfg:1399
+#: TLU\scenarios\08_Ka-gatta.cfg:1366
 msgid "spear of rhami"
 msgstr ""
 
@@ -676,13 +676,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:640
-#: TLU\scenarios\08_Ka-gatta.cfg:1500
+#: TLU\scenarios\08_Ka-gatta.cfg:1467
 msgid "collar^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:644
-#: TLU\scenarios\08_Ka-gatta.cfg:1502
+#: TLU\scenarios\08_Ka-gatta.cfg:1469
 msgid "Collar of Recall"
 msgstr ""
 
@@ -697,7 +697,7 @@ msgstr ""
 
 #. [value]: id=collar
 #: TLU\macros\items.cfg:679
-#: TLU\scenarios\08_Ka-gatta.cfg:1548
+#: TLU\scenarios\08_Ka-gatta.cfg:1515
 msgid "collar"
 msgstr ""
 
@@ -714,13 +714,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:743
-#: TLU\scenarios\08_Ka-gatta.cfg:1586
+#: TLU\scenarios\08_Ka-gatta.cfg:1553
 msgid "amulet^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:747
-#: TLU\scenarios\08_Ka-gatta.cfg:1588
+#: TLU\scenarios\08_Ka-gatta.cfg:1555
 msgid "Amulet of Metamorph"
 msgstr ""
 
@@ -734,7 +734,7 @@ msgstr ""
 
 #. [value]: id=metamorph
 #: TLU\macros\items.cfg:778
-#: TLU\scenarios\08_Ka-gatta.cfg:1637
+#: TLU\scenarios\08_Ka-gatta.cfg:1604
 msgid ""
 "This elemental wears the Amulet of Metamorph.\n"
 "\n"
@@ -751,13 +751,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:857
-#: TLU\scenarios\08_Ka-gatta.cfg:1257
+#: TLU\scenarios\08_Ka-gatta.cfg:1224
 msgid "armor^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:861
-#: TLU\scenarios\08_Ka-gatta.cfg:1259
+#: TLU\scenarios\08_Ka-gatta.cfg:1226
 msgid "Cuirass of the Ancients"
 msgstr ""
 
@@ -779,19 +779,19 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:947
-#: TLU\scenarios\08_Ka-gatta.cfg:1651
+#: TLU\scenarios\08_Ka-gatta.cfg:1618
 msgid "staff^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:951
-#: TLU\scenarios\08_Ka-gatta.cfg:1653
+#: TLU\scenarios\08_Ka-gatta.cfg:1620
 msgid "Banishment Staff"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:954
-#: TLU\scenarios\08_Ka-gatta.cfg:1656
+#: TLU\scenarios\08_Ka-gatta.cfg:1623
 msgid ""
 "- Advances the unit (unless the unit is already at maximum level)\n"
 "- the banishment attack never misses\n"
@@ -801,13 +801,13 @@ msgstr ""
 
 #. [value]: id=staffbanisher
 #: TLU\macros\items.cfg:1014
-#: TLU\scenarios\08_Ka-gatta.cfg:1720
+#: TLU\scenarios\08_Ka-gatta.cfg:1687
 msgid "banishment staff"
 msgstr ""
 
 #. [value]: id=staffbanisher
 #: TLU\macros\items.cfg:1015
-#: TLU\scenarios\08_Ka-gatta.cfg:1721
+#: TLU\scenarios\08_Ka-gatta.cfg:1688
 msgid ""
 "This unit is holding a powerful staff which once belonging to the first Master of Banishers.\n"
 "\n"
@@ -825,13 +825,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:1078
-#: TLU\scenarios\08_Ka-gatta.cfg:812
+#: TLU\scenarios\08_Ka-gatta.cfg:779
 msgid "ring^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:1082
-#: TLU\scenarios\08_Ka-gatta.cfg:814
+#: TLU\scenarios\08_Ka-gatta.cfg:781
 msgid "Ring of Regeneration"
 msgstr ""
 
@@ -844,7 +844,7 @@ msgstr ""
 
 #. [value]: id=regenring
 #: TLU\macros\items.cfg:1110
-#: TLU\scenarios\08_Ka-gatta.cfg:847
+#: TLU\scenarios\08_Ka-gatta.cfg:814
 msgid "ring of regeneration"
 msgstr ""
 
@@ -865,19 +865,19 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: TLU\macros\items.cfg:1171
-#: TLU\scenarios\08_Ka-gatta.cfg:923
+#: TLU\scenarios\08_Ka-gatta.cfg:890
 msgid "cap^Take it"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:1175
-#: TLU\scenarios\08_Ka-gatta.cfg:925
+#: TLU\scenarios\08_Ka-gatta.cfg:892
 msgid "Cap of Power"
 msgstr ""
 
 #. [object]
 #: TLU\macros\items.cfg:1178
-#: TLU\scenarios\08_Ka-gatta.cfg:928
+#: TLU\scenarios\08_Ka-gatta.cfg:895
 msgid ""
 "Increases magical power by 20%\n"
 "Decreases experience points needed for advancement by 25%"
@@ -885,13 +885,13 @@ msgstr ""
 
 #. [value]: id=capofpower
 #: TLU\macros\items.cfg:1231
-#: TLU\scenarios\08_Ka-gatta.cfg:981
+#: TLU\scenarios\08_Ka-gatta.cfg:948
 msgid "cap of power"
 msgstr ""
 
 #. [value]: id=capofpower
 #: TLU\macros\items.cfg:1232
-#: TLU\scenarios\08_Ka-gatta.cfg:982
+#: TLU\scenarios\08_Ka-gatta.cfg:949
 msgid ""
 "This unit wears a magical cap, which enhances its magical power.\n"
 "\n"
@@ -2694,7 +2694,7 @@ msgstr ""
 #: TLU\scenarios\04_Southern_Nations.cfg:1641
 #: TLU\scenarios\06_Fire_Canyon.cfg:217
 #: TLU\scenarios\06_Fire_Canyon.cfg:602
-#: TLU\scenarios\08_Ka-gatta.cfg:460
+#: TLU\scenarios\08_Ka-gatta.cfg:427
 #: TLU\scenarios\09_Goddess_of_All_Rhamis.cfg:253
 #: TLU\scenarios\10_Chaos.cfg:336
 #: TLU\scenarios\10_Chaos.cfg:674
@@ -2964,7 +2964,7 @@ msgstr ""
 #. [event]: id=Ghost
 #: TLU\scenarios\01_Highest_Tiers.cfg:1025
 #: TLU\scenarios\02_Central_Palace.cfg:121
-#: TLU\scenarios\08_Ka-gatta.cfg:1023
+#: TLU\scenarios\08_Ka-gatta.cfg:990
 msgid "Samir"
 msgstr ""
 
@@ -5359,153 +5359,143 @@ msgstr ""
 msgid "This unit is blessed by the artifact it's guarding: the spear of the first Rhami'Kai."
 msgstr ""
 
-#. [object]: id=harder_lvlup_amla
-#: TLU\scenarios\08_Ka-gatta.cfg:256
-msgid "HARDER LVLUP AMLA"
-msgstr ""
-
-#. [object]: id=harder_lvlup_amla
-#: TLU\scenarios\08_Ka-gatta.cfg:259
-msgid "Harder Lvl-Up AMLA (Test)"
-msgstr ""
-
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:394
+#: TLU\scenarios\08_Ka-gatta.cfg:361
 msgid "Here lies Ibrahim, the founder of the school of banishment, and the first Master of Banishers. May he rest in peace."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:395
+#: TLU\scenarios\08_Ka-gatta.cfg:362
 msgid "Here lies Samir, summoner of the mighty Rashti'rhami, and her first master. May he rest in peace."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:400
+#: TLU\scenarios\08_Ka-gatta.cfg:367
 msgid "Seems his rest was far from peaceful, considering we've just fought the man's ghost."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:405
+#: TLU\scenarios\08_Ka-gatta.cfg:372
 msgid "Here lies Khayyat, an unmatched enchanter, and inventor of the megacircle. Alas, he met an untimely end. May he rest in peace."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:406
+#: TLU\scenarios\08_Ka-gatta.cfg:373
 msgid "*this statue is damaged to the point that the inscription on it has become illegible.*"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:409
+#: TLU\scenarios\08_Ka-gatta.cfg:376
 msgid "Well, this piece of art certainly seen better days..."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:412
+#: TLU\scenarios\08_Ka-gatta.cfg:379
 msgid "*crude text, likely written by some adventurer* <span font-style='italic' font-weight='bold'>I warn you, don't go further! You'll only find your demise there! Do not touch the...</span> *the writing ends with a blood stain*"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:415
+#: TLU\scenarios\08_Ka-gatta.cfg:382
 msgid "Looks like this fellow died before being able to finish his warning. Yikes!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:433
+#: TLU\scenarios\08_Ka-gatta.cfg:400
 msgid "So this is our old homeland... It gives me the creeps..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:437
+#: TLU\scenarios\08_Ka-gatta.cfg:404
 msgid "I can see skeletons scattered near the entrance. They seem to be quite old, clearly not belonging to Tashkar’s expedition. They must have been unfortunate adventurers seeking treasures..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:441
+#: TLU\scenarios\08_Ka-gatta.cfg:408
 msgid "As far as I can see, there are no traces of Tashkar or his troops around here. They must have been in too much of a hurry to explore the place. Nevertheless, we should make a thorough search. Maybe we will find some clues or treasures. The skeletons may be worth looting too..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\08_Ka-gatta.cfg:446
+#: TLU\scenarios\08_Ka-gatta.cfg:413
 msgid "Note: Mehir has become a Grand Summoner. He can now recruit a wider range of units and, as explained in the previous scenario, is capable of summoning basic elementals."
 msgstr ""
 
 #. [objective]: condition=win
-#: TLU\scenarios\08_Ka-gatta.cfg:452
+#: TLU\scenarios\08_Ka-gatta.cfg:419
 msgid "Move to the next chamber"
 msgstr ""
 
 #. [objective]: condition=win
-#: TLU\scenarios\08_Ka-gatta.cfg:456
+#: TLU\scenarios\08_Ka-gatta.cfg:423
 msgid "(optional) Search the caves for treasure"
 msgstr ""
 
 #. [objectives]
-#: TLU\scenarios\08_Ka-gatta.cfg:469
+#: TLU\scenarios\08_Ka-gatta.cfg:436
 msgid ""
 "-You can get a bit of extra gold by looting the skeletons lying on the ground.\n"
 "-Explore as much as possible. The items found in this scenario will be quite useful later on."
 msgstr ""
 
 #. [message]: speaker=scout
-#: TLU\scenarios\08_Ka-gatta.cfg:491
+#: TLU\scenarios\08_Ka-gatta.cfg:458
 msgid "Sir, I've scouted the area. These caves are infested with rogue elementals, and are home for dangerous creatures like bats and giant spiders. It would be reasonable to proceed with caution..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:495
+#: TLU\scenarios\08_Ka-gatta.cfg:462
 msgid "I'll keep that in mind, thanks."
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:529
+#: TLU\scenarios\08_Ka-gatta.cfg:496
 msgid "Found some gold:"
 msgstr ""
 
 #. [modify_side]
-#: TLU\scenarios\08_Ka-gatta.cfg:609
+#: TLU\scenarios\08_Ka-gatta.cfg:576
 msgid "Guardians"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:615
+#: TLU\scenarios\08_Ka-gatta.cfg:582
 msgid "We’ve awoken BATS!"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:631
+#: TLU\scenarios\08_Ka-gatta.cfg:598
 msgid "scimitar^Take it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:631
+#: TLU\scenarios\08_Ka-gatta.cfg:598
 msgid "scimitar^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:631
-#: TLU\scenarios\08_Ka-gatta.cfg:923
+#: TLU\scenarios\08_Ka-gatta.cfg:598
+#: TLU\scenarios\08_Ka-gatta.cfg:890
 msgid "Only a summoner can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:633
+#: TLU\scenarios\08_Ka-gatta.cfg:600
 msgid "Ancient Scimitar"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:636
+#: TLU\scenarios\08_Ka-gatta.cfg:603
 msgid "Scimitar damage increased by 100%, and the weapon becomes magical (always 70% chance to hit)"
 msgstr ""
 
 #. [effect]
 #. [value]: id=mscimitar
-#: TLU\scenarios\08_Ka-gatta.cfg:647
-#: TLU\scenarios\08_Ka-gatta.cfg:673
+#: TLU\scenarios\08_Ka-gatta.cfg:614
+#: TLU\scenarios\08_Ka-gatta.cfg:640
 msgid "ancient scimitar"
 msgstr ""
 
 #. [value]: id=mscimitar
-#: TLU\scenarios\08_Ka-gatta.cfg:674
+#: TLU\scenarios\08_Ka-gatta.cfg:641
 msgid ""
 "This unit holds a powerful scimitar.\n"
 "Effects:\n"
@@ -5513,79 +5503,79 @@ msgid ""
 msgstr ""
 
 #. [message]: type=EoMa_HoRhami
-#: TLU\scenarios\08_Ka-gatta.cfg:693
+#: TLU\scenarios\08_Ka-gatta.cfg:660
 msgid "Those who dare touch the scimitar..."
 msgstr ""
 
 #. [message]: type=EoMa_DharmaRhami
-#: TLU\scenarios\08_Ka-gatta.cfg:697
+#: TLU\scenarios\08_Ka-gatta.cfg:664
 msgid "...MUST DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:702
+#: TLU\scenarios\08_Ka-gatta.cfg:669
 msgid "Err... can't we negotiate? There's no need for violence!"
 msgstr ""
 
 #. [message]: type=EoMa_HoRhami
-#: TLU\scenarios\08_Ka-gatta.cfg:709
+#: TLU\scenarios\08_Ka-gatta.cfg:676
 msgid "Have we not made our point clear enough, mortal? When we want someone dead, there will be no negotiations!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:713
+#: TLU\scenarios\08_Ka-gatta.cfg:680
 msgid "Damn it! I guess we have no choice now. Men, defensive formation!"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:719
+#: TLU\scenarios\08_Ka-gatta.cfg:686
 msgid "carpet^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:719
+#: TLU\scenarios\08_Ka-gatta.cfg:686
 msgid "Only the carpet rider can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:724
+#: TLU\scenarios\08_Ka-gatta.cfg:691
 msgid ""
 "Advances the unit (unless the unit is already at maximum level)\n"
 "Speed increases by 50%"
 msgstr ""
 
 #. [message]: race=eoma_summoner
-#: TLU\scenarios\08_Ka-gatta.cfg:783
+#: TLU\scenarios\08_Ka-gatta.cfg:750
 msgid "I’ve found a chest full of gold!"
 msgstr ""
 
 #. [message]
-#: TLU\scenarios\08_Ka-gatta.cfg:789
+#: TLU\scenarios\08_Ka-gatta.cfg:756
 msgid "My liege, I’ve found a chest full of gold!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:795
+#: TLU\scenarios\08_Ka-gatta.cfg:762
 msgid "300 gold"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:812
+#: TLU\scenarios\08_Ka-gatta.cfg:779
 msgid "ring^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:812
+#: TLU\scenarios\08_Ka-gatta.cfg:779
 msgid "Only a human can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:817
+#: TLU\scenarios\08_Ka-gatta.cfg:784
 msgid "This ring will heal the bearer by 8 hitpoints each turn."
 msgstr ""
 
 #. [value]: id=regenring
-#: TLU\scenarios\08_Ka-gatta.cfg:848
+#: TLU\scenarios\08_Ka-gatta.cfg:815
 msgid ""
 "This unit wears the Ring of Regeneration.\n"
 "\n"
@@ -5594,109 +5584,109 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:863
+#: TLU\scenarios\08_Ka-gatta.cfg:830
 msgid "cloak^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:863
+#: TLU\scenarios\08_Ka-gatta.cfg:830
 msgid "Only a camel rider (or his advancements) can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:868
+#: TLU\scenarios\08_Ka-gatta.cfg:835
 msgid ""
 "Advances the unit (unless the unit is already at maximum level)\n"
 "Grants 50% fire resistance"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:923
+#: TLU\scenarios\08_Ka-gatta.cfg:890
 msgid "cap^Leave it"
 msgstr ""
 
 #. [message]: speaker=Ghost
-#: TLU\scenarios\08_Ka-gatta.cfg:1028
+#: TLU\scenarios\08_Ka-gatta.cfg:995
 msgid "Who... who is here? Where am I?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1033
+#: TLU\scenarios\08_Ka-gatta.cfg:1000
 msgid "A ghost? That's something new..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1039
+#: TLU\scenarios\08_Ka-gatta.cfg:1006
 msgid "EEEEEK! A GHOST!!!"
 msgstr ""
 
 #. [message]: speaker=Ghost
-#: TLU\scenarios\08_Ka-gatta.cfg:1044
+#: TLU\scenarios\08_Ka-gatta.cfg:1011
 msgid "Rashti, is that you? Do you remember me, your first master? So many centuries have passed..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1049
+#: TLU\scenarios\08_Ka-gatta.cfg:1016
 msgid "Listen grandpa, I don't know who are you talking to but you'd better rest."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1055
+#: TLU\scenarios\08_Ka-gatta.cfg:1022
 msgid "Wh..what? Err... I think he might be lost in his memories of mortal life..."
 msgstr ""
 
 #. [message]: speaker=Ghost
-#: TLU\scenarios\08_Ka-gatta.cfg:1060
+#: TLU\scenarios\08_Ka-gatta.cfg:1027
 msgid "Who are these people with you? Why are you fading away? Rashti? RASHTI?! Wait... you are not Rashti... She is here but not with you. You took her from me! You... YOU!!! DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1072
+#: TLU\scenarios\08_Ka-gatta.cfg:1039
 msgid "I guess we pissed him off. He must be one of those ancient summoners the Instructor told me about in Sud-Affar..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1077
+#: TLU\scenarios\08_Ka-gatta.cfg:1044
 msgid "Another maniac... It's time to make him rest in peace ...for good this time."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1082
+#: TLU\scenarios\08_Ka-gatta.cfg:1049
 msgid "We have to put him down somehow. I wonder how this can be done. He is dead already... Maybe we can destroy the circle with magic?"
 msgstr ""
 
 #. [message]: speaker=Ghost
-#: TLU\scenarios\08_Ka-gatta.cfg:1161
+#: TLU\scenarios\08_Ka-gatta.cfg:1128
 msgid "Now I see it... She has chosen you. Treat her well... She is the Golden Lady..."
 msgstr ""
 
 #. [message]: speaker=Ghost
-#: TLU\scenarios\08_Ka-gatta.cfg:1180
+#: TLU\scenarios\08_Ka-gatta.cfg:1147
 msgid "My magical servants, you may return to the Abyss! Farewell, stranger, and thank you for releasing me from this prison..."
 msgstr ""
 
 #. [message]: speaker=Ghost
-#: TLU\scenarios\08_Ka-gatta.cfg:1231
+#: TLU\scenarios\08_Ka-gatta.cfg:1198
 msgid "Farewell, stranger, and thank you for releasing me from this prison..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1245
+#: TLU\scenarios\08_Ka-gatta.cfg:1212
 msgid "That was very weird, but he's gone now! Phew! I wonder what he meant, though..."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1257
+#: TLU\scenarios\08_Ka-gatta.cfg:1224
 msgid "armor^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1257
+#: TLU\scenarios\08_Ka-gatta.cfg:1224
 msgid "Only humans can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:1262
+#: TLU\scenarios\08_Ka-gatta.cfg:1229
 msgid ""
 "Increases physical resistances by 25%\n"
 "Increases fire and cold resistances by 20%\n"
@@ -5704,17 +5694,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\08_Ka-gatta.cfg:1295
+#: TLU\scenarios\08_Ka-gatta.cfg:1262
 msgid "The ground is shaking..."
 msgstr ""
 
 #. [value]: id=cota
-#: TLU\scenarios\08_Ka-gatta.cfg:1312
+#: TLU\scenarios\08_Ka-gatta.cfg:1279
 msgid "ancient cuirass"
 msgstr ""
 
 #. [value]: id=cota
-#: TLU\scenarios\08_Ka-gatta.cfg:1313
+#: TLU\scenarios\08_Ka-gatta.cfg:1280
 msgid ""
 "This unit is wearing a powerful armor, which grants additional physical resistance, but also increases susceptibility to arcane damage.\n"
 "\n"
@@ -5725,22 +5715,22 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1332
+#: TLU\scenarios\08_Ka-gatta.cfg:1299
 msgid "spear^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1332
+#: TLU\scenarios\08_Ka-gatta.cfg:1299
 msgid "Only a Rhami or Rhami’kai can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:1334
+#: TLU\scenarios\08_Ka-gatta.cfg:1301
 msgid "Spear of the Rhami"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:1337
+#: TLU\scenarios\08_Ka-gatta.cfg:1304
 msgid ""
 "Advances the unit (unless the unit is already at maximum level)\n"
 "Increases the attack by 25%\n"
@@ -5748,7 +5738,7 @@ msgid ""
 msgstr ""
 
 #. [value]: id=spearrhami
-#: TLU\scenarios\08_Ka-gatta.cfg:1400
+#: TLU\scenarios\08_Ka-gatta.cfg:1367
 msgid ""
 "This unit is holding a powerful spear of abysmal origin.\n"
 "\n"
@@ -5757,82 +5747,82 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1425
+#: TLU\scenarios\08_Ka-gatta.cfg:1392
 msgid "Creature! Why are you attacking us?! Don't you see we are Summoners? Who is your master? Answer me, now!"
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: TLU\scenarios\08_Ka-gatta.cfg:1429
+#: TLU\scenarios\08_Ka-gatta.cfg:1396
 msgid "I bow before no man. The only being I serve is the the Holy Rashti'rhami - the goddess of all Rhamis. It was her who, 392 years ago, ordered me to protect the Spear of the First Rhami'kai. There are only two ways I can be released from this post - either by her order, or by being defeated in battle. And if to achieve the latter I have to attack every treasure hunter that steps foot in this place, so be it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1434
+#: TLU\scenarios\08_Ka-gatta.cfg:1401
 msgid "Hmmm.... (lies) We were looking for you. You see, I am a messenger sent by Rashti herself. She ordered me to... err.. find you and release you from your post. Yes, she was too busy to do this in person. After all, being the queen of the Abyss, she has more important matters to attend to than looking for another dusty guardian in a forgotten cave."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1438
+#: TLU\scenarios\08_Ka-gatta.cfg:1405
 msgid "So here I am. By the order of Rashti'rhami herself, you are relieved!"
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: TLU\scenarios\08_Ka-gatta.cfg:1442
+#: TLU\scenarios\08_Ka-gatta.cfg:1409
 msgid "(with excitement in her voice) Really? Thank you so much! Since I am free now, can I join you?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1446
+#: TLU\scenarios\08_Ka-gatta.cfg:1413
 msgid "Yeah, why not? By the way, could you do something about those elemental guardians? They've been quite an annoyance so far."
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: TLU\scenarios\08_Ka-gatta.cfg:1451
+#: TLU\scenarios\08_Ka-gatta.cfg:1418
 msgid "They will not attack you when I am on your side."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1459
+#: TLU\scenarios\08_Ka-gatta.cfg:1426
 msgid "Nice! Could you also convince them to join us? A few Earth Gods would certainly come in handy..."
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: TLU\scenarios\08_Ka-gatta.cfg:1463
+#: TLU\scenarios\08_Ka-gatta.cfg:1430
 msgid "I am sorry, but they do not obey me. They were ordered to protect this place forever, and aren't mentally capable of taking orders from those other than their masters."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1467
+#: TLU\scenarios\08_Ka-gatta.cfg:1434
 msgid "I see. At least we can count on you, hehe..."
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: TLU\scenarios\08_Ka-gatta.cfg:1472
+#: TLU\scenarios\08_Ka-gatta.cfg:1439
 msgid "To give you a reason to fulfill my demand, if you defeat me, you shall prove yourselves worthy of wielding this sacred relic of our kind."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1476
+#: TLU\scenarios\08_Ka-gatta.cfg:1443
 msgid "Alright men, you heard her. Time to earn ourselves a legendary spear!"
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: TLU\scenarios\08_Ka-gatta.cfg:1491
+#: TLU\scenarios\08_Ka-gatta.cfg:1458
 msgid "She was right, you are worthy..."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1500
+#: TLU\scenarios\08_Ka-gatta.cfg:1467
 msgid "collar^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1500
+#: TLU\scenarios\08_Ka-gatta.cfg:1467
 msgid "Only a magical entity can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:1505
+#: TLU\scenarios\08_Ka-gatta.cfg:1472
 msgid ""
 "The unit is recalled back to the leader when dies\n"
 "After each recall the unit becomes stronger\n"
@@ -5840,70 +5830,70 @@ msgid ""
 msgstr ""
 
 #. [value]: id=collar
-#: TLU\scenarios\08_Ka-gatta.cfg:1549
+#: TLU\scenarios\08_Ka-gatta.cfg:1516
 msgid "After death the unit is recalled back to the leader. Activates only 3 times."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1586
+#: TLU\scenarios\08_Ka-gatta.cfg:1553
 msgid "amulet^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1586
+#: TLU\scenarios\08_Ka-gatta.cfg:1553
 msgid "Only the elemental entity can use this item!"
 msgstr ""
 
 #. [object]
-#: TLU\scenarios\08_Ka-gatta.cfg:1591
+#: TLU\scenarios\08_Ka-gatta.cfg:1558
 msgid "The elemental unit can turn into another elemental (use right-click on the unit to activate)"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1651
+#: TLU\scenarios\08_Ka-gatta.cfg:1618
 msgid "staff^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: TLU\scenarios\08_Ka-gatta.cfg:1651
+#: TLU\scenarios\08_Ka-gatta.cfg:1618
 msgid "Only a Novice Summoner, Dispeller or Banisher can use this item!"
 msgstr ""
 
 #. [message]: race=eoma_summoner
-#: TLU\scenarios\08_Ka-gatta.cfg:1747
-#: TLU\scenarios\08_Ka-gatta.cfg:1816
+#: TLU\scenarios\08_Ka-gatta.cfg:1714
+#: TLU\scenarios\08_Ka-gatta.cfg:1783
 msgid "Sir, there's some kind of lever here..."
 msgstr ""
 
 #. [message]: type=EoMa_Rhami,EoMa_RhamiDatu,EoMa_RhamiKai,EoMa_HoRhami,EoMa_DharmaRhami
-#: TLU\scenarios\08_Ka-gatta.cfg:1752
-#: TLU\scenarios\08_Ka-gatta.cfg:1786
-#: TLU\scenarios\08_Ka-gatta.cfg:1821
+#: TLU\scenarios\08_Ka-gatta.cfg:1719
+#: TLU\scenarios\08_Ka-gatta.cfg:1753
+#: TLU\scenarios\08_Ka-gatta.cfg:1788
 msgid "Master, I found some kind of lever..."
 msgstr ""
 
 #. [message]: race=eoma_summoner
-#: TLU\scenarios\08_Ka-gatta.cfg:1781
+#: TLU\scenarios\08_Ka-gatta.cfg:1748
 msgid "There's some kind of lever here, sir..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1913
+#: TLU\scenarios\08_Ka-gatta.cfg:1880
 msgid "We unlocked them! Maybe we should check the tunnels located near those levers? I heard some kind of quakes nearby. Maybe these levers do more than just closing gates..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:1927
+#: TLU\scenarios\08_Ka-gatta.cfg:1894
 msgid "It seems Tashkar and his troops left this area. Still, I wonder what was the point of his whole expedition..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:2138
+#: TLU\scenarios\08_Ka-gatta.cfg:2105
 msgid "These must be the ancient guardians of this place. They were awakened by Tashkar, but why? This is not good. But the worst thing is, they won't listen to us. I fear we will have to fight our way through..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\08_Ka-gatta.cfg:2173
+#: TLU\scenarios\08_Ka-gatta.cfg:2140
 msgid ""
 "You have managed to acquire a 'Dimensional Gate'. These special units can be transformed into real magical beings by consuming souls of living creatures. You will learn more about the usage of Dimensional Gates later in the story.\n"
 "\n"
@@ -5911,20 +5901,20 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:2189
+#: TLU\scenarios\08_Ka-gatta.cfg:2156
 msgid "Aaaaah! The caves are collapsing!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:2254
-#: TLU\scenarios\08_Ka-gatta.cfg:2259
-#: TLU\scenarios\08_Ka-gatta.cfg:2264
-#: TLU\scenarios\08_Ka-gatta.cfg:2269
+#: TLU\scenarios\08_Ka-gatta.cfg:2221
+#: TLU\scenarios\08_Ka-gatta.cfg:2226
+#: TLU\scenarios\08_Ka-gatta.cfg:2231
+#: TLU\scenarios\08_Ka-gatta.cfg:2236
 msgid "Test"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\08_Ka-gatta.cfg:2274
+#: TLU\scenarios\08_Ka-gatta.cfg:2241
 msgid "Test Badass"
 msgstr ""
 
