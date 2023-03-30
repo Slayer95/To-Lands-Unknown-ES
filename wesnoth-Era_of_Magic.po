@@ -878,7 +878,7 @@ msgstr ""
 "misteriosas criaturas frotan su rugosa piel, esta puede soltar chispas que "
 "prenden cualquier material inflamable que se encuentre a su alcance. De este "
 "modo, con un chasquido de sus dedos, los trolls pueden inflamar pequeños "
-"fardos de paja que mantienen entre sus manos antes de arrojarselos a sus "
+"fardos de paja que mantienen entre sus manos antes de arrojárselos a sus "
 "enemigos. Es tanta la sobrenatural puntería de los hechiceros trolls que, no "
 "importa dónde se pueda estar escondiendo su objetivo, que lo encontrarán."
 
@@ -974,9 +974,9 @@ msgstr ""
 "calma de la noche o desde las sombras. Aparte de las garras de muñeca, usan "
 "cuchillos arrojadizos cubiertos de veneno. Aquellos que sobreviven al "
 "encuentro con una salamandra negra, hablan historias de lucha contra lo que "
-"parecía ser un implacable demonio de ojos rojos. Sus habilidades, "
-"equipamiento, y apariencia infusora del terror, hacen de las Salamandras "
-"Negras unas oponentes cuya presencia no debe ser tomada a la ligera."
+"parecía ser un implacable demonio de ojos rojos. Debido a sus habilidades, "
+"equipamiento, y apariencia aterradora, las Salamandras "
+"Negras son unas oponentes cuya presencia no debe ser tomada a la ligera."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -1794,7 +1794,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Shamanistic_Toad, race=lizard, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Dark_Blood_Alliance/Toad_Shaman.cfg:4
 msgid "Toad Shaman"
-msgstr "Chamán de dapo"
+msgstr "Chamán de sapo"
 
 #. [unit_type]: id=EoMa_Double_Ranged_Toad, race=lizard, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Dark_Blood_Alliance/Twin_Archer_Toad.cfg:4
@@ -1961,9 +1961,9 @@ msgstr ""
 "inteligentes, invadida por los destructores hace miles de años. Cuando eso "
 "sucedió, todos los atokpis fueron asesinados y absorbidos por el ánima "
 "destructiva. Su infantería es bastante formidable, con tropas capaces de "
-"llevar una gran variedad de armas a la vez. Se rumorea que los atokpi fueron "
-"el objetivo que los destructores fueron creados para aniquilar, después de "
-"que los primeros intentaran invadir la Jungla de la Vida."
+"llevar una gran variedad de armas a la vez. Se rumorea que la aniquilación "
+"de los atokpi fue el objetivo para el cual los destructores fueron creados, "
+"después de que los primeros intentaran invadir la Jungla de la Vida."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Destroyers/Atokpi.cfg:53
@@ -2112,7 +2112,7 @@ msgstr ""
 "Estas extrañas criaturas son construcciones animadas, aunque inconscientes, "
 "hechas de los huesos de múltiples esqueletos. Tienen un rasgo interesante "
 "que los resalta sobre otros destructores esqueléticos: su tendencia a "
-"absorber los huesos de sus enemigos caídos, haciéndolos parte de us gran "
+"absorber los huesos de sus enemigos caídos, haciéndolos parte de su gran "
 "coraza esquelética. Cuando han absorbido el suficiente material óseo, pueden "
 "convertirse en terribles gigantes no muertos de inimaginable fortaleza "
 "física y durabilidad. Gracias a sus gruesas capas de huesos, las bestias de "
@@ -2164,7 +2164,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Bone_Golem, race=undead
 #: Era_of_Magic/units/Destroyers/Bone_Golem.cfg:4
 msgid "Bone Golem"
-msgstr "Golem de hueso"
+msgstr "Gólem de hueso"
 
 #. [unit_type]: id=EoMa_Bone_Golem, race=undead
 #: Era_of_Magic/units/Destroyers/Bone_Golem.cfg:25
@@ -2506,21 +2506,21 @@ msgid ""
 msgstr ""
 "El siguiente extracto ha sido compilado por el golem XTC1-3 del lugar de "
 "excavación 3, propiedad del cartógrafo Silos:\n"
-"-(...) de lo más inusual. La carne muerta subordinada (...) animado usando "
-"(...) (¿nuevo?) (...) útil. Mucha (¿inteligencia?) más fácil.\n"
-"- Nuevo (...) (¿hito?). La nigromancia reina (¿un supremo?) arte oscuro. "
-"Artesanos de carne viva (¿se inclinarán ante?) nuestros thrulls (...).\n"
-"- Los destruyeron. Pero ellos no (...). Sin control. Es (...) la conciencia. "
-"Nosotros (¿no podemos?) (...).\n"
-"- Los altos brujos tienen (¿barricadas?) dentro (...). Población (...) sola. "
-"(...) matanza. (¿debe?) huir. (¿Rey?) huyó por la (...) puerta. (...) "
-"colapso (...).\n"
-"- Batalla perdida (...). Ellos (¿son?) legión. Ellos (¿no?) se detienen. "
-"Ellos (¿sólo?) destruyen. Todos destruyen. (...) prevalece el primer mando "
-"(...). Qué (¿hemos?) hecho. (...)fallo (...).\n"
-"- Comparten (...) mente. (...) no nigromancia (...). No se enfrenten (...) "
-"crecerá (...) más inteligencia. No repitas (....). Si (¿lees?) huye. Tú "
-"(...) condenado."
+"-[...] de lo más inusual. La carne muerta subordinada [...] animada usando "
+"[...] (¿nuevo?) [...] útil. Mucha (¿inteligencia?) más fácil.\n"
+"- Nuevo [...] (¿hito?). La nigromancia reina (¿un supremo?) arte oscuro. "
+"Artesanos de carne viva (¿se inclinarán ante?) nuestros thrulls [...].\n"
+"- Los destruyeron. Pero ellos no [...]. Sin control. Es [...] la conciencia. "
+"Nosotros (¿no podemos?) [...]\n"
+"- Los altos brujos tienen (¿barricadas?) dentro [...]. Población [...] sola. "
+"[...] matanza. (¿debe?) huir. (¿Rey?) huyó por la [...] puerta. [...] "
+"colapso [...]\n"
+"- Batalla perdida [...] Ellos (¿son?) legión. Ellos (¿no?) se detienen. "
+"Ellos (¿sólo?) destruyen. Todos destruyen. [...] prevalece el primer mando "
+"[...]. Qué (¿hemos?) hecho. [...] fracaso [...]\n"
+"- Comparten [...] mente. [...] no nigromancia [...]. No se enfrenten [...] "
+"crecerá [...] más inteligencia. No repitas [...] Si (¿lees?) huye. Tú "
+"[...] condenado."
 
 #. [abilities]
 #: Era_of_Magic/units/Destroyers/Fallen_Cyclops_King.cfg:64
@@ -3059,7 +3059,7 @@ msgstr "flecha sagrada"
 #. [unit_type]: id=EoMa_Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/Kharos_War_Banner.cfg:4
 msgid "Kharos War Banner"
-msgstr "Estandandarte de Caros"
+msgstr "Estandarte de Caros"
 
 #. [unit_type]: id=EoMa_Kharosian_Bulwark, race=human, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Kharos/Kharosian_Bulwark.cfg:4
@@ -3595,7 +3595,7 @@ msgstr "módulo de agilidad (+1 PM; golpear y huir 2, +1 HP máx)"
 #. [advancement]: id=eoma_dronezoc
 #: Era_of_Magic/units/Runemasters/Drone.cfg:82
 msgid "defense module (add zone of control and autorepair +6, +2 max hp)"
-msgstr "módulo de defensa (añade zona de control y auto-repara +6, +2 PVmáx)"
+msgstr "módulo de defensa (añade zona de control y autorrepara +6, +2 PV máx)"
 
 #. [advancement]: id=eoma_dronehp
 #: Era_of_Magic/units/Runemasters/Drone.cfg:115
@@ -3631,13 +3631,13 @@ msgstr ""
 "atención al detalle, para incluso imitar a los enanos hasta cierto punto, "
 "los zánganos son pequeños, simples y modulares autómatas con una apariencia "
 "parecida a arañas, diseñados específicamente para producción barata y en "
-"masa. Lo que carecen en fuerza, lo contraprestan con accesibilidad, ya que "
+"masa. Lo que carecen en fuerza, lo compensan con accesibilidad, ya que "
 "pueden ser fabricados sin mucha dificultad incluso en el taller del técnico "
 "medio, mientras que los ulfserkers de vapor requieren de enormes fábricas "
 "para su creación. Los zánganos no se tratan sólo de combatir, ya que se "
 "conoce que modelos no militares han sido usados como mascotas, conserjes, "
 "cajas de herramientas andantes y demás. La belleza de un zángano está en que "
-"puede ser modificado y reimaginado para prácticamente cualquier tarea, bien "
+"puede ser modificado y reinventado para prácticamente cualquier tarea, bien "
 "sea una máquina asesina o algo que querrías abrazar."
 
 #. [attack]: type=pierce
@@ -4163,8 +4163,8 @@ msgid ""
 "opponent in close combat, attacking in a furious frenzy that only ends when "
 "either one is dead."
 msgstr ""
-"Los ulfserker de vapor forman el frente de cualquier movimiento ofensivo "
-"serio. Blindados y armados con acero, atraviesan con facilidad las lineas de "
+"Los ulfserkers de vapor forman el frente de cualquier movimiento ofensivo "
+"serio. Blindados y armados con acero, atraviesan con facilidad las líneas de "
 "los oponentes, no dejando nada a sus espaldas cuando atacan. Como "
 "consecuencia, los oponentes se ven forzados a luchar cuerpo a cuerpo, "
 "recibiendo ataques con un frenesí furioso que solo acaban cuando uno de los "
@@ -4190,7 +4190,7 @@ msgstr ""
 "próxima máquina voladora. Incluso con armamento obsoleto, este vehículo "
 "inusual todavía se considera muy eficiente y fácil de mantener, lo que "
 "explica por qué todavía se produce en masa. En situaciones en las que los "
-"enanos tienen que actuar con rapidez, a menudo despliegan Steamcopters, ya "
+"enanos tienen que actuar con rapidez, a menudo despliegan vapocópteros, ya "
 "que están listos casi al instante si se mantienen bien."
 
 #. [unit_type]: id=EoMa_Striding_Machine, race=mechanical
@@ -4965,7 +4965,7 @@ msgstr ""
 "Los mu son el resultado de experimentos mágicos en goblins capturados. Son "
 "baratos de producir pero no son débiles. Usando implantes generadores de "
 "poderes poco convencionales, los mu son capaces de disparar bombardeos de "
-"pequeños misiles mágicos contra sus enemigos. Aún no siendo muy poderosos "
+"pequeños misiles mágicos contra sus enemigos. Aun no siendo muy poderosos "
 "por sí mismos, estas criaturas no son algo a infravalorar cuando se dan en "
 "gran número."
 
@@ -5170,7 +5170,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Terramancer, race=human, description={NO_DESCR_AVAILABLE}
 #: Era_of_Magic/units/Sky_Kingdom/Terramancer.cfg:4
 msgid "Terramancer"
-msgstr "Terramante"
+msgstr "Geomante"
 
 #. [unit_type]: id=EoMa_Um, race=monster
 #: Era_of_Magic/units/Sky_Kingdom/Um.cfg:4
@@ -6605,7 +6605,7 @@ msgid ""
 msgstr ""
 "Los bailarines de cuchillas taris son un tipo de tropas más bien "
 "excéntricas, luchando con chakram, y poseedores de potentes psicotrópicos "
-"con los que se previenen de sus propios instintos de auto-protección, "
+"con los que se previenen de sus propios instintos de autoprotección, "
 "resultando un estilo de lucha de baile frenético. Además, son bastante "
 "ágiles, por tanto fácilmente esquivan la mayor parte de los contraataques "
 "enemigos, aunque son más bien frágiles."
@@ -6696,7 +6696,7 @@ msgid ""
 "ability cannot, of itself, kill a unit. It will remain on a battlefield with "
 "1 HP instead."
 msgstr ""
-"Todas las unidades enemigas adyacentes reciben un daño igual al 15% of de "
+"Todas las unidades enemigas adyacentes reciben un daño igual al 15% del "
 "daño que infligen. Esta habilidad no puede, por sí misma, matar a una "
 "unidad. En su lugar, permanecerá en el campo de batalla con 1 PV."
 
@@ -6908,7 +6908,7 @@ msgid ""
 "They are noticeably more resilient than most, carrying two curved swords for "
 "melee combat and chakrams for ranged encounters."
 msgstr ""
-"A diferencia de la mayoría de las tropas Tharis, estos guerreros han sido "
+"A diferencia de la mayoría de las tropas Taris, estos guerreros han sido "
 "entrenados para el combate directo en lugar de tácticas furtivas como el "
 "veneno o técnicas de anti-contraataque.\n"
 "Son notablemente más resistentes que la mayoría, ya que llevan dos espadas "
@@ -7572,7 +7572,7 @@ msgstr ""
 #. [dummy]: id=eoma_antishield
 #: Era_of_Magic/utils/abilities.cfg:765
 msgid "anti-shield"
-msgstr "anti-escudo"
+msgstr "antiescudo"
 
 #. [dummy]: id=eoma_antishield
 #: Era_of_Magic/utils/abilities.cfg:766
@@ -7834,7 +7834,7 @@ msgstr ""
 #. [damage]: id=eoma_antimech{VALUE}
 #: Era_of_Magic/utils/abilities.cfg:1729
 msgid "anti-mech"
-msgstr "anti-meca"
+msgstr "antimecha"
 
 #. [damage]: id=eoma_antimech{VALUE}
 #: Era_of_Magic/utils/abilities.cfg:1730
@@ -8445,7 +8445,7 @@ msgid ""
 "This ability does not work against berserker units."
 msgstr ""
 "Una unidad con esta habilidad puede dañar a unidades que estén adyacentes al "
-"atacante y al defensor al mismo tiempo. El daño infligido es igual al 50% of "
+"atacante y al defensor al mismo tiempo. El daño infligido es igual al 50% "
 "del daño base.\n"
 "Esta habilidad no funciona contra unidades con frenesí."
 
@@ -8546,7 +8546,7 @@ msgstr "Este dron puede ejecutar protocolos kamikaze."
 #. [dummy]: id=eoma_upgradable_berserk
 #: Era_of_Magic/utils/drone-upgrades.cfg:58
 msgid "berserker ai"
-msgstr "ia frenesí"
+msgstr "frenesí"
 
 #. [dummy]: id=eoma_upgradable_berserk
 #: Era_of_Magic/utils/drone-upgrades.cfg:59
@@ -8692,7 +8692,7 @@ msgid ""
 "fulfill whatever desires the summoners have. With the help of these beings, "
 "the people of al-Kamija have created a nearly utopian society."
 msgstr ""
-"El orgulloso pueblo de al-Kamija habita el Gran Desierto. Ellos a menudo se "
+"El orgulloso pueblo de Alcamiya habita el Gran Desierto. Ellos a menudo se "
 "refieren a sí mismos como invocadores. La razón para esto es que una vez, "
 "hace mucho tiempo, sus ancestros descubrieron el Abismo, una dimensión "
 "diferente, llena de poder indomado, que puede ser canalizado mediante "
@@ -8700,7 +8700,7 @@ msgstr ""
 "descubierto, era el poder de invocar seres elementales y entidades mágicas. "
 "Esos extraños moradores del Abismo probaron ser leales a los invocadores, y "
 "cumplieron cualquier deseo que los invocadores tuvieran. Con la ayuda de "
-"dichos seres, el pueblo de al-Kamija ha podido crear una sociedad bien "
+"dichos seres, el pueblo de Alcamiya ha podido crear una sociedad bien "
 "cercana a la utopía."
 
 #: Era_of_Magic/utils/faction_descriptions.cfg:10
@@ -8715,7 +8715,7 @@ msgid ""
 "rumored their cult is also centered around an enigmatic artifact called the "
 "Eye of Darkness..."
 msgstr ""
-"Los crueles soberanos y señores de la guerra del este tarist son los "
+"Son los crueles soberanos y señores de la guerra del este: los taris son "
 "descendientes de una antigua tribu que practicaba la magia oscura. Esto "
 "afectó irreversiblemente su apariencia física, y retorció sus mentes. Siendo "
 "unos verdaderos maestros de las artes ocultas, los grandes brujos de esta "
@@ -8779,7 +8779,7 @@ msgstr ""
 "Al borde del Gran Desierto se haya una tierra sagrada - La Jungla de la "
 "Vida. Este misterioso lugar está habitado por una de las más antiguas "
 "civilizaciones del planeta - los Sangreoscura. Su nación es más bien "
-"diversa: salamandras furtivas, majestuosos wyverns, enormes sapos, y clanes "
+"diversa: salamandras furtivas, majestuosos guivernos, enormes sapos, y clanes "
 "de lagartos - todos viviendo en perfecta armonía con la naturaleza. Pero "
 "está también el Gran Pantano - un lugar lleno de oscuridad, donde chamanes "
 "corruptos y otras criaturas exiliadas adoran al puro caos…"
@@ -9301,7 +9301,7 @@ msgid ""
 "- healing and circle of susceptibility around this unit do not work."
 msgstr ""
 "El área alrededor de esta unidad está mayormente purgada de la mayoría de "
-"los tipos de magia (los ataques anti-escudo aún funcionan bien)\n"
+"los tipos de magia (los ataques antiescudo aún funcionan bien)\n"
 "- Todas las unidades adyacentes (incluidos enemigos) reciben una "
 "bonificación del 70% a las resistencias al fuego, al frío y arcana (hasta un "
 "máximo del 70%).\n"
@@ -9486,7 +9486,7 @@ msgid ""
 "resistance."
 msgstr ""
 "Las unidades adyacentes en los hexágonos s, ne, y no, reciben una "
-"bonificación del 99% a la resistencia al fuego,frío y daño arcano. Las demás "
+"bonificación del 99% a la resistencia al fuego, frío y daño arcano. Las demás "
 "unidades reciben una reducción del -99% a la resistencia al fuego, frío y "
 "daño arcano."
 
@@ -9617,7 +9617,7 @@ msgstr ""
 "aldeas, ni el agua.\n"
 "\n"
 "Para más información, consulte la opción 'Ayuda a la Invocación' que aparece "
-"tras hacer click derecho en una unidad que disponga de la habilidad de "
+"tras hacer clic derecho en una unidad que disponga de la habilidad de "
 "'invocar'."
 
 #. [dummy]: id=eoma_fastsummon
@@ -9654,7 +9654,7 @@ msgid ""
 "selected unit able to summon, or if no summoner has been selected, a "
 "summoner next to the selected tile will be chosen randomly."
 msgstr ""
-"Para invocar una unidad, haz click derecho en los hexágonos adyacentes al "
+"Para invocar una unidad, haz clic derecho en los hexágonos adyacentes al "
 "invocador seleccionado.\n"
 "\n"
 "Necesitarás disponer todos los puntos de movimiento (y todos los ataques "
