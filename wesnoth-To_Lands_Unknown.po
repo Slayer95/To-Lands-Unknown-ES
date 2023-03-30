@@ -3873,7 +3873,7 @@ msgstr ""
 "claramente no son seres abismales... ¿Podría ser que ni siquiera sea ciudadano "
 "de nuestra nación?\n"
 "\n"
-"Entonces, esto es definitivamente una invasión, ¡bendito Nomolas!... Ya sólo "
+"Entonces, esto es definitivamente una invasión, ¡bendito Nómolas!... Ya sólo "
 "espero no liarlas</i> (Suspiro). <i>¡Qué mala pata!</i>"
 
 #. [message]: speaker=Mehir
@@ -9226,7 +9226,7 @@ msgid ""
 "don't say your thoughts out loud now, I beg you, and let me do the talking.</i>"
 msgstr ""
 "(Para sí misma). <i>Créeme, comparto tu preocupación; pero, por el amor de "
-"Nomolas, no digas tus pensamientos en voz alta ahora, te lo suplico, y déjame "
+"Nómolas, no digas tus pensamientos en voz alta ahora, te lo suplico, y déjame "
 "hablar.</i>"
 
 #. [message]: speaker=Rashti
@@ -11832,7 +11832,7 @@ msgid ""
 "What would a mere efreeti know about Nomolas's goals? He is far more intelligent "
 "than both of us combined. His goals are not for us to know or question."
 msgstr ""
-"¿Qué sabrá un simple ifrit sobre los objetivos de Nomolas? Él es mucho más "
+"¿Qué sabrá un simple ifrit sobre los objetivos de Nómolas? Él es mucho más "
 "inteligente que nosotros dos juntos. Sus objetivos no son lo que nosotros "
 "debamos saber o cuestionar."
 
@@ -16519,7 +16519,7 @@ msgid ""
 msgstr ""
 "Uno de vuestros maestros magos también dijo que es 42, pero todavía no lo creo. "
 "Él se niega a responder, así que os lo preguntaré en su lugar: ¡en el nombre de "
-"Nomolas, cómo se supone que un número de dos cifras  sea la respuesta a tal "
+"Nómolas, cómo se supone que un número de dos cifras  sea la respuesta a tal "
 "pregunta?"
 
 #. [message]: speaker=Void
