@@ -421,7 +421,7 @@ msgid ""
 "recruited or recalled."
 msgstr ""
 "Por ahora, ninguna de sus tropas puede utilizar este artefacto. Sin embargo, el "
-"item quedará guardado y podrá asignarlo cuando reclute o reincorpore una "
+"objeto quedará guardado y podrá ser asignado cuando reclute o reincorpore alguna "
 "compatible."
 
 #. [option]
@@ -8841,8 +8841,8 @@ msgid ""
 "PROVE IT? You want me to PROVE IT? OH I'M GONNA PROVE IT ALL RIGHT!!! "
 "SHAKATARAJA RAMIDAJANA KATARAJAN!!!"
 msgstr ""
-"¿DEMOSTRAR? ¿Quieres que lo DEMUESTRE? ¡OH, TE LO VOY A DEMOSTRAR, BIEN!"
-"Shakataraja Ramidajana Katarajan !!!"
+"¿DEMOSTRAR? ¿Quieres que lo DEMUESTRE? ¡OH, TE LO VOY A DEMOSTRAR, VALE!"
+"¡¡¡Shakataraja Ramidajana Katarajan!!!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:803
@@ -8912,8 +8912,7 @@ msgstr "¡Alto ahí!"
 msgid ""
 "HELL NO!!! NOW GET OUT OF MY WAY!!! I'VE GOT UNIFINISHED BUSINESS TO ATTEND TO!!!"
 msgstr ""
-"¡¡¡DE NINGÚN MODO. AHORA, SAL DE MI CAMINO. TENGO UN NEGOCIO PENDIENTE QUE "
-"ATENDER!"
+"¡¡¡DE NINGÚN MODO. AHORA, SAL DE MI CAMINO. TENGO ASUNTOS PENDIENTES QUE ATENDER!!!"
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:955
@@ -9070,9 +9069,9 @@ msgid ""
 "Ah, look who it is. The tyrant queen and bootlicker of humans, Rashti'rhami "
 "herself! Everyone, now's our chance, she is weaker in the mortal world! Get her!"
 msgstr ""
-"Ah, mira quien es. ¡La reina del tirano y la bota de humanos, Rashti-Rami! "
-"¡Todos, ahora es nuestra oportunidad, ella es más débil en el mundo mortal! "
-"¡Consíguela!"
+"¡Oh! Mirad quién es. ¡La reina tirana y lamebotas de los humanos, Rashti-Rami! "
+"¡Todos, ahora es nuestra oportunidad: es más débil en el mundo mortal! "
+"¡Atrapadla!"
 
 #. [scenario]: id=11_Message
 #: To_Lands_Unknown\scenarios\11_Message.cfg:5
@@ -9135,7 +9134,7 @@ msgid ""
 "you have brought the holy Rashti'rhami with you, but where is Tashkar?"
 msgstr ""
 "Ah, Mejir, ¡bienvenido de nuevo! Nos dirigíamos a Mag-Magar cuando llegaste. Veo "
-"que trajiste contigo a la Santa Rashti-Rami contigo, pero ¿dónde está Tashkar?"
+"que trajiste contigo a la santa Rashti-Rami contigo, pero ¿dónde está Tashkar?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\11_Message.cfg:300
@@ -9691,8 +9690,8 @@ msgid ""
 "Secondly, only I can do unspeakable things with Mehir! GET THE HELL AWAY FROM "
 "HIM YOU FILTHY WITCH!!!"
 msgstr ""
-"En segundo lugar, ¡sólo yo puedo hacer cosas indecibles con Mejir! ¡¡¡ALÉJATE DE "
-"ÉL, BRUJA SUCIA!!!"
+"Y en segundo lugar, ¡sólo yo puedo hacer cosas indecibles con Mejir! ¡¡¡ALÉJATE DE "
+"ÉL, SUCIA BRUJA!!!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:820
@@ -9829,7 +9828,7 @@ msgid ""
 "amazing! Much better than in the pictures of it I've seen during my childhood."
 msgstr ""
 "¡Genial! ¡Siempre quise verlo con mis propios ojos desde que era más joven! ¡Se "
-"ve increíble! Mucho mejor que en las fotos que vi cuando era pequeño."
+"ve increíble! Mucho mejor que en las pinturas que vi cuando era pequeño."
 
 #. [message]: speaker=Malib
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1021
@@ -10601,7 +10600,7 @@ msgid ""
 "Quite fascinating... I guess the next logical step would be an in-depth "
 "explanation about it..."
 msgstr ""
-"¡Qué fascinante!... Supongo que el siguiente paso sería una explicación a "
+"¡Qué fascinante!... Supongo que el siguiente paso sería una explicación en "
 "profundidad al respecto..."
 
 #. [message]: speaker=Instructor
@@ -10726,7 +10725,7 @@ msgid ""
 "independent jinn to tell my future anymore..."
 msgstr ""
 "Cierto, realmente no me he acostumbrado al título. Supongo que ya no necesitaré "
-"pagarles a genios independientes para que adivinen mi futuro..."
+"contratar genios independientes para que adivinen mi futuro..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:581
@@ -10814,7 +10813,7 @@ msgstr ""
 "Esa es una pregunta bastante interesante. Han pasado años desde que alguien lo "
 "mencionó, para ser honesto. En fin, “desterrar” un portal dimensional II "
 "simplemente lo convierte en un portal dimensional azul, mientras que al hacerlo "
-"con un portal dimensional normal, este desaparecerá ara reaparecer como leal al "
+"con un portal dimensional normal, este desaparecerá para reaparecer como leal al "
 "desterrador. Esto podría servir como una buena broma, pero —hasta donde puedo "
 "imaginar— no tiene otro uso."
 
@@ -10961,7 +10960,7 @@ msgstr ""
 msgid ""
 "Ah, I won't miss that! We can converse of the philosophies of jinn for hours!"
 msgstr ""
-"¡Ah, no me perderé de eso! ¡Podremos conversar de las filosofías de los genios "
+"¡Ah, no me perderé eso! ¡Podremos conversar de las filosofías de los genios "
 "durante horas!"
 
 #. [message]: speaker=Rashti
@@ -11085,9 +11084,9 @@ msgid ""
 "take too long. After all, your men can create many gates later on, so no need to "
 "grow attached to a specific one."
 msgstr ""
-"Muy bien, aquí tenéis otra puerta. Sólo... Usadla correctamente esta vez yno "
-"tardéis demasiado. Después de todo, vuestros subordinados podrán crear muchas "
-"puertas más adelante, por lo que no tiene sentido encariñarse con una específica."
+"Muy bien, aquí tenéis otra puerta. Sólo... Usadla correctamente esta vez y no "
+"tardéis demasiado. Después de todo, vuestros subordinados podrán crear muchos "
+"portales más adelante, por lo que no tiene sentido encariñarse con una específica."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1131
@@ -11908,7 +11907,7 @@ msgid ""
 "Dear Nomolas, what the hell is this?! Is that efreeti possessing our magical "
 "beings?!"
 msgstr ""
-"¡¿Querido Nomolas, qué demonios es esto?! ¿Ese ifrit poseyó a nuestros seres "
+"¡Querido Nómolas!, ¡¿qué demonios es esto?! ¿Ese ifrit poseyó a nuestros seres "
 "mágicos?"
 
 #. [message]: speaker=Banisher
@@ -11960,7 +11959,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1068
 msgid "*panting* When...will...<b>you</b>...JUST...<b>DIE</b>!!!"
 msgstr ""
-"<i>Jadeando.</i> Simplemente... ¡¡¡Cuándo <b>vas... A... <i>MORIR</i></b>!!!"
+"<i>Jadeando.</i> ¿Por qué... <b>no sólo... <i>TE MUERES</i></b>!"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1072
