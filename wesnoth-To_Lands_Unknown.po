@@ -195,8 +195,7 @@ msgid ""
 "This unit gains 3 point of experience at the end of his side's turn without "
 "move/attack/summon."
 msgstr ""
-"Esta unidad gana 3 PX al comienzo de su turno si no se movió ni atacó en el "
-"turno anterior."
+"Esta unidad gana 3 PX al final de un turno sin moverse/atacar/invocar."
 
 #. [damage]: id=sadism
 #: To_Lands_Unknown\macros\abilities.cfg:214
@@ -262,15 +261,13 @@ msgstr "+1 PM máximos, -10 PV máximos"
 #: To_Lands_Unknown\macros\amla.cfg:172
 msgid "+1 experience per turn without move/attack/summon, +2 HP, MAX XP +15%"
 msgstr ""
-"Habilidad de meditación: +1 PX cada turno sin moverse, +2 PV máximos. +15% PX "
-"máximos."
+"+1 PX cada turno sin moverse/atacar/invocar, +2 PV máximos. +15% PX máximos."
 
 #. [advancement]: id=JINN_PHILOSOPHY
 #: To_Lands_Unknown\macros\amla.cfg:206
 msgid "+3 experience per turn without move/attack/summon, MAX XP +15%"
 msgstr ""
-"+3 PX cada turno sin moverse, +15% PX "
-"máximos."
+"+3 PX cada turno sin moverse/atacar/invocar, +15% PX máximos."
 
 #. [advancement]: id=AMLA_MEHIR_DOOM_SCROLLING
 #: To_Lands_Unknown\macros\amla.cfg:239
@@ -409,7 +406,7 @@ msgstr "+1 PX cada turno sin sin moverse/atacar/invocar, +2 PV máximos."
 #. [advancement]
 #: To_Lands_Unknown\macros\amla.cfg:743
 msgid "+3 experience per turn without move/attack/summon"
-msgstr "Gana 3 de EXP al final de cada turno sin moverte, atacar ni invocar."
+msgstr "Gana 3 de EXP al final de cada turno sin moverse/atacar/invocar.."
 
 #. [advancement]
 #: To_Lands_Unknown\macros\amla.cfg:747
