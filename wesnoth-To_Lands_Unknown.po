@@ -891,7 +891,7 @@ msgstr "Aumenta las resistencias mágicas y físicas en 15%."
 #. [value]: id=sphereofreficul
 #: To_Lands_Unknown\macros\items.cfg:1332
 msgid "reficul's sphere"
-msgstr "esfera de reficul"
+msgstr "esfera de Reficul"
 
 #. [value]: id=sphereofreficul
 #: To_Lands_Unknown\macros\items.cfg:1333
@@ -927,8 +927,8 @@ msgid ""
 "When Mehir becomes a Summons Master, he will be able to keep them and carry "
 "between missions."
 msgstr ""
-"Note que su invocador neutral puede invocar a genios ambigables para ayudarle en "
-"su causa. Sin embergo, Mejir no tiene suficiente experiencia para conservar tal "
+"Note que su invocador neutral puede invocar a genios amigables para ayudarle en "
+"su causa. Sin embargo, Mejir no tiene suficiente experiencia para conservar tal "
 "unidad. Esto implica que todos los genios invocados desaparecerán cada vez que "
 "avance al siguiente escenario.\n"
 "\n"
@@ -993,7 +993,7 @@ msgid ""
 "wanna have a date? Just me, you, standing atop piles of enemy corpses and rivers "
 "of blood!"
 msgstr ""
-"¡Holaa! Tiempo sin verte, Mehir, querido. Me libré de mi mitad azul de nuevo! "
+"¡Holaa! Tiempo sin verte, Mejir, querido. Me libré de mi mitad azul de nuevo! "
 "Así que, ¿quieres una cita? Solos tú y yo, ¡sobre montañas de cadáveres enemigos "
 "y ríos de sangre!"
 
@@ -1013,7 +1013,7 @@ msgid ""
 "really not the time for flirting. Besides, is THAT what you consider a date?"
 msgstr ""
 "Maestro, ¡no confiéis en ella! ¡Ella es malvada! <i>Suspira y se dirige a Darma-"
-"Rashti.</i>Mira, ahora no es exactamente el momento para coquetear. Además, ¿es "
+"Rashti. </i>Mira, ahora no es exactamente el momento para coquetear. Además, ¿es "
 "eso lo que consideras una cita?"
 
 #. [message]: type=TLU_DharmaRashti
@@ -1223,7 +1223,7 @@ msgstr "Desinstala, <i>noob</i>."
 #. [message]: speaker=second_unit
 #: To_Lands_Unknown\macros\scenario-deaths.cfg:176
 msgid "That's it, I'm going to report you to the admins!"
-msgstr "Eso es todo, ¡te voy a reportar con los admins!"
+msgstr "Valiste, ¡te voy a reportar con los admins!"
 
 #. [object]
 #: To_Lands_Unknown\macros\scenario-deaths.cfg:184
@@ -1231,7 +1231,7 @@ msgid ""
 "Mehir got temporarily banned (not really, you can just reload the save file. "
 "this is just a joke)"
 msgstr ""
-"Mehir ha sido temporalmente baneado. <i>(En realidad, no. Puedes volver a cargar "
+"Mejir ha sido temporalmente baneado. <i>(En realidad, no. Puedes volver a cargar "
 "el archivo de guardado. Esto es solo una broma)</i>."
 
 #. [message]: speaker=Mehir
@@ -1286,7 +1286,7 @@ msgstr ""
 
 #: To_Lands_Unknown\macros\storytxt.cfg:20
 msgid "Technical note:"
-msgstr "Nota tecnica:"
+msgstr "Nota técnica:"
 
 #: To_Lands_Unknown\macros\storytxt.cfg:23
 msgid ""
@@ -1611,7 +1611,7 @@ msgid ""
 msgstr ""
 "Ka-Gatta es un sitio arcaico, que data de casi 1000 años atrás. Nuestros "
 "ancestros vivían allí antes de que fuera creada Alcamiya. En los primeros "
-"tiempos, mientras vivían nomádas el desierto, los fundadores dieron con un "
+"tiempos, mientras vivían nómadas el desierto, los fundadores dieron con un "
 "complejo de cuevas ocultas en las profundidades. Eran lo bastante frescas y "
 "espaciosas, así que nuestros antecesores decidieron quedarse."
 
@@ -3431,7 +3431,7 @@ msgid ""
 "Still, summoning an elemental takes far less effort than enough to justify this "
 "blatant theft!"
 msgstr ""
-"¡Aún así, invocar un elemental no requiere tanto esfuerzo —ni mucho menos— como "
+"¡Aun así, invocar un elemental no requiere tanto esfuerzo —ni mucho menos— como "
 "para justificar este robo descarado!"
 
 #. [message]: speaker=Mehir
@@ -4022,7 +4022,7 @@ msgid ""
 "Mehir! The reinforcements are going to arrive soon! Don’t wait for us, pursue "
 "that trickster!"
 msgstr ""
-"¡Mejir! ¡Los refuerzos llegarán pronto! ¡No nos esperéis, perseguid a ese truhán!"
+"¡Mejir! ¡Los refuerzos llegarán pronto! ¡No nos esperéis, perseguid a ese truhan!"
 
 #. [message]: speaker=Mehir
 #. [message]: id=Mehir
@@ -4322,7 +4322,7 @@ msgstr ""
 "incluso a costa de mi vida. Lúgubremente determinado, ataqué y rompí esos "
 "constructos mágicos en pedazos uno tras otro. Al presenciar mi poderío, el "
 "avezado intruso escapó hacia la entrada del palacio y ehhh... Cierto... Entonces "
-"llegásteis, señor. Sabéis lo que sucedió después."
+"llegasteis, señor. Sabéis lo que sucedió después."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:311
@@ -4395,7 +4395,7 @@ msgid ""
 msgstr ""
 "Una joya como él no puede permanecer escondida. Podría ser un gran comandante en "
 "vuestro ejército, en vez de desperdiciar su talento en la guardia de la ciudad. "
-"¿Que opináis, Sharif?"
+"¿Qué opináis, Sharif?"
 
 #. [message]: speaker=Sharif
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:412
@@ -4592,7 +4592,7 @@ msgstr ""
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:258
 msgid "Uhh... if you haven't noticed, they're right behind me..."
-msgstr "Uhh... Por si no os percatasteis, vienen siguiéndome..."
+msgstr "Ehh... Por si no os percatasteis, vienen siguiéndome..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:302
@@ -4610,8 +4610,8 @@ msgid ""
 msgstr ""
 "<i>Coge una cimitarra de manera profesional y se dirige a los soldados.</i> Por "
 "otro lado, el menú de la cena incluirá lagartija medio rara, frita en abundante "
-"aceite y con extra especias. ¿Suena apetitoso?En ese caso, ¡sostened una "
-"cimitarra y a la carga! Sino, igualmente tendréis que pelear, ¡de lo contrario "
+"aceite y con extra especias. ¿Suena apetitoso? En ese caso, ¡sostened vuestras "
+"cimitarras y a la carga! Sino, igualmente tendréis que pelear, ¡de lo contrario "
 "seréis acusados de traición! ¿Comprendido?"
 
 #. [message]: type=EoMa_Novice_Summoner
@@ -6887,7 +6887,7 @@ msgid ""
 "summoned."
 msgstr ""
 "Algunos dicen que es el equivalente femenino de Nómolas; pero, honestamente, es "
-"mucho menos poderosa. Aún así, el que no sea omnipotente no significa que sea "
+"mucho menos poderosa. Aun así, el que no sea omnipotente no significa que sea "
 "débil —nada más lejos de la realidad—, pues sigue siendo un ser definitivo, la "
 "rami más poderosa jamás invocada."
 
@@ -7750,7 +7750,7 @@ msgstr "Dejarla"
 #. [message]: speaker=Ghost
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:995
 msgid "Who... who is here? Where am I?"
-msgstr "¿Quíen...? ¿Quién está ahí? ¿Dónde estoy?"
+msgstr "¿Quién...? ¿Quién está ahí? ¿Dónde estoy?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1000
@@ -8137,7 +8137,7 @@ msgid ""
 "It seems Tashkar and his troops left this area. Still, I wonder what was the "
 "point of his whole expedition..."
 msgstr ""
-"Parece que Tashkar y sus tropas abandonaron esta área. Aún así, me pregunto cuál "
+"Parece que Tashkar y sus tropas abandonaron esta área. Aun así, me pregunto cuál "
 "fue el propósito de toda su expedición..."
 
 #. [message]: speaker=Mehir
@@ -8243,7 +8243,7 @@ msgid ""
 "You can throw golems at me all day long for all I care, and it won't change a "
 "thing."
 msgstr ""
-"Podéis lanzarme golems todo el día si queréis. No me importa y no cambiará nada."
+"Podéis lanzarme gólemes todo el día si queréis. No me importa y no cambiará nada."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\09_Goddess_of_All_Rhamis.cfg:158
@@ -8542,7 +8542,7 @@ msgid ""
 "ordered us to go away. We're not magical entities to be treated as such. It was "
 "very insulting..."
 msgstr ""
-"No sé cuanto te hayan contado, invocador, pero aquel Tash-lo-que-sea vino para "
+"No sé cuánto te hayan contado, invocador, pero aquel Tash-lo-que-sea vino para "
 "perturbar nuestro lugar de estudio. El bufón insolente nos ordenó que nos "
 "marcháramos. No somos entes mágicos para ser tratados así. Fue muy ofensivo..."
 
@@ -8917,7 +8917,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:955
 msgid "Over my dead body!"
-msgstr "¡Sobre mi cadaver!"
+msgstr "¡Sobre mi cadáver!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:960
@@ -9347,7 +9347,7 @@ msgid ""
 msgstr ""
 "¡Ellos deben ser quienes invadieron Mag-Magar! ¡No perdamos más tiempo! Mejir, "
 "llevaos a Rashti y a vuestros hombres. Quizás no sea demasiado tarde. Tan pronto "
-"como os teleportéis allí, enviaremos a todos los ejércitos de la Trinidad para "
+"como os teletransportéis allí, enviaremos a todos los ejércitos de la Trinidad para "
 "ayudaros."
 
 #. [message]: id=Mehir
@@ -9603,7 +9603,7 @@ msgid ""
 "WE DID IT!!! For a moment, I almost though we were as good as dead. Mehir, "
 "you’re my hero! I am infinitely grateful to you. Without your help..."
 msgstr ""
-"¡¡¡LO HICIMOS!!! Por un momento, pensé que ibamos a morir. ¡Mejir, sois mi "
+"¡¡¡LO HICIMOS!!! Por un momento, pensé que íbamos a morir. ¡Mejir, sois mi "
 "héroe! Os estoy infinitamente agradecido. Sin vuestra ayuda..."
 
 #. [message]: speaker=Mehir
@@ -9631,7 +9631,7 @@ msgid ""
 "subordinate of Sharif instead of one of his own men? Something just doesn't add "
 "up here."
 msgstr ""
-"Aún así, me pregunto: ¿por qué exactamente Tashkar envió a Rashti-Rami con un "
+"Aun así, me pregunto: ¿por qué exactamente Tashkar envió a Rashti-Rami con un "
 "subordinado de Sharif en lugar de uno de sus propios hombres? Algo de esto "
 "simplemente no me cuadra."
 
@@ -9808,7 +9808,7 @@ msgid ""
 "walk over a horizontal portal? Have fun falling down, idiot!"
 msgstr ""
 "¿Pensasteis que podríais caminar aquí y matarme? ¿Qué esperabaiss conseguir al "
-"caminar sobre un portal horizontal? ¡Divertios de bajada, idiota!"
+"caminar sobre un portal horizontal? ¡Divertíos de bajada, idiota!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1008
@@ -10236,8 +10236,8 @@ msgid ""
 "Power', one of the most devastating combat spells ever invented."
 msgstr ""
 "¡Oh, jo, jo! Esas son tremendas... No solo tiene armas mágicamente guiadas "
-"vinculadas, sino que es capaz de ejecutar el denominado “mantra de poder”,uno de "
-"los hechizos de combate más devastadores jamás inventados."
+"vinculadas, sino que es capaz de ejecutar el denominado “mantra de poder”, uno "
+"de los hechizos de combate más devastadores jamás inventados."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:135
@@ -10860,7 +10860,7 @@ msgid ""
 msgstr ""
 "Efectivamente; no es un rumor, mi señor. El Maestro de los Desterradores tiene "
 "una colección completa de tales portales dimensionales en su mansión, aunque no "
-"se los muestra a nadie, debido a la paranoia y a su irremplazabilidad: porque es "
+"se los muestra a nadie, debido a la paranoia y a su irreemplazabilidad: porque es "
 "<i>incapaz de desterrar</i>. Por lo tanto, la apariencia de tales portales "
 "seguirá siendo un misterio por ahora."
 
@@ -10930,7 +10930,7 @@ msgstr ""
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:768
 msgid "Uhh... I will neither confirm nor deny."
-msgstr "Uhh... No comentaré al respecto."
+msgstr "Ehh... No comentaré al respecto."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:772
@@ -10990,7 +10990,7 @@ msgid ""
 "Uhh... my liege, I am not entirely sure this is the best time for messing around "
 "with dimensional gates."
 msgstr ""
-"Uhh... Mi señor, no estoy completamente seguro de que este sea el mejor momento "
+"Ehh... Mi señor, no estoy completamente seguro de que este sea el mejor momento "
 "para jugar con puertas dimensionales."
 
 #. [message]: speaker=Rashti
@@ -11659,7 +11659,7 @@ msgstr "¿Eh? Rashti, ¡¿a dónde vais?!"
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:713
 msgid "Leave this to me! I’ll get rid of that nonsense-spewer myself!"
-msgstr "¡Dejadmelo a mí! ¡Me libraré de ese charlatán yo misma!"
+msgstr "¡Dejádmelo a mí! ¡Me libraré de ese charlatán yo misma!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:718
@@ -11746,7 +11746,7 @@ msgid ""
 "Against a whole army you're only going to get yourself killed! I order to you to "
 "remain in the rear!"
 msgstr ""
-"¡Contra todo un ejército, sólo conseguirés que os maten! ¡Os ordeno que "
+"¡Contra todo un ejército, sólo conseguiréis que os maten! ¡Os ordeno que "
 "permanezcáis en la retaguardia!"
 
 #. [message]: speaker=Rashti
@@ -11894,7 +11894,7 @@ msgstr ""
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:899
 msgid "Itshar’Imahr!"
-msgstr "¡Itshar’Imahr!"
+msgstr "¡Itshar Imar!"
 
 #. [message]: role=traitor
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:909
@@ -12062,7 +12062,7 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1189
 msgid "I won't let you harm our master!"
-msgstr "¡No te permitiré que hieras a nuesto maestro!"
+msgstr "¡No te permitiré que hieras a nuestro maestro!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1194
@@ -12332,7 +12332,7 @@ msgid ""
 "The sphere can be given to a unit upon recall, like the artifacts from Ka-Gatta. "
 "It provides the bearer with an increase of 15% to all resistances."
 msgstr ""
-"La esfera se puede entregar a una unidad al reincorporala, al igual que los "
+"La esfera se puede entregar a una unidad al reincorporarla, al igual que los "
 "artefactos de Ka-Gatta. Proporciona al portador un aumento del 15% a todas las "
 "resistencias."
 
@@ -12418,7 +12418,7 @@ msgid ""
 "whatever devious plan they have in store...</i>"
 msgstr ""
 "(Para sí mismo). <i>Esto está tomando demasiado tiempo. El enemigo está "
-"demasiado pasivo, sospechosamente pasivo, sí.Debo huir mientras todavía están "
+"demasiado pasivo, sospechosamente pasivo, sí. Debo huir mientras todavía están "
 "preparándose para ejecutar su plan...</i>"
 
 #. [message]: speaker=Reficul
@@ -14331,7 +14331,7 @@ msgid ""
 "of visiting him."
 msgstr ""
 "Oh, ¿os referís a la expedición investigadora de Aerius, nuestro aerocartógrafo? "
-"No asumimos la responsabilidad por el daño colatoral que pueda haber infligido. "
+"No asumimos la responsabilidad por el daño colateral que pueda haber infligido. "
 "No nos culpéis por sus acciones. De todos modos, nuestro Gurú sabrá cómo "
 "ayudaros. Está en el monumental Palacio de la Omnisciencia, pero primero debéis "
 "probar que os merecéis poder visitarlo."
@@ -14563,7 +14563,7 @@ msgstr ""
 "He elegido el deporte de lanzamiento de gólem. Quien arroje al gólem más lejos, "
 "ganará la primera parte de la competencia. Para hacer de esto una pelea justa, "
 "competiréis con una de nuestras creaciones más poderosas: ¡el Um! ¡Preparad los "
-"golems!"
+"gólemes!"
 
 #. [message]: race=human
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:715
@@ -14680,7 +14680,7 @@ msgstr ""
 #. [message]: race=eoma_summoner
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1103
 msgid "Hey, look! The mirror is cracking!"
-msgstr "¡Hey, mira! ¡El espejo se está agrietando!"
+msgstr "¡Ey, mira! ¡El espejo se está agrietando!"
 
 #. [message]: race=emoa_summoner
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1145
@@ -14834,7 +14834,7 @@ msgid ""
 msgstr ""
 "Detrás de su velo de superioridad intelectual, este “Arcanus” no parece "
 "diferente de Aerius. Solo es otro bruto arrogante sediento de sangre... Solo "
-"puedo esperar que Guru sea diferente..."
+"puedo esperar que Gurú sea diferente..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1448
@@ -15207,7 +15207,7 @@ msgid ""
 "edition - now with more pictures', 'Why Mus Have Small Brains - A Case Study', "
 "'Giant Toad Mating Seasons' ...nah, this must be on a lower shelf."
 msgstr ""
-"<i>Revisa los libros en el estante</i>... “Ensamblaje de golems para novatos”, "
+"<i>Revisa los libros en el estante</i>... “Ensamblaje de gólemes para novatos”, "
 "“Levantando masas de tierra — la guía definitiva”, “Magia para Mus — décima "
 "edición — ahora con más imágenes”, “Por qué los Mus tienen cerebros pequeños: un "
 "estudio casuístico”, “Temporadas de apareamiento de sapos gigantes”... No, esto "
@@ -15303,7 +15303,7 @@ msgid ""
 msgstr ""
 "Yo tengo... En primer lugar, “Cocina del Cielo”, un libro de cocina de Caros. En "
 "segundo lugar, “Aquella Vez Que Reencarné Como Un Mu”. Me gusta, tiene muchos "
-"dibujos, otros libros tienen muchas palabras complejas. En tercer lugar, Uhhh... "
+"dibujos, otros libros tienen muchas palabras complejas. En tercer lugar, ehhh... "
 "“Cincuenta sombras de Taris” la historia de una niña carosiana que se casa con "
 "un acaudalado hechicero de Taris. No creo que tenga la edad mínima para eso "
 "todavía. ¿Cuál desea, señor?"
@@ -15357,7 +15357,7 @@ msgstr "Cincuenta sombras de Taris"
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:530
 msgid "Wow... uhh... I didn't know you liked THOSE kinds of books."
-msgstr "Guau... Uhh... No sabía que os gustara ESE tipo de libros."
+msgstr "Vaya... Ehh... No sabía que os gustara <i>ESE</i> tipo de libros."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:535
@@ -15966,7 +15966,7 @@ msgid ""
 "occasionally visit the surface, trade with people there, then move back over the "
 "ocean. We visit Kharos several times per year."
 msgstr ""
-"Por varias razones. En primer lugar, no eramos contactables en ese momento, ya "
+"Por varias razones. En primer lugar, no éramos contactables en ese momento, ya "
 "que nuestro Reino del Cielo se mueve constantemente sobre el océano. Cuando "
 "estamos por encima de los continentes, visitamos ocasionalmente la superficie y "
 "comerciamos con personas allí, para luego regresar al océano. Visitamos Caros "
@@ -16165,7 +16165,7 @@ msgid ""
 "Ah, greetings. As you should already know, Guru himself asked us to improve this "
 "n-dimensional quantum waveform pattern around you."
 msgstr ""
-"Ah, saludos. Como ya debes saber, el propio Guru nos pidió que mejoráramos el "
+"Ah, saludos. Como ya debes saber, el propio Gurú nos pidió que mejoráramos el "
 "patrón de onda cuántico n-dimensional a vuestro alrededor."
 
 #. [message]: speaker=Mehir
@@ -16350,7 +16350,7 @@ msgid ""
 "Well, I can cast spells with my mind too, but those rely on abyssal energy "
 "instead of the one native to this world, so I suppose that doesn't quite count..."
 msgstr ""
-"Bueno, yo también puedo lanzar hechizos con mi mente, pero dependen de la la "
+"Bueno, yo también puedo lanzar hechizos con mi mente, pero dependen de la "
 "energía abismal en vez de la nativa de este mundo, así que supongo que no "
 "cuentan..."
 
@@ -16542,7 +16542,7 @@ msgid ""
 "Huh, I must admit I am pleasantly surprised. For a foreigner you have "
 "surprisingly good knowledge of magitech encoding."
 msgstr ""
-"Uhh, debo admitir que estoy gratamente sorprendido. Para ser extranjera, tenéis "
+"Ehh, debo admitir que estoy gratamente sorprendido. Para ser extranjera, tenéis "
 "un conocimiento sorprendentemente bueno de la codificación Magitek."
 
 #. [message]: speaker=Mehir
@@ -16706,7 +16706,7 @@ msgid ""
 "So it's is going to act like city portals in my country, but mobile! "
 "Unbelievable..."
 msgstr ""
-"Así que funcionaría como los portales interciudades de mi país, ¡pero móvil! "
+"Así que funcionaría como los portales interurbanos de mi país, ¡pero móvil! "
 "Increíble..."
 
 #. [message]: speaker=Sculptor
@@ -16733,7 +16733,7 @@ msgid ""
 "solar system will vaporize."
 msgstr ""
 "Bien. Espero haber usado símbolos mágicos adecuados para que esto funcione. De "
-"lo contrario, la unidad que elijás reincorporar se convertirá en una supernova y "
+"lo contrario, la unidad que elijáis reincorporar se convertirá en una supernova y "
 "todo nuestro sistema solar se vaporizará."
 
 #. [message]: speaker=Rashti
@@ -16763,7 +16763,7 @@ msgid ""
 "Yes! We are all alive! Hahaha, that was close! The teleport works as expected, "
 "and should work no matter the distance."
 msgstr ""
-"¡Sí! ¡Todos estamos vivos! ¡Ja,ja, ja, eso estuvo cerca! El teletransporte "
+"¡Sí! ¡Todos estamos vivos! ¡Ja, ja, ja, eso estuvo cerca! El teletransporte "
 "funciona como se esperaba y debiera funcionar sin importar la distancia."
 
 #. [message]: speaker=Mehir
@@ -17109,7 +17109,7 @@ msgstr ""
 #. [message]: speaker=Sculptor
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:832
 msgid "Uhh... let's pretend you didn't hear anything, alright?"
-msgstr "Uhh... Finjamos que no escuchasteis nada, ¿de acuerdo?"
+msgstr "Ehh... Finjamos que no escuchasteis nada, ¿de acuerdo?"
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:853
@@ -17426,7 +17426,7 @@ msgstr "No"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:443
 msgid "*nervously* Did... did you hear that?"
-msgstr "<i>Nervioso.</i> ¿Es-escuchásteis eso?"
+msgstr "<i>Nervioso.</i> ¿Es-escuchasteis eso?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:448
@@ -17469,7 +17469,7 @@ msgstr "¿Eh? Pero se están acercando <i>rápido</i>."
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:521
 msgid "Too fast. Brace yourselves!"
-msgstr "Demasiado rapido. ¡Preparaos!"
+msgstr "Demasiado rápido. ¡Preparaos!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:559
@@ -17487,7 +17487,7 @@ msgid ""
 "These beings seem to be magical, yet I sense no magic in their bodies. They are "
 "not of abyssal origin either..."
 msgstr ""
-"Estos seres parecen ser mágicos, pero no siento magia en sus cuerpos. Ytampoco "
+"Estos seres parecen ser mágicos, pero no siento magia en sus cuerpos. Y tampoco "
 "provienen del Abismo."
 
 #. [message]: speaker=Mehir
@@ -18266,7 +18266,7 @@ msgid ""
 "with you?"
 msgstr ""
 "Claro, ¿por qué no? Estoy muriendo de hambre luego de acabar con bestias "
-"pesadillescas, derrotar y aliarme con un ejército de monstruos mecánicos, y "
+"espeluznantes, derrotar y aliarme con un ejército de monstruos mecánicos, y "
 "traer esta batería junto con parte de ese lugar maldito y uno de sus habitantes. "
 "¿Tenéis el menú a la mano?"
 
@@ -18276,7 +18276,7 @@ msgid ""
 "I have slain nightmarish beasts, encountered an army of mechanical monsters, "
 "brought this damn battery along with parts..."
 msgstr ""
-"¡He matado bestias pesadillescas, me he encontrado un ejército de monstruos "
+"¡He matado bestias espeluznantes, me he encontrado un ejército de monstruos "
 "mecánicos, traído esta maldita batería junto con parte...!"
 
 #. [message]: speaker=Mehir
@@ -18377,7 +18377,7 @@ msgid ""
 "representative of a dead - err... of a species presumed long extinct! How did "
 "you even manage to survive for so long though?"
 msgstr ""
-"<i>Retrocede.</i> Uhh... Quiero decir... Uhh... Es un golpe de suerte ser "
+"<i>Retrocede.</i> Este... Quiero decir... Eh... Es un golpe de suerte ser "
 "visitados por un representante de una especie muer-, ehhh... <i>Presumida "
 "extinta</i>! ¿Cómo lograste sobrevivir por tanto tiempo?"
 
@@ -18459,7 +18459,7 @@ msgid ""
 "Argh! So I helped ye, and ya dumped me 'ere?! I got nothin' ta lose anymore. "
 "Activate the self-destruc..."
 msgstr ""
-"¡Ah! Me dejate tirado a pesar de que te ayudé. No tengo nada más que perder. "
+"¡Ah! Me dejaste tirado a pesar de que te ayudé. No tengo nada más que perder. "
 "Activar autodestru..."
 
 #. [message]: speaker=Mehir
@@ -19383,7 +19383,7 @@ msgid ""
 "+20% bonus to their fire, cold, and arcane resistances. At the beginning of each "
 "turn, all adjacent enemy units are slowed and receive 8 points of damage."
 msgstr ""
-"Esta unidad esta equipada con el tipo más poderoso de círculo mágico. El dueño "
+"Esta unidad está equipada con el tipo más poderoso de círculo mágico. El dueño "
 "puede reclutar y reincorporar unidades sin estar en un torreón (no funciona en "
 "bosques). Todas las unidades amigas adyacentes luchan mejor (+125%, +100%, +75%, "
 "+50% y +25% para los niveles 0, 1, 2, 3 y 4, respectivamente), se sanan 8 PV, y "
@@ -19415,7 +19415,7 @@ msgid ""
 msgstr ""
 "El Portal Viviente es la cuarta y final entidad abismal suprema. A los "
 "invocadores todavía les resulta difícil describir esta criatura, que es un "
-"portal abierto al Abismo y móvil, similar a los Portales Dimensionales. Una una "
+"portal abierto al Abismo y móvil, similar a los Portales Dimensionales. Una "
 "fuerza desconocida de origen abismal la controla, lo que le otorga conciencia; "
 "además, se sabe que puede acceder a diferentes partes del Abismo. No se conoce a "
 "cabalidad todas las capacidades que posee. Lo único claro es que es una obra "
@@ -19672,7 +19672,7 @@ msgid ""
 "between the Dharma'rashti and Ho'rashti halves, the True Rashti is considered a "
 "perfect entity, who's often compared with Nomolas — the First Jinni."
 msgstr ""
-"Vera Rashti es la forma final de la Rashti'Rami, que ha alcanzado la armonía "
+"Vera Rashti es la forma final de la Rashti-Rami, que ha alcanzado la armonía "
 "suprema de sus mitades Darma-Rashti y Jo-Rashti. La auténtica Rashti es "
 "considerada una entidad perfecta, incluso equiparada con Nómolas, el primer "
 "genio."
@@ -19701,7 +19701,7 @@ msgstr "vórtice dimensional"
 #: To_Lands_Unknown\units\animation_hack.cfg:11
 msgid "Dummy unit used for rendering cutscenes/background animations."
 msgstr ""
-"Pseudo-unidad utilizada para representar las animaciones de fondos y cinemáticas."
+"Pseudounidad utilizada para representar las animaciones de fondos y cinemáticas."
 
 #: To_Lands_Unknown\units\citizens.cfg:19
 msgid "An average citizen of the Summoners' nation."
