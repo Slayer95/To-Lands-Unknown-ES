@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-30 07:37 UTC\n"
+"POT-Creation-Date: 2023-04-01 16:20 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -134,65 +134,65 @@ msgstr ""
 msgid "This elemental can turn into another type of elemental."
 msgstr ""
 
-#: TLU\macros\abilities.cfg:187
+#: TLU\macros\abilities.cfg:224
 msgid "Turn into fire"
 msgstr ""
 
-#: TLU\macros\abilities.cfg:188
+#: TLU\macros\abilities.cfg:225
 msgid "Turn into water"
 msgstr ""
 
-#: TLU\macros\abilities.cfg:189
+#: TLU\macros\abilities.cfg:226
 msgid "Turn into air"
 msgstr ""
 
-#: TLU\macros\abilities.cfg:190
+#: TLU\macros\abilities.cfg:227
 msgid "Turn into earth"
 msgstr ""
 
 #. [dummy]: id=meditation
-#: TLU\macros\abilities.cfg:197
+#: TLU\macros\abilities.cfg:234
 msgid "meditation"
 msgstr ""
 
 #. [dummy]: id=meditation
-#: TLU\macros\abilities.cfg:198
+#: TLU\macros\abilities.cfg:235
 msgid "This unit gains 1 point of experience at the end of his side's turn without move/attack/summon."
 msgstr ""
 
 #. [dummy]: id=jinn_philosophy
-#: TLU\macros\abilities.cfg:206
+#: TLU\macros\abilities.cfg:243
 msgid "jinn philosophy"
 msgstr ""
 
 #. [dummy]: id=jinn_philosophy
-#: TLU\macros\abilities.cfg:207
+#: TLU\macros\abilities.cfg:244
 msgid "This unit gains 3 point of experience at the end of his side's turn without move/attack/summon."
 msgstr ""
 
 #. [damage]: id=sadism
-#: TLU\macros\abilities.cfg:214
+#: TLU\macros\abilities.cfg:251
 msgid "sadism"
 msgstr ""
 
 #. [damage]: id=sadism
-#: TLU\macros\abilities.cfg:215
-#: TLU\macros\abilities.cfg:216
+#: TLU\macros\abilities.cfg:252
+#: TLU\macros\abilities.cfg:253
 msgid "Deal +25% damage to enemies below 40% HP."
 msgstr ""
 
 #. [attacks]: id=majesty
-#: TLU\macros\abilities.cfg:229
+#: TLU\macros\abilities.cfg:266
 msgid "majesty"
 msgstr ""
 
 #. [attacks]: id=majesty
-#: TLU\macros\abilities.cfg:230
+#: TLU\macros\abilities.cfg:267
 msgid "When this attack is used on offense, the opponent will retaliate with one less strike than normally, to a minimum of one strike."
 msgstr ""
 
 #. [attacks]: id=majesty
-#: TLU\macros\abilities.cfg:231
+#: TLU\macros\abilities.cfg:268
 msgid "This unit’s attacks can overwhelm the defenses of enemies, preventing them from retaliating as effectively."
 msgstr ""
 
@@ -239,7 +239,7 @@ msgstr ""
 #. [advancement]: id=AMLA_MEHIR_FAST_SUMMON
 #. [advancement]: id=AMLA_FAST_SUMMON
 #: TLU\macros\amla.cfg:282
-#: TLU\macros\amla.cfg:793
+#: TLU\main-macros.cfg:251
 msgid "Summoning a unit only costs 1 MP, but you may not attack, +15% XP."
 msgstr ""
 
@@ -345,32 +345,32 @@ msgid "+1 movement point"
 msgstr ""
 
 #. [advancement]
-#: TLU\macros\amla.cfg:739
+#: TLU\macros\amla.cfg:740
 msgid "+1 experience per turn without move/attack/summon, +2 HP"
 msgstr ""
 
 #. [advancement]
-#: TLU\macros\amla.cfg:743
+#: TLU\macros\amla.cfg:744
 msgid "+3 experience per turn without move/attack/summon"
 msgstr ""
 
 #. [advancement]
-#: TLU\macros\amla.cfg:747
+#: TLU\macros\amla.cfg:748
 msgid "+1 gold from fallen nearby humans and machines, MAX XP +10%."
 msgstr ""
 
 #. [advancement]
-#: TLU\macros\amla.cfg:751
+#: TLU\macros\amla.cfg:752
 msgid "Get more gold from high-level fallen humans and machines, MAX XP +14%."
 msgstr ""
 
 #. [advancement]
-#: TLU\macros\amla.cfg:756
+#: TLU\macros\amla.cfg:757
 msgid "Grant 8 XP to elementals summoned, your MAX XP +14%"
 msgstr ""
 
 #. [advancement]
-#: TLU\macros\amla.cfg:760
+#: TLU\macros\amla.cfg:761
 msgid "Mehir is good at scrolls, he gets first strike, MAX XP +14%"
 msgstr ""
 
@@ -380,45 +380,32 @@ msgid "Max HP bonus +5"
 msgstr ""
 
 #. [advancement]: id=AMLA_MEHIR_SYNCHRONIZATION
-#: TLU\macros\amla.cfg:827
-msgid "Adds first strike to circle of destruction."
-msgstr ""
-
-#. [advancement]: id=AMLA_MEHIR_CIRCLE_SLOW
-#: TLU\macros\amla.cfg:875
-msgid "Adds slow to circle of destruction. Always use it to retaliate attacks."
-msgstr ""
-
-#. [effect]: type=fire
-#. [attack]: type=fire
-#: TLU\macros\amla.cfg:881
-#: TLU\units\GhostSummonsMaster.cfg:116
-#: TLU\units\LastSummoner.cfg:509
-msgid "circle of destruction"
+#: TLU\macros\amla.cfg:783
+msgid "Adds first strike to circle of destruction, +25% XP."
 msgstr ""
 
 #. [advancement]: id=STRENGTH
-#: TLU\macros\amla.cfg:944
+#: TLU\macros\amla.cfg:820
 msgid "+10% weapon damage"
 msgstr ""
 
 #. [advancement]: id=MAGIC_DAMAGE
-#: TLU\macros\amla.cfg:971
+#: TLU\macros\amla.cfg:847
 msgid "+10% magic damage"
 msgstr ""
 
 #. [advancement]: id=INTELLECT
-#: TLU\macros\amla.cfg:998
+#: TLU\macros\amla.cfg:874
 msgid "-30% MAX XP"
 msgstr ""
 
 #. [advancement]: id=AMLA_RASHTI_SADISM
-#: TLU\macros\amla.cfg:1024
+#: TLU\macros\amla.cfg:900
 msgid "+25% damage to enemies below 40% HP."
 msgstr ""
 
 #. [advancement]: id=AMLA_RASHTI_MAJESTY
-#: TLU\macros\amla.cfg:1054
+#: TLU\macros\amla.cfg:930
 msgid "On offense, defender retaliates with one less strike, but at least once."
 msgstr ""
 
@@ -427,13 +414,12 @@ msgid ""
 "Legends say that this scimitar can magically lead a hand of the owner so his strikes are more deadly and hit more often.\n"
 "\n"
 "- Attack increases by 100%\n"
-"- Chance to hit is constant and equals 70%\n"
-"- If the unit's scimitar already has weapon specials, they are overwritten\n"
+"- Chance to hit is not affected by defense and equals 70%\n"
 "\n"
 "Should this unit pick up the scimitar?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:12
+#: TLU\macros\artifact-descriptions.cfg:11
 msgid ""
 "Propelled by Abyssal winds, and woven from magical threads. Those lucky enough who possess this ancient vehicle gain amazing mobility.\n"
 "\n"
@@ -443,7 +429,7 @@ msgid ""
 "Should this unit pick up the carpet?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:19
+#: TLU\macros\artifact-descriptions.cfg:18
 msgid ""
 "This mysterius ring is richly decorated with magical symbols connected to the Abyss, mending wounds of the bearer.\n"
 "- Grants regeneration\n"
@@ -451,7 +437,7 @@ msgid ""
 "Should this unit pick up the ring?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:24
+#: TLU\macros\artifact-descriptions.cfg:23
 msgid ""
 "Marked with mysterious symbols, this cloak was enchanted a long time ago, shielding the wearer from the desert heat and flames alike.\n"
 "\n"
@@ -461,7 +447,7 @@ msgid ""
 "Should this unit pick up the cloak?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:31
+#: TLU\macros\artifact-descriptions.cfg:30
 msgid ""
 "This unique headgear had to belong to a very powerful summoner. It follows from the amazing workmanship and the glitter of the big crystal in the front.\n"
 "\n"
@@ -471,7 +457,7 @@ msgid ""
 "Should this unit pick up the cap?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:38
+#: TLU\macros\artifact-descriptions.cfg:37
 msgid ""
 "Richly decorated plates, solid workmanship and magical symbols: this must be the legendary armor made by the Ka-Gattans blacksmiths.\n"
 "\n"
@@ -482,7 +468,7 @@ msgid ""
 "Should this unit pick up the armor?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:46
+#: TLU\macros\artifact-descriptions.cfg:45
 msgid ""
 "This pike, forged from raw abyssal energy, is the weapon once wielded by the very first Rhami'kai of. The spears used by her successors were were made from mundane metal.\n"
 "\n"
@@ -493,7 +479,7 @@ msgid ""
 "Should this unit pick up the spear?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:54
+#: TLU\macros\artifact-descriptions.cfg:53
 msgid ""
 "A legendary masterpiece made by the Ancestors in the olden times. Its unique powers enabled the magical being to be recalled back to the mortal world after being killed.\n"
 "\n"
@@ -504,7 +490,7 @@ msgid ""
 "Should this unit pick up the collar?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:62
+#: TLU\macros\artifact-descriptions.cfg:61
 msgid ""
 "When the Ancestors summoned first elementals — entities made of pure energy -  they dreamed about replicating the Elemental Bird - a mix of all four known elements. Unfortunately they failed, but at least ended up with an unique amulet, capable of transforming one forms of an elemental into another. One might go as far as saying this is one of the most powerful relics made by the Ancestors.\n"
 "The elemental unit can turn into another elemental (use right-click on the unit to activate)\n"
@@ -512,7 +498,7 @@ msgid ""
 "Should this unit pick up the amulet?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:67
+#: TLU\macros\artifact-descriptions.cfg:66
 msgid ""
 "This staff is rumored to have been the very one wielded by the first Master of Banishers. Its power is formidable even in untrained hands.\n"
 "\n"
@@ -524,7 +510,7 @@ msgid ""
 "Should this unit pick up the staff?"
 msgstr ""
 
-#: TLU\macros\artifact-descriptions.cfg:76
+#: TLU\macros\artifact-descriptions.cfg:75
 msgid ""
 "This sphere was found in Reficul's camp. It emits a magical barrier around the bearer, protecting him from most kinds of damage. Tar-Tabar's enchanters have managed to adapt it for human use, but at a slight expense of effectiveness.\n"
 "\n"
@@ -961,13 +947,13 @@ msgid "No"
 msgstr ""
 
 #. [unstore_unit]
-#: TLU\macros\macros.cfg:312
+#: TLU\macros\macros.cfg:270
 msgid "+3 exp"
 msgstr ""
 
 #. [unstore_unit]
-#: TLU\macros\macros.cfg:329
-#: TLU\main-macros.cfg:143
+#: TLU\macros\macros.cfg:287
+#: TLU\main-macros.cfg:234
 msgid "+8 exp"
 msgstr ""
 
@@ -1184,10 +1170,10 @@ msgstr ""
 #: TLU\scenarios\21_Skydock.cfg:186
 #: TLU\scenarios\21_Skydock.cfg:853
 #: TLU\scenarios\21_Skydock.cfg:911
-#: TLU\scenarios\22_North_Pole.cfg:472
-#: TLU\scenarios\22_North_Pole.cfg:985
+#: TLU\scenarios\22_North_Pole.cfg:528
+#: TLU\scenarios\22_North_Pole.cfg:1045
 #: TLU\scenarios\23_Ruins.cfg:2105
-#: TLU\scenarios\23_Ruins.cfg:2525
+#: TLU\scenarios\23_Ruins.cfg:2526
 msgid "..."
 msgstr ""
 
@@ -1665,9 +1651,19 @@ msgid "8"
 msgstr ""
 
 #. [animate_unit]
-#: TLU\main-macros.cfg:177
-#: TLU\main-macros.cfg:216
-msgid " gold"
+#: TLU\main-macros.cfg:155
+#: TLU\main-macros.cfg:197
+msgid "gold"
+msgstr ""
+
+#. [dummy]: id=eoma_fastsummon
+#: TLU\main-macros.cfg:263
+msgid "fast summon"
+msgstr ""
+
+#. [dummy]: id=eoma_fastsummon
+#: TLU\main-macros.cfg:264
+msgid "This unit may move after summoning (but not attack)."
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -1835,7 +1831,7 @@ msgstr ""
 #: TLU\scenarios\19_Sky_Kingdom.cfg:25
 #: TLU\scenarios\20_Enlightenment.cfg:21
 #: TLU\scenarios\21_Skydock.cfg:21
-#: TLU\scenarios\22_North_Pole.cfg:36
+#: TLU\scenarios\22_North_Pole.cfg:144
 #: TLU\scenarios\23_Ruins.cfg:230
 #: TLU\scenarios\24_Epilogue.cfg:21
 #: TLU\scenarios\cutscene.cfg:23
@@ -2256,7 +2252,7 @@ msgstr ""
 #: TLU\scenarios\19_Sky_Kingdom.cfg:21
 #: TLU\scenarios\20_Enlightenment.cfg:17
 #: TLU\scenarios\21_Skydock.cfg:17
-#: TLU\scenarios\22_North_Pole.cfg:32
+#: TLU\scenarios\22_North_Pole.cfg:140
 #: TLU\scenarios\23_Ruins.cfg:225
 #: TLU\scenarios\24_Epilogue.cfg:17
 #: TLU\scenarios\cutscene.cfg:19
@@ -2708,7 +2704,7 @@ msgstr ""
 #: TLU\scenarios\17_Siege_of_Kharos.cfg:1562
 #: TLU\scenarios\19_Sky_Kingdom.cfg:549
 #: TLU\scenarios\19_Sky_Kingdom.cfg:1321
-#: TLU\scenarios\22_North_Pole.cfg:257
+#: TLU\scenarios\22_North_Pole.cfg:365
 #: TLU\scenarios\23_Ruins.cfg:522
 #: TLU\scenarios\23_Ruins.cfg:953
 #: TLU\scenarios\23_Ruins.cfg:1206
@@ -2856,7 +2852,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: TLU\scenarios\01_Highest_Tiers.cfg:639
-#: TLU\scenarios\22_North_Pole.cfg:865
+#: TLU\scenarios\22_North_Pole.cfg:925
 msgid "Wha... what is happening?!"
 msgstr ""
 
@@ -4887,7 +4883,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: TLU\scenarios\06_Fire_Canyon.cfg:1422
-#: TLU\scenarios\22_North_Pole.cfg:1011
+#: TLU\scenarios\22_North_Pole.cfg:1071
 msgid "Damn it!"
 msgstr ""
 
@@ -4942,7 +4938,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: TLU\scenarios\07_Dome_of_Elements.cfg:127
-msgid "That's right. Mehir, commander of the second degree, in person! And who might you be?"
+msgid "That's right. Mehir, commander and now summoner of the third degree, in person! And who might you be?"
 msgstr ""
 
 #. [message]: speaker=Instructor
@@ -5931,11 +5927,11 @@ msgstr ""
 #. [side]: type=EoMa_Sorcerer, id=Mage
 #. [message]: speaker=narrator
 #: TLU\scenarios\09_Goddess_of_All_Rhamis.cfg:54
-#: TLU\scenarios\22_North_Pole.cfg:117
-#: TLU\scenarios\22_North_Pole.cfg:130
-#: TLU\scenarios\22_North_Pole.cfg:140
-#: TLU\scenarios\22_North_Pole.cfg:146
-#: TLU\scenarios\22_North_Pole.cfg:157
+#: TLU\scenarios\22_North_Pole.cfg:225
+#: TLU\scenarios\22_North_Pole.cfg:238
+#: TLU\scenarios\22_North_Pole.cfg:248
+#: TLU\scenarios\22_North_Pole.cfg:254
+#: TLU\scenarios\22_North_Pole.cfg:265
 msgid "Mage"
 msgstr ""
 
@@ -6570,7 +6566,7 @@ msgstr ""
 #: TLU\scenarios\12_Siege_of_Mag-Magar.cfg:44
 #: TLU\scenarios\12_Siege_of_Mag-Magar.cfg:80
 #: TLU\scenarios\12_Siege_of_Mag-Magar.cfg:116
-#: TLU\scenarios\22_North_Pole.cfg:57
+#: TLU\scenarios\22_North_Pole.cfg:165
 #: TLU\scenarios\23_Ruins.cfg:245
 msgid "team_name^Unknown"
 msgstr ""
@@ -6822,7 +6818,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: TLU\scenarios\12_Siege_of_Mag-Magar.cfg:367
-msgid "Commander of the third degree, Mehir from Sud-Affar at your service, sir! Tashkar is, *ahem*... currently unavailable. My squad has been sent by the High Council as a vanguard, the armies of the Trinity should arrive soon. As for Rashti'rhami, Tashkar sent her alongside my troops to assist the defense of Mag-Magar."
+msgid "Commander and summoner of the third degree, Mehir from Sud-Affar at your service, sir! Tashkar is, *ahem*... currently unavailable. My squad has been sent by the High Council as a vanguard, the armies of the Trinity should arrive soon. As for Rashti'rhami, Tashkar sent her alongside my troops to assist the defense of Mag-Magar."
 msgstr ""
 
 #. [message]: speaker=Malib
@@ -9224,7 +9220,7 @@ msgstr ""
 #. [message]: speaker=Dedylos
 #. [message]: speaker=Mehir
 #: TLU\scenarios\17_Siege_of_Kharos.cfg:624
-#: TLU\scenarios\22_North_Pole.cfg:379
+#: TLU\scenarios\22_North_Pole.cfg:435
 msgid "!"
 msgstr ""
 
@@ -9576,16 +9572,16 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: TLU\scenarios\17_Siege_of_Kharos.cfg:1694
 #: TLU\scenarios\19_Sky_Kingdom.cfg:1620
-#: TLU\scenarios\22_North_Pole.cfg:959
-#: TLU\scenarios\23_Ruins.cfg:2498
+#: TLU\scenarios\22_North_Pole.cfg:1019
+#: TLU\scenarios\23_Ruins.cfg:2499
 msgid "Wonderful Jinni! Give me some advice!"
 msgstr ""
 
 #. [message]: speaker=Mehir
 #: TLU\scenarios\17_Siege_of_Kharos.cfg:1700
 #: TLU\scenarios\19_Sky_Kingdom.cfg:1626
-#: TLU\scenarios\22_North_Pole.cfg:965
-#: TLU\scenarios\23_Ruins.cfg:2504
+#: TLU\scenarios\22_North_Pole.cfg:1025
+#: TLU\scenarios\23_Ruins.cfg:2505
 msgid "Mystical Jinni! Give me some advice!"
 msgstr ""
 
@@ -11728,261 +11724,261 @@ msgid "North Pole"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:113
+#: TLU\scenarios\22_North_Pole.cfg:221
 msgid "Good Nomolas! It..it’s... frrreezing c... c... ccold here!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:119
+#: TLU\scenarios\22_North_Pole.cfg:227
 msgid "We are at the North Pole, Summoner. What did you expect? Low temperatures are pretty normal around here, mind you."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:126
+#: TLU\scenarios\22_North_Pole.cfg:234
 msgid "So these are the ruins the Guru told us about. They kind of creep me out. What happened here?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:132
+#: TLU\scenarios\22_North_Pole.cfg:240
 msgid "If I told you the whole story, you'd probably freeze to death before I even finished the first quarter of it. In short, it was a place of a great battle between two powers. One of them, the Runemasters, perished, though their mechanical creations managed to trap and stop the invaders."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:136
+#: TLU\scenarios\22_North_Pole.cfg:244
 msgid "Who were the invaders?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:142
+#: TLU\scenarios\22_North_Pole.cfg:250
 msgid "Uh... I'd rather not mention them. They were some of the most powerful and terrifying things imaginable. Hope you will not encounter their undead minions here..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:148
+#: TLU\scenarios\22_North_Pole.cfg:256
 msgid "We have to go now. The battery you are looking for is inside the bunker."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:159
+#: TLU\scenarios\22_North_Pole.cfg:267
 msgid "Good luck, Summoner. You will need it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:164
+#: TLU\scenarios\22_North_Pole.cfg:272
 msgid "Hey, wait!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:170
+#: TLU\scenarios\22_North_Pole.cfg:278
 msgid "I have a bad feeling about this... "
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:174
+#: TLU\scenarios\22_North_Pole.cfg:282
 msgid "We need to hurry. The sooner we get the battery, the sooner we can get the hell out of here."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:185
+#: TLU\scenarios\22_North_Pole.cfg:293
 msgid "Low temperatures damage your living troops. Use fire elementals to warm them up or use healing units instead. Magical units and Ums are immune to the cold."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:196
+#: TLU\scenarios\22_North_Pole.cfg:304
 msgid "As a Summons Master, Mehir got 'circle of resistance' AMLA. With his new circle, Mehir has this ability automatically. As a compensation for the experience spent on this particular AMLA as a Summons Master, Mehir receives 80 experience points."
 msgstr ""
 
 #. [unstore_unit]
-#: TLU\scenarios\22_North_Pole.cfg:212
+#: TLU\scenarios\22_North_Pole.cfg:320
 msgid "exp"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:231
+#: TLU\scenarios\22_North_Pole.cfg:339
 msgid "Because Mehir has made necessary preparations for the journey, you can directly level up your remaining Dimensional Gates upon recall for a small price of 6g."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TLU\scenarios\22_North_Pole.cfg:238
+#: TLU\scenarios\22_North_Pole.cfg:346
 msgid "Thanks to a special training in the Sky Kingdom, your human troops have better chance at dodging attacks on snow than they normally would (40% chance)."
 msgstr ""
 
 #. [objective]: condition=win
-#: TLU\scenarios\22_North_Pole.cfg:253
+#: TLU\scenarios\22_North_Pole.cfg:361
 msgid "Mehir enters the bunker"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:361
+#: TLU\scenarios\22_North_Pole.cfg:417
 msgid "*nervously* Did... did you hear that?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:366
+#: TLU\scenarios\22_North_Pole.cfg:422
 msgid "Yes. I sense something... strange."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:370
+#: TLU\scenarios\22_North_Pole.cfg:426
 msgid "Tell me more."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:374
+#: TLU\scenarios\22_North_Pole.cfg:430
 msgid "This energy... it is unnatural, yet not artificial. It is ancient, overwhelming, unforgivable... We are not alone here."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:420
+#: TLU\scenarios\22_North_Pole.cfg:476
 msgid "What the... am I hallucinating, or are those... flying leeches with teeth?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:424
+#: TLU\scenarios\22_North_Pole.cfg:480
 msgid "Whatever these things are, I'm pretty sure they are not living beings."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:435
+#: TLU\scenarios\22_North_Pole.cfg:491
 msgid "Huh? But they are closing in, fast."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:439
+#: TLU\scenarios\22_North_Pole.cfg:495
 msgid "Too fast. Brace yourselves!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:477
+#: TLU\scenarios\22_North_Pole.cfg:533
 msgid "What in the blazes is that?!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:495
+#: TLU\scenarios\22_North_Pole.cfg:551
 msgid "It's an ambush! Everyone, draw your weapons!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:518
+#: TLU\scenarios\22_North_Pole.cfg:574
 msgid "These beings seem to be magical, yet I sense no magic in their bodies. They are not of abyssal origin either..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:536
+#: TLU\scenarios\22_North_Pole.cfg:592
 msgid "What kind of horror is this?!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:540
+#: TLU\scenarios\22_North_Pole.cfg:596
 msgid "They are made of mixed bones. They are so old... I have no idea what is animating them, but it's clear that it wants us dead."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:557
+#: TLU\scenarios\22_North_Pole.cfg:613
 msgid "We will soon get surrounded! I shouldn't have trusted those magi, I shouldn't have!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:592
-#: TLU\scenarios\23_Ruins.cfg:2257
+#: TLU\scenarios\22_North_Pole.cfg:648
+#: TLU\scenarios\23_Ruins.cfg:2258
 msgid "Target acquired. Scanning... Destroyer encountered. Threat level: extremely dangerous. Executing pacification protocols."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:597
-#: TLU\scenarios\23_Ruins.cfg:2262
+#: TLU\scenarios\22_North_Pole.cfg:653
+#: TLU\scenarios\23_Ruins.cfg:2263
 msgid "A 'Destroyer'?! Wait a minute, so the Tharis were worshiping these creatures?! What the hell have I signed up for?!"
 msgstr ""
 
 #. [modify_side]
-#: TLU\scenarios\22_North_Pole.cfg:605
+#: TLU\scenarios\22_North_Pole.cfg:661
 #: TLU\scenarios\23_Ruins.cfg:326
-#: TLU\scenarios\23_Ruins.cfg:2270
+#: TLU\scenarios\23_Ruins.cfg:2271
 msgid "Destroyers"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:653
+#: TLU\scenarios\22_North_Pole.cfg:709
 msgid "*shrieks*"
 msgstr ""
 
 #. [message]: speaker=second unit
-#: TLU\scenarios\22_North_Pole.cfg:658
+#: TLU\scenarios\22_North_Pole.cfg:714
 msgid "Aaaaah!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:679
+#: TLU\scenarios\22_North_Pole.cfg:735
 msgid "One of my men! Dear Nomolas! What is happening to him?!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: TLU\scenarios\22_North_Pole.cfg:683
+#: TLU\scenarios\22_North_Pole.cfg:739
 msgid "This power... it is consuming him. Now his body belongs to them... forever."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:688
+#: TLU\scenarios\22_North_Pole.cfg:744
 msgid "We better run to this damn bunker before these abominations devour us all!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:767
+#: TLU\scenarios\22_North_Pole.cfg:823
 msgid "When will this madness ever stop?!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:787
+#: TLU\scenarios\22_North_Pole.cfg:843
 msgid "We must clear the path! Hurry up!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:806
+#: TLU\scenarios\22_North_Pole.cfg:862
 msgid "Follow me! Hurry!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:883
+#: TLU\scenarios\22_North_Pole.cfg:943
 msgid "Stay away from me!"
 msgstr ""
 
 #. [message]: type=EoMa_DarkApostle
-#: TLU\scenarios\22_North_Pole.cfg:909
+#: TLU\scenarios\22_North_Pole.cfg:969
 msgid "*chanting something in a strange, and eerie tongue*"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:916
+#: TLU\scenarios\22_North_Pole.cfg:976
 msgid "Aaaaaaaaaaah!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:973
+#: TLU\scenarios\22_North_Pole.cfg:1033
 msgid "My Master, I sense enemies all around us!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\22_North_Pole.cfg:977
+#: TLU\scenarios\22_North_Pole.cfg:1037
 msgid "Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:981
+#: TLU\scenarios\22_North_Pole.cfg:1041
 msgid "I need to access parallel dimensions to see the possible opportunities and outcomes. Just a moment, my master..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:990
+#: TLU\scenarios\22_North_Pole.cfg:1050
 msgid "In about 89.67% of the likely future outcomes I see enemies coming from the west, east and... south. This will happen really soon. They are like nothing we've ever seen! Also, the entrance to the bunker might be guarded..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:996
+#: TLU\scenarios\22_North_Pole.cfg:1056
 msgid "My Master, we need to rush towards the entrance, or we'll get overrun!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\22_North_Pole.cfg:1002
+#: TLU\scenarios\22_North_Pole.cfg:1062
 msgid "Be aware my Master! The entrance to the bunker will be guarded by multiple powerful beings. They will emerge from the ground really soon. You will have to mount quite a heavy strike force to get through."
 msgstr ""
 
@@ -12516,127 +12512,127 @@ msgid "I get someone I can chat 'bout technology with, AND booze? Now 'tis is pa
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2288
+#: TLU\scenarios\23_Ruins.cfg:2289
 msgid "<i>Initiating combat mode, with berserk behavior active.</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2303
+#: TLU\scenarios\23_Ruins.cfg:2304
 msgid "My goodness! These things are absolutely relentless!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: TLU\scenarios\23_Ruins.cfg:2316
+#: TLU\scenarios\23_Ruins.cfg:2317
 msgid "Argh! So I helped ye, and ya dumped me 'ere?! I got nothin' ta lose anymore. Activate the self-destruc..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2388
+#: TLU\scenarios\23_Ruins.cfg:2389
 msgid "<b>We are going to die!</b>"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: TLU\scenarios\23_Ruins.cfg:2466
+#: TLU\scenarios\23_Ruins.cfg:2467
 msgid "These abominations are blowin' up the battery!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2471
+#: TLU\scenarios\23_Ruins.cfg:2472
 msgid "<b>Aaaaaah! We are going to die!</b>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2512
+#: TLU\scenarios\23_Ruins.cfg:2513
 msgid "My Master, this place will turn itself into a blazing battlezone in no time!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2517
+#: TLU\scenarios\23_Ruins.cfg:2518
 msgid "Your advice is killing me, you know? What else?! Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2521
+#: TLU\scenarios\23_Ruins.cfg:2522
 msgid "I am accessing parallel universes..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2532
+#: TLU\scenarios\23_Ruins.cfg:2533
 msgid "Strange seemingly sentient humanoid metallic objects keep attacking us from all directions. Heavy losses. But at some point... a small human appears."
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2538
+#: TLU\scenarios\23_Ruins.cfg:2539
 msgid "In this timeline you will discover the battery in a large hall behind the door. I see strange seemingly sentient humanoid metallic objects attacking us from all directions. This cannot be avoided and happens in most of the possible outcomes after opening the door, and then a small human appears."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2544
+#: TLU\scenarios\23_Ruins.cfg:2545
 msgid "A small human? Do you mean a child?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2548
+#: TLU\scenarios\23_Ruins.cfg:2549
 msgid "Not really, more like a short elder. Then the enemy finds us and surrounds us from north and south. This is pretty much inevitable as it happens in 99.8% of outcomes involving the appearance of the small human."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2554
+#: TLU\scenarios\23_Ruins.cfg:2555
 msgid "So we need to hurry up. The Destroyers' skeletal minions are actively looking for us, and I highly doubt that sealing the entrance will hold them off forever. What happens next?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2560
+#: TLU\scenarios\23_Ruins.cfg:2561
 msgid "So we need to hurry up. Those abominations are actively looking for us, and I highly doubt that sealing the entrance will hold them off forever. What happens next?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2566
+#: TLU\scenarios\23_Ruins.cfg:2567
 msgid "I see noise. So many factors... Wait... In 6.7% of the outcomes the small human wants to help us."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2570
+#: TLU\scenarios\23_Ruins.cfg:2571
 msgid "And what if he does not?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2574
+#: TLU\scenarios\23_Ruins.cfg:2575
 msgid "He destroys the battery and blows the whole place up, vaporizing everything in range of about 3017 and a half stone throws. The area turns into a burning wasteland, with first foliage only starting to grow in 324 million years."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2578
+#: TLU\scenarios\23_Ruins.cfg:2579
 msgid "Well, that didn't make much sense. Looks like I forced you to look too far away in time. Thanks anyway. Let's hope we get lucky..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2586
+#: TLU\scenarios\23_Ruins.cfg:2587
 msgid "My Master! A small human will appear quite soon. He will either offer his help or will try to kill us. In most of the possibilities, he will choose the latter option."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2591
+#: TLU\scenarios\23_Ruins.cfg:2592
 msgid "Excellent! Sounds like I am going to meet another psychopath! Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2595
+#: TLU\scenarios\23_Ruins.cfg:2596
 msgid "Then the enemy appears from north and south. We are completely surrounded. Heavy losses, and in the 93.6% of the outcomes where the small human doesn't offer his help, we are all going to die. But if the small human decides to help us, the outcome will be much better. Anyway, we have no chance against the enemy unless we hurry up."
 msgstr ""
 
 #. [message]: speaker=unit
-#: TLU\scenarios\23_Ruins.cfg:2601
+#: TLU\scenarios\23_Ruins.cfg:2602
 msgid "My Master! The enemy is going to quickly swarm this place. We really need to hurry up, or we're as good as dead!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2620
+#: TLU\scenarios\23_Ruins.cfg:2621
 msgid "Uh... It's getting hot in here. I should use as few Fire Elementals as possible. It's hard to breath in this place already."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: TLU\scenarios\23_Ruins.cfg:2708
+#: TLU\scenarios\23_Ruins.cfg:2711
 msgid "*gasps* I can hardly breathe... One Fire Elemental more and we will suffocate in here. The heat coming from these lava pools is already unbearable. It's getting even warmer than in an open desert! I thought those genius magi implemented a cooling system for my new circle for such situations..."
 msgstr ""
 
@@ -12994,6 +12990,12 @@ msgstr ""
 #: TLU\units\GhostSummonsMaster.cfg:103
 #: TLU\units\LastSummoner.cfg:497
 msgid "magical hammer"
+msgstr ""
+
+#. [attack]: type=fire
+#: TLU\units\GhostSummonsMaster.cfg:116
+#: TLU\units\LastSummoner.cfg:509
+msgid "circle of destruction"
 msgstr ""
 
 #. [attack]: type=secret
