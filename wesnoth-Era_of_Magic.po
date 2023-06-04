@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-28 02:02 UTC\n"
-"PO-Revision-Date: 2023-05-27 21:11-0500\n"
+"PO-Revision-Date: 2023-06-05 01:35+0200\n"
 "Last-Translator: Toranks <toranksmervat@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. [era]: id=era_magic
 #: Era_of_Magic/EoMa_eras.cfg:5
@@ -91,6 +91,8 @@ msgid ""
 "The required add-on “<i>Era of Magic Resources</i>” is currently <b>not</b> "
 "installed."
 msgstr ""
+"El complemento requerido “<i>Era of Magic Resources</i>” actualmente <b>no</"
+"b> está instalado."
 
 #. [multiplayer_side]: id=barbarians_aoh, type=EoMa_Barbarian_Lord
 #. [multiplayer_side]: id=barbarians, type=EoMa_Barbarian
@@ -390,8 +392,7 @@ msgstr "Cíclope"
 
 #. [unit_type]: id=EoMa_Cyclops, race=eoma_cyclops
 #. [race]: id=eoma_cyclops
-#: Era_of_Magic/units/Barbarians/Cyclops.cfg:25
-#: Era_of_Magic/units/units.cfg:22
+#: Era_of_Magic/units/Barbarians/Cyclops.cfg:25 Era_of_Magic/units/units.cfg:22
 msgid ""
 "Cumbersome and lacking fine intellect, the Cyclops race had been driven near "
 "to extinction before becoming a part of the barbarian horde. Two centuries "
@@ -1269,8 +1270,7 @@ msgstr "Ayuda sobre espíritu del bosque"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/units/Dark_Blood_Alliance/Forest_Spirit.cfg:241
-#: Era_of_Magic/utils/recruit.cfg:239
-#: Era_of_Magic/utils/summon.cfg:291
+#: Era_of_Magic/utils/recruit.cfg:239 Era_of_Magic/utils/summon.cfg:291
 msgid "Help"
 msgstr "Ayuda"
 
@@ -1732,8 +1732,7 @@ msgstr "Espíritu del pantano"
 #. [dummy]: id=eoma_upgradable_kamikaze
 #. [effect]: type=fire
 #: Era_of_Magic/units/Dark_Blood_Alliance/Swamp_Spirit.cfg:111
-#: Era_of_Magic/utils/abilities.cfg:15
-#: Era_of_Magic/utils/drone-upgrades.cfg:50
+#: Era_of_Magic/utils/abilities.cfg:15 Era_of_Magic/utils/drone-upgrades.cfg:50
 #: Era_of_Magic/utils/drone-upgrades.cfg:291
 msgid "kamikaze"
 msgstr "kamikaze"
@@ -3109,7 +3108,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharosian_Impaler_rpg.cfg:19
 msgid "holy javelin"
-msgstr ""
+msgstr "sagrada jabalina"
 
 #. [unit_type]: id=EoMa_Kharosian_Javelineer, race=human
 #: Era_of_Magic/units/Kharos/Kharosian_Javelineer.cfg:4
@@ -3672,8 +3671,7 @@ msgstr "Zángano volador"
 #. [unstore_unit]
 #: Era_of_Magic/units/Runemasters/Drone.cfg:444
 #: Era_of_Magic/units/Runemasters/Perfect_Drone.cfg:222
-#: Era_of_Magic/utils/abilities.cfg:57
-#: Era_of_Magic/utils/abilities.cfg:85
+#: Era_of_Magic/utils/abilities.cfg:57 Era_of_Magic/utils/abilities.cfg:85
 #: Era_of_Magic/utils/abilities.cfg:118
 msgid "movepoints"
 msgstr "movimiento"
@@ -6669,8 +6667,7 @@ msgstr "+Hostigador; +30% Exp máx"
 
 #. [advancement]: id=amla_standard
 #. [advancement]: id=eoma_amla_default_{ID}
-#: Era_of_Magic/units/Tharis/Chainlady.cfg:92
-#: Era_of_Magic/utils/amla.cfg:26
+#: Era_of_Magic/units/Tharis/Chainlady.cfg:92 Era_of_Magic/utils/amla.cfg:26
 msgid "Max HP bonus +3, Max XP +20%"
 msgstr "Máx PV +3, Máx exp +20%"
 
@@ -6994,10 +6991,8 @@ msgstr "guadaña"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Tharis/Great_Warlock.cfg:147
-#, fuzzy
-#| msgid "implosion"
 msgid "lesser implosion"
-msgstr "implosión"
+msgstr "implosión menor"
 
 #. [unit_type]: id=EoMa_Great_Witch, race=eoma_tharis
 #: Era_of_Magic/units/Tharis/Great_Witch.cfg:4
@@ -7420,8 +7415,7 @@ msgstr ""
 
 #. [dummy]: id=eoma_hitandrun{VALUE}
 #. [dummy]: id=eoma_hitandrunspecial{VALUE}
-#: Era_of_Magic/utils/abilities.cfg:41
-#: Era_of_Magic/utils/abilities.cfg:100
+#: Era_of_Magic/utils/abilities.cfg:41 Era_of_Magic/utils/abilities.cfg:100
 msgid "hit and run"
 msgstr "golpea y corre"
 
@@ -7775,14 +7769,12 @@ msgstr ""
 "Cantidad de PV:"
 
 #. [damage]: id=eoma_dread
-#: Era_of_Magic/utils/abilities.cfg:1643
-#: Era_of_Magic/utils/abilities.cfg:1644
+#: Era_of_Magic/utils/abilities.cfg:1643 Era_of_Magic/utils/abilities.cfg:1644
 msgid "dread"
 msgstr "horror"
 
 #. [damage]: id=eoma_dread
-#: Era_of_Magic/utils/abilities.cfg:1645
-#: Era_of_Magic/utils/abilities.cfg:1646
+#: Era_of_Magic/utils/abilities.cfg:1645 Era_of_Magic/utils/abilities.cfg:1646
 msgid ""
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
@@ -7791,14 +7783,12 @@ msgstr ""
 "menos de daño en el contraataque."
 
 #. [damage]: id=eoma_evade
-#: Era_of_Magic/utils/abilities.cfg:1656
-#: Era_of_Magic/utils/abilities.cfg:1657
+#: Era_of_Magic/utils/abilities.cfg:1656 Era_of_Magic/utils/abilities.cfg:1657
 msgid "evade"
 msgstr "evadir"
 
 #. [damage]: id=eoma_evade
-#: Era_of_Magic/utils/abilities.cfg:1658
-#: Era_of_Magic/utils/abilities.cfg:1659
+#: Era_of_Magic/utils/abilities.cfg:1658 Era_of_Magic/utils/abilities.cfg:1659
 msgid ""
 "When this attack is used offensively, this unit takes 25% less damage in "
 "retaliation."
@@ -8109,8 +8099,7 @@ msgid "awe 4"
 msgstr "terror 4"
 
 #. [damage]: id=eoma_banish
-#: Era_of_Magic/utils/banish.cfg:19
-#: Era_of_Magic/utils/banish.cfg:20
+#: Era_of_Magic/utils/banish.cfg:19 Era_of_Magic/utils/banish.cfg:20
 msgid "banish"
 msgstr "desterrar"
 
@@ -8127,12 +8116,9 @@ msgstr ""
 "dimensional\". Si el enemigo es del mismo o mayor nivel, no se verá afectado."
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/banish.cfg:237
-#: Era_of_Magic/utils/drone-upgrades.cfg:547
-#: Era_of_Magic/utils/recruit.cfg:124
-#: Era_of_Magic/utils/recruit.cfg:160
-#: Era_of_Magic/utils/recruit.cfg:191
-#: Era_of_Magic/utils/summon.cfg:239
+#: Era_of_Magic/utils/banish.cfg:237 Era_of_Magic/utils/drone-upgrades.cfg:547
+#: Era_of_Magic/utils/recruit.cfg:124 Era_of_Magic/utils/recruit.cfg:160
+#: Era_of_Magic/utils/recruit.cfg:191 Era_of_Magic/utils/summon.cfg:239
 msgid "+3 exp"
 msgstr "+3 exp"
 
@@ -8169,8 +8155,7 @@ msgstr ""
 "hemorragia no puede, por sí misma, matar a una unidad."
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/bleed.cfg:54
-#: Era_of_Magic/utils/bleed.cfg:119
+#: Era_of_Magic/utils/bleed.cfg:54 Era_of_Magic/utils/bleed.cfg:119
 msgid "bleeding"
 msgstr "sangrando"
 
@@ -8417,8 +8402,7 @@ msgstr ""
 
 #. [dummy]: id=eoma_cleave
 #. [dummy]: id=eoma_cleave{DISPLAYVALUE}
-#: Era_of_Magic/utils/cleave.cfg:128
-#: Era_of_Magic/utils/cleave.cfg:305
+#: Era_of_Magic/utils/cleave.cfg:128 Era_of_Magic/utils/cleave.cfg:305
 msgid "cleave"
 msgstr "atravesar"
 
@@ -8660,8 +8644,7 @@ msgstr "Zángano avanzado"
 #. [set_menu_item]: id=completerepair
 #. [set_menu_item]: id=recruit_{ID}, description= -
 #. [set_menu_item]: id=summon_{ID}, description= -
-#: Era_of_Magic/utils/drone-upgrades.cfg:456
-#: Era_of_Magic/utils/recruit.cfg:48
+#: Era_of_Magic/utils/drone-upgrades.cfg:456 Era_of_Magic/utils/recruit.cfg:48
 #: Era_of_Magic/utils/summon.cfg:61
 msgid "gold:"
 msgstr "oro:"
@@ -8672,10 +8655,8 @@ msgid "+$this_unit.level exp"
 msgstr "+$this_unit.level exp"
 
 #. [message]: speaker=narrator
-#: Era_of_Magic/utils/drone-upgrades.cfg:595
-#: Era_of_Magic/utils/recruit.cfg:208
-#: Era_of_Magic/utils/statue-copy.cfg:357
-#: Era_of_Magic/utils/summon.cfg:260
+#: Era_of_Magic/utils/drone-upgrades.cfg:595 Era_of_Magic/utils/recruit.cfg:208
+#: Era_of_Magic/utils/statue-copy.cfg:357 Era_of_Magic/utils/summon.cfg:260
 msgid "Error"
 msgstr "Error"
 
@@ -9145,16 +9126,10 @@ msgstr ""
 #. [leadership]: id=eoma_warcry
 #: Era_of_Magic/utils/leaderships.cfg:116
 msgid "warcry"
-msgstr ""
+msgstr "grito de guerra"
 
 #. [leadership]: id=eoma_warcry
 #: Era_of_Magic/utils/leaderships.cfg:117
-#, fuzzy
-#| msgid ""
-#| "This unit can inspire friendly units that are next to it, making them "
-#| "fight better.\n"
-#| "\n"
-#| "Adjacent friendly units will do 15% more damage in battle."
 msgid ""
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
@@ -9164,7 +9139,7 @@ msgstr ""
 "Esta unidad puede inspirar a las unidades amigas que estén junto a ella, "
 "haciendo que luchen mejor.\n"
 "\n"
-"Las unidades amigas adyacentes harán un 15% más de daño en batalla."
+"Las unidades amigas adyacentes harán un 10% más de daño en batalla."
 
 #. [dummy]: id=eoma_painabsorb{VALUE}
 #. [dummy]: id=eoma_painabsorb_aura{VALUE}
@@ -9271,34 +9246,28 @@ msgstr "defensor"
 
 #. [resistance]: id=eoma_defender
 #: Era_of_Magic/utils/resistance.cfg:9
-#, fuzzy
-#| msgid ""
-#| "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
-#| "maximum of 40%)."
 msgid ""
 "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
 "maximum of 50%). Does not stack with the bulwark ability."
 msgstr ""
 "Las unidades amigas adyacentes reciben una bonificación del 20% a todas las "
-"resistencias (hasta un máximo del 40%)."
+"resistencias (hasta un máximo del 50%). No se acumula con la habilidad "
+"baluarte."
 
 #. [resistance]: id=eoma_bulwark
 #: Era_of_Magic/utils/resistance.cfg:34
 msgid "bulwark"
-msgstr ""
+msgstr "baluarte"
 
 #. [resistance]: id=eoma_bulwark
 #: Era_of_Magic/utils/resistance.cfg:35
-#, fuzzy
-#| msgid ""
-#| "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
-#| "maximum of 40%)."
 msgid ""
 "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
 "maximum of 85%). Does not stack with the defender ability."
 msgstr ""
 "Las unidades amigas adyacentes reciben una bonificación del 20% a todas las "
-"resistencias (hasta un máximo del 40%)."
+"resistencias (hasta un máximo del 85%). No se acumula con la habilidad "
+"defensor."
 
 #. [resistance]: id=eoma_circleres
 #: Era_of_Magic/utils/resistance.cfg:53
@@ -9439,8 +9408,7 @@ msgstr ""
 
 #. [resistance]: id=eoma_shielded
 #. [dummy]: id=eoma_shielded_special
-#: Era_of_Magic/utils/resistance.cfg:375
-#: Era_of_Magic/utils/resistance.cfg:388
+#: Era_of_Magic/utils/resistance.cfg:375 Era_of_Magic/utils/resistance.cfg:388
 msgid "shielded"
 msgstr "blindado"
 
@@ -9651,13 +9619,6 @@ msgstr "invocar"
 
 #. [dummy]: id=eoma_summon
 #: Era_of_Magic/utils/summon.cfg:6
-#, fuzzy
-#| msgid ""
-#| "This unit can summon new units on adjacent tiles, but not in villages, or "
-#| "on water.\n"
-#| "\n"
-#| "For more information, choose the 'Summoning Help' rightclick option which "
-#| "appears when rightclicking on a unit with the 'summon' ability."
 msgid ""
 "This unit can summon new units on adjacent tiles, but not in villages.\n"
 "\n"
@@ -9665,7 +9626,7 @@ msgid ""
 "appears when rightclicking on a unit with the 'summon' ability."
 msgstr ""
 "Esta unidad puede invocar nuevas unidades en celdas adyacentes, pero no en "
-"aldeas, ni el agua.\n"
+"aldeas.\n"
 "\n"
 "Para más información, consulte la opción 'Ayuda a la Invocación' que aparece "
 "tras hacer clic derecho en una unidad que disponga de la habilidad de "
@@ -9693,18 +9654,6 @@ msgstr "Ayuda a la invocación"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:292
-#, fuzzy
-#| msgid ""
-#| "To summon a unit right-click on hexes adjacent to a selected summoner.\n"
-#| "\n"
-#| "You need all movement points (and remaining attacks) to summon one "
-#| "creature. You are unable to summon in villages, from castles or keeps. A "
-#| "new unit can’t be summoned on water.\n"
-#| "Every summoning adds +3 to current experience.\n"
-#| "\n"
-#| "If there are 2 or more summoners, a new unit will be summoned by the last "
-#| "selected unit able to summon, or if no summoner has been selected, a "
-#| "summoner next to the selected tile will be chosen randomly."
 msgid ""
 "To summon a unit right-click on hexes adjacent to a selected summoner.\n"
 "\n"
@@ -9729,8 +9678,18 @@ msgstr ""
 "invocador seleccionado.\n"
 "\n"
 "Necesitarás disponer todos los puntos de movimiento (y todos los ataques "
-"restantes) para poder invocar una criatura. No puedes invocar en aldeas, "
-"castillos, torreones o en el agua.\n"
+"restantes) para poder invocar una criatura. No puedes invocar en aldeas. Una "
+"nueva unidad no puede ser invocada en el agua (con la excepción de los "
+"elementales de agua y aire).\n"
+"\n"
+"Los hexágonos del castillo funcionan como una barrera para invocar:\n"
+"Si el invocador está dentro de un castillo, puede invocar una nueva unidad "
+"solo en los hexágonos de castillo adyacentes, pero no fuera del castillo. "
+"Para invocar fuera del castillo, el invocador debe abandonarlo primero.\n"
+"Si el invocador está fuera de un castillo, no puede invocar una nueva unidad "
+"en los hexágonos de castillo adyacentes (el invocador debe ingresar al "
+"castillo primero).\n"
+"\n"
 "Cada nueva invocación añade +3 a la experiencia actual.\n"
 "\n"
 "Si hay dos o más invocadores adyacentes a la casilla seleccionada, una nueva "
@@ -9759,15 +9718,13 @@ msgstr "heroica"
 
 #. [trait]: id=eoma_elite
 #. [trait]: id=eoma_elite_alt
-#: Era_of_Magic/utils/traits.cfg:62
-#: Era_of_Magic/utils/traits.cfg:97
+#: Era_of_Magic/utils/traits.cfg:62 Era_of_Magic/utils/traits.cfg:97
 msgid "elite"
 msgstr "élite"
 
 #. [trait]: id=eoma_elite
 #. [trait]: id=eoma_elite_alt
-#: Era_of_Magic/utils/traits.cfg:63
-#: Era_of_Magic/utils/traits.cfg:98
+#: Era_of_Magic/utils/traits.cfg:63 Era_of_Magic/utils/traits.cfg:98
 msgid "female^elite"
 msgstr "élite"
 
